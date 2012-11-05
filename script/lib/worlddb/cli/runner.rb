@@ -3,8 +3,7 @@ module WorldDB
 
 class Runner
 
-
-  ### include WorldDB::Models
+  include WorldDB::Models
 
   def initialize
     @logger = Logger.new(STDOUT)
@@ -51,7 +50,7 @@ worlddb - world.db command line tool, version #{VERSION}
 #{cmd.help}
 
 Examples:
-    worlddb at                             # import austrian regions n cities
+    worlddb at/cities                      # import austrian regions n cities
     worlddb -c                             # create database schema
 
 More Examples:
@@ -106,22 +105,19 @@ EOS
 
   def dump_stats
     # todo: use %5d or similar to format string
-=begin
     puts "Stats:"
     puts "  #{Country.count} countries"
-=end
+    puts "  #{Region.count} regions"
+    puts "  #{City.count} cities"
   end
 
 
   def dump_props
-
-=begin
     # todo: use %5 or similar to format string
     puts "Props:"
     Prop.order( 'created_at asc' ).all.each do |prop|
       puts "  #{prop.key} / #{prop.value} || #{prop.created_at}"
     end
-=end
   end
   
 end # class Runner

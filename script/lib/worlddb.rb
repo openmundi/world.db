@@ -19,6 +19,13 @@ require 'active_record'   ## todo: add sqlite3? etc.
 
 # our own code
 
+module WorldDB   # forward reference; more to come later
+end
+
+require 'worlddb/models/prop'
+require 'worlddb/models/country'
+require 'worlddb/models/region'
+require 'worlddb/models/city'
 require 'worlddb/schema'       # NB: requires worlddb/models (include WorldDB::Models)
 require 'worlddb/version'
 require 'worlddb/cli/opts'
