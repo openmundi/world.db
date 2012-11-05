@@ -88,13 +88,8 @@ EOS
        # tbd
     end
 
+    Loader.new( logger ).run( opts, args ) # load ruby fixtures
 
-    args.each do |arg|
-      name = arg     # File.basename( arg, '.*' )
-
-      # tbd
-    end
-    
     dump_stats
     dump_props
     
