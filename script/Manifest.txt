@@ -3,8 +3,17 @@ Manifest.txt
 README.markdown
 Rakefile
 bin/worlddb
+db/at/cities.rb
+db/cities.rb
+db/countries.rb
+db/de/cities.rb
 lib/worlddb.rb
 lib/worlddb/cli/opts.rb
 lib/worlddb/cli/runner.rb
+lib/worlddb/loader.rb
+lib/worlddb/models/city.rb
+lib/worlddb/models/country.rb
+lib/worlddb/models/prop.rb
+lib/worlddb/models/region.rb
 lib/worlddb/schema.rb
 lib/worlddb/version.rb
