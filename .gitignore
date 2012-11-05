@@ -16,3 +16,14 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# ignore komodo project files
+
+*.kpf
+
+# ignore ruby outputs in script folder
+
+script/pkg
+script/tmp
+
+

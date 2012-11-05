@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'worlddb'
+
+## todo: set x flag for file
+
+WorldDB.main
