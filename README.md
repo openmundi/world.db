@@ -103,7 +103,7 @@ That's it.
 
 
 
-## Frequently asked questions (F.A.Qs)
+## Frequently asked questions (F.A.Q.s)
 
 Q: Why is Kanada spelled with a K and not a C? Why is Argentina spelled Argentien?
 
