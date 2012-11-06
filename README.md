@@ -11,7 +11,7 @@ Get a copy of the `world.db` file. That's it.
 ## Demo
 
 Try the `world.db` Web Admin demo running
-on Heroku [`worlddbdemo.herokuapp.com`](http://worlddbdemo.herokuapp.com).
+on Heroku [`worlddb.herokuapp.com`](http://worlddb.herokuapp.com).
 
 ## Tables, Schema
 
