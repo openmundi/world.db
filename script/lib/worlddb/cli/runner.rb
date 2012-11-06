@@ -85,7 +85,7 @@ EOS
     end
     
     if opts.delete?
-       # tbd
+       WorldDB.delete!
     end
 
     Loader.new( logger ).run( opts, args ) # load ruby fixtures

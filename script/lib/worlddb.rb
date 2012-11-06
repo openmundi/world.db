@@ -46,6 +46,42 @@ module WorldDB
     Runner.new.run(ARGV)
   end
   
+
+  # load built-in (that is, bundled within the gem) named seeds
+  # - pass in an array of seed names e.g. [ 'countries', 'at/cities', 'de/cities' ] etc.
+
+  def self.load( ary )
+    loader = Loader.new
+    ary.each do |name|
+      loader.load_fixtures_builtin( name )
+    end
+  end
+
+
+  class Deleter
+    ## todo: move into its own file???    
+    
+    ## make models available in worlddb module by default with namespace
+    #  e.g. lets you use City instead of Models::City 
+    include WorldDB::Models
+
+    def run( args=[] )
+      # for now delete all tables
+      
+      Country.delete_all
+      City.delete_all
+      Region.delete_all
+      Prop.delete_all
+    end
+    
+  end
+  
+  # delete ALL records (use with care!)
+  def self.delete!
+    Deleter.new.run
+  end # method delete!
+
+  
 end  # module WorldDB
 
 

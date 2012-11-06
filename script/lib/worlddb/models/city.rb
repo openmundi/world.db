@@ -26,10 +26,14 @@ class City < ActiveRecord::Base
       
       attr = attr.merge( more_values )
       
+      value_numbers = []
+      
       ## check for optional values
       values[2..-1].each do |value|
         if value.is_a? Country
           attr[ :country_id ] = value.id
+        elsif value.is_a? Numeric
+          value_numbers << value
         elsif value =~ /^region:/   ## region:
           value_region_key = value[7..-1]  ## cut off region: prefix
           value_region = Region.find_by_key!( value_region_key )
@@ -38,6 +42,12 @@ class City < ActiveRecord::Base
           # issue warning: unknown type for value
         end
       end
+      
+      if value_numbers.size > 0
+        attr[ :pop  ] = value_numbers[0]
+        attr[ :area ] = value_numbers[1]
+      end
+
       
       City.create!( attr )
     end # each city
