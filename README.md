@@ -112,7 +112,7 @@ and Argentina is spelled Argentinien.
  
 Q: Why is country X missing?
 
-A: It all started with Sportbook - an open source footbool pool for the Champions League.
+A: It all started with Sportbook - an open source football pool for the Champions League.
 Is a club from country X playing in the  Champions League 2012/13 season? If, yes, it is included
 in the first commit. 
 
