@@ -8,6 +8,11 @@ A Free Open World Database & Schema
 
 Get a copy of the `world.db` file. That's it.
 
+## Demo
+
+Try the `world.db` Web Admin demo running
+on Heroku [`worlddbdemo.herokuapp.com`](http://worlddbdemo.herokuapp.com).
+
 ## Tables, Schema
 
 The `world.db` includes the following tables:
@@ -21,26 +26,86 @@ The `world.db` includes the following tables:
 
 ###  `countries` Table
 
-TBD
+    CREATE TABLE "countries" (
+      "id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+      "title" varchar(255) NOT NULL,
+      "key" varchar(255) NOT NULL,
+      "tag" varchar(255) NOT NULL,
+      "synonyms" varchar(255),
+      "pop" integer,
+      "area" integer,
+      "created_at" datetime NOT NULL,
+      "updated_at" datetime NOT NULL
+    );
 
 ###  `regions` Table
 
-TBD
+    CREATE TABLE "regions" (
+      "id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+      "title" varchar(255) NOT NULL,
+      "key" varchar(255) NOT NULL,
+      "synonyms" varchar(255),
+      "country_id" integer NOT NULL,
+      "pop" integer, "area" integer,
+      "created_at" datetime NOT NULL,
+      "updated_at" datetime NOT NULL
+    );
 
 ###  `cities` Table
 
-TBD
+    CREATE TABLE "cities" (
+      "id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+      "title" varchar(255) NOT NULL,
+      "key" varchar(255) NOT NULL,
+      "synonyms" varchar(255),
+      "country_id" integer NOT NULL,
+      "region_id" integer,
+      "pop" integer,
+      "area" integer,
+      "capital" boolean DEFAULT 'f' NOT NULL,
+      "created_at" datetime NOT NULL,
+      "updated_at" datetime NOT NULL
+    );
 
 
 ## Command Line Tool
 
-TBD
+    worlddb - world.db command line tool, version 0.2.0
+    
+    Usage: worlddb [options]
+        -c, --create                     Create DB Schema
+            --delete                     Delete all records
+            --load                       Use Loader for Builtin World Data
+        -i, --include PATH               Data Path (default is .)
+        -v, --version                    Show version
+            --verbose                    Show debug trace
+        -h, --help                       Show this message
+    
+    
+    Examples:
+        worlddb at/cities                      # import austrian regions n cities
+        worlddb -c                             # create database schema
+
+
 
 ## Build Your Own `world.db` Version
 
-TBD
+Step 1:  Create an empty database, that is, `world.db`. Issue the command:
+
+    worlddb --create
+
+Step 2:  Add your countries, regions and cities of choice. For example,
+let's use the Austrian and German cities and regions:
+
+    sportdb --include <your_path_to_fixtures> at/cities de/cities
+
+That's it.
+
+
 
 ## Real World Usage
+
+[world.db.admin](https://github.com/geraldb/world.db.admin) - A free, open source web admin tool for world.db in Ruby on Rails (version 3.2 and up).
 
 [sport.db](https://github.com/geraldb/sport.db) - A free, open sports database & schema.
 
