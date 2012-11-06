@@ -97,10 +97,24 @@ Step 1:  Create an empty database, that is, `world.db`. Issue the command:
 Step 2:  Add your countries, regions and cities of choice. For example,
 let's use the Austrian and German cities and regions:
 
-    sportdb --include <your_path_to_fixtures> at/cities de/cities
+    worlddb --include <your_path_to_fixtures> at/cities de/cities
 
 That's it.
 
+
+
+## Frequently asked questions (F.A.Qs)
+
+Q: Why is Kanada spelled with a K and not a C? Why is Argentina spelled Argentien?
+
+A: Look for the English version. In the German version Canada is spelled Kanada
+and Argentina is spelled Argentinien.
+ 
+Q: Why is country X missing?
+
+A: It all started with Sportbook - an open source footbool pool for the Champions League.
+Is a club from country X playing in the  Champions League 2012/13 season? If, yes, it is included
+in the first commit. 
 
 
 ## Real World Usage
