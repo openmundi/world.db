@@ -55,7 +55,10 @@ countries = [
   [ 'sk', 'Slowakei',     'SVK' ],
   [ 'tr', 'Türkei',       'TUR' ],
   [ 'ua', 'Ukraine',      'UKR' ],
-  [ 'mk', 'Mazedonien',    'MKD' ],
+  [ 'mk', 'Mazedonien',   'MKD' ],
+  [ 'no', 'Norwegen',     'NOR' ],
+  [ 'is', 'Island',       'ISL' ],
+
  
   ##############
   ## south america
