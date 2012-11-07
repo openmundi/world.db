@@ -8,6 +8,8 @@ A Free Open World Database & Schema
 
 Get a copy of the `world.db` file. That's it.
 
+![](https://raw.github.com/geraldb/world.db/master/i/sqlitestudio.png)
+
 ## Demo
 
 Try the `world.db` Web Admin demo running
