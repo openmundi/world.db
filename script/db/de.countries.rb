@@ -55,7 +55,11 @@ countries = [
   [ 'sk', 'Slowakei',     'SVK' ],
   [ 'tr', 'Türkei',       'TUR' ],
   [ 'ua', 'Ukraine',      'UKR' ],
+  [ 'mk', 'Mazedonien',   'MKD' ],
+  [ 'no', 'Norwegen',     'NOR' ],
+  [ 'is', 'Island',       'ISL' ],
 
+ 
   ##############
   ## south america
   
@@ -95,6 +99,7 @@ countries = [
   [ 'jp', 'Japan',      'JPN' ],
   [ 'kp', 'Nordkorea',  'PRK' ],
   [ 'kr', 'Südkorea',   'KOR' ],
+  [ 'in', 'Indien',     'IND' ],
 
   ###############################
   ## oceania
