@@ -43,7 +43,8 @@ task :setup => :clean do
    'sc/cities',
    'tr/cities',
    'ua/cities',
-   'us/cities'
+   'us/cities',
+   'br/cities'
    ].each do |seed|
     sh "worlddb --include #{DB_ROOT} #{seed}"
   end
