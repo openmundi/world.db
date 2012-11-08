@@ -21,14 +21,16 @@ class Runner
       cmd.banner = "Usage: worlddb [options]"
 
       ## todo: change to different flag??   use -c/--config ???
-      cmd.on( '-c', '--create', 'Create DB Schema' ) { opts.create = true }
+      cmd.on( '-c', '--create', 'Create DB schema' ) { opts.create = true }
 
       cmd.on( '--delete', 'Delete all records' ) { opts.delete = true }
+
+      cmd.on( '--country KEY', 'Country to load' ) { |key| opts.country = key; }
       
-      cmd.on( '--load', 'Use Loader for Builtin World Data' ) { opts.load = true }
+      cmd.on( '--load', 'Use loader for builtin world data' ) { opts.load = true }
       
       ### todo: in future allow multiple search path??
-      cmd.on( '-i', '--include PATH', "Data Path (default is #{opts.data_path})" ) { |path| opts.data_path = path }
+      cmd.on( '-i', '--include PATH', "Data path (default is #{opts.data_path})" ) { |path| opts.data_path = path }
 
       cmd.on( '-v', '--version', "Show version" ) do
         puts WorldDB.banner
@@ -88,7 +90,12 @@ EOS
        WorldDB.delete!
     end
 
-    Loader.new( logger ).run( opts, args ) # load ruby fixtures
+
+    if opts.country.present?
+      Reader.new( logger ).run( opts, args )  # load/read plain text city fixtures
+    else
+      Loader.new( logger ).run( opts, args ) # load ruby fixtures
+    end
 
     dump_stats
     dump_props

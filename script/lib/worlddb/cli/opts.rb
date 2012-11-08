@@ -2,6 +2,15 @@ module WorldDB
 
 class Opts
 
+  def country=(value)
+    @country = value
+  end
+  
+  def country
+    @country   # NB: option has no default; return nil  ## || '.'
+  end
+  
+
   def create=(boolean)
     @create = boolean
   end

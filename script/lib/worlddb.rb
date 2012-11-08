@@ -27,6 +27,7 @@ require 'worlddb/models/country'
 require 'worlddb/models/region'
 require 'worlddb/models/city'
 require 'worlddb/schema'       # NB: requires worlddb/models (include WorldDB::Models)
+require 'worlddb/reader'
 require 'worlddb/loader'
 require 'worlddb/version'
 require 'worlddb/cli/opts'
