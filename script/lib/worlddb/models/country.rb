@@ -18,6 +18,30 @@ class Country < ActiveRecord::Base
         :tag   => values[2]
       }
       
+      value_numbers = []
+      
+      ## check for optional values
+      values[3..-1].each do |value|
+        if value.is_a? Numeric
+          value_numbers << value
+        elsif value =~ /^motor:/  
+          value_motor = value[6..-1]  ## cut off region: motor
+          attr[ :motor ] = value_motor
+        elsif value =~ /^tags:/   
+          value_tags = value[5..-1]  ## cut off tags: prefix
+          # do nothing now
+        else
+          # issue warning: unknown type for value
+        end
+      end
+      
+      if value_numbers.size > 0
+        attr[ :area ] = value_numbers[0]  # NB: area for countries goes first
+        attr[ :pop  ] = value_numbers[1]
+      end
+      
+      
+      
       Country.create!( attr )
     end # each country
   end

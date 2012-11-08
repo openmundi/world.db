@@ -5,9 +5,9 @@
 #####################
 #### north america
 
-ca: Kanada
-mx: Mexiko
-us: United States
+ca: Canadá
+mx: México
+us: Estados Unidos
 
 #####################
 #### central america & caribbean islands
@@ -16,16 +16,15 @@ hn: Honduras
 cr: Costa Rica
 sv: El Salvador
 
-
 ##############
 ## south america
   
-ar: Argentinien
-br: Brasilien
+ar: Argentina
+br: Brasil
+co: Colombia
 cl: Chile
+ec: Ecuador
 gy: Guyana
 py: Paraguay
 uy: Uruguay
-ec: Ecuador
-co: Colombia
 ve: Venezuela

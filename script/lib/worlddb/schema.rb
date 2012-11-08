@@ -15,6 +15,7 @@ create_table :countries do |t|
   t.string  :key,   :null => false
   t.string  :tag,   :null => false  # short three letter tag (FIFA country code)
   t.string  :synonyms  # comma separated list of synonyms
+  t.string  :motor   # optional auto motor (vehicle) licene plate
   t.integer :pop     # optional population count
   t.integer :area    # optional area in square km (sq. km)
   t.timestamps
