@@ -1,0 +1,7 @@
+taubate,           Taubate,             region:sp, se
+saopaulo,          Sao Paulo,           region:sp, se
+saojosedoscampos,  Sao Jose dos Campos, region:sp, se
+jacarei,           Jacarei,             region:sp, se
+ubatuba,           Ubatuba,             region:sp, se
+pindamonhangaba,   Pindamonhangaba,     region:sp, se
+caraguatatuba,     Caraguatatuba,       region:sp, se
