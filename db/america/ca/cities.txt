@@ -1,0 +1,7 @@
+montreal,  Montreal,  region:qc
+ottawa,    Ottawa,    region:on
+toronto,   Toronto,   region:on
+winnipeg,  Winnipeg,  region:mb
+calgary,   Calgary,   region:ab
+edmonton,  Edmonton,  region:ab
+vancouver, Vancouver, region:bc
