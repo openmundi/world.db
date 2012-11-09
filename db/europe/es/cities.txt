@@ -1,0 +1,5 @@
+bilbao,    Bilbao
+valencia,  Valencia
+barcelona, Barcelona
+madrid,    Madrid
+malaga,    Málaga

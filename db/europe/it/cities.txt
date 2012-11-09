@@ -1,0 +1,4 @@
+turin,   Turin
+milano,  Mailand|Milano
+napoli,  Neapel|Napoli
+
