@@ -3,16 +3,7 @@
 
 br = Country.find_by_key!( 'br' )
 
-
 regions_br = [
-  ['s', 'South'],
-  ['se', 'Southeast'],
-  ['co', 'Centerweast'],
-  ['ne', 'Northeast'],
-  ['n', 'North']
-]
-
-states_br = [
 
   ['ac', 'Acre'],
   ['al', 'Alagoas'],
@@ -44,15 +35,14 @@ states_br = [
 ]
 
 cities_br = [
-  ['taubate',  'Taubate',  'region:se', 'state:sp'],
-  ['sao paulo',    'Sao Paulo',    'region:se', 'state:sp'],
-  ['sao jose dos campos',   'Sao Jose dos Campos',   'region:se', 'state:sp'],
-  ['jacarei',  'Jacarei',  'region:se', 'state:sp'],
-  ['ubatuba',   'Ubatuba',   'region:se', 'state:sp'],
-  ['pindamonhangaba',  'Pindamonhangaba',  'region:se', 'state:sp'],
-  ['caraguatatuba', 'Caraguatatuba', 'region:se', 'state:sp']
+  ['taubate',  'Taubate', 'state:sp','se'],
+  ['saopaulo',    'Sao Paulo', 'state:sp','se'],
+  ['saojosedoscampos',   'Sao Jose dos Campos', 'state:sp','se'],
+  ['jacarei',  'Jacarei', 'state:sp','se'],
+  ['ubatuba',   'Ubatuba', 'state:sp','se'],
+  ['pindamonhangaba',  'Pindamonhangaba', 'state:sp','se'],
+  ['caraguatatuba', 'Caraguatatuba', 'state:sp','se']
 ]
 
 Region.create_from_ary!( regions_br, country: br )
-State.create_from_ary!( state_br, country: br )
 City.create_from_ary!( cities_br, country: br )
