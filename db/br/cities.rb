@@ -35,13 +35,13 @@ regions_br = [
 ]
 
 cities_br = [
-  ['taubate',  'Taubate', 'state:sp','se'],
-  ['saopaulo',    'Sao Paulo', 'state:sp','se'],
-  ['saojosedoscampos',   'Sao Jose dos Campos', 'state:sp','se'],
-  ['jacarei',  'Jacarei', 'state:sp','se'],
-  ['ubatuba',   'Ubatuba', 'state:sp','se'],
-  ['pindamonhangaba',  'Pindamonhangaba', 'state:sp','se'],
-  ['caraguatatuba', 'Caraguatatuba', 'state:sp','se']
+  ['taubate',  'Taubate', 'region:sp','se'],
+  ['saopaulo',    'Sao Paulo', 'region:sp','se'],
+  ['saojosedoscampos',   'Sao Jose dos Campos', 'region:sp','se'],
+  ['jacarei',  'Jacarei', 'region:sp','se'],
+  ['ubatuba',   'Ubatuba', 'region:sp','se'],
+  ['pindamonhangaba',  'Pindamonhangaba', 'region:sp','se'],
+  ['caraguatatuba', 'Caraguatatuba', 'region:sp','se']
 ]
 
 Region.create_from_ary!( regions_br, country: br )
