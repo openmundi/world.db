@@ -131,7 +131,22 @@ in Ruby on Rails (version 3.2 and up).
 
 ## Alternatives
 
-[worlddb](http://code.google.com/p/worlddb) -  Open World Database alpha; includes country, region & city names in many languages names and latitude and longitude numbers and country's iso 2-letter code.
+[geonames.org](http://geonames.org) - open geo (geographical) database covers all countries and contains over eight million placenames
+
+[worlddb](http://code.google.com/p/worlddb) -  open world database alpha; includes country, region & city names in many languages names and latitude and longitude numbers and country's iso 2-letter code.
+
+[countries](https://github.com/hexorx/countries) - world countries; includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
+
+[countries](https://github.com/mledoze/countries) - world countries with iso codes, currencies and more in JSON, CSV and XML.
+
+[django-cities](https://github.com/coderholic/django-cities) - scripts to imports countries, regions, cities etc. from geonames.org
+
+
+
+
+## Thank You - Contributors - ¡Gracias! - Obrigado - Danke
+
+Ernesto Chapon . William de Melo Gueiros
 
 ## License
 
