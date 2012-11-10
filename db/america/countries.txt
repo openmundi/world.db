@@ -6,9 +6,9 @@
   
 # area (in sq km), pop(ulation)
   
-ca, Canada,        CAN, 9984670,  34278406, motor:CDN, north america|en|fr
-mx, Mexico,        MEX, 1972550, 112322757, motor:MEX, north america|en
-us, United States, USA, 9629091, 314167157, motor:USA, north america|es
+ca, Canada,        CAN, 9984670,  34278406, north america|en|fr
+mx, Mexico,        MEX, 1972550, 112322757, north america|en
+us, United States, USA, 9629091, 314167157, north america|es
 
 #####################
 ## central america & caribbean islands
@@ -20,15 +20,15 @@ sv, El Salvador,   SLV
 ##############
 ## south america
   
-ar, Argentina,     ARG, 2780400,  40518425, motor:RA,  south america|es
-bo, Bolivia,       BOL, 1098581,  10907778, motor:BOL, south america|es
-br, Brazil,        BRA, 8514215, 192380000, motor:BR,  south america|pt
-cl, Chile,         CHI,  755696,  16763470, motor:RCH, south america|es
-co, Colombia,      COL, 1138748,  46413791, motor:CO,  south america|es
-ec, Ecuador,       ECU,  258238,  15007343, motor:EC,  south america|es
-gy, Guyana,        GUY,  214970,    752940, motor:GUY, south america|en
-pe, Peru,          PER, 1285220,  29546963, motor:PE,  south america|es
-sr, Suriname,      SUR,  163820,    492829, motor:SME, south america|nl
-py, Paraguay,      PAR,  406752,   6375830, motor:PY,  south america|es
-uy, Uruguay,       URU,  176215,   3510386, motor:ROU, south america|es
-ve, Venezuela,     VEN,  916445,  28833845, motor:YV,  south america|es
+ar, Argentina,     ARG, 2780400,  40518425, south america|es
+bo, Bolivia,       BOL, 1098581,  10907778, south america|es
+br, Brazil,        BRA, 8514215, 192380000, south america|pt
+cl, Chile,         CHI,  755696,  16763470, south america|es
+co, Colombia,      COL, 1138748,  46413791, south america|es
+ec, Ecuador,       ECU,  258238,  15007343, south america|es
+gy, Guyana,        GUY,  214970,    752940, south america|en
+pe, Peru,          PER, 1285220,  29546963, south america|es
+sr, Suriname,      SUR,  163820,    492829, south america|nl
+py, Paraguay,      PAR,  406752,   6375830, south america|es
+uy, Uruguay,       URU,  176215,   3510386, south america|es
+ve, Venezuela,     VEN,  916445,  28833845, south america|es

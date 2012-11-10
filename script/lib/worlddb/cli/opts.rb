@@ -9,7 +9,35 @@ class Opts
   def country
     @country   # NB: option has no default; return nil  ## || '.'
   end
-  
+
+
+  def countries=(boolean)
+    @countries = boolean
+  end
+
+  def countries?
+    return false if @countries.nil?   # default countries flag is false
+    @countries == true
+  end
+
+  def regions=(boolean)
+    @regions = boolean
+  end
+
+  def regions?
+    return false if @regions.nil?   # default regions flag is false
+    @regions == true
+  end
+
+  def cities=(boolean)
+    @cities = boolean
+  end
+
+  def cities?
+    return false if @cities.nil?   # default cities flag is false
+    @cities == true
+  end
+
 
   def create=(boolean)
     @create = boolean

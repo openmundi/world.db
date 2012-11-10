@@ -338,7 +338,7 @@ yumare,                          Yumare,                                      re
 bachaquero,                      Bachaquero,                                  region:zu
 bobures,                         Bobures,                                     region:zu
 cabimas,                         Cabimas,                                     region:zu
-casigua-elcubo,                  Casigua-El Cubo|Casigua,                     region:zu
+casiguaelcubo,                   Casigua-El Cubo|Casigua,                     region:zu
 ciudadojeda,                     Ciudad Ojeda,                                region:zu
 concepcion,                      Concepción,                                  region:zu
 eltoro,                          El Toro,                                     region:zu
@@ -347,7 +347,7 @@ laconcepcion,                    La Concepción,                               r
 lospuertosdealtagracia,          Los Puertos de Altagracia|Los Puertos,       region:zu
 machiques,                       Machiques,                                   region:zu
 maracaibo,                       Maracaibo,                                   region:zu
-pueblonuevo-elchivo,             Pueblo Nuevo-El Chivo|Pueblo Nuevo,          region:zu
+pueblonuevoelchivo,              Pueblo Nuevo-El Chivo|Pueblo Nuevo,          region:zu
 sancarlosdelzulia,               San Carlos del Zulia|San Carlos,             region:zu
 sanfrancisco,                    San Francisco,                               region:zu
 sanrafaeldeelmojan,              San Rafael de El Moján|El Moján,             region:zu

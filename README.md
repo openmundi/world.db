@@ -72,22 +72,25 @@ The `world.db` includes the following tables:
 
 ## Command Line Tool
 
-    worlddb - world.db command line tool, version 0.2.0
+    worlddb - world.db command line tool, version 0.3.0
     
     Usage: worlddb [options]
-        -c, --create                     Create DB Schema
+        --create                     Create DB schema
+        -i, --include PATH               Data path (default is .)
+            --country KEY                Default country for regions 'n' cities
+            --countries                  Use country plain text fixture reader
+            --regions                    Use regions plain text fixture reader
+            --cities                     Use cities  plain text fixture reader
+            --load                       Use loader for builtin world data
             --delete                     Delete all records
-            --load                       Use Loader for Builtin World Data
-        -i, --include PATH               Data Path (default is .)
         -v, --version                    Show version
             --verbose                    Show debug trace
         -h, --help                       Show this message
     
     
     Examples:
-        worlddb at/cities                      # import austrian regions n cities
-        worlddb -c                             # create database schema
-
+        worlddb at/cities                      # import austrian regions 'n' cities
+        worlddb --create                       # create database schema
 
 
 ## Build Your Own `world.db` Version
@@ -103,6 +106,36 @@ let's use the Austrian and German cities and regions:
 
 That's it.
 
+
+## Plain Text Fixtures
+
+The `worlddb` command line tool lets you import fixtures (countries,regions,cities)
+in plain text. Example:
+
+`america/countries.txt`:
+
+```
+ca, Canada,        CAN, 9984670,  34278406, north america|en|fr
+mx, Mexico,        MEX, 1972550, 112322757, north america|en
+us, United States, USA, 9629091, 314167157, north america|es
+```
+
+`europe/at/cities.txt`:
+
+```
+wien,        Wien|Vienna,                  region:wien, 1664146
+stpoelten,   St. Pölten,                   region:noe,   51360
+wrneustadt,  Wiener Neustadt|Wr. Neustadt, region:noe,   39940
+```
+
+The plain text format reader skips comments (starting with `#`)
+and blank lines. Example:
+
+```
+###################################################
+# north/central/south america & caribbean islands 
+#
+```
 
 
 ## Frequently asked questions (F.A.Q.s)
@@ -139,14 +172,15 @@ in Ruby on Rails (version 3.2 and up).
 
 [countries](https://github.com/mledoze/countries) - world countries with iso codes, currencies and more in JSON, CSV and XML.
 
-[django-cities](https://github.com/coderholic/django-cities) - scripts to imports countries, regions, cities etc. from geonames.org
+[django-cities](https://github.com/coderholic/django-cities) - python script for importing countries, regions, cities etc. from geonames.org
 
+[current-countries-of-earth](https://github.com/ewheeler/current-countries-of-earth) - python script to fetch current ISO 3166 country info; output as JSON
 
 
 
 ## Thank You - Contributors - ¡Gracias! - Obrigado - Danke
 
-Ernesto Chapon . William de Melo Gueiros
+Ernesto Chapon - William de Melo Gueiros
 
 ## License
 
