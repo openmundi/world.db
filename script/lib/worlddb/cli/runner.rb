@@ -61,7 +61,7 @@ worlddb - world.db command line tool, version #{VERSION}
 #{cmd.help}
 
 Examples:
-    worlddb at/cities                      # import austrian regions 'n' cities
+    worlddb at/cities                      # import austrian cities
     worlddb --create                       # create database schema
 
 More Examples:

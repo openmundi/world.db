@@ -75,7 +75,7 @@ The `world.db` includes the following tables:
     worlddb - world.db command line tool, version 0.3.0
     
     Usage: worlddb [options]
-        --create                     Create DB schema
+            --create                     Create DB schema
         -i, --include PATH               Data path (default is .)
             --country KEY                Default country for regions 'n' cities
             --countries                  Use country plain text fixture reader
@@ -89,7 +89,7 @@ The `world.db` includes the following tables:
     
     
     Examples:
-        worlddb at/cities                      # import austrian regions 'n' cities
+        worlddb at/cities                      # import austrian cities
         worlddb --create                       # create database schema
 
 
@@ -102,17 +102,17 @@ Step 1:  Create an empty database, that is, `world.db`. Issue the command:
 Step 2:  Add your countries, regions and cities of choice. For example,
 let's use the Austrian and German cities and regions:
 
-    worlddb --include <your_path_to_fixtures> at/cities de/cities
+    worlddb --include <your_path_to_fixtures> at/regions at/cities de/regions de/cities
 
 That's it.
 
 
 ## Plain Text Fixtures
 
-The `worlddb` command line tool lets you import fixtures (countries,regions,cities)
+The `worlddb` command line tool lets you import fixtures (countries, regions, cities)
 in plain text. Example:
 
-`america/countries.txt`:
+[`america/countries.txt`](https://github.com/geraldb/world.db/blob/master/db/america/countries.txt):
 
 ```
 ca, Canada,        CAN, 9984670,  34278406, north america|en|fr
@@ -120,7 +120,7 @@ mx, Mexico,        MEX, 1972550, 112322757, north america|en
 us, United States, USA, 9629091, 314167157, north america|es
 ```
 
-`europe/at/cities.txt`:
+[`europe/at/cities.txt`](https://github.com/geraldb/world.db/blob/master/db/europe/at/cities.txt):
 
 ```
 wien,        Wien|Vienna,                  region:wien, 1664146
@@ -133,7 +133,7 @@ and blank lines. Example:
 
 ```
 ###################################################
-# north/central/south america & caribbean islands 
+# Your comments here
 #
 ```
 
