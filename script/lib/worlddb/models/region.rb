@@ -6,6 +6,10 @@ class Region < ActiveRecord::Base
 
   has_many :cities, :class_name => 'City', :foreign_key => 'region_id'
 
+  has_many :taggings, :as => :taggable
+  has_many :tags,     :through => :taggings
+
+
   def self.create_from_ary!( regions, more_values={} )
     regions.each do |values|
             

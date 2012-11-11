@@ -8,6 +8,9 @@ class Country < ActiveRecord::Base
   has_many :regions, :class_name => 'Region', :foreign_key => 'country_id'
   has_many :cities,  :class_name => 'City',   :foreign_key => 'country_id'
 
+  has_many :taggings, :as => :taggable
+  has_many :tags,     :through => :taggings
+
   def self.create_from_ary!( countries )
     countries.each do |values|
       

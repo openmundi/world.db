@@ -82,8 +82,8 @@ EOS
     puts "working directory: #{Dir.pwd}"
  
     db_config = {
-     :adapter  => 'sqlite3',
-     :database => "#{opts.output_path}/world.db"
+      adapter:  'sqlite3',
+      database: "#{opts.output_path}/world.db"
     }
   
     puts "Connecting to db using settings: "
@@ -120,6 +120,8 @@ EOS
     puts "  #{Country.count} countries"
     puts "  #{Region.count} regions"
     puts "  #{City.count} cities"
+    puts "  #{Tag.count} tags"
+    puts "  #{Tagging.count} taggings"
   end
 
 

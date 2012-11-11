@@ -26,6 +26,8 @@ require 'worlddb/models/prop'
 require 'worlddb/models/country'
 require 'worlddb/models/region'
 require 'worlddb/models/city'
+require 'worlddb/models/tag'
+require 'worlddb/models/tagging'
 require 'worlddb/schema'       # NB: requires worlddb/models (include WorldDB::Models)
 require 'worlddb/reader'
 require 'worlddb/loader'
@@ -69,9 +71,11 @@ module WorldDB
     def run( args=[] )
       # for now delete all tables
       
-      Country.delete_all
+      Tagging.delete_all
+      Tag.delete_all
       City.delete_all
       Region.delete_all
+      Country.delete_all
       Prop.delete_all
     end
     
