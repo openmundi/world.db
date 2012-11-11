@@ -1,0 +1,46 @@
+#-------------------------------------------------------------------------------
+# Country: Venezuela
+# Sources:
+# - http://es.wikipedia.org/wiki/Organizaci%C3%B3n_territorial_de_Venezuela
+#-------------------------------------------------------------------------------
+
+
+#-------------------------------------------------------------------------------
+# Table: regions_ve
+# Note : In Venezuela, the political-territorial division of each region is
+#        called "Federal Entity" or "State". Each of these states is at the same
+#        time divided into several areas called "Municipalities". The list of
+#        cities in this table corresponds to the capitals of each of these
+#        municipalities.
+#        Population data were not added because the information shown on
+#        Wikipedia is outdated. Currently being revised 2011 Census data on the
+#        website of the National Statistics Institute
+#        http://www.ine.gov.ve/CENSO2011/index.htm
+#-------------------------------------------------------------------------------
+
+am, Amazonas
+an, Anzoátegui
+ap, Apure
+ar, Aragua
+ba, Barinas
+bo, Bolívar
+ca, Carabobo
+co, Cojedes
+da, Delta Amacuro
+dc, Distrito Capital
+fa, Falcón
+gu, Guárico
+la, Lara
+me, Mérida
+mi, Miranda
+mo, Monagas
+ne, Nueva Esparta
+po, Portuguesa
+su, Sucre
+ta, Táchira
+tr, Trujillo
+va, Vargas
+ya, Yaracuy
+zu, Zulia
+
+

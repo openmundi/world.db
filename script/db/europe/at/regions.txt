@@ -1,0 +1,17 @@
+#########
+# sources:
+#  http://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Austria
+#  http://en.wikipedia.org/wiki/List_of_cities_in_Austria_over_5,000_population_(2001_census)
+
+
+## 9 Bundeslaender
+
+wien,   Wien
+noe,    NÖ|Niederösterreich
+ooe,    OÖ|Oberösterreich
+bgld,   Bgld.|Burgenland
+stmk,   Stmk.|Steiermark
+sbg,    Sbg.|Salzburg
+ktn,    Ktn.|Kärnten
+tirol,  Tirol|Tirol
+vbg,    Vbg.|Vorarlberg

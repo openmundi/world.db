@@ -1,0 +1,10 @@
+##################################
+## africa
+##
+
+dz, Algeria,        ALG
+ci, Côte d'Ivoire,  CIV
+gh, Ghana,          GHA
+cm, Cameroon,       CMR
+ng, Nigeria,        NGA
+za, South Africa,   RSA

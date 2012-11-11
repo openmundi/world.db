@@ -1,0 +1,14 @@
+##################################
+### asia (includes middle east)
+##
+
+## NB: uefa country kazakhstan is listed here 
+## NB: australia is listed in oceania (w/ australia)
+
+
+jp, Japan,        JPN
+kp, North Korea,  PRK
+kr, South Korea,  KOR
+in, India,        IND
+kz, Kazakhstan,   KAZ, uefa
+

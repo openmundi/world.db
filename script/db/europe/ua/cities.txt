@@ -1,0 +1,3 @@
+kiev,    Kiew|Kiev|Kyiv
+donetsk, Donezk|Donetsk
+kharkov, Kharkiv|Kharkov

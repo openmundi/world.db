@@ -1,0 +1,10 @@
+on, Ontario
+qc, Quebec
+ns, Nova Scotia
+nb, New Brunswick
+mb, Manitoba
+bc, British Columbia
+pe, Prince Edward Island
+sk, Saskatchewan
+ab, Alberta
+nl, Newfoundland and Labrador
