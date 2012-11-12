@@ -12,8 +12,10 @@ DB_CONFIG = {
   database: 'world.db'
 }
 
+## todo: add BUILD_ROOT ??
 
 task :default => 'release'
+
 
 desc "clean db build for release"
 task :release => [:clean,:create,:import] do
@@ -33,6 +35,26 @@ desc "create db schema"
 task :create => [:env, :clean] do
   WorldDB::CreateDB.up
 end
+
+=begin
+task :world => [:countries,:regions,cities] do
+  
+end
+
+task :countries => :env do
+
+  reader = WorldDB::Reader.new
+ 
+#  FileList['*/countries.txt'].each do |file|
+  ## todo: remove .txt extension
+#  end
+  
+end
+
+task :regions
+task :cities
+=end
+
 
 desc "import db seeds from folder '#{DB_ROOT}'"
 task :import => :env do
