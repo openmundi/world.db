@@ -22,7 +22,7 @@ sv, El Salvador,   SLV
   
 ar, Argentina,     ARG, 2780400,  40518425, south america|es
 bo, Bolivia,       BOL, 1098581,  10907778, south america|es
-br, Brazil,        BRA, 8514215, 192380000, south america|pt
+br, Brazil,        BRA, 8514215, 192380000, south america|pt-br
 cl, Chile,         CHI,  755696,  16763470, south america|es
 co, Colombia,      COL, 1138748,  46413791, south america|es
 ec, Ecuador,       ECU,  258238,  15007343, south america|es
