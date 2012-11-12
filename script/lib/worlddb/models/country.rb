@@ -11,6 +11,8 @@ class Country < ActiveRecord::Base
   has_many :taggings, :as => :taggable
   has_many :tags,     :through => :taggings
 
+  validates :key, :format => { :with => /\^[a-z]{2}$/, :message => 'Only two lowercase letters a-z allowed' }
+
   def self.create_from_ary!( countries )
     countries.each do |values|
       

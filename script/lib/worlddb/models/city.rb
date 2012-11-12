@@ -10,8 +10,9 @@ class City < ActiveRecord::Base
   
   has_many :taggings, :as => :taggable
   has_many :tags,  :through => :taggings
-  
-  
+
+  validates :key, :format => { :with => /\^[a-z]{3,}$/, :message => 'Only three or more lowercase letters a-z allowed' }
+
   def self.create_from_ary!( cities, more_values={} )
     cities.each do |values|
       
