@@ -45,14 +45,14 @@ class Reader
 
   def load_regions_with_include_path( country_key, name, include_path )
     country = Country.find_by_key!( country_key )
-    puts "Country #{country.key} >#{country.title} (#{country.tag})<"
+    puts "Country #{country.key} >#{country.title} (#{country.code})<"
 
     load_fixtures_with_include_path_for( Region, name, include_path, country_id: country.id )
   end
 
   def load_cities_with_include_path( country_key, name, include_path )  
     country = Country.find_by_key!( country_key )
-    puts "Country #{country.key} >#{country.title} (#{country.tag})<"
+    puts "Country #{country.key} >#{country.title} (#{country.code})<"
 
     load_fixtures_with_include_path_for( City, name, include_path, country_id: country.id )
   end
@@ -79,14 +79,14 @@ class Reader
 
   def load_regions_builtin( country_key, name )
     country = Country.find_by_key!( country_key )
-    puts "Country #{country.key} >#{country.title} (#{country.tag})<"
+    puts "Country #{country.key} >#{country.title} (#{country.code})<"
   
     load_fixtures_builtin_for( Region, name, country_id: country.id )
   end
   
   def load_cities_builtin( country_key, name )
     country = Country.find_by_key!( country_key )
-    puts "Country #{country.key} >#{country.title} (#{country.tag})<"
+    puts "Country #{country.key} >#{country.title} (#{country.code})<"
 
     load_fixtures_builtin_for( City, name, country_id: country.id )
   end

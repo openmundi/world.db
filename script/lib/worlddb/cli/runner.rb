@@ -22,6 +22,7 @@ class Runner
 
       ## NB: reserve -c for use with -c/--config
       cmd.on( '--create', 'Create DB schema' ) { opts.create = true }
+      cmd.on( '--setup',  "Create DB schema 'n' load builtin world data" ) { opts.setup = true }
 
       ### todo: in future allow multiple search path??
       cmd.on( '-i', '--include PATH', "Data path (default is #{opts.data_path})" ) { |path| opts.data_path = path }
@@ -91,19 +92,18 @@ EOS
 
     ActiveRecord::Base.establish_connection( db_config )
     
-    if opts.create?
-       WorldDB.create
-    end
-    
-    if opts.delete?
-       WorldDB.delete!
-    end
-
-
-    if opts.countries? || opts.regions? || opts.cities?
-      Reader.new( logger ).run( opts, args )  # load/read plain text country/region/city fixtures
+    if opts.setup?
+      WorldDB.create
+      WorldDB.read_all
     else
-      Loader.new( logger ).run( opts, args ) # load ruby fixtures
+      WorldDB.create   if opts.create?
+      WorldDB.delete!  if opts.delete?
+
+      if opts.countries? || opts.regions? || opts.cities?
+        Reader.new( logger ).run( opts, args )  # load/read plain text country/region/city fixtures
+      else
+        Loader.new( logger ).run( opts, args ) # load ruby fixtures
+      end
     end
 
     dump_stats

@@ -47,7 +47,17 @@ class Opts
     return false if @create.nil?   # default create flag is false
     @create == true
   end
-  
+
+
+  def setup=(boolean)
+    @setup = boolean
+  end
+
+  def setup?
+    return false if @setup.nil?   # default create flag is false
+    @setup == true
+  end
+
 
   def delete=(boolean)
     @delete = boolean
