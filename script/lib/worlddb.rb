@@ -157,7 +157,40 @@ module WorldDB
     Deleter.new.run
   end # method delete!
 
-  
+  class Stats
+    include WorldDB::Models
+
+    def tables
+      puts "Stats:"
+      puts " #{'%5d' % Country.count} countries"
+      puts " #{'%5d' % Region.count} regions"
+      puts " #{'%5d' % City.count} cities"
+      puts " #{'%5d' % Tag.count} tags"
+      puts " #{'%5d' % Tagging.count} taggings"
+    end
+    
+    def props
+      puts "Props:"
+      Prop.order( 'created_at asc' ).all.each do |prop|
+        puts "  #{prop.key} / #{prop.value} || #{prop.created_at}"
+      end
+    end
+  end
+
+  def self.stats
+    stats = Stats.new
+    stats.tables
+    stats.props
+  end
+
+  def self.tables
+    Stats.new.tables
+  end
+
+  def self.props
+    Stats.new.props
+  end
+
 end  # module WorldDB
 
 

@@ -52,19 +52,11 @@ task :import => :env do
   names = WorldDB.fixtures - excludes
   
   names.each do |name|
-
-    if name =~ /countries/
-      reader.load_countries_with_include_path( name, DATA_DIR )
-    elsif name =~ /\/([a-z]{2})\/cities/
-      reader.load_cities_with_include_path( $1, name, DATA_DIR )
-    elsif name =~ /\/([a-z]{2})\/regions/
-      reader.load_regions_with_include_path( $1, name, DATA_DIR )
-    else
-      puts "*** error: unknown world.db fixture type >#{name}<"
-      # todo/fix: exit w/ error
-    end
-
+    reader.load_with_include_path( name, DATA_DIR )
   end
+
+  WorldDB.stats
+
 end
 
 

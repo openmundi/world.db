@@ -106,32 +106,11 @@ EOS
       end
     end
 
-    dump_stats
-    dump_props
+    WorldDB.stats
     
     puts 'Done.'
     
   end   # method run
 
-
-  def dump_stats
-    # todo: use %5d or similar to format string
-    puts "Stats:"
-    puts "  #{Country.count} countries"
-    puts "  #{Region.count} regions"
-    puts "  #{City.count} cities"
-    puts "  #{Tag.count} tags"
-    puts "  #{Tagging.count} taggings"
-  end
-
-
-  def dump_props
-    # todo: use %5 or similar to format string
-    puts "Props:"
-    Prop.order( 'created_at asc' ).all.each do |prop|
-      puts "  #{prop.key} / #{prop.value} || #{prop.created_at}"
-    end
-  end
-  
 end # class Runner
 end # module WorldDB

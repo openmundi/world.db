@@ -36,9 +36,23 @@ class Reader
 
   end
 
+
   ############################
   # load from file system
   
+  def load_with_include_path( name, include_path )
+    if name =~ /\/countries/
+      load_countries_with_include_path( name, include_path )
+    elsif name =~ /\/([a-z]{2})\/cities/
+      load_cities_with_include_path( $1, name, include_path )
+    elsif name =~ /\/([a-z]{2})\/regions/
+      load_regions_with_include_path( $1, name, include_path )
+    else
+      puts "*** error: unknown world.db fixture type >#{name}<"
+      # todo/fix: exit w/ error
+    end
+  end
+
   def load_countries_with_include_path( name, include_path )
     load_fixtures_with_include_path_for( Country, name, include_path )
   end
