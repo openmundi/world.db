@@ -49,6 +49,9 @@ module WorldDB
     Runner.new.run(ARGV)
   end
   
+  def self.create
+    CreateDB.up
+  end
 
   # load built-in (that is, bundled within the gem) named seeds
   # - pass in an array of seed names e.g. [ 'countries', 'at/cities', 'de/cities' ] etc.
@@ -59,6 +62,74 @@ module WorldDB
       loader.load_fixtures_builtin( name )
     end
   end
+
+  def self.fixtures  # all builtin fixtures; helper for covenience
+
+  ['africa/countries',
+   'america/countries',
+   'america/br/regions',
+   'america/br/cities',
+   'america/ca/regions',
+   'america/ca/cities',
+   'america/mx/cities',
+   'america/us/regions',
+   'america/us/cities',
+   'america/ve/regions',
+   'america/ve/cities',
+   'asia/countries',
+   'asia/jp/cities',
+   'europe/countries',
+   'europe/at/regions',
+   'europe/at/cities',
+   'europe/be/cities',
+   'europe/by/cities',
+   'europe/ch/cities',
+   'europe/cy/cities',
+   'europe/de/regions',
+   'europe/de/cities',
+   'europe/dk/cities',
+   'europe/en/cities',
+   'europe/es/cities',
+   'europe/fr/cities',
+   'europe/gr/cities',
+   'europe/hr/cities',
+   'europe/it/cities',
+   'europe/nl/cities',
+   'europe/pt/cities',
+   'europe/ro/cities',
+   'europe/ru/cities',
+   'europe/sc/cities',
+   'europe/tr/cities',
+   'europe/ua/cities',
+   'oceania/countries',
+   'oceania/au/cities'
+   ]
+  end
+
+
+  def self.read( ary )
+    reader = Reader.new
+    ary.each do |name|
+      reader.load_builtin( name )
+    end
+  end
+
+  def self.read_all  # load all builtins (using plain text reader); helper for convenience
+    reader = Reader.new
+
+    # too big for heroku free db plan (10,000 record limit)
+    #  - sorry, can't load by default
+    fixture_excludes = [
+      'america/br/cities',
+      'america/ve/cities'
+    ]
+    
+    ary = fixtures - fixture_excludes
+    
+    ary.each do |name|
+     reader.load_builtin( name )
+    end # each name
+  end # method load_all
 
 
   class Deleter

@@ -60,6 +60,19 @@ class Reader
   ##################################
   #  load from gem (built-in)
 
+  def load_builtin( name )  ## convenience helper (requires proper named files w/ convention)
+    if name =~ /\/countries/
+       load_countries_builtin( name )
+    elsif name =~ /\/([a-z]{2})\/cities/
+       load_cities_builtin( $1, name )
+    elsif name =~ /\/([a-z]{2})\/regions/
+       load_regions_builtin( $1, name )
+    else
+       puts "*** error: unknown world.db fixture type >#{name}<"
+       # todo/fix: exit w/ error
+    end
+  end
+
   def load_countries_builtin( name ) 
     load_fixtures_builtin_for( Country, name )
   end
@@ -166,7 +179,7 @@ private
           value_region = Region.find_by_key!( value_region_key )
           attribs[ :region_id ] = value_region.id
         elsif value =~ /^[A-Z]{3}$/  ## assume three-letter code
-          attribs[ :tag ] = value    # todo: rename to code??
+          attribs[ :code ] = value
         elsif value =~ /^\d+$/    ## numeric
           value_numbers << value.to_i
         elsif (values.size==(index+3)) && value =~ /^[a-z0-9\| ]+$/   # tags must be last entry

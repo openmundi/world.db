@@ -11,7 +11,9 @@ class City < ActiveRecord::Base
   has_many :taggings, :as => :taggable
   has_many :tags,  :through => :taggings
 
-  validates :key, :format => { :with => /\^[a-z]{3,}$/, :message => 'Only three or more lowercase letters a-z allowed' }
+  validates :key, :format => { :with => /^[a-z]{3,}$/, :message => 'expected three or more lowercase letters a-z' }
+  validates :code, :format => { :with => /^[A-Z_]{3}$/, :message => 'expected three uppercase letters A-Z (and _)' }, :allow_nil => true
+
 
   def self.create_from_ary!( cities, more_values={} )
     cities.each do |values|
@@ -39,6 +41,8 @@ class City < ActiveRecord::Base
           attr[ :country_id ] = value.id
         elsif value.is_a? Numeric
           value_numbers << value
+        elsif value =~ /^[A-Z_]{3}$/    ## assume its three letter code (e.g. NYC,VIE,etc.)
+          attr[ :code ] = value
         elsif value =~ /^region:/   ## region:
           value_region_key = value[7..-1]  ## cut off region: prefix
           value_region = Region.find_by_key!( value_region_key )

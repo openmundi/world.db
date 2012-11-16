@@ -9,7 +9,7 @@ class Region < ActiveRecord::Base
   has_many :taggings, :as => :taggable
   has_many :tags,     :through => :taggings
 
-  validates :key, :format => { :with => /\^[a-z]{2,}$/, :message => 'Only two or more lowercase letters a-z allowed' }
+  validates :key, :format => { :with => /^[a-z]{2,}$/, :message => 'expected two or more lowercase letters a-z' }
 
   def self.create_from_ary!( regions, more_values={} )
     regions.each do |values|

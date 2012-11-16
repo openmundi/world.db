@@ -92,7 +92,7 @@ EOS
     ActiveRecord::Base.establish_connection( db_config )
     
     if opts.create?
-      CreateDB.up
+       WorldDB.create
     end
     
     if opts.delete?

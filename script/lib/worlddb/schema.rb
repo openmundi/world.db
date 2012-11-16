@@ -11,9 +11,9 @@ def self.up
   ActiveRecord::Schema.define do
 
 create_table :countries do |t|
-  t.string  :title, :null => false
-  t.string  :key,   :null => false
-  t.string  :tag,   :null => false  # short three letter tag (FIFA country code)
+  t.string  :title,  :null => false
+  t.string  :key,    :null => false
+  t.string  :code,   :null => false  # short three letter code (FIFA country code e.g. ITA)
   t.string  :synonyms  # comma separated list of synonyms
   t.string  :motor   # optional auto motor (vehicle) licene plate
   t.integer :pop     # optional population count
@@ -34,6 +34,7 @@ end
 create_table :cities do |t|
   t.string :title, :null => false
   t.string :key,   :null => false
+  t.string :code     # short three letter code (ITAT/airport code e.g. NYC or VIE)
   t.string :synonyms  # comma separated list of synonyms
   t.references :country,  :null => false
   t.references :region    # optional for now

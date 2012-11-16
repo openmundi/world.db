@@ -11,7 +11,9 @@ class Country < ActiveRecord::Base
   has_many :taggings, :as => :taggable
   has_many :tags,     :through => :taggings
 
-  validates :key, :format => { :with => /\^[a-z]{2}$/, :message => 'Only two lowercase letters a-z allowed' }
+  validates :key, :format => { :with => /^[a-z]{2}$/, :message => 'expected two lowercase letters a-z' }
+  validates :code, :format => { :with => /^[A-Z_]{3}$/, :message => 'expected three uppercase letters A-Z (and _)' }
+
 
   def self.create_from_ary!( countries )
     countries.each do |values|
@@ -20,7 +22,7 @@ class Country < ActiveRecord::Base
       attr = {
         :key   => values[0],
         :title => values[1],
-        :tag   => values[2]
+        :code  => values[2]
       }
       
       value_numbers = []
