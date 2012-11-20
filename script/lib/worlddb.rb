@@ -19,8 +19,8 @@ require 'active_record'   ## todo: add sqlite3? etc.
 
 # our own code
 
-module WorldDB   # forward reference; more to come later
-end
+
+require 'worlddb/version'
 
 require 'worlddb/models/prop'
 require 'worlddb/models/country'
@@ -29,9 +29,9 @@ require 'worlddb/models/city'
 require 'worlddb/models/tag'
 require 'worlddb/models/tagging'
 require 'worlddb/schema'       # NB: requires worlddb/models (include WorldDB::Models)
+require 'worlddb/utils'
 require 'worlddb/reader'
 require 'worlddb/loader'
-require 'worlddb/version'
 require 'worlddb/cli/opts'
 require 'worlddb/cli/runner'
 
@@ -154,6 +154,7 @@ module WorldDB
   
   # delete ALL records (use with care!)
   def self.delete!
+    puts '*** deleting world table records/data...'
     Deleter.new.run
   end # method delete!
 
@@ -194,4 +195,9 @@ module WorldDB
 end  # module WorldDB
 
 
-WorldDB.main if __FILE__ == $0
+if __FILE__ == $0
+  WorldDB.main
+else
+  # say hello
+  puts WorldDB.banner
+end
