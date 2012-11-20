@@ -62,4 +62,5 @@ lib/worlddb/models/tag.rb
 lib/worlddb/models/tagging.rb
 lib/worlddb/reader.rb
 lib/worlddb/schema.rb
+lib/worlddb/utils.rb
 lib/worlddb/version.rb
