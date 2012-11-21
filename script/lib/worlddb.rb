@@ -30,6 +30,8 @@ require 'worlddb/models/tag'
 require 'worlddb/models/tagging'
 require 'worlddb/schema'       # NB: requires worlddb/models (include WorldDB::Models)
 require 'worlddb/utils'
+require 'worlddb/readers/line_reader'
+require 'worlddb/readers/values_reader'
 require 'worlddb/reader'
 require 'worlddb/loader'
 require 'worlddb/cli/opts'

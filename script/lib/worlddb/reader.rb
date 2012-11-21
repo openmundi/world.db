@@ -112,9 +112,11 @@ private
 
     puts "*** parsing data '#{name}' (#{path})..."
 
-    text = File.read( path )
+    reader = ValuesReader.new( logger, path, more_values )
     
-    load_fixtures_worker_for( clazz, text, more_values )
+    load_fixtures_worker_for( clazz, reader )
+
+    Prop.create!( key: "db.#{fixture_name_to_prop_key(name)}.version", value: "file.txt.#{File.mtime(path).strftime('%Y.%m.%d')}" )        
   end
 
   def load_fixtures_builtin_for( clazz, name, more_values={} ) # load from gem (built-in)
@@ -122,72 +124,25 @@ private
 
     puts "*** parsing data '#{name}' (#{path})..."
 
-    text = File.read( path )
+    reader = ValuesReader.new( logger, path, more_values )
     
-    load_fixtures_worker_for( clazz, text, more_values )
+    load_fixtures_worker_for( clazz, reader )
+
+    Prop.create!( key: "db.#{fixture_name_to_prop_key(name)}.version", value: "world.txt.#{WorldDB::VERSION}" )
   end
 
-  def load_fixtures_worker_for( clazz, data, more_values )
+
+  def load_fixtures_worker_for( clazz, reader )
    
     ## NB: assumes active activerecord db connection
     ##
 
-    data.each_line do |line|
+    reader.each_line do |attribs, values|
   
-      if line =~ /^\s*#/
-        # skip komments and do NOT copy to result (keep comments secret!)
-        logger.debug 'skipping comment line'
-        next
-      end
-        
-      if line =~ /^\s*$/ 
-        # kommentar oder leerzeile überspringen 
-        logger.debug 'skipping blank line'
-        next
-      end
-
-      # remove leading and trailing whitespace
-      line = line.strip
-
-      puts "line: >>#{line}<<"
-
-      values = line.split(',')
-      
-      # remove leading and trailing whitespace for values
-      values = values.map { |value| value.strip }
-
-      ## remove comment columns
-      ##  todo: also removecomments from inside columns ?? why? why not??
-      
-      values = values.select do |value|
-        if value =~ /^#/  ## start with # treat it as a comment column; e.g. remove it
-          puts "   removing column with value >>#{value}<<"
-          false
-        else
-          true
-        end
-      end 
-      
-      puts "  values: >>#{values.join('<< >>')}<<"
-      
-      attribs = {
-        key: values[0]
-      }
-      
-      ## title (split of optional synonyms)
-      # e.g. FC Bayern Muenchen|Bayern Muenchen|Bayern
-      titles = values[1].split('|')
-      
-      attribs[ :title ]    =  titles[0]
-      ## add optional synonyms
-      attribs[ :synonyms ] =  titles[1..-1].join('|')  if titles.size > 1
-      
-      attribs = attribs.merge( more_values )  # e.g. merge country_id and other defaults if present
-            
       value_numbers = []
       
       ## check for optional values
-      values[2..-1].each_with_index do |value,index|
+      values.each_with_index do |value,index|
         if value =~ /^region:/   ## region:
           value_region_key = value[7..-1]  ## cut off region: prefix
           value_region = Region.find_by_key!( value_region_key )
@@ -227,10 +182,8 @@ private
    
       rec.update_attributes!( attribs )
         
-    end # data.each
-    
-    ## todo/fix: add Prop.create!( name )
-        
+    end # each_line
+            
   end # method load_fixture_worker_for
 
   
