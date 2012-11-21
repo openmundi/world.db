@@ -49,19 +49,21 @@ puts "Ready."
 
 ##### some countries
 
-at = Country.find_by_key( 'at' )
-de = Country.find_by_key( 'de' )
-en = Country.find_by_key( 'en' )
+# local variables (e.g. at) not working; use constants instead (e.g. AT)
 
-us = Country.find_by_key( 'us' )
-ca = Country.find_by_key( 'ca' )
-mx = Country.find_by_key( 'mx' )
+AT = Country.find_by_key( 'at' )
+DE = Country.find_by_key( 'de' )
+EN = Country.find_by_key( 'en' )
+
+US = Country.find_by_key( 'us' )
+CA = Country.find_by_key( 'ca' )
+MX = Country.find_by_key( 'mx' )
 
 ### some cities
 
-nyc = City.find_by_key( 'newyork' )
-lon = City.find_by_key( 'london' )
-vie = City.find_by_key( 'wien' )
+NYC = City.find_by_key( 'newyork' )
+LON = City.find_by_key( 'london' )
+VIE = City.find_by_key( 'wien' )
 
 ## todo: add some predefined tags (e.g. europe, america, g8, euro, etc.)
 
