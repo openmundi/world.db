@@ -1,16 +1,33 @@
-newyork,      New York,     region:ny
-buffalo,      Buffalo,      region:ny
-philadelphia, Philadelphia, region:pa
-boston,       Boston,       region:ma
-chicago,      Chicago,      region:il
-columbus,     Columbus,     region:oh
-detroit,      Detroit,      region:mi
-nashville,    Nashville,    region:tn
-dallas,       Dallas,       region:tx
-phoenix,      Phoenix,      region:az
-losangeles,   Los Angeles,  region:ca
-sanjose,      San Jose,     region:ca
-anaheim,      Anaheim,      region:ca
-stlouis,      St. Louis
-pittsburgh,   Pittsburgh
-washington,   Washington
+
+### top 10 cities
+
+newyork,       New York,     region:ny,   8175133
+losangeles,    Los Angeles,  region:ca,   3792621
+chicago,       Chicago,      region:il,   2695598
+houston,       Houston,      region:tx,   2099451
+philadelphia,  Philadelphia, region:pa,   1526006
+phoenix,       Phoenix,      region:az,   1445632
+sanantonio,    San Antonio,  region:tx,   1327407
+sandiego,      San Diego,    region:ca,   1307402
+dallas,        Dallas,       region:tx,   1197816
+sanjose,       San Jose,     region:ca,    945942
+
+
+## more cities
+
+buffalo,      Buffalo,      region:ny,   261310
+boston,       Boston,       region:ma,   617594
+columbus,     Columbus,     region:oh,   787033
+detroit,      Detroit,      region:mi,   713777
+nashville,    Nashville,    region:tn,   601222
+anaheim,      Anaheim,      region:ca,   336265
+stlouis,      St. Louis,    region:mo,   319294
+pittsburgh,   Pittsburgh,   region:pa,   305704
+washington,   Washington,   region:dc,   601723
+newark,       Newark,       region:nj,   277140
+raleigh,      Raleigh,      region:nc,   403892
+miami,        Miami,        region:fl,   399457
+tampa,        Tampa,        region:fl,   335709
+denver,       Denver,       region:co,   600158
+stpaul,       St. Paul,     region:mn,   285068
+
