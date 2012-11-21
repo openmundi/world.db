@@ -53,6 +53,7 @@ db/tags.yml
 lib/worlddb.rb
 lib/worlddb/cli/opts.rb
 lib/worlddb/cli/runner.rb
+lib/worlddb/console.rb
 lib/worlddb/loader.rb
 lib/worlddb/models/city.rb
 lib/worlddb/models/country.rb
@@ -61,6 +62,8 @@ lib/worlddb/models/region.rb
 lib/worlddb/models/tag.rb
 lib/worlddb/models/tagging.rb
 lib/worlddb/reader.rb
+lib/worlddb/readers/line_reader.rb
+lib/worlddb/readers/values_reader.rb
 lib/worlddb/schema.rb
 lib/worlddb/utils.rb
 lib/worlddb/version.rb
