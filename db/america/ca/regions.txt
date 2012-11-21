@@ -1,10 +1,15 @@
-on, Ontario
-qc, Quebec
-ns, Nova Scotia
-nb, New Brunswick
-mb, Manitoba
-bc, British Columbia
-pe, Prince Edward Island
-sk, Saskatchewan
-ab, Alberta
-nl, Newfoundland and Labrador
+
+
+ab, Alberta,                   640082
+bc, British Columbia,          922509
+mb, Manitoba,                  552330
+nb, New Brunswick,              71377
+nl, Newfoundland and Labrador, 370511
+nw, Northwest Territories,    1143793
+ns, Nova Scotia,                52939
+nv, Nunavut,                  1877788
+on, Ontario,                   908608
+pe, Prince Edward Island,        5686
+qc, Québec                    1356547
+sk, Saskatchewan,              588239
+yu, Yukon,                     474713

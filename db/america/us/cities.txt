@@ -15,19 +15,32 @@ sanjose,       San Jose,     region:ca,    945942
 
 ## more cities
 
-buffalo,      Buffalo,      region:ny,   261310
-boston,       Boston,       region:ma,   617594
-columbus,     Columbus,     region:oh,   787033
-detroit,      Detroit,      region:mi,   713777
-nashville,    Nashville,    region:tn,   601222
-anaheim,      Anaheim,      region:ca,   336265
-stlouis,      St. Louis,    region:mo,   319294
-pittsburgh,   Pittsburgh,   region:pa,   305704
-washington,   Washington,   region:dc,   601723
-newark,       Newark,       region:nj,   277140
-raleigh,      Raleigh,      region:nc,   403892
-miami,        Miami,        region:fl,   399457
-tampa,        Tampa,        region:fl,   335709
-denver,       Denver,       region:co,   600158
-stpaul,       St. Paul,     region:mn,   285068
-
+buffalo,      Buffalo,       region:ny,   261310
+boston,       Boston,        region:ma,   617594
+columbus,     Columbus,      region:oh,   787033
+detroit,      Detroit,       region:mi,   713777
+nashville,    Nashville,     region:tn,   601222
+anaheim,      Anaheim,       region:ca,   336265
+stlouis,      St. Louis,     region:mo,   319294
+pittsburgh,   Pittsburgh,    region:pa,   305704
+washington,   Washington,    region:dc,   601723
+newark,       Newark,        region:nj,   277140
+raleigh,      Raleigh,       region:nc,   403892
+miami,        Miami,         region:fl,   399457
+tampa,        Tampa,         region:fl,   335709
+denver,       Denver,        region:co,   600158
+stpaul,       St. Paul,      region:mn,   285068
+baltimore,    Baltimore,     region:md,   620961
+cincinnati,   Cincinnati,    region:oh,   296943
+cleveland,    Cleveland,     region:oh,   396815
+indianapolis, Indianapolis,  region:in,   820445
+jacksonville, Jacksonville,  region:fl,   821784
+oakland,      Oakland,       region:ca,   390724
+sanfrancisco, San Francisco, region:ca,   805235
+kansascity,   Kansas City,   region:mo,   459787
+greenbay,     Green Bay,     region:wi,   104057
+minneapolis,  Minneapolis,   region:mn,   382578
+atlanta,      Atlanta,       region:ga,   420003
+neworleans,   New Orleans,   region:la,   343829
+charlotte,    Charlotte,     region:nc,   731424
+seattle,      Seattle,       region:wa,   608660
