@@ -1,2 +1,2 @@
 amsterdam, Amsterdam
-alkmaar, Alkmaar  ## region: North Holland
+alkmaar, Alkmaar,  ## region: North Holland

@@ -1,0 +1,52 @@
+####
+## todo: check what to letter codes to use??
+
+
+ag, Aguascalientes,   5471
+
+bc, Baja California,  69921
+bs, Baja California Sur,  73475
+
+ca, Campeche,        50812
+ch, Chiapas,     74211
+ci, Chihuahua,  247938
+co, Coahuila,   151571
+cl, Colima,           5191
+
+df, Distrito Federal, 1479
+du, Durango,    123181
+
+gj, Guanajuato,      30491
+gu, Guerrero,         64281
+
+hi, Hidalgo,         20813
+
+ja, Jalisco,     80386
+
+me, México,          21355
+mi, Michoacán,        59928
+mo, Morelos,          4950
+
+na, Nayarit,         26979
+nl, Nuevo León,       64924
+
+ox, Oaxaca,      93952
+
+pu, Puebla,          33902
+
+qu, Querétaro,       11499
+qr, Quintana Roo,    50212
+
+sl, San Luis Potosí,  63068
+si, Sinaloa,         58328
+so, Sonora,     182052
+
+ta, Tabasco,         25267
+tm, Tamaulipas,  79384
+tl, Tlaxcala,         4016
+
+ve, Veracruz,         71699
+
+yu, Yucatán,         38402
+
+za, Zacatecas,        73252

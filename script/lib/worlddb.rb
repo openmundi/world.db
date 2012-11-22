@@ -73,6 +73,7 @@ module WorldDB
    'america/br/cities',
    'america/ca/regions',
    'america/ca/cities',
+   'america/mx/regions',
    'america/mx/cities',
    'america/us/regions',
    'america/us/cities',
@@ -90,8 +91,11 @@ module WorldDB
    'europe/de/regions',
    'europe/de/cities',
    'europe/dk/cities',
+   'europe/en/regions',
    'europe/en/cities',
+   'europe/es/regions',
    'europe/es/cities',
+   'europe/fr/regions',
    'europe/fr/cities',
    'europe/gr/cities',
    'europe/hr/cities',
@@ -183,7 +187,7 @@ module WorldDB
   def self.stats
     stats = Stats.new
     stats.tables
-    stats.props
+    ### stats.props
   end
 
   def self.tables
