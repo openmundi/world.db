@@ -1,4 +1,15 @@
-lille, Lille
-paris, Paris
-marseille, Marseille
-montpellier, Montpellier
+# top 10 cities
+
+paris,        Paris,       region:if, 2234105
+marseille,    Marseille    region:ac,  850602
+lyon,         Lyon,        region:ra,  479803
+toulouse,     Toulouse,    region:mp,  440204
+nice,         Nice,        region:ac,  340735
+nantes,       Nantes,      region:pl,  282047
+strasbourg,   Strasbourg,  region:al,  271708
+montpellier,  Montpellier, region:lr,  255080
+bordeaux,     Bordeaux,    region:aq,  236725
+lille,        Lille,       region:nc,  226827
+rennes,       Rennes,      region:br,  206604
+
+# more cities

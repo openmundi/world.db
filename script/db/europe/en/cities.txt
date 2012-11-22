@@ -1,13 +1,24 @@
-manchester,  Manchester
-london,      London
-liverpool,   Liverpool
-birmingham,  Birmingham,   # e.g.Aston Villa
-westbrom,    West Bromwich
-newcastle,   Newcastle upon Tyne
-stoke,       Stoke-on-Trent
-sunderland,  Sunderland
-wigan,       Wigan
-southampton, Southampton
-reading,     Reading
-norwich,     Norwich
-swansea,     Swansea
+
+# top cities
+
+london,      London,     region:gl, 7619800
+birmingham,  Birmingham, region:wm, 1010400
+leeds,       Leeds,      region:yh,  477600
+manchester,  Manchester, region:nw,  465900
+bristol,     Bristol,    region:sw,  465500
+liverpool,   Liverpool,  region:nw,  464200
+sheffield,   Sheffield,  region:yh,  458100
+
+
+# more cities
+
+westbrom,    West Bromwich,       region:wm, 136940
+newcastle,   Newcastle upon Tyne, region:ne, 280200
+stoke,       Stoke-on-Trent,      region:wm, 249000
+sunderland,  Sunderland,          region:ne, 177739
+wigan,       Wigan,               region:nw,  81203
+southampton, Southampton,         region:se, 239700
+reading,     Reading,             region:se, 155700
+norwich,     Norwich,             region:ee, 140200
+swansea,     Swansea,             region:wa, 239000
+

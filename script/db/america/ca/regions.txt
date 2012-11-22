@@ -1,10 +1,28 @@
-on, Ontario
-qc, Quebec
-ns, Nova Scotia
-nb, New Brunswick
-mb, Manitoba
-bc, British Columbia
-pe, Prince Edward Island
-sk, Saskatchewan
-ab, Alberta
-nl, Newfoundland and Labrador
+###########################
+# Oh, Canada! 10 provinces and 3 territories
+#
+# see http://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada
+#
+# nb: key is two-letter canadian postal code
+#
+# for regions tags see
+#  http://en.wikipedia.org/wiki/List_of_regions_of_Canada
+
+
+bc, British Columbia,          922509, western canada
+
+ab, Alberta,                   640082, western canada|prairies
+mb, Manitoba,                  552330, western canada|prairies
+sk, Saskatchewan,              588239, western canada|prairies
+
+nb, New Brunswick,              71377, eastern canada|atlantic canada|maritimes
+ns, Nova Scotia,                52939, eastern canada|atlantic canada|maritimes
+pe, Prince Edward Island,        5686, eastern canada|atlantic canada|maritimes
+nl, Newfoundland and Labrador, 370511, eastern canada|atlantic canada
+
+on, Ontario,                   908608, eastern canada|central canada
+qc, Québec                    1356547, eastern canada|central canada
+
+nt, Northwest Territories,    1143793, northern canada|territories
+yt, Yukon,                     474713, northern canada|territories
+nu, Nunavut,                  1877788, northern canada|territories

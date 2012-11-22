@@ -1,18 +1,27 @@
-muenchen,      München,       region:by
-nuernberg,     Nürnberg,      region:by
-augsburg,      Augsburg,      region:by
-fuerth,        Fürth,         region:by
-stuttgart,     Stuttgart,     region:bw
-hoffenheim,    Hoffenheim,    region:bw
-freiburg,      Freiburg,      region:bw
-hannover,      Hannover,      region:ni
-wolfsburg,     Wolfsburg,     region:ni
-gelsenkirchen, Gelsenkirchen, region:nw
-dortmund,      Dortmund,      region:nw
-leverkusen,    Leverkusen,    region:nw
-duesseldorf,   Düsseldorf,    region:nw
-mgladbach,     Mönchengladbach|Mgladbach, region:nw
-frankfurt,     Frankfurt,     region:he
-mainz,         Mainz,         region:rp
-hamburg,       Hamburg,       region:hh
-bremen,        Bremen,        region:hb
+# Top 10 cities
+
+berlin,       Berlin,         region:be,  3501872
+hamburg,      Hamburg,        region:hh,  1798836
+muenchen,     München|Munich, region:by,  1378176
+koeln,        Köln,           region:nw,  1017155
+frankfurt,    Frankfurt,      region:he,   691518
+stuttgart,    Stuttgart,      region:bw,   613392
+duesseldorf,  Düsseldorf,     region:nw,   592393
+dortmund,     Dortmund,       region:nw,   580956
+essen,        Essen,          region:nw,   573468
+bremen,       Bremen,         region:hb,   548319
+
+
+# more cities
+
+nuernberg,     Nürnberg|Nuremberg,     region:by,   510602
+augsburg,      Augsburg,               region:by,   266647
+fuerth,        Fürth,                  region:by,   116317
+hoffenheim,    Hoffenheim,             region:bw,   3272
+freiburg,      Freiburg,        region:bw, 229144
+hannover,      Hannover,        region:ni, 525875
+wolfsburg,     Wolfsburg,     region:ni,  122583
+gelsenkirchen, Gelsenkirchen, region:nw,  256652
+leverkusen,    Leverkusen,    region:nw,  161195
+mgladbach,     Mönchengladbach|Mgladbach, region:nw,  257208
+mainz,         Mainz,         region:rp,   200957

@@ -1,32 +1,45 @@
-wien,        Wien|Vienna,                  region:wien, 1664146
-stpoelten,   St. Pölten,                   region:noe,   51360
-wrneustadt,  Wiener Neustadt|Wr. Neustadt, region:noe,   39940
+# Top 10 cities
+
+wien,        Wien|Vienna,  region:wien,  1731236
+graz,        Graz,         region:stmk,   265318
+linz,        Linz,         region:ooe,    191107
+salzburg,    Salzburg,     region:sbg,    148521
+innsbruck,   Innsbruck,    region:tirol,  121329
+klagenfurt,  Klagenfurt,   region:ktn,     94796
+villach,     Villach,      region:ktn,     59585
+wels,        Wels,         region:ooe,     58717
+stpoelten,   St. Pölten,   region:noe,     52048
+dornbirn,    Dornbirn,     region:vbg,     45978
+
+# Top 20 cities
+
+wrneustadt,     Wiener Neustadt|Wr. Neustadt, region:noe,   41537
+steyr,          Steyr,             region:ooe,    38248
+feldkirch,      Feldkirch,         region:vbg, 31025
+bregenz,        Bregenz,           region:vbg, 28007
+klosterneuburg, Kosterneuburg,     region:noe,   25927
+leonding,       Leonding,          region:ooe,   25689
+baden,          Baden|Baden bei Wien,  region:noe, 25142
+wolfsberg,      Wolfsberg,         region:ktn,  24983
+leoben,         Leoben,            region:stmk,  24645
+krems,          Krems|Krems an der Donau, region:noe,   24110
+
+
+# more cities
+
 moedling,    Mödling|Moedling,             region:noe,   20649
 horn,        Horn,                         region:noe,    6411,  # < 10000 pop
 
-linz,        Linz,             region:ooe,   188894
-wels,        Wels,             region:ooe,    58623
-steyr,       Steyr,            region:ooe,    38979
+traun,          Traun,             region:ooe,   23941
 ried,        Ried im Innkreis, region:ooe,    11585
 
 eisenstadt,  Eisenstadt,  region:bgld, 12367
 mattersburg, Mattersburg, region:bgld,  6256,  # < 10000 pop
 
-graz,        Graz,        region:stmk,  247698
 kapfenberg,  Kapfenberg,  region:stmk,   21928
 hartberg,    Hartberg,    region:stmk,    6547,   # < 10000 pop
 
-salzburg,    Salzburg,    region:sbg,   149018
 groedig,     Grödig,      region:sbg,     6638,   # < 10000 pop
 
-klagenfurt,  Klagenfurt,  region:ktn,  92397
-villach,     Villach,     region:ktn,  58480
-wolfsberg,   Wolfsberg,   region:ktn,  25361
-
-innsbruck,   Innsbruck,   region:tirol,  117693
-
-dornbirn,    Dornbirn,   region:vbg, 44243
-feldkirch,   Feldkirch,  region:vbg, 30093
-bregenz,     Bregenz,    region:vbg, 27148
 lustenau,    Lustenau,   region:vbg, 20606
 altach,      Altach,     region:vbg,  5704,  # < 10000 pop

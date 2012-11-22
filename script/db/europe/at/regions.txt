@@ -1,17 +1,19 @@
 #########
+# Land der Berge, Land am Strome
+#
 # sources:
 #  http://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Austria
 #  http://en.wikipedia.org/wiki/List_of_cities_in_Austria_over_5,000_population_(2001_census)
 
 
-## 9 Bundeslaender
+## 9 Bundesländer
 
-wien,   Wien
-noe,    NÖ|Niederösterreich
-ooe,    OÖ|Oberösterreich
-bgld,   Bgld.|Burgenland
-stmk,   Stmk.|Steiermark
-sbg,    Sbg.|Salzburg
-ktn,    Ktn.|Kärnten
-tirol,  Tirol|Tirol
-vbg,    Vbg.|Vorarlberg
+wien,   Wien|Vienna,                        415
+noe,    NÖ|Niederösterreich|Lower Austria,  19186
+ooe,    OÖ|Oberösterreich|Upper Austria,    11980
+bgld,   Bgld.|Burgenland,                   3962
+stmk,   Stmk.|Steiermark|Styria,            16401
+sbg,    Sbg.|Salzburg,                      7156
+ktn,    Ktn.|Kärnten|Carinthia,             9538
+tirol,  Tirol|Tyrol,                        12640
+vbg,    Vbg.|Vorarlberg,                    2601

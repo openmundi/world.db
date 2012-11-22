@@ -1,5 +1,17 @@
-bilbao,    Bilbao
-valencia,  Valencia
-barcelona, Barcelona
-madrid,    Madrid
-malaga,    Málaga
+
+## top 10 cities
+
+madrid,    Madrid,     region:md,   3265038
+barcelona, Barcelona,  region:ct,   1615448
+valencia,  Valencia,   region:vc,    798033
+sevilla,   Sevilla,    region:an,    703021
+zaragoza,  Zaragoza,   region:ar,    674725
+malaga,    Málaga,     region:an,    568030
+murcia,    Murcia,     region:mc,    442203
+palma,     Palma de Mallorca,  region:ib,  405318
+laspalmas, Las Palmas,  region:cn,   383343
+bilbao,    Bilbao,      region:pv,   352700
+
+
+# more cities
+

@@ -1,7 +1,15 @@
-montreal,  Montreal,  region:qc
-ottawa,    Ottawa,    region:on
-toronto,   Toronto,   region:on
-winnipeg,  Winnipeg,  region:mb
-calgary,   Calgary,   region:ab
-edmonton,  Edmonton,  region:ab
-vancouver, Vancouver, region:bc
+
+
+# top 10 cities
+
+toronto,   Toronto,   region:on,   5583064
+montreal,  Montreal,  region:qc,   3824221
+vancouver, Vancouver, region:bc,   2313328
+ottawa,    Ottawa,    region:on,   1236324
+calgary,   Calgary,   region:ab,   1214839
+edmonton,  Edmonton,  region:ab,   1159869
+quebec,    Québec,    region:qc,   765706
+winnipeg,  Winnipeg,  region:mb,   730018
+hamilton,  Hamilton,  region:on,   721053
+kitchener, Kitchener, region:on,   477160
+london,    London,    region:on,   474786
