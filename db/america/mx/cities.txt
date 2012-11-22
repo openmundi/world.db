@@ -1,27 +1,32 @@
 # top cities
 
-mexico,        México,      region:df, 8555272
-guadalajara,   Guadalajara, region:ja, 1495182
-puebla,        Puebla,      region:pu, 1434062
-juarez,        Juárez|Ciudad Juárez, region:ci,  1321004
-tijuana,       Tijuana,     region:bc, 1300983
-leon,          León,        region:gj, 1238962
-monterrey,     Monterrey,   region:nl, 1135512
+#####
+# see http://en.wikipedia.org/wiki/Metropolitan_areas_of_Mexico
 
+mexico,        México,      region:df, 20137152
+guadalajara,   Guadalajara, region:ja, 4434252
+monterrey,     Monterrey,   region:nl, 4080329
+puebla,        Puebla,      region:pb, 2668347
+toluca,        Toluca|Toluca de Lerdo,     region:me,  1846602
+tijuana,       Tijuana,     region:bc, 1751302
+leon,          León,        region:gt, 1609717
+juarez,        Juárez|Ciudad Juárez, region:ch,  1495094
+torreon,       Torreón,     region:co,  1275993
+queretaro,     Querétaro,   region:qe,  1097028
+sanluispotosi, San Luis Potosì, region:sl, 1040822
 
 
 # more cities
 
-toluca,        Toluca,     region:me,  819561
-queretaro,     Querétaro,  region:qu, 804663
+merida,        Mérida,      region:yu,   973046
+
+chihuahua,     Chihuahua,   region:ch,   809232
 
 morelia,       Morelia,    region:mi, 729757
 
-sanluispotosi, San Luis Potosì, region:sl, 685934
 cancun,        Cancún,          region:qr, 628306
-torreon,       Torreón,         region:co,  608836
 
-tuxtla,        Tuxtla Gutiérrez,  region:ch, 503320
+tuxtla,        Tuxtla Gutiérrez,  region:cs, 503320
 
-pachuca,       Pachuca, region:hi, 275578
+pachuca,       Pachuca, region:hg, 275578
 sannicolas,    San Nicolás de los Garza, region:nl, 476761 

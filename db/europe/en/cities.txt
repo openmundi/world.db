@@ -3,11 +3,15 @@
 
 london,      London,     region:gl, 7619800
 birmingham,  Birmingham, region:wm, 1010400
-leeds,       Leeds,      region:yh,  477600
-manchester,  Manchester, region:nw,  465900
-bristol,     Bristol,    region:sw,  465500
-liverpool,   Liverpool,  region:nw,  464200
-sheffield,   Sheffield,  region:yh,  458100
+liverpool,   Liverpool,  region:nw,  469017
+leeds,       Leeds,      region:yh,  443247
+sheffield,   Sheffield,  region:yh,  439866
+bristol,     Bristol,    region:sw,  420556
+manchester,  Manchester, region:nw,  394269
+leicester,   Leicester,  region:em,  330574
+coventry,    Coventry,   region:wm,  303475
+kingston,    Kingston upon Hull, region:yh,  301416
+bradford,    Bradford,   region:yh,  293717
 
 
 # more cities
@@ -20,5 +24,9 @@ wigan,       Wigan,               region:nw,  81203
 southampton, Southampton,         region:se, 239700
 reading,     Reading,             region:se, 155700
 norwich,     Norwich,             region:ee, 140200
+
+####
+## from wales; keep it here (w/ england?) add it to gb - great britain?
+
 swansea,     Swansea,             region:wa, 239000
 
