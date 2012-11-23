@@ -85,9 +85,11 @@ module WorldDB
    'europe/at/regions',
    'europe/at/cities',
    'europe/be/cities',
+   'europe/bg/cities',
    'europe/by/cities',
    'europe/ch/cities',
    'europe/cy/cities',
+   'europe/cz/cities',
    'europe/de/regions',
    'europe/de/cities',
    'europe/dk/cities',
@@ -95,16 +97,23 @@ module WorldDB
    'europe/en/cities',
    'europe/es/regions',
    'europe/es/cities',
+   'europe/fi/cities',
    'europe/fr/regions',
    'europe/fr/cities',
    'europe/gr/cities',
    'europe/hr/cities',
+   'europe/hu/cities',
+   'europe/ie/cities',
    'europe/it/cities',
    'europe/nl/cities',
+   'europe/no/cities',
+   'europe/pl/cities',
    'europe/pt/cities',
    'europe/ro/cities',
+   'europe/rs/cities',
    'europe/ru/cities',
    'europe/sc/cities',
+   'europe/se/cities',
    'europe/tr/cities',
    'europe/ua/cities',
    'oceania/countries',
@@ -171,7 +180,9 @@ module WorldDB
       puts "Stats:"
       puts " #{'%5d' % Country.count} countries"
       puts " #{'%5d' % Region.count} regions"
-      puts " #{'%5d' % City.count} cities"
+      puts " #{'%5d' % City.where(m: true).count} metros (=metropolitan areas)"
+      puts " #{'%5d' % City.where(c: true).count} cities"
+      puts " #{'%5d' % City.where(d: true).count} districts (=city districts)"
       puts " #{'%5d' % Tag.count} tags"
       puts " #{'%5d' % Tagging.count} taggings"
     end

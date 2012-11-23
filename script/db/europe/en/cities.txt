@@ -1,24 +1,36 @@
+# metros
+
+leedsbradford, Leeds-Bradford, region:yh, m:1_541_000, metro
+
 
 # top cities
 
-london,      London,     region:gl, 7619800
-birmingham,  Birmingham, region:wm, 1010400
-leeds,       Leeds,      region:yh,  477600
-manchester,  Manchester, region:nw,  465900
-bristol,     Bristol,    region:sw,  465500
-liverpool,   Liverpool,  region:nw,  464200
-sheffield,   Sheffield,  region:yh,  458100
+london,      London,     region:gl, 7_619_800, m:8_586_000
+birmingham,  Birmingham, region:wm, 1_010_400, m:2_294_000
+liverpool,   Liverpool,  region:nw,   469_017, m:819_000
+leeds,       Leeds,      region:yh,   443_247, metro:leedsbradford
+sheffield,   Sheffield,  region:yh,   439_866
+bristol,     Bristol,    region:sw,   420_556
+manchester,  Manchester, region:nw,   394_269, m:2_244_000
+leicester,   Leicester,  region:em,   330_574
+coventry,    Coventry,   region:wm,   303_475
+kingston,    Kingston upon Hull, region:yh,  301_416
+bradford,    Bradford,   region:yh,  293_717, metro:leedsbradford
 
 
 # more cities
 
 westbrom,    West Bromwich,       region:wm, 136940
-newcastle,   Newcastle upon Tyne, region:ne, 280200
+newcastle,   Newcastle upon Tyne, region:ne, 280200, m:892_000
 stoke,       Stoke-on-Trent,      region:wm, 249000
 sunderland,  Sunderland,          region:ne, 177739
 wigan,       Wigan,               region:nw,  81203
 southampton, Southampton,         region:se, 239700
 reading,     Reading,             region:se, 155700
 norwich,     Norwich,             region:ee, 140200
+
+####
+## from wales; keep it here (w/ england?) add it to gb - great britain?
+
 swansea,     Swansea,             region:wa, 239000
 

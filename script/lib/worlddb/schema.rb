@@ -46,9 +46,9 @@ create_table :cities do |t|
   t.integer :area    # optional area in square km (sq. km)
   t.float   :lat   # optional for now
   t.float   :lng   # optional for now
-  t.boolean :m,  :null => false, default => false   # metro flag
-  t.boolean :c,  :null => false, default => false   # city flag (is this needed?)
-  t.boolean :d,  :null => false, default => false   # district flag
+  t.boolean :m,  :null => false, :default => false   # metro flag
+  t.boolean :c,  :null => false, :default => false   # city flag (is this needed?)
+  t.boolean :d,  :null => false, :default => false   # district flag
   t.references :city  # optional parent (e.g. metro for city, or city for district)
   t.timestamps
 
