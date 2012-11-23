@@ -15,15 +15,18 @@ create_table :countries do |t|
   t.string  :key,    :null => false
   t.string  :code,   :null => false  # short three letter code (FIFA country code e.g. ITA)
   t.string  :synonyms  # comma separated list of synonyms
-  t.string  :motor   # optional auto motor (vehicle) licene plate
   t.integer :pop     # optional population count
   t.integer :area    # optional area in square km (sq. km)
   t.timestamps
+ 
+  # extras
+  t.string  :motor   # optional auto motor (vehicle) licene plate
 end
 
 create_table :regions do |t|
   t.string :title,  :null => false
   t.string :key,    :null => false
+  t.string :code     # short three letter code
   t.string :synonyms  # comma separated list of synonyms
   t.references :country, :null => false
   t.integer :pop     # optional population count
@@ -38,10 +41,18 @@ create_table :cities do |t|
   t.string :synonyms  # comma separated list of synonyms
   t.references :country,  :null => false
   t.references :region    # optional for now
-  t.integer :pop     # optional population count
+  t.integer :pop     # optional population count (city proper)
+  t.integer :popm    # optional population count (metropolitan/aglomeration)
   t.integer :area    # optional area in square km (sq. km)
-  t.boolean :capital, :null => false, :default => false  # is national captial?
+  t.float   :lat   # optional for now
+  t.float   :lng   # optional for now
+  t.boolean :m,  :null => false, default => false   # metro flag
+  t.boolean :c,  :null => false, default => false   # city flag (is this needed?)
+  t.boolean :d,  :null => false, default => false   # district flag
+  t.references :city  # optional parent (e.g. metro for city, or city for district)
   t.timestamps
+
+  ### t.boolean :capital, :null => false, :default => false  # is national captial?
 end
 
 create_table :tags do |t|

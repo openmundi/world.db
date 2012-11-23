@@ -1,15 +1,15 @@
 # Top 10 cities
 
-wien,        Wien|Vienna,  region:wien,  1731236
-graz,        Graz,         region:stmk,   265318
-linz,        Linz,         region:ooe,    191107
-salzburg,    Salzburg,     region:sbg,    148521
-innsbruck,   Innsbruck,    region:tirol,  121329
-klagenfurt,  Klagenfurt,   region:ktn,     94796
-villach,     Villach,      region:ktn,     59585
-wels,        Wels,         region:ooe,     58717
-stpoelten,   St. Pölten,   region:noe,     52048
-dornbirn,    Dornbirn,     region:vbg,     45978
+wien,        Wien [Vienna],  region:wien,  1_731_236, m:1_724_000
+graz,        Graz,         region:stmk,      265_318
+linz,        Linz,         region:ooe,       191_107
+salzburg,    Salzburg,     region:sbg,       148_521
+innsbruck,   Innsbruck,    region:tirol,     121_329
+klagenfurt,  Klagenfurt,   region:ktn,        94_796
+villach,     Villach,      region:ktn,        59_585
+wels,        Wels,         region:ooe,        58_717
+stpoelten,   St. Pölten,   region:noe,        52_048
+dornbirn,    Dornbirn,     region:vbg,        45_978
 
 # Top 20 cities
 

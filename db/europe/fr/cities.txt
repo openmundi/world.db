@@ -1,15 +1,15 @@
 # top 10 cities
 
-paris,        Paris,       region:if, 2234105
-marseille,    Marseille    region:ac,  850602
-lyon,         Lyon,        region:ra,  479803
-toulouse,     Toulouse,    region:mp,  440204
-nice,         Nice,        region:ac,  340735
-nantes,       Nantes,      region:pl,  282047
-strasbourg,   Strasbourg,  region:al,  271708
-montpellier,  Montpellier, region:lr,  255080
-bordeaux,     Bordeaux,    region:aq,  236725
-lille,        Lille,       region:nc,  226827
-rennes,       Rennes,      region:br,  206604
+paris,        Paris,       region:if, 2_234_105, m:10_755_000
+marseille,    Marseille    region:ac,   850_602, m: 1_582_000
+lyon,         Lyon,        region:ra,   479_803, m: 1_542_000
+toulouse,     Toulouse,    region:mp,   440_204, m:   880_000
+nice,         Nice,        region:ac,   340_735, m:   962_000
+nantes,       Nantes,      region:pl,   282_047
+strasbourg,   Strasbourg,  region:al,   271_708
+montpellier,  Montpellier, region:lr,   255_080
+bordeaux,     Bordeaux,    region:aq,   236_725, m:845_000
+lille,        Lille,       region:nc,   226_827, m:1_050_000
+rennes,       Rennes,      region:br,   206_604
 
 # more cities

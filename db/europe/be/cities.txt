@@ -1,1 +1,4 @@
-brussel,  Brüssel|Brussel|Bruxelles|Brussels,  # de|nl|fr|en   - RCA Anderlecht
+
+brussel,  Brüssel|Brussel|Bruxelles [Brussels], 1_048_491, m:1_929_000   ,   # de|nl|fr|en
+antwerp,  Antwerp,  m:960_000
+

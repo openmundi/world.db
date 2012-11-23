@@ -1,3 +1,9 @@
-kiev,    Kiew|Kiev|Kyiv
-donetsk, Donezk|Donetsk
-kharkov, Kharkiv|Kharkov
+
+kiev,    Kiew|Kiev|Kyiv,  2_785_100, m:2_812_000
+kharkov, Kharkiv|Kharkov, 1_470_000, m:1_449_000
+donetsk, Donezk|Donetsk,  m:963_000
+
+
+dnepropetrovsk, Dnepropetrovsk, 1_007_200, m:1_000_000
+odessa, Odessa,   1_003_705, m:1_010_000
+

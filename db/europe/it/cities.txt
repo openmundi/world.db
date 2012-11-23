@@ -1,4 +1,17 @@
-turin,   Turin
-milano,  Mailand|Milano
-napoli,  Neapel|Napoli
 
+
+milano,   Milano [Milan],    1_338_436, m:5_232_000
+roma,     Roma [Rome],       2_777_979, m:3_799_000
+napoli,   Napoli [Naples],   1_046_987, m:3_726_000
+torino,    Torino [Turin],   921_485,  m:1_499_000
+palermo,  Palermo,           689_349,  m:876_000
+genova,   Genova [Genoa],    655_704
+bologna,  Bologna,           385_813
+firenze,  Firenze [Florence], 381_762, m:821_000
+
+catania,  Catania,   341_685
+bari,     Bari,      335_647
+venezia,  Venezia [Venice],  297_743
+messina,  Messina,  262_524
+verona,   Verona,   254_146
+trieste,  Trieste,  222_589
