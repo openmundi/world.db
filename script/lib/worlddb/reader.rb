@@ -140,6 +140,10 @@ private
     reader.each_line do |attribs, values|
   
       value_numbers = []
+
+      if clazz == City
+        attribs[ :c ] = true   # assume city type by default (use metro,district to change in fixture)
+      end
       
       ## check for optional values
       values.each_with_index do |value,index|
@@ -147,10 +151,28 @@ private
           value_region_key = value[7..-1]  ## cut off region: prefix
           value_region = Region.find_by_key!( value_region_key )
           attribs[ :region_id ] = value_region.id
+        elsif value =~ /^metro$/   ## metro
+          attribs[ :c ] = false   # turn off default c|city flag; make it m|metro only
+          attribs[ :m ] = true    
+        elsif value =~ /^metro:/   ## metro:
+          value_city_key = value[6..-1]  ## cut off metro: prefix
+          value_city = City.find_by_key!( value_city_key )
+          attribs[ :city_id ] = value_city.id
+        elsif value =~ /^city:/   ## city:
+          value_city_key = value[5..-1]  ## cut off city: prefix
+          value_city = City.find_by_key!( value_city_key )
+          attribs[ :city_id ] = value_city.id
+          attribs[ :c] = false # turn off default c|city flag; make it d|district only
+          attribs[ :d] = true  
+        elsif value =~ /^m:/   ## m:
+          value_popm_str = value[2..-1]  ## cut off m: prefix
+          value_popm = value_popm_str.gsub(/[ _]/, '').to_i
+          attribs[ :popm ] = value_popm
+          attribs[ :m ] = true   #  auto-mark city as m|metro too
         elsif value =~ /^[A-Z]{3}$/  ## assume three-letter code
           attribs[ :code ] = value
-        elsif value =~ /^\d+$/    ## numeric
-          value_numbers << value.to_i
+        elsif value =~ /(^[0-9]{1,2}$)|(^[0-9][0-9 _]+[0-9]$)/    ## numeric (nb: can use any _ or spaces inside digits e.g. 1_000_000 or 1 000 000)
+          value_numbers << value.gsub(/[ _]/, '').to_i
         elsif (values.size==(index+3)) && value =~ /^[a-z0-9\| ]+$/   # tags must be last entry
           puts "   skipping tags: #{value}"
         else

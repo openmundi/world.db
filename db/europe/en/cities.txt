@@ -1,6 +1,6 @@
 # metros
 
-leedsbradford, Leeds-Bradford, region:yh, m:1_541_000
+leedsbradford, Leeds-Bradford, region:yh, m:1_541_000, metro
 
 
 # top cities

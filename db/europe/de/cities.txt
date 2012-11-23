@@ -5,8 +5,8 @@
 ##  - http://en.wikipedia.org/wiki/Largest_urban_areas_of_the_European_Union
 
 
-ruhr,       Ruhrgebiet [Ruhr area],     region:nw, 7_304_000   , # includes essen, bochum, dortmund, gelsenkirchen
-koelnbonn,  Köln/Bonn  [Cologne-Bonn],  region:nw, 2_063_000   , # includes koeln, leverkusen,  bergischgladbach, bonn
+ruhr,       Ruhrgebiet [Ruhr area],     region:nw, m:7_304_000, metro   , # includes essen, bochum, dortmund, gelsenkirchen
+koelnbonn,  Köln/Bonn  [Cologne-Bonn],  region:nw, m:2_063_000, metro   , # includes koeln, leverkusen,  bergischgladbach, bonn
 
 
 # Top 10 cities 
