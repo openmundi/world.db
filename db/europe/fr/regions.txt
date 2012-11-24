@@ -1,24 +1,32 @@
 
+# NB: use 9 NUTS1 regions for tags
 
-al, Alsace,         8280
-aq, Aquitaine,     41308
-av, Auvergne,      26013
-bg, Bourgogne,     31582
-br, Bretagne,      27208
-ct, Centre,        39151
-ca, Champagne-Ardenne,  25606
-fc, Franche-Comté,      16202
-if, Ile-de-France,      12012
-lr, Languedoc-Roussillon, 27376
-lm, Limousin,             16942
-lr, Lorraine,             23547
-bn, Basse-Normandie,   17589
-mp, Midi-Pyrénées,      45348
-nc, Nord-Pas-de-Calais, 12414
-pl, Pays de la Loire,   32082
-pd, Picardie,           19399
-pc, Poitou-Charentes,    25810
-ac, Provence-Alpes-Côte d'Azur,  31400
-ra, Rhône-Alpes,         43698
-hn, Haute-Normandie,  12317
-cr, Corse,           8680
+
+if, Ile-de-France,      12012,  ile_de_france
+
+ca, Champagne-Ardenne,  25606,  bassin_parisien
+pd, Picardie,           19399,  bassin_parisien
+hn, Haute-Normandie,  12317,  bassin_parisien
+ct, Centre,        39151,  bassin_parisien
+bn, Basse-Normandie,   17589,  bassin_parisien
+bg, Bourgogne,     31582,  bassin_parisien
+
+nc, Nord-Pas-de-Calais, 12414,  nord_pas_de_calais
+
+lr, Lorraine,             23547,  est
+al, Alsace,                8280,  est
+fc, Franche-Comté,        16202,  est
+
+pl, Pays de la Loire,   32082,  ouest
+br, Bretagne,           27208,  ouest
+pc, Poitou-Charentes,   25810, ouest
+aq, Aquitaine,          41308, ouest
+mp, Midi-Pyrénées,      45348, ouest
+lm, Limousin,           16942, ouest
+
+ra, Rhône-Alpes,         43698, centre_est
+av, Auvergne,            26013, centre_est
+
+lr, Languedoc-Roussillon,        27376, mediterranee
+ac, Provence-Alpes-Côte d'Azur,  31400, mediterranee
+cr, Corse,                        8680, mediterranee
