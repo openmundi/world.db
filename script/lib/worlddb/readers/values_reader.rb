@@ -43,11 +43,11 @@ class ValuesReader
 
       values = line.split(',')
       
-      # remove leading and trailing whitespace for values
+      # pass 1) remove leading and trailing whitespace for values
+
       values = values.map { |value| value.strip }
 
-      ## remove comment columns
-      ##  todo: also removecomments from inside columns ?? why? why not??
+      # pass 2) remove comment columns
       
       values = values.select do |value|
         if value =~ /^#/  ## start with # treat it as a comment column; e.g. remove it
@@ -56,7 +56,15 @@ class ValuesReader
         else
           true
         end
-      end 
+      end
+
+      # pass 3) remove comments inside columns
+
+      values = values.map do |value|
+        value = value.sub( /\s+#.+$/, '' )
+        value
+      end
+      
       
       puts "  values: >>#{values.join('<< >>')}<<"
             

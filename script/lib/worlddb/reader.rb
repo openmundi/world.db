@@ -143,6 +143,8 @@ private
 
       if clazz == City
         attribs[ :c ] = true   # assume city type by default (use metro,district to change in fixture)
+      elsif clazz = Country
+        attribs[ :c ] = true   # assume country type by default (use supra,depend to change)
       end
       
       ## check for optional values
@@ -151,9 +153,22 @@ private
           value_region_key = value[7..-1]  ## cut off region: prefix
           value_region = Region.find_by_key!( value_region_key )
           attribs[ :region_id ] = value_region.id
-        elsif value =~ /^metro$/   ## metro
+        elsif value =~ /^metro$/   ## metro(politan area)
           attribs[ :c ] = false   # turn off default c|city flag; make it m|metro only
           attribs[ :m ] = true    
+        elsif value =~ /^supra$/   ## supra(national)
+          attribs[ :c ] = false   # turn off default c|country flag; make it s|supra only
+          attribs[ :s ] = true
+        elsif value =~ /^supra:/   ## supra:
+          value_country_key = value[6..-1]  ## cut off supra: prefix
+          value_country = Country.find_by_key!( value_country_key )
+          attribs[ :country_id ] = value_country.id
+        elsif value =~ /^country:/   ## country:
+          value_country_key = value[8..-1]  ## cut off country: prefix
+          value_country = Country.find_by_key!( value_country_key )
+          attribs[ :country_id ] = value_country.id
+          attribs[ :c ] = false # turn off default c|country flag; make it d|depend only
+          attribs[ :d ] = true  
         elsif value =~ /^metro:/   ## metro:
           value_city_key = value[6..-1]  ## cut off metro: prefix
           value_city = City.find_by_key!( value_city_key )
@@ -162,8 +177,8 @@ private
           value_city_key = value[5..-1]  ## cut off city: prefix
           value_city = City.find_by_key!( value_city_key )
           attribs[ :city_id ] = value_city.id
-          attribs[ :c] = false # turn off default c|city flag; make it d|district only
-          attribs[ :d] = true  
+          attribs[ :c ] = false # turn off default c|city flag; make it d|district only
+          attribs[ :d ] = true  
         elsif value =~ /^m:/   ## m:
           value_popm_str = value[2..-1]  ## cut off m: prefix
           value_popm = value_popm_str.gsub(/[ _]/, '').to_i
@@ -173,7 +188,7 @@ private
           attribs[ :code ] = value
         elsif value =~ /(^[0-9]{1,2}$)|(^[0-9][0-9 _]+[0-9]$)/    ## numeric (nb: can use any _ or spaces inside digits e.g. 1_000_000 or 1 000 000)
           value_numbers << value.gsub(/[ _]/, '').to_i
-        elsif (values.size==(index+3)) && value =~ /^[a-z0-9\| ]+$/   # tags must be last entry
+        elsif (values.size==(index+3)) && value =~ /^[a-z0-9\|_ ]+$/   # tags must be last entry
           puts "   skipping tags: #{value}"
         else
           # issue warning: unknown type for value

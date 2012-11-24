@@ -17,6 +17,10 @@ create_table :countries do |t|
   t.string  :synonyms  # comma separated list of synonyms
   t.integer :pop     # optional population count
   t.integer :area    # optional area in square km (sq. km)
+  t.references :country  # for supra(nationals) n depend(encies)
+  t.boolean :s,  :null => false, :default => false   # supra(national) flag e.g. eu
+  t.boolean :c,  :null => false, :default => false   # country flag (is this needed?)
+  t.boolean :d,  :null => false, :default => false   # dependency flag
   t.timestamps
  
   # extras
