@@ -1,0 +1,32 @@
+
+###
+##  14 regions
+##
+## see http://en.wikipedia.org/wiki/Regions_of_the_Czech_Republic
+
+
+### NB: using official two letter iso 3166-2 cz region codes
+## see http://en.wikipedia.org/wiki/ISO_3166-2:CZ 
+
+
+pr, Praha [Prague],     496
+st, Střední Čechy [Central Bohemia], 11_015, central bohemia
+
+jc, Jižní Čechy [South Bohemia], 10_057, southwest
+pl, Plzeň,             7_561, southwest
+
+ka, Karlovy Vary,      3_315, northwest
+us, Ústí nad Labem,    5_335, northwest
+
+li, Liberec,           3_163, northeast
+kr, Hradec Králové,    4_758, northeast
+pa, Pardubice,         4_519, northeast
+
+jm, Jižní Morava [South Moravia],   7_067, southeast
+vy, Vysočina,          6_926, southeast
+
+ol, Olomouc,           5_159, central moravia
+zl, Zlín,              3_964, central moravia
+
+mo, Moravskoslezsko [Moravia-Silesia],   5_535
+

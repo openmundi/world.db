@@ -1,4 +1,19 @@
 
-brussel,  Brüssel|Brussel|Bruxelles [Brussels], 1_048_491, m:1_929_000   ,   # de|nl|fr|en
-antwerp,  Antwerp,  m:960_000
 
+brussel,   Brussel|Bruxelles [Brussels], region:br,  1_048_491, m:1_929_000    ,   # nl|fr|en
+antwerp,   Antwerpen|Anvers [Antwerp],   region:an, 466_203,  m:960_000
+ghent,     Gent|Gand [Ghent],     region:ov, 235_143
+charleroi, Charleroi, region:ht, 201_550
+liege,     Liège|Luik,       region:lg, 188_907
+bruges,    Bruges|Brugge,    region:wv, 116_982
+namur,     Namur|Namen,     region:na, 107_653
+leuven,    Leuven|Louvain,    region:br,  91_942
+mons,      Mons|Bergen,      region:ht,  91_196
+mechelen,  Mechelen|Malines,  region:an,  78_900
+
+
+## add as city districts? (or cities w/ major or similar flag=false?)
+
+# Schaerbeek  113_493  Brussels-Capital Region
+# Anderlecht   97_601  Brussels-Capital Region
+# Sint-Jans-Molenbeek 81_632  Brussels-Capital Region

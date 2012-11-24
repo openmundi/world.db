@@ -143,7 +143,7 @@ private
 
       if clazz == City
         attribs[ :c ] = true   # assume city type by default (use metro,district to change in fixture)
-      elsif clazz = Country
+      elsif clazz == Country
         attribs[ :c ] = true   # assume country type by default (use supra,depend to change)
       end
       

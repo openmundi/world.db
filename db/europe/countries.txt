@@ -70,7 +70,7 @@ ad, Andorra,     AND,         468,      85_082
 al, Albania,     ALB,      28_748,   3_002_859
 by, Belarus,     BLR,     207_600,   9_643_566
 ch, Switzerland, SUI,      41_285,   7_866_500,   schengen|uefa|un    # NB: ISO (CHE) <> FIFA (SUI)
-hr, Croatia,     CRO       56_594,   4_290_612     # NB: ISO (HRV) <> FIFA (CRO);  local name: Hrvatska
+hr, Croatia,     CRO,      56_594,   4_290_612     # NB: ISO (HRV) <> FIFA (CRO);  local name: Hrvatska
 rs, Serbia,      SRB,      88_361,   7_276_604
 ru, Russia,       RUS, 17_098_242, 142_517_670,   asia|g8|g20
 tr, Turkey,       TUR,    783_562,  79_749_461,   asia

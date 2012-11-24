@@ -84,15 +84,18 @@ module WorldDB
    'europe/countries',
    'europe/at/regions',
    'europe/at/cities',
+   'europe/be/regions',
    'europe/be/cities',
    'europe/bg/cities',
    'europe/by/cities',
    'europe/ch/cities',
    'europe/cy/cities',
+   'europe/cz/regions',
    'europe/cz/cities',
    'europe/de/regions',
    'europe/de/cities',
    'europe/dk/cities',
+   'europe/ee/cities',
    'europe/en/regions',
    'europe/en/cities',
    'europe/es/regions',
@@ -105,6 +108,8 @@ module WorldDB
    'europe/hu/cities',
    'europe/ie/cities',
    'europe/it/cities',
+   'europe/lt/cities',
+   'europe/lv/cities',
    'europe/nl/cities',
    'europe/no/cities',
    'europe/pl/cities',
@@ -178,11 +183,11 @@ module WorldDB
 
     def tables
       puts "Stats:"
-      puts " #{'%5d' % Country.count} countries"
+      puts " #{'%5d' % Country.count} countries (#{Country.where(s: true).count} supras, #{Country.where(d:true).count} deps)"
       puts " #{'%5d' % Region.count} regions"
-      puts " #{'%5d' % City.where(m: true).count} metros (=metropolitan areas)"
-      puts " #{'%5d' % City.where(c: true).count} cities"
-      puts " #{'%5d' % City.where(d: true).count} districts (=city districts)"
+      puts " #{'%5d' % City.where(m: true).where(c: false).count} metros"
+      puts " #{'%5d' % City.where(c: true).count} cities (#{City.where(c: true).where(m: true).count} metros)"
+      puts " #{'%5d' % City.where(d: true).count} districts"
       puts " #{'%5d' % Tag.count} tags"
       puts " #{'%5d' % Tagging.count} taggings"
     end
