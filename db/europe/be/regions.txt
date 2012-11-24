@@ -1,0 +1,21 @@
+
+##
+## NB: using 11 NUTS2 regions (provinces) and 3 NUTS1 regions for tags
+
+#
+#  NB: using iso three letter codes (cut off first letter is always V or W for NUTS1 region)
+
+
+br, Bruxelles|Brussel [Brussels (Capital Region)],  161
+
+an, Antwerpen [Antwerp],              2_867, flanders|nl
+li, Limburg,                          2_422, flanders|nl
+ov, Oost-Vlaanderen [East Flanders],  2_982, flanders|nl
+br, Vlaams-Brabant [Flemish Brabant], 2_106, flanders|nl
+wv, West-Vlaanderen [West Flanders],  3_144, flanders|nl
+
+br, Brabant Wallon [Walloon Brabant], 1_091,  wallonia|fr
+ht, Hainaut,                          3_786,  wallonia|fr
+lg, Liège,                            3_862,  wallonia|fr
+lx, Luxembourg,                       4_440,  wallonia|fr
+na, Namur,                            3_666,  wallonia|fr

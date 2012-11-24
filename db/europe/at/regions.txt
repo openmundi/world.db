@@ -5,15 +5,22 @@
 #  http://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Austria
 #  http://en.wikipedia.org/wiki/List_of_cities_in_Austria_over_5,000_population_(2001_census)
 
+##
+## NB: using 3 NUTS1 regions for tags
+#
+# NB: using OENORM for keys
+
 
 ## 9 Bundesländer
 
-wien,   Wien|Vienna,                        415
-noe,    NÖ|Niederösterreich|Lower Austria,  19186
-ooe,    OÖ|Oberösterreich|Upper Austria,    11980
-bgld,   Bgld.|Burgenland,                   3962
-stmk,   Stmk.|Steiermark|Styria,            16401
-sbg,    Sbg.|Salzburg,                      7156
-ktn,    Ktn.|Kärnten|Carinthia,             9538
-tirol,  Tirol|Tyrol,                        12640
-vbg,    Vbg.|Vorarlberg,                    2601
+bgld,   Bgld.|Burgenland,                   3_962,  eastern austria
+noe,    NÖ|Niederösterreich|Lower Austria,  19_186, eastern austria
+wien,   Wien|Vienna,                        415,    eastern austria
+
+stmk,   Stmk.|Steiermark|Styria,            16_401, southern austria
+ktn,    Ktn.|Kärnten|Carinthia,             9_538,  southern austria
+
+ooe,    OÖ|Oberösterreich|Upper Austria,    11_980, western austria
+sbg,    Sbg.|Salzburg,                      7_156,  western austria
+tirol,  Tirol|Tyrol,                        12_640, western austria
+vbg,    Vbg.|Vorarlberg,                    2_601,  western austria
