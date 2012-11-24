@@ -140,6 +140,11 @@ private
     reader.each_line do |attribs, values|
   
       value_numbers = []
+      
+      ### todo: remove attribs[:tags] from attribs? lets us pass in "default" tags - why? why not?
+      ##
+      
+      value_tags = []
 
       if clazz == City
         attribs[ :c ] = true   # assume city type by default (use metro,district to change in fixture)
@@ -151,7 +156,8 @@ private
       values.each_with_index do |value,index|
         if value =~ /^region:/   ## region:
           value_region_key = value[7..-1]  ## cut off region: prefix
-          value_region = Region.find_by_key!( value_region_key )
+          ## NB: requires country_id to make unique!
+          value_region = Region.find_by_key_and_country_id!( value_region_key, attribs[:country_id] )
           attribs[ :region_id ] = value_region.id
         elsif value =~ /^metro$/   ## metro(politan area)
           attribs[ :c ] = false   # turn off default c|city flag; make it m|metro only
@@ -184,15 +190,35 @@ private
           value_popm = value_popm_str.gsub(/[ _]/, '').to_i
           attribs[ :popm ] = value_popm
           attribs[ :m ] = true   #  auto-mark city as m|metro too
-        elsif value =~ /^[A-Z]{3}$/  ## assume three-letter code
+        elsif value =~ /^[A-Z]{2,3}$/  ## assume two or three-letter code
           attribs[ :code ] = value
         elsif value =~ /(^[0-9]{1,2}$)|(^[0-9][0-9 _]+[0-9]$)/    ## numeric (nb: can use any _ or spaces inside digits e.g. 1_000_000 or 1 000 000)
           value_numbers << value.gsub(/[ _]/, '').to_i
-        elsif (values.size==(index+3)) && value =~ /^[a-z0-9\|_ ]+$/   # tags must be last entry
-          puts "   skipping tags: #{value}"
+        elsif (values.size==(index+1)) && value =~ /^[a-z0-9\|_ ]+$/   # tags must be last entry
+
+          puts "   processing tags: >>#{value}<<..."
+ 
+          tag_keys = value.split('|')
+  
+          ## unify; replace _w/ space; remove leading n trailing whitespace
+          tag_keys = tag_keys.map do |key|
+            key = key.gsub( '_', ' ' )
+            key = key.strip
+            key
+          end
+          
+          tag_keys.each do |key|
+            tag = Tag.find_by_key( key )
+            if tag.nil?  # create tag if it doesn't exit
+              puts "   creating tag >#{key}<"
+              tag = Tag.create!( key: key )
+            end
+            value_tags << tag
+          end
+    
         else
           # issue warning: unknown type for value
-          puts "*** warning: unknown type for value >#{value}<"
+          puts "!!!! >>>> warning: unknown type for value >#{value}<"
         end
       end
       
@@ -206,7 +232,15 @@ private
         end
       end
 
-      rec = clazz.find_by_key( attribs[ :key ] )
+      rec = nil
+      
+      if clazz == Region  ## requires country_id
+        ## todo: assert that country_id is present/valid, that is, NOT null
+        rec = clazz.find_by_key_and_country_id( attribs[ :key ], attribs[ :country_id] )
+      else
+        rec = clazz.find_by_key( attribs[ :key ] )
+      end
+
       if rec.present?
         ## nb: [17..-1] cut off WorldDB::Models:: in name
         puts "*** update #{clazz.name[17..-1].downcase} #{rec.id}-#{rec.key}:"
@@ -218,6 +252,14 @@ private
       puts attribs.to_json
    
       rec.update_attributes!( attribs )
+      
+      ## add tags
+      
+      value_tags.each do |tag|
+        rec.tags << tag
+      end
+      
+      ### fix/todo: check tag_ids and only update diff (add/remove ids)
         
     end # each_line
             

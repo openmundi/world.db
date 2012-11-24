@@ -21,7 +21,7 @@ pe, Prince Edward Island,        5686, eastern canada|atlantic canada|maritimes
 nl, Newfoundland and Labrador, 370511, eastern canada|atlantic canada
 
 on, Ontario,                   908608, eastern canada|central canada
-qc, Québec                    1356547, eastern canada|central canada
+qc, Québec,                   1356547, eastern canada|central canada
 
 nt, Northwest Territories,    1143793, northern canada|territories
 yt, Yukon,                     474713, northern canada|territories

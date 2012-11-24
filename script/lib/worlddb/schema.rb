@@ -27,16 +27,23 @@ create_table :countries do |t|
   t.string  :motor   # optional auto motor (vehicle) licene plate
 end
 
+add_index :countries, :key,  :unique => true
+add_index :countries, :code, :unique => true
+
+
 create_table :regions do |t|
   t.string :title,  :null => false
   t.string :key,    :null => false
-  t.string :code     # short three letter code
+  t.string :code     # short two or three letter code e.g. NY, OAX, etc.
   t.string :synonyms  # comma separated list of synonyms
   t.references :country, :null => false
   t.integer :pop     # optional population count
   t.integer :area    # optional area in square km (sq. km)
   t.timestamps
 end
+
+add_index :regions, [:key, :country_id], :unique => true
+
 
 create_table :cities do |t|
   t.string :title, :null => false
@@ -65,6 +72,8 @@ create_table :tags do |t|
   ## todo: add parent or similar for hierachy (for tag stacks/packs)
   t.timestamps
 end
+
+add_index :tags, :key,  :unique => true
 
 create_table :taggings do |t|
   t.references :tag,  :null => false

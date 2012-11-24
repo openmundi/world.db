@@ -1,7 +1,7 @@
 # top 10 cities
 
 paris,        Paris,       region:if, 2_234_105, m:10_755_000
-marseille,    Marseille    region:ac,   850_602, m: 1_582_000
+marseille,    Marseille,   region:ac,   850_602, m: 1_582_000
 lyon,         Lyon,        region:ra,   479_803, m: 1_542_000
 toulouse,     Toulouse,    region:mp,   440_204, m:   880_000
 nice,         Nice,        region:ac,   340_735, m:   962_000
