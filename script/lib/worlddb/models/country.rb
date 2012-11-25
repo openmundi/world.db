@@ -7,12 +7,27 @@ class Country < ActiveRecord::Base
 
   has_many :regions, :class_name => 'Region', :foreign_key => 'country_id'
   has_many :cities,  :class_name => 'City',   :foreign_key => 'country_id'
+  
+  ## self referencing hierachy within countries e.g. EU > GB > EN
+  belongs_to :parent,    :class_name => 'Country', :foreign_key => 'country_id'
+  has_many   :countries, :class_name => 'Country', :foreign_key => 'country_id'
 
   has_many :taggings, :as => :taggable
   has_many :tags,     :through => :taggings
 
   validates :key, :format => { :with => /^[a-z]{2}$/, :message => 'expected two lowercase letters a-z' }
   validates :code, :format => { :with => /^[A-Z_]{3}$/, :message => 'expected three uppercase letters A-Z (and _)' }
+
+
+  def title_w_synonyms
+    return title if synonyms.blank?
+    
+    buf = ''
+    buf << title
+    buf << ' | '
+    buf << synonyms.split('|').join(' | ')
+    buf
+  end
 
 
   def self.create_from_ary!( countries )

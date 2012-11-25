@@ -12,6 +12,18 @@ class Region < ActiveRecord::Base
   validates :key, :format => { :with => /^[a-z]{2,}$/, :message => 'expected two or more lowercase letters a-z' }
   validates :code, :format => { :with => /^[A-Z_]{2,3}$/, :message => 'expected two or three uppercase letters A-Z (and _)' }, :allow_nil => true
 
+
+  def title_w_synonyms
+    return title if synonyms.blank?
+    
+    buf = ''
+    buf << title
+    buf << ' | '
+    buf << synonyms.split('|').join(' | ')
+    buf
+  end
+
+
   def self.create_from_ary!( regions, more_values={} )
     regions.each do |values|
             

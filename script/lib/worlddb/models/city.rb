@@ -15,6 +15,17 @@ class City < ActiveRecord::Base
   validates :code, :format => { :with => /^[A-Z_]{3}$/, :message => 'expected three uppercase letters A-Z (and _)' }, :allow_nil => true
 
 
+  def title_w_synonyms
+    return title if synonyms.blank?
+    
+    buf = ''
+    buf << title
+    buf << ' | '
+    buf << synonyms.split('|').join(' | ')
+    buf
+  end
+
+
   def self.create_from_ary!( cities, more_values={} )
     cities.each do |values|
       

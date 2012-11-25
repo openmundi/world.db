@@ -36,7 +36,15 @@ class ValuesReader
         next
       end
 
-      # remove leading and trailing whitespace
+
+      # pass 1) remove possible trailing eol comment
+      ##  e.g    -> nyc, New York   # Sample EOL Comment Here (with or without commas,,,,)
+      ## becomes -> nyc, New York
+
+      line = line.sub( /\s+#.+$/, '' )
+
+      # pass 2) remove leading and trailing whitespace
+      
       line = line.strip
 
       puts "line: >>#{line}<<"
@@ -47,6 +55,7 @@ class ValuesReader
 
       values = values.map { |value| value.strip }
 
+      ##### todo remove support of comment column? (NB: must NOT include commas)
       # pass 2) remove comment columns
       
       values = values.select do |value|
@@ -57,14 +66,6 @@ class ValuesReader
           true
         end
       end
-
-      # pass 3) remove comments inside columns
-
-      values = values.map do |value|
-        value = value.sub( /\s+#.+$/, '' )
-        value
-      end
-      
       
       puts "  values: >>#{values.join('<< >>')}<<"
             

@@ -5,8 +5,9 @@
 #
 #  NB: using iso three letter codes (cut off first letter is always V or W for NUTS1 region)
 
+## todo: check what code to use for bruxeelles -> br is taken by Babant Wallon
 
-br, Bruxelles|Brussel [Brussels (Capital Region)],  161
+bx, Bruxelles|Brussel [Brussels (Capital Region)],  161
 
 an, Antwerpen [Antwerp],              2_867, flanders|nl
 li, Limburg,                          2_422, flanders|nl
