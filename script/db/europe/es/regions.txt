@@ -6,7 +6,7 @@ an, Andalucía|Andalusia,  87598
 ar, Aragón,               47720
 as, Asturias,             10604
 ib, Illes Balears|Balearic Islands,   4992 
-pv, Pais Vasco|Basque Country   7235
+pv, Pais Vasco|Basque Country,   7235
 cn, Canarias|Canary Islands,   7447
 cb, Cantábria,                 5321
 cl, Castilla y León,           94225
@@ -17,7 +17,7 @@ ga, Galicia,                   29574
 ri, La Rioja,                   5045
 md, Madrid,                     8028
 mc, Murcia,                    11313
-na, Navarra                    10390
+na, Navarra,                   10390
 vc, Valencia,                 23255
 
 ## autonomous cities

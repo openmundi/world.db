@@ -1,3 +1,6 @@
+#### fix: move region tag  n,ne, etc to regions
+##     no need to duplicate here for every city
+
 assis brasil,	Assis Brasil,	region:ac,n
 brasileia,	Brasileia,	region:ac,n
 cruzeiro do sul,	Cruzeiro Do Sul,	region:ac,n

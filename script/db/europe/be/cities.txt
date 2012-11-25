@@ -1,6 +1,6 @@
 
 
-brussel,   Brussel|Bruxelles [Brussels], region:br,  1_048_491, m:1_929_000    ,   # nl|fr|en
+brussel,   Brussel|Bruxelles [Brussels], region:bx,  1_048_491, m:1_929_000    ,   # nl|fr|en
 antwerp,   Antwerpen|Anvers [Antwerp],   region:an, 466_203,  m:960_000
 ghent,     Gent|Gand [Ghent],     region:ov, 235_143
 charleroi, Charleroi, region:ht, 201_550
