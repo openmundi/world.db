@@ -68,6 +68,7 @@ end
 
 create_table :tags do |t|
   t.string :key,  :null => false
+  t.string :slug, :null => false
   t.string :title    # todo: make required? 
   ## todo: add parent or similar for hierachy (for tag stacks/packs)
   t.timestamps

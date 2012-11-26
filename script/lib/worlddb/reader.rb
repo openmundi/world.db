@@ -227,8 +227,8 @@ private
           attribs[ :pop  ] = value_numbers[0]   # assume first number is pop for cities
           attribs[ :area ] = value_numbers[1]  
         else   # countries,regions
-          attribs[ :area ] = value_numbers[1]
-          attribs[ :pop  ] = value_numbers[0]
+          attribs[ :area ] = value_numbers[0]
+          attribs[ :pop  ] = value_numbers[1]
         end
       end
 

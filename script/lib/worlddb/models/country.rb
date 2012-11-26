@@ -18,17 +18,20 @@ class Country < ActiveRecord::Base
   validates :key, :format => { :with => /^[a-z]{2}$/, :message => 'expected two lowercase letters a-z' }
   validates :code, :format => { :with => /^[A-Z_]{3}$/, :message => 'expected three uppercase letters A-Z (and _)' }
 
+  def self.by_key  # order by key (a-z)
+    self.order( 'key asc' )
+  end
 
   def self.by_title  # order by title (a-z)
     self.order( 'title asc' )
   end
   
   def self.by_pop  # order by pop(ulation)
-    self.order( 'pop asc' )
+    self.order( 'pop desc' )
   end
   
   def self.by_area  # order by area (in square km)
-    self.order( 'area asc')
+    self.order( 'area desc')
   end
 
   def title_w_synonyms

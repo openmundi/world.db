@@ -19,8 +19,8 @@ pardubice, Pardubice,  region:pa, 91_073
 karlovyvary, Karlovy Vary [Carlsbad], region:ka, 53_737
 kutnahora,   Kutná Hora,              region:st, 20_839
 
-tabor,   Tábor,         region:jc, 35_769
-krumlov, Český Krumlov  region:jc, 13_752
-trebon,  Třeboň,        region:jc,  8_840
+tabor,   Tábor,          region:jc, 35_769
+krumlov, Český Krumlov,  region:jc, 13_752
+trebon,  Třeboň,         region:jc,  8_840
 
-mikulov, Mikulov,       region:jm,  7_624
+mikulov, Mikulov,        region:jm,  7_624

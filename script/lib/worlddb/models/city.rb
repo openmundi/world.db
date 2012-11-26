@@ -15,6 +15,22 @@ class City < ActiveRecord::Base
   validates :code, :format => { :with => /^[A-Z_]{3}$/, :message => 'expected three uppercase letters A-Z (and _)' }, :allow_nil => true
 
 
+  def self.by_key  # order by key (a-z)
+    self.order( 'key asc' )
+  end
+
+  def self.by_title  # order by title (a-z)
+    self.order( 'title asc' )
+  end
+  
+  def self.by_pop  # order by pop(ulation)
+    self.order( 'pop desc' )
+  end
+  
+  def self.by_area  # order by area (in square km)
+    self.order( 'area desc')
+  end
+
   def title_w_synonyms
     return title if synonyms.blank?
     

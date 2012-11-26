@@ -27,7 +27,7 @@
 
 ## eu 27 (+ euro 17)
 
-eu, European Union, EUR,  4_324_782, 503_492_041,  supra   # NB: no FIFA code exists; use EUR
+eu, European Union, EUR,  4_324_782, 503_492_041,  supra,  g20   # NB: no FIFA code exists; use EUR
 
 ## todo: auto-add tag eu?? for supra:eu?
 
