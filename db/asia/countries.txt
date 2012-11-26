@@ -5,29 +5,66 @@
 ## NB: uefa country georgia, armenia, kazakhstan are listed here 
 ## NB: australia is listed in oceania (w/ australia)
 
-kz, Kazakhstan,   KAZ, uefa|europe
-ge, Georgia,      GEO,    69_700,  4_570_934,   uefa|europe
-am, Armenia,      ARM,    29_743,  2_970_495,   uefa|europe
 
+####
+# regions (United Nations geoscheme)
+# -  Central Asia
+# -  East Asia
+# -  North Asia
+# -  South Asia | Southern Asia
+# -  Southeast Asia
+# -  Western Asia | Middle East | Near East 
+#    o Arabian Peninsula
+#    o South Caucasus
+#    o Fertile Crescent
 
-jp, Japan,        JPN
-kp, North Korea,  PRK
-kr, South Korea,  KOR
-in, India,        IND
+###
+#  central asia
+#  -> http://en.wikipedia.org/wiki/Central_Asia
 
-cn, China,        CHN
-hk, Hong Kong,    HKG,  country:cn
+kz, Kazakhstan,   KAZ, uefa|europe|central asia
 
-id, Indonesia, IDN
-my, Malaysia,  MAS
-pk, Pakistan,  PAK
-sg, Singapore, SIN
-tw, Taiwan,    TAI
-th, Thailand,  THA
-
+########
 ## middle east (nb: egypt listed in africa)
 
-sa, Saudi Arabia, KSA
+sa, Saudi Arabia, KSA,  1_960_582,  27_136_977,  middle_east|western_asia|arabian peninsula
 
-il, Israel, ISR
-pn, Palestine, PAL
+il, Israel, ISR,           20_770,   7_653_600,  middle_east|western_asia|fertile crescent
+pn, Palestine, PAL,         6_220,   4_260_636,  middle_east|western_asia|fertile crescent
+
+## add to middle east?
+
+ge, Georgia,      GEO,    69_700,  4_570_934,   uefa|europe|western asia|south caucasus
+am, Armenia,      ARM,    29_743,  2_970_495,   uefa|europe|western asia|south caucasus
+
+
+#####
+# east asia
+
+jp, Japan,        JPN,    377_930,    127_950_000,  east_asia
+kp, North Korea,  PRK,    120_538,     24_346_000,  east_asia
+kr, South Korea,  KOR,     99_828,     48_988_833,  east_asia
+cn, China,        CHN,  9_596_961,  1_339_724_852,  east_asia
+hk, Hong Kong,    HKG,      1_104,      7_061_200, country:cn,   east_asia
+tw, Taiwan,       TAI,     36_188,     23_174_528,  east_asia
+
+
+####
+# southeast asia
+
+id, Indonesia,   IDN,   1_904_569,   241_030_522,  southeast_asia
+my, Malaysia,    MAS,     329_847,    28_731_000,  southeast_asia
+sg, Singapore,   SIN,         724,     5_274_700,  southeast_asia
+th, Thailand,    THA,     513_120,    64_076_000,  southeast_asia
+ph, Philippines, PHI,     300_000,    95_856_000,  southeast_asia
+vn, Vietnam,     VIE,     331_210,    89_316_000,  southeast_asia
+
+####
+# south asia
+
+pk, Pakistan,   PAK,    796_095,   180_440_000,  south_asia
+in, India,      IND,  3_287_240, 1_210_193_422,  south_asia
+bd, Bangladesh, BAN,    147_570,   152_518_015,  south_asia
+np, Nepal,      NEP,    147_181,    26_620_080,  south_asia
+lk, Sri Lanka,  SRI,     65_610,    20_277_597,  south_asia
+

@@ -28,9 +28,3 @@ wigan,       Wigan,               region:nw,  81203
 southampton, Southampton,         region:se, 239700
 reading,     Reading,             region:se, 155700
 norwich,     Norwich,             region:ee, 140200
-
-####
-## from wales; keep it here (w/ england?) add it to gb - great britain?
-
-swansea,     Swansea,             region:wa, 239000
-

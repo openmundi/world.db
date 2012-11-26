@@ -19,6 +19,18 @@ class Country < ActiveRecord::Base
   validates :code, :format => { :with => /^[A-Z_]{3}$/, :message => 'expected three uppercase letters A-Z (and _)' }
 
 
+  def self.by_title  # order by title (a-z)
+    self.order( 'title asc' )
+  end
+  
+  def self.by_pop  # order by pop(ulation)
+    self.order( 'pop asc' )
+  end
+  
+  def self.by_area  # order by area (in square km)
+    self.order( 'area asc')
+  end
+
   def title_w_synonyms
     return title if synonyms.blank?
     

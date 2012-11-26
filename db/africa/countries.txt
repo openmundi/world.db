@@ -1,12 +1,39 @@
 ##################################
 ## africa
 ##
+## -> http://en.wikipedia.org/wiki/Africa#Territories_and_regions
 
-dz, Algeria,        ALG
-ci, Côte d'Ivoire,  CIV
-gh, Ghana,          GHA
-cm, Cameroon,       CMR
-ng, Nigeria,        NGA
-za, South Africa,   RSA
+###
+## regions:
+# - Northern Africa
+# - Western Africa
+# - Central Africa
+# - Eastern Africa
+# - Southern Africa
 
-eg, Egypt,          EGY
+
+###############
+## Northern Africa
+## 
+
+dz, Algeria,   ALG,  2_381_740,  34_178_188,  ar|northern africa
+eg, Egypt,     EGY,  1_001_450,  82_868_000,  ar|northern africa
+ma, Morocco,   MAR,    446_550,  34_859_364,  ar|northern africa
+ly, Libya,     LBY,  1_759_540,   6_310_434,  ar|northern africa
+tn, Tunisia,   TUN,    163_610,  10_486_339,  ar|northern africa
+
+
+#######
+### More
+
+ci, Côte d'Ivoire,  CIV,  322_460,  20_617_068,   western africa
+gh, Ghana,          GHA,  239_460,  23_832_495,   western africa
+ng, Nigeria,        NGA,  923_768,  166_629_000,  western africa
+
+cm, Cameroon,       CMR,  475_440,  18_879_301,  central africa
+
+
+################
+## Southern Africa
+
+za, South Africa,   RSA,  1_219_912,  51_770_560,  southern africa
