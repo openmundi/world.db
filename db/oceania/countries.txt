@@ -8,8 +8,8 @@
 ##  - Polynesia
 
 
-au, Australia, AUS,    7_686_850,  22_028_000
-nz, New Zealand, NZL,    268_680,   4_108_037
+au, Australia, AUS,    7_686_850,  22_028_000,   en|g20
+nz, New Zealand, NZL,    268_680,   4_108_037,   en
 
 ##############
 ### Melanesia

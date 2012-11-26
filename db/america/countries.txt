@@ -13,9 +13,9 @@
   
 # area (in sq km), pop(ulation)
   
-ca, Canada,           CAN, 9_984_670,  34_278_406, north america|en|fr
-us, United States,    USA, 9_629_091, 314_167_157, north america|en|es
-mx, México [Mexico],  MEX, 1_972_550, 112_322_757, north america|es
+ca, Canada,           CAN, 9_984_670,  34_278_406, en|fr|  north america|g8|g20
+us, United States,    USA, 9_629_091, 314_167_157, en|es|  north america|g8|g20
+mx, México [Mexico],  MEX, 1_972_550, 112_322_757, es|     north america|g5|g20
 
 #####################
 ## central america & caribbean islands
@@ -37,9 +37,9 @@ do, Dominican Republic, DOM   48_671,  10_090_000,  es|caribbean
 ##############
 ## south america
   
-ar, Argentina,     ARG, 2_780_400,  40_518_425, south america|es
-bo, Bolivia,       BOL, 1_098_581,  10_907_778, south america|es|qu|ay
-br, Brazil,        BRA, 8_514_215, 192_380_000, south america|pt
+ar, Argentina,     ARG, 2_780_400,  40_518_425, es|        south america|g20
+bo, Bolivia,       BOL, 1_098_581,  10_907_778, es|qu|ay|  south america
+br, Brazil,        BRA, 8_514_215, 192_380_000, pt|        south america|g5|g20
 cl, Chile,         CHI,   755_696,  16_763_470, south america|es
 co, Colombia,      COL, 1_138_748,  46_413_791, south america|es
 ec, Ecuador,       ECU,   258_238,  15_007_343, south america|es|qu

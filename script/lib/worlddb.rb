@@ -121,6 +121,7 @@ module WorldDB
    'europe/se/cities',
    'europe/tr/cities',
    'europe/ua/cities',
+   'europe/wa/cities',
    'oceania/countries',
    'oceania/au/cities'
    ]

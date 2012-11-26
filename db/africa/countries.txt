@@ -36,4 +36,4 @@ cm, Cameroon,       CMR,  475_440,  18_879_301,  central africa
 ################
 ## Southern Africa
 
-za, South Africa,   RSA,  1_219_912,  51_770_560,  southern africa
+za, South Africa,   RSA,  1_219_912,  51_770_560,  southern africa|g5|g20

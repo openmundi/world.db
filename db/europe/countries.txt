@@ -74,8 +74,8 @@ by, Belarus,     BLR,     207_600,   9_643_566
 ch, Switzerland, SUI,      41_285,   7_866_500,  de|fr|it|rm|  schengen|uefa|un    # NB: ISO (CHE) <> FIFA (SUI)
 hr, Croatia,     CRO,      56_594,   4_290_612     # NB: ISO (HRV) <> FIFA (CRO);  local name: Hrvatska
 rs, Serbia,      SRB,      88_361,   7_276_604
-ru, Russia,       RUS, 17_098_242, 142_517_670,   asia|g8|g20|north asia
-tr, Turkey,       TUR,    783_562,  79_749_461,   asia|western asia
+ru, Russia,       RUS, 17_098_242, 142_517_670,   asia|north asia|g8|g20
+tr, Turkey,       TUR,    783_562,  79_749_461,   asia|western asia|g20
 ua, Ukraine,      UKR,    603_550,  44_854_065
 mk, Macedonia,    MKD,     25_713,   2_082_370
 no, Norway,       NOR,    385_155,   4_993_300,  schengen|uefa
