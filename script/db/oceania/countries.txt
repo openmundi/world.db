@@ -1,5 +1,17 @@
 ###############################
 ## australia & oceania
 
-au, Australia, AUS
-nz, New Zealand, NZL
+####
+## regions
+##  - Melanesia
+##  - Micronesia
+##  - Polynesia
+
+
+au, Australia, AUS,    7_686_850,  22_028_000,   en|g20
+nz, New Zealand, NZL,    268_680,   4_108_037,   en
+
+##############
+### Melanesia
+
+pg, Papua New Guinea, PNG,   462_840,  5_172_033

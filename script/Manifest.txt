@@ -64,6 +64,7 @@ db/europe/sc/cities.txt
 db/europe/se/cities.txt
 db/europe/tr/cities.txt
 db/europe/ua/cities.txt
+db/europe/wa/cities.txt
 db/oceania/au/cities.txt
 db/oceania/countries.txt
 db/oceania/de.countries.yml

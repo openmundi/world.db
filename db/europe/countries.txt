@@ -36,7 +36,7 @@ be, Belgium,      BEL,    30_528, 11_007_020,  supra:eu, nl|fr|de|  eu|euro|sche
 cy, Cyprus,       CYP,     9_251,  1_099_341,  supra:eu, eu|euro|uefa|asia|western asia
 de, Germany,      GER,   357_050, 81_799_600,  supra:eu, de|        eu|euro|schengen|uefa|g8|g20|western europe|central europe     # NB: ISO (DEU) <> FIFA (GER)
 ee, Estonia,      EST,    45_226,  1_340_194,  supra:eu, eu|euro|schengen|uefa
-es, Spain,        ESP,   506_030, 46_030_109   supra:eu, eu|euro|schengen|uefa
+es, Spain,        ESP,   506_030, 46_030_109,  supra:eu, eu|euro|schengen|uefa
 fi, Finland,      FIN,   338_145,  5_391_700,  supra:eu, eu|euro|schengen|uefa
 fr, France,       FRA,   674_843, 65_821_885,  supra:eu, eu|euro|schengen|uefa|g8|g20
 gr, Greece,       GRE,   131_990, 10_787_690,  supra:eu, eu|euro|schengen|uefa             # NB: ISO (GRC) <> FIFA (GRE)

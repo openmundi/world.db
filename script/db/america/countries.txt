@@ -1,34 +1,51 @@
 ###################################################
 ## north/central/south america & caribbean islands
 
+## regions
+##  North America
+##  Central America
+##  Caribbean
+##  South America
+## extra Latin America
+
 #####################
 #### north america
   
 # area (in sq km), pop(ulation)
   
-ca, Canada,        CAN, 9984670,  34278406, north america|en|fr
-mx, Mexico,        MEX, 1972550, 112322757, north america|es
-us, United States, USA, 9629091, 314167157, north america|en|es
+ca, Canada,           CAN, 9_984_670,  34_278_406, en|fr|  north america|g8|g20
+us, United States,    USA, 9_629_091, 314_167_157, en|es|  north america|g8|g20
+mx, México [Mexico],  MEX, 1_972_550, 112_322_757, es|     north america|g5|g20
 
 #####################
 ## central america & caribbean islands
 
-cr, Costa Rica,    CRC
-hn, Honduras,      HON
-sv, El Salvador,   SLV
-  
+bz, Belize,          BLZ,  22_966,    307_000,   en|es|central_america
+gt, Guatemala,       GUA, 108_889, 14_027_000,   es|central_america
+cr, Costa Rica,      CRC,  51_100,  4_579_000,   es|central_america
+hn, Honduras,        HON, 112_492,  7_466_000,   es|central_america
+sv, El Salvador,     SLV,  21_041,  6_163_000,   es|central_america
+ni, Nicaragua,       NCA, 130_373,  5_743_000,   es|central_america
+pa, Panamá [Panama], PAN,  75_417,  3_454_000,   es|central_america
+
+
+cu, Cuba,         CUB,    109_886,  11_204_000,  es|caribbean
+jm, Jamaica,      JAM,     10_991,   2_719_000,  en|caribbean
+pr, Puerto Rico,  PUR,      8_870,   3_982_000, country:us, es|en|caribbean
+do, Dominican Republic, DOM,   48_671,  10_090_000,  es|caribbean
+
 ##############
 ## south america
   
-ar, Argentina,     ARG, 2780400,  40518425, south america|es
-bo, Bolivia,       BOL, 1098581,  10907778, south america|es
-br, Brazil,        BRA, 8514215, 192380000, south america|pt
-cl, Chile,         CHI,  755696,  16763470, south america|es
-co, Colombia,      COL, 1138748,  46413791, south america|es
-ec, Ecuador,       ECU,  258238,  15007343, south america|es
-gy, Guyana,        GUY,  214970,    752940, south america|en
-pe, Peru,          PER, 1285220,  29546963, south america|es
-sr, Suriname,      SUR,  163820,    492829, south america|nl
-py, Paraguay,      PAR,  406752,   6375830, south america|es
-uy, Uruguay,       URU,  176215,   3510386, south america|es
-ve, Venezuela,     VEN,  916445,  28833845, south america|es
+ar, Argentina,     ARG, 2_780_400,  40_518_425, es|        south america|g20
+bo, Bolivia,       BOL, 1_098_581,  10_907_778, es|qu|ay|  south america
+br, Brazil,        BRA, 8_514_215, 192_380_000, pt|        south america|g5|g20
+cl, Chile,         CHI,   755_696,  16_763_470, south america|es
+co, Colombia,      COL, 1_138_748,  46_413_791, south america|es
+ec, Ecuador,       ECU,   258_238,  15_007_343, south america|es|qu
+gy, Guyana,        GUY,   214_970,     752_940, south america|en
+pe, Peru,          PER, 1_285_220,  29_546_963, south america|es
+sr, Suriname,      SUR,   163_820,     492_829, south america|nl
+py, Paraguay,      PAR,   406_752,   6_375_830, south america|es
+uy, Uruguay,       URU,   176_215,   3_510_386, south america|es
+ve, Venezuela,     VEN,   916_445,  28_833_845, south america|es

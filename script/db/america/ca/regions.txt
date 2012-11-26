@@ -9,20 +9,20 @@
 #  http://en.wikipedia.org/wiki/List_of_regions_of_Canada
 
 
-bc, British Columbia,          922509, western canada
+bc, British Columbia,          922509, en|western canada
 
-ab, Alberta,                   640082, western canada|prairies
-mb, Manitoba,                  552330, western canada|prairies
-sk, Saskatchewan,              588239, western canada|prairies
+ab, Alberta,                   640082, en|western canada|prairies
+mb, Manitoba,                  552330, en|western canada|prairies
+sk, Saskatchewan,              588239, en|western canada|prairies
 
-nb, New Brunswick,              71377, eastern canada|atlantic canada|maritimes
-ns, Nova Scotia,                52939, eastern canada|atlantic canada|maritimes
-pe, Prince Edward Island,        5686, eastern canada|atlantic canada|maritimes
-nl, Newfoundland and Labrador, 370511, eastern canada|atlantic canada
+nb, New Brunswick,              71377, en|fr|eastern canada|atlantic canada|maritimes
+ns, Nova Scotia,                52939, en|eastern canada|atlantic canada|maritimes
+pe, Prince Edward Island,        5686, en|eastern canada|atlantic canada|maritimes
+nl, Newfoundland and Labrador, 370511, en|eastern canada|atlantic canada
 
-on, Ontario,                   908608, eastern canada|central canada
-qc, Québec,                   1356547, eastern canada|central canada
+on, Ontario,                   908608, en|eastern canada|central canada
+qc, Québec,                   1356547, fr|en|eastern canada|central canada
 
-nt, Northwest Territories,    1143793, northern canada|territories
-yt, Yukon,                     474713, northern canada|territories
-nu, Nunavut,                  1877788, northern canada|territories
+nt, Northwest Territories,    1143793, en|fr|northern canada|territories
+yt, Yukon,                     474713, en|northern canada|territories
+nu, Nunavut,                  1877788, iu|en|fr|northern canada|territories

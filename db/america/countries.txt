@@ -32,7 +32,7 @@ pa, Panamá [Panama], PAN,  75_417,  3_454_000,   es|central_america
 cu, Cuba,         CUB,    109_886,  11_204_000,  es|caribbean
 jm, Jamaica,      JAM,     10_991,   2_719_000,  en|caribbean
 pr, Puerto Rico,  PUR,      8_870,   3_982_000, country:us, es|en|caribbean
-do, Dominican Republic, DOM   48_671,  10_090_000,  es|caribbean
+do, Dominican Republic, DOM,   48_671,  10_090_000,  es|caribbean
 
 ##############
 ## south america

@@ -22,7 +22,7 @@
 #  central asia
 #  -> http://en.wikipedia.org/wiki/Central_Asia
 
-kz, Kazakhstan,   KAZ, uefa|europe|central asia
+kz, Kazakhstan,  KAZ,  2_724_900,  16_600_000,    uefa|europe|central asia
 
 ########
 ## middle east (nb: egypt listed in africa)

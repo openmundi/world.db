@@ -38,3 +38,11 @@ saintjohn,      Saint John,             region:nb, 126_000
 thunderbay,     Thunder Bay,            region:on, 126_000
 barrie,         Barrie,                 region:on, 119_000
 sydney,         Sydney,                 region:ns, 118_000
+
+# add more captials 
+
+frederiction,   Frederiction,           region:nb
+yellowknife,    Yellowknife,            region:nt
+iqaluit,        Iqaluit,                region:nu
+charlottetown,  Charlottetown,          region:pe
+whitehorse,     Whitehorse,             region:yt
