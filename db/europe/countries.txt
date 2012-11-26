@@ -82,7 +82,3 @@ is, Iceland,      ISL,    103_000,     318_452,  schengen|uefa
 
 ## todo/fix: add missing countries
 
-## move to asia??
-
-ge, Georgia,     GEO,    69_700,  4_570_934,   uefa|asia
-am, Armenia,     ARM,    29_743,  2_970_495,   uefa|asia

@@ -2,13 +2,32 @@
 ### asia (includes middle east)
 ##
 
-## NB: uefa country kazakhstan is listed here 
+## NB: uefa country georgia, armenia, kazakhstan are listed here 
 ## NB: australia is listed in oceania (w/ australia)
+
+kz, Kazakhstan,   KAZ, uefa|europe
+ge, Georgia,      GEO,    69_700,  4_570_934,   uefa|europe
+am, Armenia,      ARM,    29_743,  2_970_495,   uefa|europe
 
 
 jp, Japan,        JPN
 kp, North Korea,  PRK
 kr, South Korea,  KOR
 in, India,        IND
-kz, Kazakhstan,   KAZ, uefa
 
+cn, China,        CHN
+hk, Hong Kong,    HKG,  country:cn
+
+id, Indonesia, IDN
+my, Malaysia,  MAS
+pk, Pakistan,  PAK
+sg, Singapore, SIN
+tw, Taiwan,    TAI
+th, Thailand,  THA
+
+## middle east (nb: egypt listed in africa)
+
+sa, Saudi Arabia, KSA
+
+il, Israel, ISR
+pn, Palestine, PAL

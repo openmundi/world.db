@@ -8,3 +8,5 @@ gh, Ghana,          GHA
 cm, Cameroon,       CMR
 ng, Nigeria,        NGA
 za, South Africa,   RSA
+
+eg, Egypt,          EGY
