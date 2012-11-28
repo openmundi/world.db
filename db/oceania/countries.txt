@@ -7,8 +7,10 @@
 ##  - Micronesia
 ##  - Polynesia
 
+fj, Fiji, FIJ, un|fifa
 
-au, Australia, AUS,    7_686_850,  22_028_000,   en|g20
+
+au, Australia, AUS,    7_686_850,  22_028_000,   un|fifa|en|g20
 nz, New Zealand, NZL,    268_680,   4_108_037,   en
 
 ##############

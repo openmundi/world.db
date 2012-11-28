@@ -12,12 +12,29 @@
 # - Southern Africa
 
 
+ao, Angola,  ANG,  un|fifa
+bj, Benin,   BEN,  un|fifa
+bw, Botswana, BOT, un|fifa
+bf, Burkina Faso, BFA, un|fifa
+bi, Burundi, BDI,  un|fifa
+cv, Cape Verde, CPV,  un|fifa
+cf, Central African Republic, CTA, un|fifa
+td, Chad, CHA,  un|fifa
+km, Comoros, COM,  un|fifa
+cg, Congo, CGO, un|fifa
+cd, Congo DR, COD, un|fifa
+dj, Djibouti, DJI, un|fifa
+gq, Equatorial Guinea, EQG, un|fifa
+er, Eritrea, ERI, un|fifa
+et, Ethiopia, ETH, un|fifa
+
+
 ###############
 ## Northern Africa
 ## 
 
-dz, Algeria,   ALG,  2_381_740,  34_178_188,  ar|northern africa
-eg, Egypt,     EGY,  1_001_450,  82_868_000,  ar|northern africa
+dz, Algeria,   ALG,  2_381_740,  34_178_188,  un|fifa|ar|northern africa
+eg, Egypt,     EGY,  1_001_450,  82_868_000,  un|fifa|ar|northern africa
 ma, Morocco,   MAR,    446_550,  34_859_364,  ar|northern africa
 ly, Libya,     LBY,  1_759_540,   6_310_434,  ar|northern africa
 tn, Tunisia,   TUN,    163_610,  10_486_339,  ar|northern africa
@@ -26,11 +43,11 @@ tn, Tunisia,   TUN,    163_610,  10_486_339,  ar|northern africa
 #######
 ### More
 
-ci, Côte d'Ivoire,  CIV,  322_460,  20_617_068,   western africa
+ci, Côte d'Ivoire,  CIV,  322_460,  20_617_068,   un|fifa|western africa
 gh, Ghana,          GHA,  239_460,  23_832_495,   western africa
 ng, Nigeria,        NGA,  923_768,  166_629_000,  western africa
 
-cm, Cameroon,       CMR,  475_440,  18_879_301,  central africa
+cm, Cameroon,       CMR,  475_440,  18_879_301,  un|fifa|central africa
 
 
 ################

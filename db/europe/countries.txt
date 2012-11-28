@@ -2,6 +2,8 @@
 ### europe 
 
 
+ba, Bosnia and Herzegovina, BIH, un|fifa
+
 ## NB:
 #
 #  countries also include:
@@ -31,14 +33,14 @@ eu, European Union, EUR,  4_324_782, 503_492_041,  supra,  g20   # NB: no FIFA c
 
 ## todo: auto-add tag eu?? for supra:eu?
 
-at, Austria,      AUT,    83_871,  8_414_638,  supra:eu, de|        eu|euro|schengen|uefa|central europe
-be, Belgium,      BEL,    30_528, 11_007_020,  supra:eu, nl|fr|de|  eu|euro|schengen|uefa|benelux
-cy, Cyprus,       CYP,     9_251,  1_099_341,  supra:eu, eu|euro|uefa|asia|western asia
+at, Austria,      AUT,    83_871,  8_414_638,  supra:eu, un|fifa|de|        eu|euro|schengen|uefa|central europe
+be, Belgium,      BEL,    30_528, 11_007_020,  supra:eu, un|fifa|nl|fr|de|  eu|euro|schengen|uefa|benelux
+cy, Cyprus,       CYP,     9_251,  1_099_341,  supra:eu, un|fifa|eu|euro|uefa|asia|western asia
 de, Germany,      GER,   357_050, 81_799_600,  supra:eu, de|        eu|euro|schengen|uefa|g8|g20|western europe|central europe     # NB: ISO (DEU) <> FIFA (GER)
-ee, Estonia,      EST,    45_226,  1_340_194,  supra:eu, eu|euro|schengen|uefa
+ee, Estonia,      EST,    45_226,  1_340_194,  supra:eu, un|fifa|eu|euro|schengen|uefa
 es, Spain,        ESP,   506_030, 46_030_109,  supra:eu, eu|euro|schengen|uefa
-fi, Finland,      FIN,   338_145,  5_391_700,  supra:eu, eu|euro|schengen|uefa
-fr, France,       FRA,   674_843, 65_821_885,  supra:eu, eu|euro|schengen|uefa|g8|g20
+fi, Finland,      FIN,   338_145,  5_391_700,  supra:eu, un|fifa|eu|euro|schengen|uefa
+fr, France,       FRA,   674_843, 65_821_885,  supra:eu, un|fifa|eu|euro|schengen|uefa|g8|g20
 gr, Greece,       GRE,   131_990, 10_787_690,  supra:eu, eu|euro|schengen|uefa             # NB: ISO (GRC) <> FIFA (GRE)
 ie, Irland,       IRL,    70_273,  4_722_028,  supra:eu, eu|euro|uefa
 it, Italy,        ITA,   301_318, 60_681_514,  supra:eu, eu|euro|schengen|uefa|g8|g20
@@ -49,15 +51,15 @@ pt, Portugal,     POR,    92_391, 10_647_763,  supra:eu, eu|euro|schengen       
 sk, Slovakia,     SVK,    49_037,  5_440_078,  supra:eu, eu|euro|schengen
 si, Slovenia,     SVN,    20_273,  2_048_951,  supra:eu, eu|euro|schengen
 
-bg, Bulgaria,         BUL,  110_994,  7_364_570,  supra:eu, eu|uefa              # NB: ISO (BGR) <> FIFA (BUL)
-dk, Denmark,          DEN,   43_094,  5_564_219,  supra:eu, eu|uefa|schengen           # NB: ISO (DNK) <> FIFA (DEN)
+bg, Bulgaria,         BUL,  110_994,  7_364_570,  supra:eu, un|fifa|eu|uefa              # NB: ISO (BGR) <> FIFA (BUL)
+dk, Denmark,          DEN,   43_094,  5_564_219,  supra:eu, un|fifa|eu|uefa|schengen           # NB: ISO (DNK) <> FIFA (DEN)
 gb, Great Britain,    GBR,  243_610, 63_047_162,  supra:eu, eu|g8|g20     # NB: no FIFA code exists; use GBR
 lv, Latvija [Latvia], LVA,   64_589,  2_245_357,  supra:eu, eu|uefa|schengen
 lt, Lithuania,        LTU,   65_303,  3_207_060,  supra:eu, eu|uefa|schengen
 pl, Poland,           POL,  312_683, 38_186_860,  supra:eu, eu|uefa|schengen
 ro, Romania,          ROU,  238_391, 19_042_936,  supra:eu, eu|uefa
 se, Sweden,           SWE,  449_964,  9_415_570,  supra:eu, eu|uefa|schengen
-cz, Czech Republic,   CZE,   78_866, 10_535_811,  supra:eu, cs|sk|  eu|uefa|schengen
+cz, Czech Republic,   CZE,   78_866, 10_535_811,  supra:eu, un|fifa|cs|sk|  eu|uefa|schengen
 hu, Hungary,          HUN,   93_030,  9_979_000,  supra:eu, eu|uefa|schengen
 
 
@@ -68,11 +70,11 @@ wa, Wales,        WAL,      20_779,   3_064_000,  country:gb
 
 fo, Faroe Islands,  FRO,    1_399,      49_267,  country:dk
 
-ad, Andorra,     AND,         468,      85_082
-al, Albania,     ALB,      28_748,   3_002_859
-by, Belarus,     BLR,     207_600,   9_643_566
+ad, Andorra,     AND,         468,      85_082,  un|fifa
+al, Albania,     ALB,      28_748,   3_002_859,  un|fifa
+by, Belarus,     BLR,     207_600,   9_643_566,  un|fifa
 ch, Switzerland, SUI,      41_285,   7_866_500,  de|fr|it|rm|  schengen|uefa|un    # NB: ISO (CHE) <> FIFA (SUI)
-hr, Croatia,     CRO,      56_594,   4_290_612     # NB: ISO (HRV) <> FIFA (CRO);  local name: Hrvatska
+hr, Croatia,     CRO,      56_594,   4_290_612,  un|fifa     # NB: ISO (HRV) <> FIFA (CRO);  local name: Hrvatska
 rs, Serbia,      SRB,      88_361,   7_276_604
 ru, Russia,       RUS, 17_098_242, 142_517_670,   asia|north asia|g8|g20
 tr, Turkey,       TUR,    783_562,  79_749_461,   asia|western asia|g20

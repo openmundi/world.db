@@ -18,6 +18,17 @@
 #    o South Caucasus
 #    o Fertile Crescent
 
+
+af, Afghanistan, AFG,  un|fifa
+az, Azerbaijan, AZE,  un|fifa
+
+bh, Bahrain, BHR, un|fifa
+bt, Bhutan, BHU, un|fifa
+bn, Brunei, BRU,  un|fifa
+
+kh, Cambodia, CAM,  un|fifa
+
+
 ###
 #  central asia
 #  -> http://en.wikipedia.org/wiki/Central_Asia
@@ -35,16 +46,16 @@ pn, Palestine, PAL,         6_220,   4_260_636,  middle_east|western_asia|fertil
 ## add to middle east?
 
 ge, Georgia,      GEO,    69_700,  4_570_934,   uefa|europe|western asia|south caucasus
-am, Armenia,      ARM,    29_743,  2_970_495,   uefa|europe|western asia|south caucasus
+am, Armenia,      ARM,    29_743,  2_970_495,   un|fifa|uefa|europe|western asia|south caucasus
 
 
 #####
 # east asia
 
 jp, Japan,        JPN,    377_930,    127_950_000,  east_asia|g8|g20
-kp, North Korea,  PRK,    120_538,     24_346_000,  east_asia
-kr, South Korea,  KOR,     99_828,     48_988_833,  east_asia|g20
-cn, China,        CHN,  9_596_961,  1_339_724_852,  east_asia|g5|g20
+kp, North Korea,  PRK,    120_538,     24_346_000,  un|fifa|east_asia
+kr, South Korea,  KOR,     99_828,     48_988_833,  un|fifa|east_asia|g20
+cn, China,        CHN,  9_596_961,  1_339_724_852,  un|fifa|east_asia|g5|g20
 hk, Hong Kong,    HKG,      1_104,      7_061_200, country:cn,   east_asia
 tw, Taiwan,       TAI,     36_188,     23_174_528,  east_asia
 
@@ -64,7 +75,7 @@ vn, Vietnam,     VIE,     331_210,    89_316_000,  southeast_asia
 
 pk, Pakistan,   PAK,    796_095,   180_440_000,  south_asia
 in, India,      IND,  3_287_240, 1_210_193_422,  south_asia|g5|g20
-bd, Bangladesh, BAN,    147_570,   152_518_015,  south_asia
+bd, Bangladesh, BAN,    147_570,   152_518_015,  un|fifa|south_asia
 np, Nepal,      NEP,    147_181,    26_620_080,  south_asia
 lk, Sri Lanka,  SRI,     65_610,    20_277_597,  south_asia
 
