@@ -76,7 +76,7 @@ kz, Kazakhstan,  KAZ,  2_724_900,  16_600_000,    un|fifa|uefa|europe|central as
 sa, Saudi Arabia, KSA,  1_960_582,  27_136_977,  un|fifa|middle_east|western_asia|arabian peninsula|g20
 
 il, Israel, ISR,           20_770,   7_653_600,  un|fifa|middle_east|western_asia|fertile crescent
-pn, Palestine, PAL,         6_220,   4_260_636,  middle_east|western_asia|fertile crescent
+ps, Palestine, PAL,         6_220,   4_260_636,  middle_east|western_asia|fertile crescent
 
 ## add to middle east?
 
