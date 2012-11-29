@@ -19,40 +19,75 @@
 #    o Fertile Crescent
 
 
-af, Afghanistan, AFG,  un|fifa
-az, Azerbaijan, AZE,  un|fifa
+af, Afghanistan, AFG, 647_500,  30_419_928,     Kabul, un|fifa
+az, Azerbaijan, AZE,   86_600,   9_165_000,     Baku, un|fifa
 
-bh, Bahrain, BHR, un|fifa
-bt, Bhutan, BHU, un|fifa
-bn, Brunei, BRU,  un|fifa
+bh, Bahrain, BHR,      765,      1_234_571,     Manama,  un|fifa
+bt, Bhutan, BHU,     38_394,       742_737,    Thimphu, un|fifa
+bn, Brunei, BRU,      5_765,       408_786,    Bandar Seri Begawan,   un|fifa
 
-kh, Cambodia, CAM,  un|fifa
+kh, Cambodia, CAM,   181_035,   14_952_665,  Phnom Penh,  un|fifa
+
+ir, Iran,   IRN, 1_648_195,  75_149_669,  Tehran, un|fifa
+iq, Iraq,   IRQ,   438_317,  31_129_225,  Baghdad,  un|fifa
+
+jo, Jordan, JOR,    89_342,   6_508_271,  Amman, un|fifa
+
+kw, Kuwait, KUW,      17_820,  3_566_437,  Kuwait City, un|fifa
+kg, Kyrgyzstan, KGZ, 199_900,  5_550_239,  Bishkek, un|fifa
+
+la, Laos, LAO,  236_800,  6_500_000,    Vientiane,  un|fifa
+lb, Lebanon, LIB, 10_452,  4_224_000,    Beirut,  un|fifa
+
+
+mv, Maldives, MDV, 298,  328_536,  Malé,  un|fifa
+
+mn, Mongolia, MGL,  1_564_116, 2_754_685,  Ulan Bator, un|fifa
+mm, Myanmar, MYA,  676_578,  60_280_000,    Naypyidaw, un|fifa
+
+om, Oman, OMA,  309_501,   2_773_479,    Muscat,  un|fifa
+
+qa, Qatar, QAT, 11_571,  1_853_563,    Doha,  un|fifa
+
+sy, Syria, SYR,  185_180,  22_530_746,   Damascus,  un|fifa
+
+tj, Tajikistan, TJK,  143_100, 7_616_000,     Dushanbe,  un|fifa
+
+tl, Timor-Leste [East Timor], TLS, 14_874, 1_066_582,   Dili, un|fifa 
+
+tm, Turkmenistan, TKM, 491_210, 5_125_693,   Ashgabat,  un|fifa
+
+ae, United Arab Emirates, UAE, 83_600,  8_264_070,    Abu Dhabi,  un|fifa
+
+uz, Uzbekistan, UZB, 447_400,  29_559_100,    Tashkent,  un|fifa
+
+ye, Yemen, YEM, 527_829,   25_130_000,      Sana'a,  un|fifa
 
 
 ###
 #  central asia
 #  -> http://en.wikipedia.org/wiki/Central_Asia
 
-kz, Kazakhstan,  KAZ,  2_724_900,  16_600_000,    uefa|europe|central asia
+kz, Kazakhstan,  KAZ,  2_724_900,  16_600_000,    un|fifa|uefa|europe|central asia
 
 ########
 ## middle east (nb: egypt listed in africa)
 
-sa, Saudi Arabia, KSA,  1_960_582,  27_136_977,  middle_east|western_asia|arabian peninsula|g20
+sa, Saudi Arabia, KSA,  1_960_582,  27_136_977,  un|fifa|middle_east|western_asia|arabian peninsula|g20
 
-il, Israel, ISR,           20_770,   7_653_600,  middle_east|western_asia|fertile crescent
+il, Israel, ISR,           20_770,   7_653_600,  un|fifa|middle_east|western_asia|fertile crescent
 pn, Palestine, PAL,         6_220,   4_260_636,  middle_east|western_asia|fertile crescent
 
 ## add to middle east?
 
-ge, Georgia,      GEO,    69_700,  4_570_934,   uefa|europe|western asia|south caucasus
+ge, Georgia,      GEO,    69_700,  4_570_934,   un|fifa|uefa|europe|western asia|south caucasus
 am, Armenia,      ARM,    29_743,  2_970_495,   un|fifa|uefa|europe|western asia|south caucasus
 
 
 #####
 # east asia
 
-jp, Japan,        JPN,    377_930,    127_950_000,  east_asia|g8|g20
+jp, Japan,        JPN,    377_930,    127_950_000,  un|fifa|east_asia|g8|g20
 kp, North Korea,  PRK,    120_538,     24_346_000,  un|fifa|east_asia
 kr, South Korea,  KOR,     99_828,     48_988_833,  un|fifa|east_asia|g20
 cn, China,        CHN,  9_596_961,  1_339_724_852,  un|fifa|east_asia|g5|g20
@@ -63,19 +98,19 @@ tw, Taiwan,       TAI,     36_188,     23_174_528,  east_asia
 ####
 # southeast asia
 
-id, Indonesia,   IDN,   1_904_569,   241_030_522,  southeast_asia|g20
-my, Malaysia,    MAS,     329_847,    28_731_000,  southeast_asia
-sg, Singapore,   SIN,         724,     5_274_700,  southeast_asia
-th, Thailand,    THA,     513_120,    64_076_000,  southeast_asia
-ph, Philippines, PHI,     300_000,    95_856_000,  southeast_asia
-vn, Vietnam,     VIE,     331_210,    89_316_000,  southeast_asia
+id, Indonesia,   IDN,   1_904_569,   241_030_522,  un|fifa|southeast_asia|g20
+my, Malaysia,    MAS,     329_847,    28_731_000,  un|fifa|southeast_asia
+sg, Singapore,   SIN,         724,     5_274_700,  un|fifa|southeast_asia
+th, Thailand,    THA,     513_120,    64_076_000,  un|fifa|southeast_asia
+ph, Philippines, PHI,     300_000,    95_856_000,  un|fifa|southeast_asia
+vn, Vietnam,     VIE,     331_210,    89_316_000,  un|fifa|southeast_asia
 
 ####
 # south asia
 
-pk, Pakistan,   PAK,    796_095,   180_440_000,  south_asia
-in, India,      IND,  3_287_240, 1_210_193_422,  south_asia|g5|g20
+pk, Pakistan,   PAK,    796_095,   180_440_000,  un|fifa|south_asia
+in, India,      IND,  3_287_240, 1_210_193_422,  un|fifa|south_asia|g5|g20
 bd, Bangladesh, BAN,    147_570,   152_518_015,  un|fifa|south_asia
-np, Nepal,      NEP,    147_181,    26_620_080,  south_asia
-lk, Sri Lanka,  SRI,     65_610,    20_277_597,  south_asia
+np, Nepal,      NEP,    147_181,    26_620_080,  un|fifa|south_asia
+lk, Sri Lanka,  SRI,     65_610,    20_277_597,  un|fifa|south_asia
 
