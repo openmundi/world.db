@@ -5,6 +5,7 @@ Rakefile
 bin/worlddb
 db/africa/countries.txt
 db/africa/de.countries.yml
+db/africa/en.wikipedia.yml
 db/america/br/cities.txt
 db/america/br/regions.txt
 db/america/ca/cities.txt
@@ -12,6 +13,7 @@ db/america/ca/regions.txt
 db/america/countries.motor.yml
 db/america/countries.txt
 db/america/de.countries.yml
+db/america/en.wikipedia.yml
 db/america/es.countries.yml
 db/america/mx/cities.txt
 db/america/mx/regions.txt
@@ -21,6 +23,7 @@ db/america/ve/cities.txt
 db/america/ve/regions.txt
 db/asia/countries.txt
 db/asia/de.countries.yml
+db/asia/en.wikipedia.yml
 db/asia/jp/cities.txt
 db/europe/at/cities.txt
 db/europe/at/regions.txt
@@ -38,6 +41,7 @@ db/europe/de/cities.txt
 db/europe/de/regions.txt
 db/europe/dk/cities.txt
 db/europe/ee/cities.txt
+db/europe/en.wikipedia.yml
 db/europe/en/cities.txt
 db/europe/en/regions.txt
 db/europe/es.countries.yml
@@ -68,6 +72,7 @@ db/europe/wa/cities.txt
 db/oceania/au/cities.txt
 db/oceania/countries.txt
 db/oceania/de.countries.yml
+db/oceania/en.wikipedia.yml
 db/tags.yml
 lib/worlddb.rb
 lib/worlddb/cli/opts.rb
