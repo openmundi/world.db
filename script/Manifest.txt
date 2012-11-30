@@ -6,6 +6,8 @@ bin/worlddb
 db/africa/countries.txt
 db/africa/de.countries.yml
 db/africa/en.wikipedia.yml
+db/africa/fifa.yml
+db/africa/iso3.yml
 db/america/br/cities.txt
 db/america/br/regions.txt
 db/america/ca/cities.txt
@@ -86,6 +88,7 @@ lib/worlddb/models/region.rb
 lib/worlddb/models/tag.rb
 lib/worlddb/models/tagging.rb
 lib/worlddb/reader.rb
+lib/worlddb/readers/hash_reader.rb
 lib/worlddb/readers/line_reader.rb
 lib/worlddb/readers/values_reader.rb
 lib/worlddb/schema.rb
