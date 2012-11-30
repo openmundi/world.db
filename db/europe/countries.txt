@@ -16,7 +16,7 @@ sm, San Marino, SMR,  61,  32_404,  City of San Marino,  un|fifa
 ## NB:
 #
 #  countries also include:
-#    england (en), scotland (ab for Alba (scotland in scotish gaelic) - sc (Seychellen),so,st,sl,sa,sn,sd all taken)
+#    england (en), scotland (sc) - nb: Seychellen renamed from sc to ey
 #   use nd for northern ireland (ni (nicaragua),no, nr (naru) taken - anything better - anything common?)
 #    - use ul for ulster? better?
 #

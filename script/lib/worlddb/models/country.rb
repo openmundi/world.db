@@ -18,22 +18,29 @@ class Country < ActiveRecord::Base
   validates :key, :format => { :with => /^[a-z]{2}$/, :message => 'expected two lowercase letters a-z' }
   validates :code, :format => { :with => /^[A-Z_]{3}$/, :message => 'expected three uppercase letters A-Z (and _)' }
 
-  def self.by_key  # order by key (a-z)
-    self.order( 'key asc' )
-  end
-
-  def self.by_title  # order by title (a-z)
-    self.order( 'title asc' )
+  scope :by_key,   order( 'key asc' )     # order by key (a-z)
+  scope :by_title, order( 'title asc' )   # order by title (a-z)
+  scope :by_code,  order( 'code asc' )    # order by code (a-z)
+  scope :by_pop,   order( 'pop desc' )    # order by pop(ulation)
+  scope :by_area,  order( 'area desc')    # order by area (in square km)
+ 
+  ###
+  #  NB: use is_  for flags to avoid conflict w/ assocs 
+  
+  def is_supra?  
+    s? == true
   end
   
-  def self.by_pop  # order by pop(ulation)
-    self.order( 'pop desc' )
+  def is_country?
+    c? == true
   end
   
-  def self.by_area  # order by area (in square km)
-    self.order( 'area desc')
+  def is_dependency?
+    d? == true
   end
 
+ 
+ 
   def title_w_synonyms
     return title if synonyms.blank?
     

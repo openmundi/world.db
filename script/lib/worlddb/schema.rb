@@ -18,10 +18,11 @@ create_table :countries do |t|
   t.integer :pop,    :null => false    # population count
   t.integer :area,   :null => false    #  area in square km (sq. km)
   t.references :country  # for supra(nationals) n depend(encies)
+  
+  ## flags (use single int named flags - why? why not?  
   t.boolean :s,  :null => false, :default => false   # supra(national) flag e.g. eu
   t.boolean :c,  :null => false, :default => false   # country flag (is this needed?)
   t.boolean :d,  :null => false, :default => false   # dependency flag
-  t.timestamps
  
   # extras
   t.string  :motor      # optional auto motor (vehicle) licene plate
@@ -30,6 +31,9 @@ create_table :countries do |t|
   t.string  :fifa       # optional fifa country code
   t.string  :net        # optional internet top level domain (tld)
   t.string  :wikipedia  # optional wikipedia page name -- en.wikipedia.org/wiki/<name>
+
+  ## timestamp at last
+  t.timestamps
 end
 
 
@@ -58,18 +62,21 @@ create_table :cities do |t|
   t.string :synonyms  # comma separated list of synonyms
   t.references :country,  :null => false
   t.references :region    # optional for now
+  t.references :city  # optional parent (e.g. metro for city, or city for district)
   t.integer :pop     # optional population count (city proper)
   t.integer :popm    # optional population count (metropolitan/aglomeration)
   t.integer :area    # optional area in square km (sq. km)
   t.float   :lat   # optional for now
   t.float   :lng   # optional for now
+
+  ## flags (use single int named flags - why? why not?    
   t.boolean :m,  :null => false, :default => false   # metro flag
   t.boolean :c,  :null => false, :default => false   # city flag (is this needed?)
   t.boolean :d,  :null => false, :default => false   # district flag
-  t.references :city  # optional parent (e.g. metro for city, or city for district)
-  t.timestamps
 
   ### t.boolean :capital, :null => false, :default => false  # is national captial?
+  
+  t.timestamps
 end
 
 create_table :tags do |t|

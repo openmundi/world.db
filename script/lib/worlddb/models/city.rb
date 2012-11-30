@@ -7,6 +7,37 @@ class City < ActiveRecord::Base
 
   belongs_to :country, :class_name => 'Country', :foreign_key => 'country_id'
   belongs_to :region,  :class_name => 'Region',  :foreign_key => 'region_id'
+
+  ## self referencing hierachy within cities e.g. m|metro > c|city > d|district
+
+  ## fix: use condition check for m|d|c flag?? why? why not? (NB: flags are NOT exclusive e.g. possible metro|city)
+  
+  ## (1) metro - level up
+  has_many   :cities,    :class_name => 'City', :foreign_key => 'city_id'
+
+  ## (2) city
+  belongs_to :metro,     :class_name => 'City', :foreign_key => 'city_id'   ## for now alias for parent - use parent?
+  has_many   :districts, :class_name => 'City', :foreign_key => 'city_id'   ## for now alias for cities - use cities?
+
+  ## (3) district - level down
+  belongs_to :city,      :class_name => 'City', :foreign_key => 'city_id'  ## for now alias for parent - use parent?
+
+
+  ###
+  #  NB: use is_  for flags to avoid conflict w/ assocs (e.g. metro?, city? etc.)
+  
+  def is_metro?
+    m? == true
+  end
+  
+  def is_city?
+    c? == true
+  end
+  
+  def is_district?
+    d? == true
+  end
+
   
   has_many :taggings, :as => :taggable
   has_many :tags,  :through => :taggings
@@ -14,22 +45,11 @@ class City < ActiveRecord::Base
   validates :key, :format => { :with => /^[a-z]{3,}$/, :message => 'expected three or more lowercase letters a-z' }
   validates :code, :format => { :with => /^[A-Z_]{3}$/, :message => 'expected three uppercase letters A-Z (and _)' }, :allow_nil => true
 
-
-  def self.by_key  # order by key (a-z)
-    self.order( 'key asc' )
-  end
-
-  def self.by_title  # order by title (a-z)
-    self.order( 'title asc' )
-  end
-  
-  def self.by_pop  # order by pop(ulation)
-    self.order( 'pop desc' )
-  end
-  
-  def self.by_area  # order by area (in square km)
-    self.order( 'area desc')
-  end
+  scope :by_key,    order( 'key asc' )    # order by key (a-z)
+  scope :by_title,  order( 'title asc' )  # order by title (a-z)
+  scope :by_pop,    order( 'pop desc' )   # order by pop(ulation)
+  scope :by_popm,   order( 'popm desc' )  # order by pop(ulation) metropolitan area
+  scope :by_area    order( 'area desc' )  # order by area (in square km)
 
   def title_w_synonyms
     return title if synonyms.blank?

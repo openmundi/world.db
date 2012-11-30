@@ -54,7 +54,9 @@ rw, Rwanda, RWA,  26_338,  11_689_696,    Kigali,  un|fifa
 st, São Tomé and Príncipe, STP,  1_001,  183_176,  São Tomé,  un|fifa
 
 sn, Senegal, SEN, 196_723,  12_855_153,     Dakar,  un|fifa
-sc, Seychelles, SEY,  451, 84_000,  Victoria,  un|fifa
+
+## NB: sc renamed to ey (sc used for Scottland)
+ey, Seychelles, SEY,  451, 84_000,  Victoria,  un|fifa
 sl, Sierra Leone, SLE,  71_740,  5_485_998,    Freetown,  un|fifa
 
 so, Somalia, SOM,  637_657, 10_085_638,     Mogadishu,  un|fifa
