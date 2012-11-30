@@ -32,6 +32,7 @@ require 'worlddb/schema'       # NB: requires worlddb/models (include WorldDB::M
 require 'worlddb/utils'
 require 'worlddb/readers/line_reader'
 require 'worlddb/readers/values_reader'
+require 'worlddb/readers/hash_reader'
 require 'worlddb/reader'
 require 'worlddb/loader'
 require 'worlddb/cli/opts'
@@ -68,6 +69,8 @@ module WorldDB
   def self.fixtures  # all builtin fixtures; helper for covenience
 
   ['africa/countries',
+   'africa/fifa',
+   'africa/iso3',
    'america/countries',
    'america/br/regions',
    'america/br/cities',

@@ -10,10 +10,15 @@ md, Moldova, MDA,  33_846,  3_559_500,   Chișinău,  un|fifa
 sm, San Marino, SMR,  61,  32_404,  City of San Marino,  un|fifa
 
 
+
+
+
 ## NB:
 #
 #  countries also include:
-#    england (en), scotland (sc)
+#    england (en), scotland (ab for Alba (scotland in scotish gaelic) - sc (Seychellen),so,st,sl,sa,sn,sd all taken)
+#   use nd for northern ireland (ni (nicaragua),no, nr (naru) taken - anything better - anything common?)
+#    - use ul for ulster? better?
 #
 #  also turkey, russia, georiga, etc.
 #   note: the uefa country kazachstan is listed in asia
@@ -77,7 +82,7 @@ en, England,       ENG,     130_395,  53_013_000,  country:gb, fifa   # NB: FIFA
 ## nb: sc -> seychellen, use different two letter code st?
 st, Scotland,      SCO,      78_387,   5_254_800,  country:gb, fifa  # NB: FIFA (SCO); not a valid iso country/internet domain - its uk - what to use - anything better?
 wa, Wales,         WAL,      20_779,   3_064_000,  country:gb, fifa
-
+nd, Northern Ireland, NIR,   13_843,   1_810_900,  Belfast, country:gb, fifa
 
 
 fo, Faroe Islands,  FRO,    1_399,      49_267,  country:dk
@@ -95,6 +100,7 @@ mk, Macedonia,    MKD,     25_713,   2_082_370,  un|fifa
 no, Norway,       NOR,    385_155,   4_993_300,  un|fifa|schengen|uefa
 is, Iceland,      ISL,    103_000,     318_452,  un|fifa|schengen|uefa
 
+va, Vatican City, VAT,          1,        836,   Vatican City
 
 ## todo/fix: add missing countries
 

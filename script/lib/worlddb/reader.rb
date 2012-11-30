@@ -75,7 +75,14 @@ class Reader
   #  load from gem (built-in)
 
   def load_builtin( name )  ## convenience helper (requires proper named files w/ convention)
-    if name =~ /\/countries/
+
+## add motor, wikipedia, net, etc.
+
+    if name =~ /\/fifa/
+       load_fifa_builtin( name )
+    elsif name =~ /\/iso3/
+       load_iso3_builtin( name )
+    elsif name =~ /\/countries/
        load_countries_builtin( name )
     elsif name =~ /\/([a-z]{2})\/cities/
        load_cities_builtin( $1, name )
@@ -104,6 +111,59 @@ class Reader
 
     load_fixtures_builtin_for( City, name, country_id: country.id )
   end
+
+
+  def load_iso3_builtin( name )
+    path = "#{WorldDB.root}/db/#{name}.yml"
+
+    puts "*** parsing data '#{name}' (#{path})..."
+
+    reader = HashReader.new( logger, path )
+    
+    ### fix: use each on reader!!! move normalize into reader
+    reader.hash.each do |key_wild, value_wild|
+    
+      # normalize
+      # - key n value as string (not symbols, bool? int? array?)
+      # - remove leading and trailing whitespace
+      key   = key_wild.to_s.strip
+      value = value_wild.to_s.strip
+      
+      puts ">>#{key}<< >>#{value}<<"
+    
+      country = Country.find_by_key!( key )
+      country.iso3 = value
+      country.save!
+    
+    end
+
+    Prop.create!( key: "db.#{fixture_name_to_prop_key(name)}.version", value: "file.txt.#{File.mtime(path).strftime('%Y.%m.%d')}" )
+  end
+
+  def load_fifa_builtin( name )
+    path = "#{WorldDB.root}/db/#{name}.yml"
+
+    puts "*** parsing data '#{name}' (#{path})..."
+
+    reader = HashReader.new( logger, path )
+    
+    reader.hash.each do |key_wild, value_wild|
+    
+      # normalize
+      key   = key_wild.to_s.strip
+      value = value_wild.to_s.strip
+      
+      puts ">>#{key}<< >>#{value}<<"
+    
+      country = Country.find_by_key!( key )
+      country.fifa = value
+      country.save!
+    
+    end
+
+    Prop.create!( key: "db.#{fixture_name_to_prop_key(name)}.version", value: "file.txt.#{File.mtime(path).strftime('%Y.%m.%d')}" )
+  end
+
 
 
 private

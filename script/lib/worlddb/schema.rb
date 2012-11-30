@@ -24,8 +24,14 @@ create_table :countries do |t|
   t.timestamps
  
   # extras
-  t.string  :motor   # optional auto motor (vehicle) licene plate
+  t.string  :motor      # optional auto motor (vehicle) licene plate
+  t.string  :iso2       # optional iso two letter country code
+  t.string  :iso3       # optional iso three letter country code
+  t.string  :fifa       # optional fifa country code
+  t.string  :net        # optional internet top level domain (tld)
+  t.string  :wikipedia  # optional wikipedia page name -- en.wikipedia.org/wiki/<name>
 end
+
 
 add_index :countries, :key,  :unique => true
 add_index :countries, :code, :unique => true
