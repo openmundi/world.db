@@ -79,8 +79,7 @@ hu, Hungary,          HUN,   93_030,  9_979_000,  supra:eu, un|fifa|eu|uefa|sche
 gb, Great Britain, GBR,     243_610,  63_047_162,  supra:eu, un|eu|g8|g20
 en, England,       ENG,     130_395,  53_013_000,  country:gb, fifa   # NB: FIFA (ENG); not a valid iso country n internet domain / its uk - what to use - anything better?
 
-## nb: sc -> seychellen, use different two letter code st?
-st, Scotland,      SCO,      78_387,   5_254_800,  country:gb, fifa  # NB: FIFA (SCO); not a valid iso country/internet domain - its uk - what to use - anything better?
+sc, Scotland,      SCO,      78_387,   5_254_800,  country:gb, fifa  # NB: FIFA (SCO); not a valid iso country/internet domain - its uk - what to use - anything better?
 wa, Wales,         WAL,      20_779,   3_064_000,  country:gb, fifa
 nd, Northern Ireland, NIR,   13_843,   1_810_900,  Belfast, country:gb, fifa
 

@@ -1,8 +1,8 @@
 require 'hoe'
 require './lib/worlddb/version.rb'
 
-## NB: plugin (hoe-man) not required; just used for future testing/development
-Hoe::plugin :man   # more options for manifests (in the future; not yet)
+## NB: plugin (hoe-manifest) not required; just used for future testing/development
+Hoe::plugin :manifest   # more options for manifests (in the future; not yet)
 
 Hoe.spec 'worlddb' do
   

@@ -49,7 +49,7 @@ class City < ActiveRecord::Base
   scope :by_title,  order( 'title asc' )  # order by title (a-z)
   scope :by_pop,    order( 'pop desc' )   # order by pop(ulation)
   scope :by_popm,   order( 'popm desc' )  # order by pop(ulation) metropolitan area
-  scope :by_area    order( 'area desc' )  # order by area (in square km)
+  scope :by_area,   order( 'area desc' )  # order by area (in square km)
 
   def title_w_synonyms
     return title if synonyms.blank?
