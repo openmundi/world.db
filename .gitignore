@@ -21,11 +21,13 @@ doc/
 
 *.kpf
 
+########################
 # ignore ruby outputs in script folder
 
 script/pkg
 script/tmp
 
+#######################
 # ignore copied db files in script folder under data (do NOT checkin twice)
 #
 # NB: hoe tasks exclude data automatic from rdoc_extras (thus, lets use data NOT db)

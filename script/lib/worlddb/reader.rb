@@ -114,7 +114,7 @@ class Reader
 
 
   def load_iso3_builtin( name )
-    path = "#{WorldDB.root}/db/#{name}.yml"
+    path = "#{WorldDB.root}/data/#{name}.yml"
 
     puts "*** parsing data '#{name}' (#{path})..."
 
@@ -141,7 +141,7 @@ class Reader
   end
 
   def load_fifa_builtin( name )
-    path = "#{WorldDB.root}/db/#{name}.yml"
+    path = "#{WorldDB.root}/data/#{name}.yml"
 
     puts "*** parsing data '#{name}' (#{path})..."
 
@@ -180,7 +180,7 @@ private
   end
 
   def load_fixtures_builtin_for( clazz, name, more_values={} ) # load from gem (built-in)
-    path = "#{WorldDB.root}/db/#{name}.txt"
+    path = "#{WorldDB.root}/data/#{name}.txt"
 
     puts "*** parsing data '#{name}' (#{path})..."
 

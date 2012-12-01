@@ -45,7 +45,7 @@ class Loader
   end
   
   def load_fixtures_builtin( name ) # load from gem (built-in)
-    path = "#{WorldDB.root}/db/#{name}.rb"
+    path = "#{WorldDB.root}/data/#{name}.rb"
 
     puts "*** loading data '#{name}' (#{path})..."
 
