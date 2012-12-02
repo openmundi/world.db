@@ -5,8 +5,8 @@ require 'pp'
 require 'worlddb'
 
 
-BUILD_DIR = "."
-DATA_DIR  = "./db"
+BUILD_DIR = "./build"
+DATA_DIR  = "."
 
 
 WORLD_DB_PATH = "#{BUILD_DIR}/world.db"
@@ -17,13 +17,14 @@ DB_CONFIG = {
 }
 
 
-
-
 task :default => 'release'
 
 
+directory BUILD_DIR   # make sure it exists
+
+
 desc "clean db build for release"
-task :release => [:clean,:create,:import] do
+task :release => [BUILD_DIR, :clean,:create,:import] do
   puts "hello from world.db release build script"
 end
 

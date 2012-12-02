@@ -1,7 +1,7 @@
 Welcome to `world.db`
 =====================
 
-A Free Open World Database & Schema
+A free open world database & schema for use in any language
 
 
 ## Usage
@@ -22,6 +22,8 @@ The `world.db` includes the following tables:
 * countries
 * regions
 * cities
+* taggings
+* tags
 
 
 [add schema pic here]
@@ -112,7 +114,7 @@ That's it.
 The `worlddb` command line tool lets you import fixtures (countries, regions, cities)
 in plain text. Example:
 
-[`america/countries.txt`](https://github.com/geraldb/world.db/blob/master/db/america/countries.txt):
+[`america/countries.txt`](https://github.com/geraldb/world.db/blob/master/america/countries.txt):
 
 ```
 ca, Canada,        CAN, 9984670,  34278406, north america|en|fr
@@ -120,7 +122,7 @@ mx, Mexico,        MEX, 1972550, 112322757, north america|en
 us, United States, USA, 9629091, 314167157, north america|es
 ```
 
-[`europe/at/cities.txt`](https://github.com/geraldb/world.db/blob/master/db/europe/at/cities.txt):
+[`europe/at/cities.txt`](https://github.com/geraldb/world.db/blob/master/europe/at/cities.txt):
 
 ```
 wien,        Wien|Vienna,                  region:wien, 1664146

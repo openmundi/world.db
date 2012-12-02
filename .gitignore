@@ -1,37 +1,10 @@
-*.gem
-*.rbc
-.bundle
-.config
-coverage
-InstalledFiles
-lib/bundler/man
-pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
-tmp
-
-# YARD artifacts
-.yardoc
-_yardoc
-doc/
-
+###################################
 # ignore komodo project files
 
 *.kpf
 
-########################
-# ignore ruby outputs in script folder
+#####
+# ignore build folder (copy to root for checkin)
 
-script/pkg
-script/tmp
-
-#######################
-# ignore copied db files in script folder under data (do NOT checkin twice)
-#
-# NB: hoe tasks exclude data automatic from rdoc_extras (thus, lets use data NOT db)
-
-script/data
-
+build/
 
