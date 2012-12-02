@@ -3,7 +3,7 @@
 
 
 ba, Bosnia and Herzegovina, BIH,  51_197,   3_839_737,  Sarajevo, un|fifa
-li, Liechtenstein, LIE, 160,  36281,  Vaduz,  un  # check code - NB: not fifa member
+li, Liechtenstein, LIE, 160,  36281,  Vaduz,  un|fifa
 mc, Monaco, MON,  2,  36371,  Monaco,  un   # check code - NB: not fifa member
 me, Montenegro, MNE, 13_812,  625_266,   Podgorica,  un|fifa
 md, Moldova, MDA,  33_846,  3_559_500,   Chișinău,  un|fifa

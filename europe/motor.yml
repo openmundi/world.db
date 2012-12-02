@@ -1,0 +1,60 @@
+####################
+## europe
+##
+## int'l vehicle registration codes / automobile license plate codes
+##
+## see http://en.wikipedia.org/wiki/List_of_international_vehicle_registration_codes
+
+
+ba: BIH           # Bosnia and Herzegovina
+li: FL           # Liechtenstein
+mc: MC           # Monaco
+me: MNE           # Montenegro
+md: MD           # Moldova
+sm: RSM           # San Marino
+eu: EU         # European Union
+at: A           # Austria
+be: B           # Belgium
+cy: CY           # Cyprus
+de: D           # Germany
+ee: EST          # Estonia
+es: E           # Spain
+fi: FIN           # Finland
+fr: F           # France
+gr: GR           # Greece
+ie: IRL           # Irland
+it: I           # Italy
+lu: L           # Luxembourg
+mt: M           # Malta
+nl: NL           # Netherlands
+pt: P           # Portugal
+sk: SK           # Slovakia
+si: SLO           # Slovenia
+bg: BG         # Bulgaria
+dk: DK         # Denmark
+lv: LV           # Latvija [Latvia]
+lt: LT           # Lithuania
+pl: PL           # Poland
+ro: RO           # Romania
+se: S           # Sweden
+cz: CZ          # Czech Republic
+hu: H           # Hungary
+gb: GB           # Great Britain
+en: ENG           # England
+sc: SCO           # Scotland
+wa: CYM          # Wales
+nd: NI           # Northern Ireland
+fo: FO           # Faroe Islands
+ad: AND           # Andorra
+al: AL           # Albania
+by: BY           # Belarus
+ch: CH           # Switzerland
+hr: HR           # Croatia
+rs: SRB           # Serbia
+ru: RUS           # Russia
+tr: TR           # Turkey
+ua: UA           # Ukraine
+mk: MK           # Macedonia
+no: N           # Norway
+is: IS           # Iceland
+va: V           # Vatican City

@@ -1,57 +1,57 @@
 ####################
 ## africa
 
-ao:            # Angola
-bj:            # Benin
-bw:            # Botswana
-bf:            # Burkina Faso
-bi:            # Burundi
-cv:            # Cape Verde
-cf:            # Central African Republic
-td:            # Chad
-km:            # Comoros
-cg:            # Congo
-cd:            # Congo DR
-dj:            # Djibouti
-gq:            # Equatorial Guinea
-er:            # Eritrea
-et:            # Ethiopia
-ga:            # Gabon
-gm:            # Gambia
-gn:            # Guinea
-gw:            # Guinea-Bissau
-ke:            # Kenya
-ls:            # Lesotho
-lr:            # Liberia
-mg:            # Madagascar
-mw:            # Malawi
-ml:            # Mali
-mr:            # Mauritania
-mu:            # Mauritius
-mz:            # Mozambique
-na:            # Namibia
-ne:            # Niger
-rw:            # Rwanda
-st:            # São Tomé and Príncipe
-sn:            # Senegal
-ey:            # Seychelles
-sl:            # Sierra Leone
-so:            # Somalia
-ss:            # South Sudan
-sd:            # Sudan
-sz:            # Swaziland
-tg:            # Togo
-ug:            # Uganda
-tz:            # Tanzania
-zm:            # Zambia
-zw:            # Zimbabwe
-dz:            # Algeria
-eg:            # Egypt
-ma:            # Morocco
-ly:            # Libya
-tn:            # Tunisia
-ci:            # Côte d'Ivoire
-gh:            # Ghana
-ng:            # Nigeria
-cm:            # Cameroon
-za:            # South Africa
+ao: AGO           # Angola
+bj: BEN           # Benin
+bw: BWA           # Botswana
+bf: BFA           # Burkina Faso
+bi: BDI           # Burundi
+cv: CPV           # Cape Verde
+cf: CAF           # Central African Republic
+td: TCD           # Chad
+km: COM           # Comoros
+cg: COG           # Congo
+cd: COD           # Congo DR
+dj: DJI           # Djibouti
+gq: GNQ           # Equatorial Guinea
+er: ERI           # Eritrea
+et: ETH           # Ethiopia
+ga: GAB           # Gabon
+gm: GMB           # Gambia
+gn: GIN           # Guinea
+gw: GNB           # Guinea-Bissau
+ke: KEN           # Kenya
+ls: LSO           # Lesotho
+lr: LBR           # Liberia
+mg: MDG           # Madagascar
+mw: MWI           # Malawi
+ml: MLI           # Mali
+mr: MRT           # Mauritania
+mu: MUS           # Mauritius
+mz: MOZ           # Mozambique
+na: NAM           # Namibia
+ne: NER           # Niger
+rw: RWA           # Rwanda
+st: STP           # São Tomé and Príncipe
+sn: SEN           # Senegal
+ey: SYC           # Seychelles
+sl: SLE           # Sierra Leone
+so: SOM           # Somalia
+ss: SSD           # South Sudan
+sd: SDN           # Sudan
+sz: SWZ           # Swaziland
+tg: TGO           # Togo
+ug: UGA           # Uganda
+tz: TZA           # Tanzania
+zm: ZMB           # Zambia
+zw: ZWE           # Zimbabwe
+dz: DZA           # Algeria
+eg: EGY           # Egypt
+ma: MAR           # Morocco
+ly: LBY           # Libya
+tn: TUN           # Tunisia
+ci: CIV           # Côte d'Ivoire
+gh: GHA           # Ghana
+ng: NGA           # Nigeria
+cm: CMR           # Cameroon
+za: ZAF           # South Africa

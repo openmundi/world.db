@@ -1,0 +1,59 @@
+####################
+## europe
+
+ba: BIH           # Bosnia and Herzegovina
+li: LIE           # Liechtenstein
+mc: MCO           # Monaco
+me: MNE           # Montenegro
+md: MDA           # Moldova
+sm: SMR           # San Marino
+at: AUT           # Austria
+be: BEL           # Belgium
+cy: CYP           # Cyprus
+de: DEU           # Germany
+ee: EST           # Estonia
+es: ESP           # Spain
+fi: FIN           # Finland
+fr: FRA           # France
+gr: GRC           # Greece
+ie: IRL           # Irland
+it: ITA           # Italy
+lu: LUX           # Luxembourg
+mt: MLT           # Malta
+nl: NLD           # Netherlands
+pt: PRT           # Portugal
+sk: SVK           # Slovakia
+si: SVN           # Slovenia
+bg: BGR           # Bulgaria
+dk: DNK           # Denmark
+lv: LVA           # Latvija [Latvia]
+lt: LTU           # Lithuania
+pl: POL           # Poland
+ro: ROU           # Romania
+se: SWE           # Sweden
+cz: CZE           # Czech Republic
+hu: HUN           # Hungary
+gb: GBR           # Great Britain
+fo: FRO           # Faroe Islands
+ad: AND           # Andorra
+al: ALB           # Albania
+by: BLR           # Belarus
+ch: CHE           # Switzerland
+hr: HRV           # Croatia
+rs: SRB           # Serbia
+ru: RUS           # Russia
+tr: TUR           # Turkey
+ua: UKR           # Ukraine
+mk: MKD           # Macedonia
+no: NOR           # Norway
+is: ISL           # Iceland
+va: VAT           # Vatican City
+
+########
+## no official iso codes found - check if mistaken
+
+eu: !!null           # European Union
+en: !!null           # England
+sc: !!null           # Scotland
+wa: !!null           # Wales
+nd: !!null           # Northern Ireland
