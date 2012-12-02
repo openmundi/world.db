@@ -1,0 +1,39 @@
+####################
+## america
+
+ca: ca           # Canada
+us: us           # United States
+mx: mx           # México [Mexico]
+bz: bz           # Belize
+gt: gt           # Guatemala
+cr: cr           # Costa Rica
+hn: hn           # Honduras
+sv: sv          # El Salvador
+ni: ni           # Nicaragua
+pa: pa           # Panamá [Panama]
+cu: cu           # Cuba
+jm: jm           # Jamaica
+pr: pr           # Puerto Rico
+do: do           # Dominican Republic
+ht: ht           # Haiti
+ag: ag           # Antigua and Barbuda
+bs: bs           # Bahamas
+bb: bb           # Barbados
+dm: dm           # Dominica
+gd: gd           # Grenada
+kn: kn           # Saint Kitts and Nevis
+lc: lc           # Saint Lucia
+vc: vc           # Saint Vincent and the Grenadines
+tt: tt           # Trinidad and Tobago
+ar: ar           # Argentina
+bo: bo           # Bolivia
+br: br           # Brazil
+cl: cl           # Chile
+co: co           # Colombia
+ec: ec           # Ecuador
+gy: gy           # Guyana
+pe: pe           # Peru
+sr: sr           # Suriname
+py: py           # Paraguay
+uy: uy           # Uruguay
+ve: ve           # Venezuela

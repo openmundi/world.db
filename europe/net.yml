@@ -1,0 +1,59 @@
+####################
+## europe
+
+ba: ba           # Bosnia and Herzegovina
+li: li           # Liechtenstein
+mc: mc           # Monaco
+me: me           # Montenegro
+md: md           # Moldova
+sm: sm           # San Marino
+eu: eu           # European Union
+at: at           # Austria
+be: be           # Belgium
+cy: cy           # Cyprus
+de: de           # Germany
+ee: ee           # Estonia
+es: es           # Spain
+fi: fi           # Finland
+fr: fr           # France
+gr: gr           # Greece
+ie: ie           # Irland
+it: it           # Italy
+lu: lu           # Luxembourg
+mt: mt           # Malta
+nl: nl           # Netherlands
+pt: pt           # Portugal
+sk: sk           # Slovakia
+si: si           # Slovenia
+bg: bg           # Bulgaria
+dk: dk           # Denmark
+lv: lv           # Latvija [Latvia]
+lt: lt           # Lithuania
+pl: pl           # Poland
+ro: ro           # Romania
+se: se           # Sweden
+cz: cz           # Czech Republic
+hu: hu           # Hungary
+fo: fo           # Faroe Islands
+ad: ad           # Andorra
+al: al           # Albania
+by: by           # Belarus
+ch: ch           # Switzerland
+hr: hr           # Croatia
+rs: rs           # Serbia
+ru: ru           # Russia
+tr: tr           # Turkey
+ua: ua           # Ukraine
+mk: mk           # Macedonia
+no: no           # Norway
+is: is           # Iceland
+va: va           # Vatican City
+
+#################
+# NB: some different mappings
+
+gb: uk               # Great Britain
+en: !!null           # England
+sc: !!null           # Scotland
+wa: !!null           # Wales
+nd: !!null           # Northern Ireland
