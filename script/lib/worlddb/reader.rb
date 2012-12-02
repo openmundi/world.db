@@ -41,11 +41,14 @@ class Reader
   # load from file system
   
   def load_with_include_path( name, include_path )
-    if name =~ /\/countries/
-      load_countries_with_include_path( name, include_path )
+    if name =~ /^([a-z]{3,})\/countries/
+      ## auto-add continent (from folder structure) as tag
+      load_countries_with_include_path( name, include_path, :tags => $1 )
     elsif name =~ /\/([a-z]{2})\/cities/
+      ## auto-add required country code (from folder structure)
       load_cities_with_include_path( $1, name, include_path )
     elsif name =~ /\/([a-z]{2})\/regions/
+      ## auto-add required country code (from folder structure)
       load_regions_with_include_path( $1, name, include_path )
     else
       puts "*** error: unknown world.db fixture type >#{name}<"
@@ -53,8 +56,8 @@ class Reader
     end
   end
 
-  def load_countries_with_include_path( name, include_path )
-    load_fixtures_with_include_path_for( Country, name, include_path )
+  def load_countries_with_include_path( name, include_path, more_values={} )
+    load_fixtures_with_include_path_for( Country, name, include_path, more_values )
   end
 
   def load_regions_with_include_path( country_key, name, include_path )
@@ -82,8 +85,9 @@ class Reader
        load_fifa_builtin( name )
     elsif name =~ /\/iso3/
        load_iso3_builtin( name )
-    elsif name =~ /\/countries/
-       load_countries_builtin( name )
+    elsif name =~ /^([a-z]{3,})\/countries/     # e.g. africa/countries or america/countries
+      ## auto-add continent (from folder structure) as tag
+       load_countries_builtin( name, :tags => $1 )
     elsif name =~ /\/([a-z]{2})\/cities/
        load_cities_builtin( $1, name )
     elsif name =~ /\/([a-z]{2})\/regions/
@@ -94,8 +98,8 @@ class Reader
     end
   end
 
-  def load_countries_builtin( name ) 
-    load_fixtures_builtin_for( Country, name )
+  def load_countries_builtin( name, more_values )
+    load_fixtures_builtin_for( Country, name, more_values )
   end
 
   def load_regions_builtin( country_key, name )
@@ -137,7 +141,7 @@ class Reader
     
     end
 
-    Prop.create!( key: "db.#{fixture_name_to_prop_key(name)}.version", value: "file.txt.#{File.mtime(path).strftime('%Y.%m.%d')}" )
+    Prop.create!( key: "db.#{fixture_name_to_prop_key(name)}.version", value: "world.yml.#{WorldDB::VERSION}" )
   end
 
   def load_fifa_builtin( name )
@@ -161,9 +165,8 @@ class Reader
     
     end
 
-    Prop.create!( key: "db.#{fixture_name_to_prop_key(name)}.version", value: "file.txt.#{File.mtime(path).strftime('%Y.%m.%d')}" )
+    Prop.create!( key: "db.#{fixture_name_to_prop_key(name)}.version", value: "world.yml.#{WorldDB::VERSION}"  )
   end
-
 
 
 private
@@ -199,12 +202,25 @@ private
 
     reader.each_line do |attribs, values|
   
-      value_numbers = []
+      value_numbers     = []
+      value_tag_keys    = []
       
-      ### todo: remove attribs[:tags] from attribs? lets us pass in "default" tags - why? why not?
-      ##
+      ### check for "default" tags - that is, if present attribs[:tags] remove from hash
       
-      value_tags = []
+      if attribs[:tags].present?
+        more_tag_keys = attribs[:tags].split('|')
+        attribs.delete(:tags)
+
+        ## unify; replace _w/ space; remove leading n trailing whitespace
+        more_tag_keys = more_tag_keys.map do |key|
+          key = key.gsub( '_', ' ' )
+          key = key.strip
+          key
+        end
+
+        value_tag_keys += more_tag_keys
+      end
+
 
       if clazz == City
         attribs[ :c ] = true   # assume city type by default (use metro,district to change in fixture)
@@ -256,8 +272,8 @@ private
           value_numbers << value.gsub(/[ _]/, '').to_i
         elsif (values.size==(index+1)) && value =~ /^[a-z0-9\|_ ]+$/   # tags must be last entry
 
-          puts "   processing tags: >>#{value}<<..."
- 
+          puts "   found tags: >>#{value}<<"
+
           tag_keys = value.split('|')
   
           ## unify; replace _w/ space; remove leading n trailing whitespace
@@ -267,15 +283,7 @@ private
             key
           end
           
-          tag_keys.each do |key|
-            tag = Tag.find_by_key( key )
-            if tag.nil?  # create tag if it doesn't exit
-              puts "   creating tag >#{key}<"
-              tag = Tag.create!( key: key )
-            end
-            value_tags << tag
-          end
-    
+          value_tag_keys += tag_keys
         else
           # issue warning: unknown type for value
           puts "!!!! >>>> warning: unknown type for value >#{value}<"
@@ -313,13 +321,26 @@ private
    
       rec.update_attributes!( attribs )
       
-      ## add tags
-      
-      value_tags.each do |tag|
-        rec.tags << tag
+      ##################
+      ## add taggings 
+
+      if value_tag_keys.size > 0
+
+        value_tag_keys.uniq!  # remove duplicates
+        puts "   adding #{value_tag_keys.size} taggings: >>#{value_tag_keys.join('|')}<<..."
+
+        ### fix/todo: check tag_ids and only update diff (add/remove ids)
+
+        value_tag_keys.each do |key|
+          tag = Tag.find_by_key( key )
+          if tag.nil?  # create tag if it doesn't exit
+            puts "   creating tag >#{key}<"
+            tag = Tag.create!( key: key )
+          end
+          rec.tags << tag
+        end
       end
-      
-      ### fix/todo: check tag_ids and only update diff (add/remove ids)
+
         
     end # each_line
             
