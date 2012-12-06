@@ -8,16 +8,16 @@
 ##  - Polynesia
 
 
-au, Australia, AUS,    7_686_850,  22_028_000,   un|fifa|en|g20
+au, Australia, AUS,    7_686_850,  22_028_000,   un|fifa|en|g20|commonwealth
 
 ##############
 ### Melanesia
 ## see http://en.wikipedia.org/wiki/Melanesia
 
-pg, Papua New Guinea, PNG,   462_840,  5_172_033,  un|fifa|melanesia
-fj, Fiji, FIJ,   18_274,   849_000,     Suva,  un|fifa|melanesia
-sb, Solomon Islands,  SOL,  28_400,  523_000,   Honiara,  un|fifa|melanesia 
-vu, Vanuatu, VAN,  12_190,  224_564,  Port Vila,  un|fifa|melanesia
+pg, Papua New Guinea, PNG,   462_840,  5_172_033,  un|fifa|melanesia|commonwealth
+fj, Fiji, FIJ,   18_274,   849_000,     Suva,  un|fifa|melanesia|commonwealth
+sb, Solomon Islands,  SOL,  28_400,  523_000,   Honiara,  un|fifa|melanesia|commonwealth 
+vu, Vanuatu, VAN,  12_190,  224_564,  Port Vila,  un|fifa|melanesia|commonwealth
 
 
 #############
@@ -25,16 +25,16 @@ vu, Vanuatu, VAN,  12_190,  224_564,  Port Vila,  un|fifa|melanesia
 ##  see http://en.wikipedia.org/wiki/Micronesia
 
 pw, Palau, PLW,  459,  20_956,   Ngerulmud, un|micronesia|microstate          # nb: use ISO code; NOT fifa member
-ki, Kiribati, KIR, 811, 103_500,  Tarawa,  un|micronesia|microstate           # nb: use ISO code; NOT fifa member
 fm, Micronesia, FSM,  702, 111_000,  Palikir, un|micronesia|microstate        # nb: use ISO code; NOT fifa member
 mh, Marshall Islands, MHL, 181, 68_000,   Majuro,  un|micronesia|microstate   # nb: use ISO code; NOT fifa member
-nr, Nauru, NRU,  21, 9_378,  Yaren,   un|micronesia|microstate       # nb: use ISO code; NOT fifa member
+nr, Nauru, NRU,  21, 9_378,  Yaren,   un|micronesia|microstate|commonwealth       # nb: use ISO code; NOT fifa member
+ki, Kiribati, KIR, 811, 103_500,  Tarawa,  un|micronesia|microstate|commonwealth           # nb: use ISO code; NOT fifa member
 
 ##############
 ## Polynesia
 ##   see http://en.wikipedia.org/wiki/Polynesia
 
-nz, New Zealand, NZL,    268_680,   4_108_037,   un|fifa|en|polynesia
-ws, Samoa, SAM,   2_831,  194_320,   Apia, un|fifa|polynesia
-to, Tonga, TGA,  748,  103_036,     Nuku'alofa,   un|fifa|polynesia|microstate
-tv, Tuvalu, TUV, 26,  10_544,   Funafuti,   un|polynesia|microstate      # nb: use ISO code; NOT fifa member
+nz, New Zealand, NZL,    268_680,   4_108_037,   un|fifa|en|polynesia|commonwealth
+ws, Samoa, SAM,   2_831,  194_320,   Apia, un|fifa|polynesia|commonwealth
+to, Tonga, TGA,  748,  103_036,     Nuku'alofa,   un|fifa|polynesia|microstate|commonwealth
+tv, Tuvalu, TUV, 26,  10_544,   Funafuti,   un|polynesia|microstate|commonwealth      # nb: use ISO code; NOT fifa member

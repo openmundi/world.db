@@ -59,7 +59,7 @@ eu, European Union, EUR,  4_324_782, 503_492_041,  supra,  g20   # NB: no FIFA c
 
 at, Austria,      AUT,    83_871,  8_414_638,  supra:eu, un|fifa|de|        eu|euro|schengen|uefa|central_europe|western_europe
 be, Belgium,      BEL,    30_528, 11_007_020,  supra:eu, un|fifa|nl|fr|de|  eu|euro|schengen|uefa|benelux
-cy, Cyprus,       CYP,     9_251,  1_099_341,  supra:eu, un|fifa|eu|euro|uefa|asia|western asia|middle_east|mediterranean|southern_europe 
+cy, Cyprus,       CYP,     9_251,  1_099_341,  supra:eu, un|fifa|eu|euro|uefa|asia|western asia|middle_east|mediterranean|southern_europe|commonwealth 
 de, Germany,      GER,   357_050, 81_799_600,  supra:eu, un|fifa|de|        eu|euro|schengen|uefa|g8|g20|western europe|central_europe
 ee, Estonia,      EST,    45_226,  1_340_194,  supra:eu, un|fifa|eu|euro|schengen|uefa|northern europe|baltic|eastern_europe
 es, Spain,        ESP,   506_030, 46_030_109,  supra:eu, un|fifa|eu|euro|schengen|uefa|southern_europe
@@ -69,7 +69,7 @@ gr, Greece,       GRE,   131_990, 10_787_690,  supra:eu, un|fifa|eu|euro|schenge
 ie, Irland,       IRL,    70_273,  4_722_028,  supra:eu, un|fifa|eu|euro|uefa|northern europe|western_europe
 it, Italy,        ITA,   301_318, 60_681_514,  supra:eu, un|fifa|eu|euro|schengen|uefa|g8|g20|southern_europe
 lu, Luxembourg,   LUX,     2_586,    511_840,  supra:eu, un|fifa|eu|euro|schengen|uefa|un|benelux|western_europe
-mt, Malta,        MLT,       316,    417_608,  supra:eu, un|fifa|eu|euro|schengen|uefa|microstate|mediterranean|southern_europe 
+mt, Malta,        MLT,       316,    417_608,  supra:eu, un|fifa|eu|euro|schengen|uefa|microstate|mediterranean|southern_europe|commonwealth
 nl, Netherlands,  NED,    41_526, 16_703_700,  supra:eu, un|fifa|eu|euro|schengen|uefa|un|benelux|western_europe
 pt, Portugal,     POR,    92_391, 10_647_763,  supra:eu, un|fifa|eu|euro|schengen|southern_europe                  # NB: ISO (PRT) <> FIFA (POR)
 sk, Slovakia,     SVK,    49_037,  5_440_078,  supra:eu, un|fifa|eu|euro|schengen|central_europe
@@ -89,7 +89,7 @@ hu, Hungary,          HUN,   93_030,  9_979_000,  supra:eu, un|fifa|eu|uefa|sche
 ##
 ## uk, United Kingdown (of Great Britain and Northern Irleland),  UKI, 243_610,     London, supra:eu, un|fifa|eu|g8|g20
 
-gb, Great Britain, GBR,     243_610,  63_047_162,  supra:eu, un|eu|g8|g20|northern europe|western_europe
+gb, Great Britain, GBR,     243_610,  63_047_162,  supra:eu, un|eu|g8|g20|northern europe|western_europe|commonwealth
 en, England,       ENG,     130_395,  53_013_000,  country:gb, fifa|northern europe|western_europe   # NB: FIFA (ENG); not a valid iso country n internet domain / its uk - what to use - anything better?
 
 sc, Scotland,      SCO,      78_387,   5_254_800,  country:gb, fifa|northern europe|western_europe  # NB: FIFA (SCO); not a valid iso country/internet domain - its uk - what to use - anything better?
