@@ -32,18 +32,18 @@ pa, Panamá [Panama], PAN,  75_417,  3_454_000,   un|fifa|es|central_america
 
 cu, Cuba,         CUB,    109_886,  11_204_000,  un|fifa|es|caribbean
 jm, Jamaica,      JAM,     10_991,   2_719_000,  un|fifa|en|caribbean
-pr, Puerto Rico,  PUR,      8_870,   3_982_000, country:us, es|en|caribbean
+pr, Puerto Rico,  PUR,      8_870,   3_982_000, country:us, fifa|es|en|caribbean
 do, Dominican Republic, DOM,   48_671,  10_090_000,  un|fifa|es|caribbean
 ht, Haiti, HAI, 27_750, 9_719_932,  Port-au-Prince, un|fifa|caribbean
 
-ag, Antigua and Barbuda, ATG,  440,  81_799,    Saint John's,   un|fifa|caribbean
+ag, Antigua and Barbuda, ATG,  440,  81_799,    Saint John's,   un|fifa|caribbean|microstate
 bs, Bahamas, BAH,    13_878,   353_658,    Nassau, un|fifa|caribbean
-bb, Barbados, BRB,      431,   284_589,    Bridgetown,  un|fifa|caribbean
-dm, Dominica, DMA,      750,   73_126,    Roseau, un|fifa|caribbean
-gd, Grenada, GRN, 344, 110_000,  St. George's, un|fifa|caribbean
-kn, Saint Kitts and Nevis, SKN,  261,  51_300,   Basseterre,  un|fifa|caribbean
-lc, Saint Lucia, LCA,   617,  173_765,   Castries,   un|fifa|caribbean
-vc, Saint Vincent and the Grenadines, VIN,  389,  120_000,   Kingstown,   un|fifa|caribbean
+bb, Barbados, BRB,      431,   284_589,    Bridgetown,  un|fifa|caribbean|microstate
+dm, Dominica, DMA,      750,   73_126,    Roseau, un|fifa|caribbean|microstate
+gd, Grenada, GRN, 344, 110_000,  St. George's, un|fifa|caribbean|microstate
+kn, Saint Kitts and Nevis, SKN,  261,  51_300,   Basseterre,  un|fifa|caribbean|microstate
+lc, Saint Lucia, LCA,   617,  173_765,   Castries,   un|fifa|caribbean|microstate
+vc, Saint Vincent and the Grenadines, VIN,  389,  120_000,   Kingstown,   un|fifa|caribbean|microstate
 tt, Trinidad and Tobago, TRI,  5_131,  1_346_350,    Port of Spain,  un|fifa|caribbean
 
 

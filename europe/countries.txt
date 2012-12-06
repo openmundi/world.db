@@ -3,13 +3,16 @@
 
 
 ba, Bosnia and Herzegovina, BIH,  51_197,   3_839_737,  Sarajevo, un|fifa
-li, Liechtenstein, LIE, 160,  36281,  Vaduz,  un|fifa
-mc, Monaco, MON,  2,  36371,  Monaco,  un   # check code - NB: not fifa member
+li, Liechtenstein, LIE, 160,  36281,  Vaduz,  un|fifa|microstate
+mc, Monaco, MCO,  2,  36371,  Monaco,  un|microstate    # nb: use ISO code; not fifa member
 me, Montenegro, MNE, 13_812,  625_266,   Podgorica,  un|fifa
 md, Moldova, MDA,  33_846,  3_559_500,   Chișinău,  un|fifa
-sm, San Marino, SMR,  61,  32_404,  City of San Marino,  un|fifa
+sm, San Marino, SMR,  61,  32_404,  City of San Marino,  un|fifa|microstate
 
 
+#####
+# mark as microstate (if area < 1000)
+#   see http://en.wikipedia.org/wiki/Microstate
 
 
 
@@ -56,7 +59,7 @@ gr, Greece,       GRE,   131_990, 10_787_690,  supra:eu, un|fifa|eu|euro|schenge
 ie, Irland,       IRL,    70_273,  4_722_028,  supra:eu, un|fifa|eu|euro|uefa
 it, Italy,        ITA,   301_318, 60_681_514,  supra:eu, un|fifa|eu|euro|schengen|uefa|g8|g20
 lu, Luxembourg,   LUX,     2_586,    511_840,  supra:eu, un|fifa|eu|euro|schengen|uefa|un|benelux
-mt, Malta,        MLT,       316,    417_608,  supra:eu, un|fifa|eu|euro|schengen|uefa
+mt, Malta,        MLT,       316,    417_608,  supra:eu, un|fifa|eu|euro|schengen|uefa|microstate|mediterranean 
 nl, Netherlands,  NED,    41_526, 16_703_700,  supra:eu, un|fifa|eu|euro|schengen|uefa|un|benelux  # NB: ISO (NLD) <> FIFA (NED)
 pt, Portugal,     POR,    92_391, 10_647_763,  supra:eu, un|fifa|eu|euro|schengen                  # NB: ISO (PRT) <> FIFA (POR)
 sk, Slovakia,     SVK,    49_037,  5_440_078,  supra:eu, un|fifa|eu|euro|schengen
@@ -86,7 +89,7 @@ nd, Northern Ireland, NIR,   13_843,   1_810_900,  Belfast, country:gb, fifa
 
 fo, Faroe Islands,  FRO,    1_399,      49_267,  country:dk
 
-ad, Andorra,     AND,         468,      85_082,  un|fifa
+ad, Andorra,     AND,         468,      85_082,  un|fifa|microstate
 al, Albania,     ALB,      28_748,   3_002_859,  un|fifa
 by, Belarus,     BLR,     207_600,   9_643_566,  un|fifa
 ch, Switzerland, SUI,      41_285,   7_866_500,  un|fifa|de|fr|it|rm|  schengen|uefa|un    # NB: ISO (CHE) <> FIFA (SUI)
@@ -99,7 +102,7 @@ mk, Macedonia,    MKD,     25_713,   2_082_370,  un|fifa
 no, Norway,       NOR,    385_155,   4_993_300,  un|fifa|schengen|uefa
 is, Iceland,      ISL,    103_000,     318_452,  un|fifa|schengen|uefa
 
-va, Vatican City, VAT,          1,        836,   Vatican City
+va, Vatican City, VAT,          1,        836,   Vatican City,   microstate  # NB: not fifa member; use ISO code
 
 ## todo/fix: add missing countries
 
