@@ -57,68 +57,67 @@ eu, European Union, EUR,  4_324_782, 503_492_041,  supra,  g20   # NB: no FIFA c
 
 ## todo: auto-add tag eu?? for supra:eu?
 
-at, Austria,      AUT,    83_871,  8_414_638,  supra:eu, un|fifa|de|        eu|euro|schengen|uefa|central_europe|western_europe
-be, Belgium,      BEL,    30_528, 11_007_020,  supra:eu, un|fifa|nl|fr|de|  eu|euro|schengen|uefa|benelux
-cy, Cyprus,       CYP,     9_251,  1_099_341,  supra:eu, un|fifa|eu|euro|uefa|asia|western asia|middle_east|mediterranean|southern_europe|commonwealth 
-de, Germany,      GER,   357_050, 81_799_600,  supra:eu, un|fifa|de|        eu|euro|schengen|uefa|g8|g20|western europe|central_europe
-ee, Estonia,      EST,    45_226,  1_340_194,  supra:eu, un|fifa|eu|euro|schengen|uefa|northern europe|baltic|eastern_europe
-es, Spain,        ESP,   506_030, 46_030_109,  supra:eu, un|fifa|eu|euro|schengen|uefa|southern_europe
-fi, Finland,      FIN,   338_145,  5_391_700,  supra:eu, un|fifa|eu|euro|schengen|uefa|northern europe|nordic
-fr, France,       FRA,   674_843, 65_821_885,  supra:eu, un|fifa|eu|euro|schengen|uefa|g8|g20|western_europe
-gr, Greece,       GRE,   131_990, 10_787_690,  supra:eu, un|fifa|eu|euro|schengen|uefa|southern_europe             # NB: ISO (GRC) <> FIFA (GRE)
-ie, Irland,       IRL,    70_273,  4_722_028,  supra:eu, un|fifa|eu|euro|uefa|northern europe|western_europe
-it, Italy,        ITA,   301_318, 60_681_514,  supra:eu, un|fifa|eu|euro|schengen|uefa|g8|g20|southern_europe
-lu, Luxembourg,   LUX,     2_586,    511_840,  supra:eu, un|fifa|eu|euro|schengen|uefa|un|benelux|western_europe
-mt, Malta,        MLT,       316,    417_608,  supra:eu, un|fifa|eu|euro|schengen|uefa|microstate|mediterranean|southern_europe|commonwealth
-nl, Netherlands,  NED,    41_526, 16_703_700,  supra:eu, un|fifa|eu|euro|schengen|uefa|un|benelux|western_europe
-pt, Portugal,     POR,    92_391, 10_647_763,  supra:eu, un|fifa|eu|euro|schengen|southern_europe                  # NB: ISO (PRT) <> FIFA (POR)
-sk, Slovakia,     SVK,    49_037,  5_440_078,  supra:eu, un|fifa|eu|euro|schengen|central_europe
-si, Slovenia,     SVN,    20_273,  2_048_951,  supra:eu, un|fifa|eu|euro|schengen|southern_europe|central_europe
+at, Austria,      AUT,    83_871,  8_414_638,  supra:eu, un|fifa|uefa|de|        eu|euro|schengen|central_europe|western_europe
+be, Belgium,      BEL,    30_528, 11_007_020,  supra:eu, un|fifa|uefa|nl|fr|de|  eu|euro|schengen|benelux
+cy, Cyprus,       CYP,     9_251,  1_099_341,  supra:eu, un|fifa|uefa|eu|euro|asia|western asia|middle_east|mediterranean|southern_europe|commonwealth 
+de, Germany,      GER,   357_050, 81_799_600,  supra:eu, un|fifa|uefa|de|        eu|euro|schengen|g8|g20|western europe|central_europe
+ee, Estonia,      EST,    45_226,  1_340_194,  supra:eu, un|fifa|uefa|eu|euro|schengen|uefa|northern europe|baltic|eastern_europe
+es, Spain,        ESP,   506_030, 46_030_109,  supra:eu, un|fifa|uefa|eu|euro|schengen|southern_europe
+fi, Finland,      FIN,   338_145,  5_391_700,  supra:eu, un|fifa|uefa|eu|euro|schengen|northern europe|nordic
+fr, France,       FRA,   674_843, 65_821_885,  supra:eu, un|fifa|uefa|eu|euro|schengen|g8|g20|western_europe
+gr, Greece,       GRE,   131_990, 10_787_690,  supra:eu, un|fifa|uefa|eu|euro|schengen|southern_europe             # NB: ISO (GRC) <> FIFA (GRE)
+ie, Irland,       IRL,    70_273,  4_722_028,  supra:eu, un|fifa|uefa|eu|euro|northern europe|western_europe
+it, Italy,        ITA,   301_318, 60_681_514,  supra:eu, un|fifa|uefa|eu|euro|schengen|g8|g20|southern_europe
+lu, Luxembourg,   LUX,     2_586,    511_840,  supra:eu, un|fifa|uefa|eu|euro|schengen|benelux|western_europe
+mt, Malta,        MLT,       316,    417_608,  supra:eu, un|fifa|uefa|eu|euro|schengen|microstate|mediterranean|southern_europe|commonwealth
+nl, Netherlands,  NED,    41_526, 16_703_700,  supra:eu, un|fifa|uefa|eu|euro|schengen|benelux|western_europe
+pt, Portugal,     POR,    92_391, 10_647_763,  supra:eu, un|fifa|uefa|eu|euro|schengen|southern_europe                  # NB: ISO (PRT) <> FIFA (POR)
+sk, Slovakia,     SVK,    49_037,  5_440_078,  supra:eu, un|fifa|uefa|eu|euro|schengen|central_europe
+si, Slovenia,     SVN,    20_273,  2_048_951,  supra:eu, un|fifa|uefa|eu|euro|schengen|southern_europe|central_europe
 
-bg, Bulgaria,         BUL,  110_994,  7_364_570,  supra:eu, un|fifa|eu|uefa|eastern_europe|southeastern_europe              
-dk, Denmark,          DEN,   43_094,  5_564_219,  supra:eu, un|fifa|eu|uefa|schengen|northern europe|scandinavia|nordic
-lv, Latvija [Latvia], LVA,   64_589,  2_245_357,  supra:eu, un|fifa|eu|uefa|schengen|northern europe|baltic
-lt, Lithuania,        LTU,   65_303,  3_207_060,  supra:eu, un|fifa|eu|uefa|schengen|northern europe|baltic
-pl, Poland,           POL,  312_683, 38_186_860,  supra:eu, un|fifa|eu|uefa|schengen|central_europe
-ro, Romania,          ROU,  238_391, 19_042_936,  supra:eu, un|fifa|eu|uefa|eastern_europe|southeastern_europe
-se, Sweden,           SWE,  449_964,  9_415_570,  supra:eu, un|fifa|eu|uefa|schengen|northern europe|scandinavia|nordic
-cz, Czech Republic,   CZE,   78_866, 10_535_811,  supra:eu, un|fifa|cs|sk|  eu|uefa|schengen|central_europe
-hu, Hungary,          HUN,   93_030,  9_979_000,  supra:eu, un|fifa|eu|uefa|schengen|central_europe
+bg, Bulgaria,         BUL,  110_994,  7_364_570,  supra:eu, un|fifa|uefa|eu|eastern_europe|southeastern_europe              
+dk, Denmark,          DEN,   43_094,  5_564_219,  supra:eu, un|fifa|uefa|eu|schengen|northern europe|scandinavia|nordic
+lv, Latvija [Latvia], LVA,   64_589,  2_245_357,  supra:eu, un|fifa|uefa|eu|schengen|northern europe|baltic
+lt, Lithuania,        LTU,   65_303,  3_207_060,  supra:eu, un|fifa|uefa|eu|schengen|northern europe|baltic
+pl, Poland,           POL,  312_683, 38_186_860,  supra:eu, un|fifa|uefa|eu|schengen|central_europe
+ro, Romania,          ROU,  238_391, 19_042_936,  supra:eu, un|fifa|uefa|eu|eastern_europe|southeastern_europe
+se, Sweden,           SWE,  449_964,  9_415_570,  supra:eu, un|fifa|uefa|eu|schengen|northern europe|scandinavia|nordic
+cz, Czech Republic,   CZE,   78_866, 10_535_811,  supra:eu, un|fifa|uefa|cs|sk|  eu|schengen|central_europe
+hu, Hungary,          HUN,   93_030,  9_979_000,  supra:eu, un|fifa|uefa|eu|schengen|central_europe
 
 ## todo/check: make a distinction between uk and gb?
 ##
 ## uk, United Kingdown (of Great Britain and Northern Irleland),  UKI, 243_610,     London, supra:eu, un|fifa|eu|g8|g20
 
 gb, Great Britain, GBR,     243_610,  63_047_162,  supra:eu, un|eu|g8|g20|northern europe|western_europe|commonwealth
-en, England,       ENG,     130_395,  53_013_000,  country:gb, fifa|northern europe|western_europe   # NB: FIFA (ENG); not a valid iso country n internet domain / its uk - what to use - anything better?
+en, England,       ENG,     130_395,  53_013_000,  country:gb, fifa|uefa|northern europe|western_europe   # NB: FIFA (ENG); not a valid iso country n internet domain / its uk - what to use - anything better?
 
-sc, Scotland,      SCO,      78_387,   5_254_800,  country:gb, fifa|northern europe|western_europe  # NB: FIFA (SCO); not a valid iso country/internet domain - its uk - what to use - anything better?
-wa, Wales,         WAL,      20_779,   3_064_000,  country:gb, fifa|northern europe|western_europe
-nd, Northern Ireland, NIR,   13_843,   1_810_900,  Belfast, country:gb, fifa|northern europe|western_europe
+sc, Scotland,      SCO,      78_387,   5_254_800,  country:gb, fifa|uefa|northern europe|western_europe  # NB: FIFA (SCO); not a valid iso country/internet domain - its uk - what to use - anything better?
+wa, Wales,         WAL,      20_779,   3_064_000,  country:gb, fifa|uefa|northern europe|western_europe
+nd, Northern Ireland, NIR,   13_843,   1_810_900,  Belfast, country:gb, fifa|uefa|northern europe|western_europe
 
 
 fo, Faroe Islands,  FRO,    1_399,      49_267,  country:dk,  fifa|uefa|northern europe|nordic
 
-ad, Andorra,     AND,         468,      85_082,  un|fifa|microstate|western_europe
-al, Albania,     ALB,      28_748,   3_002_859,  un|fifa|southern_europe|balkans|southeastern_europe
-by, Belarus,     BLR,     207_600,   9_643_566,  un|fifa|eastern_europe
-ch, Switzerland, SUI,      41_285,   7_866_500,  un|fifa|de|fr|it|rm|  schengen|uefa|un|western_europe|central_europe
-hr, Croatia,     CRO,      56_594,   4_290_612,  un|fifa|southern_europe|balkans|southeastern_europe     # NB: ISO (HRV) <> FIFA (CRO);  local name: Hrvatska
-rs, Serbia,      SRB,      88_361,   7_276_604,  un|fifa|southern_europe|balkans|southeastern_europe
-ru, Russia,       RUS, 17_098_242, 142_517_670,  un|fifa|asia|north asia|g8|g20
-tr, Turkey,       TUR,    783_562,  79_749_461,  un|fifa|asia|western asia|g20
-ua, Ukraine,      UKR,    603_550,  44_854_065,  un|fifa|eastern_europe
-mk, Macedonia,    MKD,     25_713,   2_082_370,  un|fifa|southern_europe|balkans|southeastern_europe
-no, Norway,       NOR,    385_155,   4_993_300,  un|fifa|schengen|uefa|northern europe|scandinavia|nordic
-is, Iceland,      ISL,    103_000,     318_452,  un|fifa|schengen|uefa|northern europe|nordic
+ad, Andorra,     AND,         468,      85_082,  un|fifa|uefa|microstate|western_europe
+al, Albania,     ALB,      28_748,   3_002_859,  un|fifa|uefa|southern_europe|balkans|southeastern_europe
+by, Belarus,     BLR,     207_600,   9_643_566,  un|fifa|uefa|eastern_europe
+ch, Switzerland, SUI,      41_285,   7_866_500,  un|fifa|uefa|de|fr|it|rm|  schengen|western_europe|central_europe
+hr, Croatia,     CRO,      56_594,   4_290_612,  un|fifa|uefa|southern_europe|balkans|southeastern_europe     # NB: ISO (HRV) <> FIFA (CRO);  local name: Hrvatska
+rs, Serbia,      SRB,      88_361,   7_276_604,  un|fifa|uefa|southern_europe|balkans|southeastern_europe
+ru, Russia,       RUS, 17_098_242, 142_517_670,  un|fifa|uefa|asia|north asia|g8|g20
+tr, Turkey,       TUR,    783_562,  79_749_461,  un|fifa|uefa|asia|western asia|g20
+ua, Ukraine,      UKR,    603_550,  44_854_065,  un|fifa|uefa|eastern_europe
+mk, Macedonia,    MKD,     25_713,   2_082_370,  un|fifa|uefa|southern_europe|balkans|southeastern_europe
+no, Norway,       NOR,    385_155,   4_993_300,  un|fifa|uefa|schengen|uefa|northern europe|scandinavia|nordic
+is, Iceland,      ISL,    103_000,     318_452,  un|fifa|uefa|schengen|uefa|northern europe|nordic
 
 
 va, Vatican City, VAT,          1,        836,   Vatican City,   microstate|southern_europe  # NB: not fifa member; use ISO code
 
-ba, Bosnia and Herzegovina, BIH,  51_197,   3_839_737,  Sarajevo, un|fifa|southern_europe|balkans|southeastern_europe
-li, Liechtenstein, LIE, 160,  36281,  Vaduz,  un|fifa|microstate|western_europe
+ba, Bosnia and Herzegovina, BIH,  51_197,   3_839_737,  Sarajevo, un|fifa|uefa|southern_europe|balkans|southeastern_europe
+li, Liechtenstein, LIE, 160,  36281,  Vaduz,  un|fifa|uefa|microstate|western_europe
 mc, Monaco, MCO,  2,  36371,  Monaco,  un|microstate|western_europe    # nb: use ISO code; not fifa member
-me, Montenegro, MNE, 13_812,  625_266,   Podgorica,  un|fifa|southern_europe|balkans|southeastern_europe
-md, Moldova, MDA,  33_846,  3_559_500,   Chișinău,  un|fifa|eastern_europe
-sm, San Marino, SMR,  61,  32_404,  City of San Marino,  un|fifa|microstate|southern_europe
-
+me, Montenegro, MNE, 13_812,  625_266,   Podgorica,  un|fifa|uefa|southern_europe|balkans|southeastern_europe
+md, Moldova, MDA,  33_846,  3_559_500,   Chișinău,  un|fifa|uefa|eastern_europe
+sm, San Marino, SMR,  61,  32_404,  City of San Marino,  un|fifa|uefa|microstate|southern_europe

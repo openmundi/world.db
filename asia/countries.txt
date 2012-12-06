@@ -64,7 +64,7 @@ ir, Iran,   IRN, 1_648_195,  75_149_669,  Tehran, un|fifa|middle_east|western_as
 
 ge, Georgia,      GEO,    69_700,  4_570_934,   un|fifa|uefa|europe|western asia|south caucasus
 am, Armenia,      ARM,    29_743,  2_970_495,   un|fifa|uefa|europe|western asia|south caucasus
-az, Azerbaijan,   AZE,   86_600,   9_165_000,     Baku, un|fifa|western asia|south caucasus
+az, Azerbaijan,   AZE,   86_600,   9_165_000,     Baku, un|fifa|uefa|western asia|south caucasus
 
 
 
