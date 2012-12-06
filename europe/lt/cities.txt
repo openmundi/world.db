@@ -1,4 +1,3 @@
-## Latvia cities
+## Lithuania Cities (lt)
 
-riga, Riga, 699_203, m:1_018_295
-
+vilnius, Vilnius,  554_060, m:838_852
