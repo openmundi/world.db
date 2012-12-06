@@ -27,9 +27,11 @@
 ##     - south caucasus
 ##     - fertile crescent
 ##
-##  nb: egypt listed in africa - mark as middle_east|western_asia  ??
-##  nb: turkey listed in europe - mark as middle_east|western_asia  ??
-##  nb: cyprus listed in europe - mark as middle_east|western_asia  ??
+##  nb: egypt listed in africa - marked as middle_east   -- western_asia too?
+##  nb: cyprus listed in europe - mark as middle_east|western_asia 
+##  nb: turkey listed in europe - mark as w/ middle_east|western_asia  ??
+##
+##  middle east; see -> http://en.wikipedia.org/wiki/Middle_East
 
 ### arabian peninsula
 
@@ -104,7 +106,7 @@ mv, Maldives, MDV, 298,  328_536,  Malé,  un|fifa|south_asia|microstate
 
 # also add afghanistan here - why? why not?
 
-af, Afghanistan, AFG, 647_500,  30_419_928,     Kabul, un|fifa|south_asia
+af, Afghanistan, AFG, 647_500,  30_419_928,     Kabul, un|fifa|south_asia|central_asia
 
 
 ########################
