@@ -1,11 +1,11 @@
 
 # metros
 
-rotterdamthehague, Rotterdam-The Hague, m:2_113_000
+Rotterdam-The Hague, m:2_113_000
 
 
 # cities
 
-amsterdam, Amsterdam, m:1_050_000
+Amsterdam, m:1_050_000
 
-alkmaar, Alkmaar,  ## region: North Holland
+Alkmaar   ## region: North Holland

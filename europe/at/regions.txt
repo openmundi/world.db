@@ -14,13 +14,13 @@
 ## 9 Bundesländer
 
 bgld,   Bgld.|Burgenland,                   3_962,  eastern austria
-noe,    NÖ|Niederösterreich|Lower Austria,  19_186, eastern austria
-wien,   Wien|Vienna,                        415,    eastern austria
+noe,    NÖ|Niederösterreich [Lower Austria],  19_186, eastern austria
+wien,   Wien [Vienna],                        415,    eastern austria
 
-stmk,   Stmk.|Steiermark|Styria,            16_401, southern austria
-ktn,    Ktn.|Kärnten|Carinthia,             9_538,  southern austria
+stmk,   Stmk.|Steiermark [Styria],            16_401, southern austria
+ktn,    Ktn.|Kärnten [Carinthia],             9_538,  southern austria
 
-ooe,    OÖ|Oberösterreich|Upper Austria,    11_980, western austria
+ooe,    OÖ|Oberösterreich [Upper Austria],    11_980, western austria
 sbg,    Sbg.|Salzburg,                      7_156,  western austria
-tirol,  Tirol|Tyrol,                        12_640, western austria
+tirol,  Tirol [Tyrol],                        12_640, western austria
 vbg,    Vbg.|Vorarlberg,                    2_601,  western austria

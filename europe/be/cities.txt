@@ -1,15 +1,15 @@
 
 
-brussel,   Brussel|Bruxelles [Brussels], region:bx,  1_048_491, m:1_929_000    ,   # nl|fr|en
-antwerp,   Antwerpen|Anvers [Antwerp],   region:an, 466_203,  m:960_000
-ghent,     Gent|Gand [Ghent],     region:ov, 235_143
-charleroi, Charleroi, region:ht, 201_550
-liege,     Liège|Luik,       region:lg, 188_907
-bruges,    Bruges|Brugge,    region:wv, 116_982
-namur,     Namur|Namen,     region:na, 107_653
-leuven,    Leuven|Louvain,    region:br,  91_942
-mons,      Mons|Bergen,      region:ht,  91_196
-mechelen,  Mechelen|Malines,  region:an,  78_900
+Brussel|Bruxelles [Brussels], region:bx,  1_048_491, m:1_929_000    ,   # nl|fr|en
+Antwerpen|Anvers [Antwerp],   region:an, 466_203,  m:960_000
+Gent|Gand [Ghent],     region:ov, 235_143
+Charleroi, region:ht, 201_550
+Liège|Luik,       region:lg, 188_907
+Bruges|Brugge,    region:wv, 116_982
+Namur|Namen,     region:na, 107_653
+Leuven|Louvain,    region:br,  91_942
+Mons|Bergen,      region:ht,  91_196
+Mechelen|Malines,  region:an,  78_900
 
 
 ## add as city districts? (or cities w/ major or similar flag=false?)

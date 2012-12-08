@@ -13,7 +13,7 @@ pg: PNG           # Papua New Guinea
 ####
 ## not members - double check if mistaken
 
-kl: !!null           # Kiribati
+ki: !!null           # Kiribati
 mh: !!null           # Marshall Islands
 fm: !!null           # Micronesia
 nr: !!null           # Nauru

@@ -1,4 +1,4 @@
 ## Latvia cities (lv)
 
-riga, Riga, 699_203, m:1_018_295
+Riga, 699_203, m:1_018_295
 

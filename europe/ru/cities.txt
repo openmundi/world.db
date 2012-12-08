@@ -1,11 +1,11 @@
 
-moskva,       Moskva [Moscow],  11_689_048, m:15_512_000
-stpetersburg, St. Petersburg,  4_879_566, m:4_879_000
+Moskva [Moscow],  11_689_048, m:15_512_000
+St. Petersburg,  4_879_566, m:4_879_000
 
-novgorod,     Nizhni Novgorod, 1_250_615, m:1_248_000
+Novgorod|Nizhni Novgorod, 1_250_615, m:1_248_000
 
-samara,   Samaram,  1_164_896, m:1_163_000
-kazan,    Kazan,    1_143_546, m:1_141_000
+Samaram,  1_164_896, m:1_163_000
+Kazan,    1_143_546, m:1_141_000
 
 # Yekaterinburg  1_350_136   ??
 # Chelyabinsk    1_130_273   ??

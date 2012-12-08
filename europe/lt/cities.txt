@@ -1,3 +1,3 @@
 ## Lithuania Cities (lt)
 
-vilnius, Vilnius,  554_060, m:838_852
+Vilnius,  554_060, m:838_852
