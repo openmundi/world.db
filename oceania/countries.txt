@@ -8,7 +8,7 @@
 ##  - Polynesia
 
 
-au, Australia, AUS,    7_686_850,  22_028_000,   un|fifa|en|g20|commonwealth
+au, Australia, AUS,    7_686_850,  22_028_000,   un|fifa|g20|commonwealth
 
 ##############
 ### Melanesia
@@ -34,7 +34,7 @@ ki, Kiribati, KIR, 811, 103_500,  Tarawa,  un|micronesia|microstate|commonwealth
 ## Polynesia
 ##   see http://en.wikipedia.org/wiki/Polynesia
 
-nz, New Zealand, NZL,    268_680,   4_108_037,   un|fifa|en|polynesia|commonwealth
+nz, New Zealand, NZL,    268_680,   4_108_037,   un|fifa|polynesia|commonwealth
 ws, Samoa, SAM,   2_831,  194_320,   Apia, un|fifa|polynesia|commonwealth
 to, Tonga, TGA,  748,  103_036,     Nuku'alofa,   un|fifa|polynesia|microstate|commonwealth
 tv, Tuvalu, TUV, 26,  10_544,   Funafuti,   un|polynesia|microstate|commonwealth      # nb: use ISO code; NOT fifa member

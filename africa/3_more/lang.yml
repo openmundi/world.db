@@ -31,12 +31,13 @@ ly: ar
 ma: ar
 mg: mg,fr
 ml: fr
-mq: fr
 mr: ar,fr
 mu: fr,en  # mfe
 mw: en,ny
 mz: pt
-na: en,sf,de
+
+### todo: check sf - no iso code found -- check again and add it if exists to na
+na: en,de
 ne: fr
 ng: en
 rw: rw,fr,en

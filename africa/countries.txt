@@ -52,11 +52,11 @@ st, São Tomé and Príncipe, STP,  1_001,  183_176,  São Tomé,  un|fifa|centr
 ###############
 ## Northern Africa
 
-dz, Algeria,   ALG,  2_381_740,  34_178_188,  un|fifa|ar|northern africa
-eg, Egypt,     EGY,  1_001_450,  82_868_000,  un|fifa|ar|northern africa|middle_east
-ma, Morocco,   MAR,    446_550,  34_859_364,  un|fifa|ar|northern africa
-ly, Libya,     LBY,  1_759_540,   6_310_434,  un|fifa|ar|northern africa
-tn, Tunisia,   TUN,    163_610,  10_486_339,  un|fifa|ar|northern africa
+dz, Algeria,   ALG,  2_381_740,  34_178_188,  un|fifa|northern africa
+eg, Egypt,     EGY,  1_001_450,  82_868_000,  un|fifa|northern africa|middle_east
+ma, Morocco,   MAR,    446_550,  34_859_364,  un|fifa|northern africa
+ly, Libya,     LBY,  1_759_540,   6_310_434,  un|fifa|northern africa
+tn, Tunisia,   TUN,    163_610,  10_486_339,  un|fifa|northern africa
 ss, South Sudan, SSD,  619_745,  8_260_490,     Juba,   un|fifa|northern africa
 sd, Sudan, SDN, 1_886_068,  30_894_000,    Khartoum,  un|fifa|northern africa
 
