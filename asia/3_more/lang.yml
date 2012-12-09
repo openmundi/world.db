@@ -1,0 +1,55 @@
+### official language mapping
+##  country code:  language codes
+
+ae: ar
+af: fa,ps
+am: hy
+az: az
+bd: bn
+bh: ar
+bn: ms
+cn: zh
+ge: ka
+hk: zh,en
+id: id
+il: he
+in: hi,en
+iq: ar,ku
+ir: fa
+jo: ar
+jp: ja
+kg: ky,ru
+kh: km
+kp: ko
+kr: ko,en
+kw: ar
+kz: kk,ru
+la: lo
+lb: ar,fr
+lk: si,ta
+lr: en
+mm: my
+mn: mn
+mv: dv
+my: ms
+np: ne
+om: ar
+ph: en,tl
+pk: en,ur
+ps: ar,he
+qa: ar
+sa: ar
+sg: en,ms,zh,ta
+th: th
+tj: tg,ru
+tl: pt # tet
+tm: tk
+tw: zh
+uz: uz # kaa
+vn: vi
+ye: ar
+
+
+
+
+

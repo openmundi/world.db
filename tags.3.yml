@@ -1,0 +1,23 @@
+### setup some grade 3 tags
+
+
+####
+
+# categorize countries into brackets by area
+area: area_1_000_000_n_up,
+      area_100_000_to_1_000_000,
+      area_1_000_to_100_000,
+      area_1_000_n_less    # microstate
+
+# include all
+area2: area_100_000_n_up, area_1_000_n_up
+
+
+# categorize countries into brackets by pop(ulation)
+pop: pop_100m_n_up,
+     pop_10m_to_100m,
+     pop_1m_to_10m,
+     pop_1m_n_less
+
+# include all
+pop2: pop_10m_n_up, pop_1m_n_up

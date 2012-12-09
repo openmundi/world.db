@@ -1,0 +1,40 @@
+### setup some grade 1 tags
+
+
+###
+# for 193 un members see www.un.org/en/members
+
+
+## some tags
+
+continents: africa, america, asia, europe, oceania
+
+####################
+# geo regions
+africa: northern africa, western africa, central africa, eastern africa, southern africa
+
+americas: north america, south america, central america, caribbean (islands)
+
+## check if yaml can handle key w/ space??
+south_america: andean states, southern cone
+
+europe: northern europe, southern europe, western europe, central europe, eastern europe, southeastern europe
+
+## more regions
+europe2: baltic (states), scandinavia, nordic (countries), balkans
+
+
+## get used for more than one continent
+more: middle east, indian ocean, atlantic ocean
+
+# orgs
+
+orgs: un, g5, g8, g20, eu, commonwealth, mercosur, nafta
+football: fifa, uefa, afc, ofc, caf, csf, concacaf
+
+europe3: benelux, euro, schengen
+
+misc: microstate
+
+# national regions
+brasil: s|South, se|Southeast, co|Centerwest, ne|Northeast, n|North

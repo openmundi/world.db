@@ -1,0 +1,210 @@
+## list of languages
+##  use key / title e.g. en: English, de: Deutsch etc.
+
+## for a list see http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+
+
+### languages in europe
+
+sq: Albanian
+eu: Basque
+be: Belarusian
+bs: Bosnian
+br: Breton
+bg: Bulgarian
+ca: Catalan
+kw: Cornish
+co: Corsican
+hr: Croatian
+cs: Czech
+da: Danish
+nl: Dutch
+en: English
+et: Estonian
+fo: Faroese
+fi: Finnish
+fr: French
+gl: Galician
+de: German
+el: Greek
+hu: Hungarian
+ga: Irish
+is: Icelandic
+it: Italian
+lb: Luxembourgish
+lt: Lithuanian
+lv: Latvian
+mk: Macedonian
+mt: Maltese
+nb: Norwegian Bokmål
+nn: Norwegian Nynorsk
+no: Norwegian
+pl: Polish
+pt: Portuguese
+rm: Romansh
+ro: Romanian|Moldavian
+ru: Russian
+sc: Sardinian
+sr: Serbian
+gd: Scottish Gaelic|Gaelic
+es: Spanish|Castilian
+sv: Swedish
+sk: Slovak
+sl: Slovene
+tr: Turkish
+uk: Ukrainian 
+wa: Walloon
+cy: Welsh
+fy: Western Frisian
+yi: Yiddish
+kl: Kalaallisut|Greenlandic
+
+### america
+
+ay: Aymara
+cr: Cree
+gn: Guaraní
+ht: Haitian
+ik: Inupiaq
+iu: Inuktitut
+nv: Navajo
+oj: Ojibwe
+qu: Quechua
+
+
+### todo: group/sort by continent 
+### africa / asia / oceania
+
+ab: Abkhaz
+aa: Afar
+af: Afrikaans
+ak: Akan
+am: Amharic
+ar: Arabic
+an: Aragonese
+hy: Armenian
+as: Assamese
+av: Avaric
+ae: Avestan
+az: Azerbaijani
+bm: Bambara
+ba: Bashkir
+bn: Bengali
+bh: Bihari
+bi: Bislama
+my: Burmese
+ch: Chamorro
+ce: Chechen
+ny: Chichewa
+zh: Chinese
+cv: Chuvash
+dv: Divehi
+dz: Dzongkha
+ee: Ewe
+fj: Fijian
+ff: Fula
+ka: Georgian
+gu: Gujarati
+ha: Hausa
+he: Hebrew
+hz: Herero
+hi: Hindi
+ho: Hiri Motu
+id: Indonesian
+ig: Igbo
+ja: Japanese
+jv: Javanese
+kn: Kannada
+kr: Kanuri
+ks: Kashmiri
+kk: Kazakh
+km: Khmer|Cambodian
+ki: Kikuyu
+rw: Kinyarwanda
+ky: Kyrgyz
+kv: Komi
+kg: Kongo
+ko: Korean
+ku: Kurdish
+kj: Kwanyama
+lg: Ganda
+li: Limburgish
+ln: Lingala
+lo: Lao 
+lu: Luba-Katanga
+gv: Manx
+mg: Malagasy
+ms: Malay
+ml: Malayalam
+mi: Māori
+mr: Marathi
+mh: Marshallese
+mn: Mongolian
+na: Nauru
+nd: North Ndebele
+ne: Nepali
+ng: Ndonga
+ii: Nuosu
+nr: South Ndebele
+oc: Occitan
+om: Oromo
+or: Oriya
+os: Ossetian|Ossetic
+pa: Panjabi|Punjabi
+pi: Pāli
+fa: Persian
+ps: Pashto
+rn: Kirundi
+sa: Sanskrit
+sd: Sindhi
+se: Northern Sami
+sm: Samoan
+sg: Sango
+sn: Shona
+si: Sinhala
+so: Somali
+st: Southern Sotho
+su: Sundanese
+sw: Swahili
+ss: Swati
+ta: Tamil
+te: Telugu
+tg: Tajik
+th: Thai
+ti: Tigrinya
+bo: Tibetan
+tk: Turkmen
+tl: Tagalog
+tn: Tswana
+to: Tonga
+ts: Tsonga
+tt: Tatar
+tw: Twi
+ty: Tahitiani
+ug: Uighur
+ur: Urdu
+uz: Uzbek
+ve: Venda
+vi: Vietnamese
+wo: Wolof
+xh: Xhosa
+yo: Yoruba
+za: Zhuang
+zu: Zulu
+
+
+#####################
+## constructed languages
+
+## eo: Esperanto
+## ia: Interlingua
+## ie: Interlingue
+## io: Ido
+## vo: Volapük
+
+
+#########################
+## acient
+
+## la: Latin
+## cu: Old Church Slavonic|Old Bulgarian

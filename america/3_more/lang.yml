@@ -1,0 +1,62 @@
+### official language mapping
+##  country code:  language codes
+
+## north america
+
+ca: en,fr
+us: en,es
+mx: es
+
+### todo: group by regions
+## central america
+
+
+## carribean
+
+
+## south america
+
+ag: en
+ve: es
+br: pt
+
+
+
+tt: en
+uy: es
+vc: en
+
+ai: en
+ar: es
+bb: en
+bm: en
+bo: es,qu,ay
+bs: en
+bz: en
+cl: es
+co: es
+cr: es
+cu: es
+dm: en
+do: es
+ec: es
+gd: en
+gt: es
+gy: en
+hn: es
+ht: fr,ht
+jm: en
+kn: en
+lc: en
+ni: es
+pa: es
+pe: es
+pr: es,en
+py: es,gn
+sr: nl
+sv: es
+
+
+
+
+
