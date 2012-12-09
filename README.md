@@ -22,9 +22,11 @@ The `world.db` includes the following tables:
 * countries
 * regions
 * cities
-* taggings
 * tags
-
+* taggings (many-to-many join table for tags+countries/regions/cities)
+* langs
+* usages (many-to-many join table for langs+countries)
+* props
 
 [add schema pic here]
 
@@ -66,7 +68,6 @@ The `world.db` includes the following tables:
       "region_id" integer,
       "pop" integer,
       "area" integer,
-      "capital" boolean DEFAULT 'f' NOT NULL,
       "created_at" datetime NOT NULL,
       "updated_at" datetime NOT NULL
     );
@@ -74,10 +75,11 @@ The `world.db` includes the following tables:
 
 ## Command Line Tool
 
-    worlddb - world.db command line tool, version 0.3.0
+    worlddb - world.db command line tool, version 0.8.0
     
     Usage: worlddb [options]
             --create                     Create DB schema
+            --setup                      Create DB schema 'n' load builtin world data
         -i, --include PATH               Data path (default is .)
             --country KEY                Default country for regions 'n' cities
             --countries                  Use country plain text fixture reader
@@ -117,17 +119,17 @@ in plain text. Example:
 [`america/countries.txt`](https://github.com/geraldb/world.db/blob/master/america/countries.txt):
 
 ```
-ca, Canada,        CAN, 9984670,  34278406, north america|en|fr
-mx, Mexico,        MEX, 1972550, 112322757, north america|en
-us, United States, USA, 9629091, 314167157, north america|es
+ca, Canada,        CAN, 9_984_670,  34_278_406, un|north america
+mx, Mexico,        MEX, 1_972_550, 112_322_757, un|north america
+us, United States, USA, 9_629_091, 314_167_157, un|north america
 ```
 
 [`europe/at/cities.txt`](https://github.com/geraldb/world.db/blob/master/europe/at/cities.txt):
 
 ```
-wien,        Wien|Vienna,                  region:wien, 1664146
-stpoelten,   St. Pölten,                   region:noe,   51360
-wrneustadt,  Wiener Neustadt|Wr. Neustadt, region:noe,   39940
+Wien [Vienna],                region:wien, 1_664_146
+St. Pölten,                   region:noe,     51_360
+Wr. Neustadt|Wiener Neustadt, region:noe,     39_940
 ```
 
 The plain text format reader skips comments (starting with `#`)
