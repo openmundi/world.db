@@ -48,6 +48,13 @@ vc, Saint Vincent and the Grenadines, VIN,  389,  120_000,   Kingstown,   un|fif
 tt, Trinidad and Tobago, TRI,  5_131,  1_346_350,    Port of Spain,  un|fifa|caribbean|commonwealth
 
 
+### todo/fix: add depedency France - move dependencies to its own file e.g.
+# countries2.txt  to avoid circular dependencies e.g. France must get created first - why?? why not??
+
+# fix: add more tags
+gp, Guadeloupe, GPE, 1_628, 405_500, caribbean
+mq, Martinique, MTQ, 1_128, 403_795, caribbean
+
 
 ##############
 ## south america

@@ -38,3 +38,9 @@ nz, New Zealand, NZL,    268_680,   4_108_037,   un|fifa|polynesia|commonwealth
 ws, Samoa, SAM,   2_831,  194_320,   Apia, un|fifa|polynesia|commonwealth
 to, Tonga, TGA,  748,  103_036,     Nuku'alofa,   un|fifa|polynesia|microstate|commonwealth
 tv, Tuvalu, TUV, 26,  10_544,   Funafuti,   un|polynesia|microstate|commonwealth      # nb: use ISO code; NOT fifa member
+
+#### todo:
+#  use country2.txt for dependencies?  - e.g tahiti requires France
+
+pf, Tahiti, TAH, 1_045, 178_133, polynesia
+
