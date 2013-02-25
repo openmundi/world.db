@@ -5,33 +5,19 @@
 
 af: AFG           # Afghanistan
 az: AZE           # Azerbaijan
-bh: BHR           # Bahrain
 bt: BHU           # Bhutan
 bn: BRU           # Brunei
 kh: CAM           # Cambodia
-ir: IRN           # Iran
-iq: IRQ           # Iraq
-jo: JOR           # Jordan
-kw: KUW           # Kuwait
 kg: KGZ           # Kyrgyzstan
 la: LAO           # Laos
-lb: LIB           # Lebanon
 mv: MDV           # Maldives
 mn: MGL           # Mongolia
 mm: MYA           # Myanmar
-om: OMA           # Oman
-qa: QAT           # Qatar
-sy: SYR           # Syria
 tj: TJK           # Tajikistan
 tl: TLS           # Timor-Leste [East Timor]
 tm: TKM           # Turkmenistan
-ae: UAE           # United Arab Emirates
 uz: UZB           # Uzbekistan
-ye: YEM           # Yemen
 kz: KAZ           # Kazakhstan
-sa: KSA           # Saudi Arabia
-il: ISR           # Israel
-ps: PLE           # Palestine
 ge: GEO           # Georgia
 am: ARM           # Armenia
 jp: JPN           # Japan
