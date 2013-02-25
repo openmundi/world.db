@@ -8,3 +8,9 @@
 
 build/
 
+#############################
+# ignore dbs in root folder
+
+*.db
+
+

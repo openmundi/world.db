@@ -1,14 +1,27 @@
-Welcome to `world.db`
-=====================
+# Welcome to `world.db`
 
-A free open world database & schema for use in any language
+A free open public domain world database & schema
+for use in any (programming) language
+(e.g. uses plain text fixtures/data sets)
 
 
 ## Usage
 
-Get a copy of the `world.db` file. That's it.
+Build yourself a copy of the `world.db` from the plain text fixtures
+in two steps.
+
+Step 1:  Get a copy of the `world.db` fixtures
+
+    $ git clone git://github.com/geraldb/world.db.git
+
+Step 3:  Let's build the `world.db`
+
+    $ worldb setup --include ./world.db
+
+That's it.
 
 ![](https://raw.github.com/geraldb/world.db/master/i/sqlitestudio.png)
+
 
 ## Demo
 
@@ -75,40 +88,10 @@ The `world.db` includes the following tables:
 
 ## Command Line Tool
 
-    worlddb - world.db command line tool, version 0.8.0
-    
-    Usage: worlddb [options]
-            --create                     Create DB schema
-            --setup                      Create DB schema 'n' load builtin world data
-        -i, --include PATH               Data path (default is .)
-            --country KEY                Default country for regions 'n' cities
-            --countries                  Use country plain text fixture reader
-            --regions                    Use regions plain text fixture reader
-            --cities                     Use cities  plain text fixture reader
-            --load                       Use loader for builtin world data
-            --delete                     Delete all records
-        -v, --version                    Show version
-            --verbose                    Show debug trace
-        -h, --help                       Show this message
-    
-    
-    Examples:
-        worlddb at/cities                      # import austrian cities
-        worlddb --create                       # create database schema
-
-
-## Build Your Own `world.db` Version
-
-Step 1:  Create an empty database, that is, `world.db`. Issue the command:
-
-    worlddb --create
-
-Step 2:  Add your countries, regions and cities of choice. For example,
-let's use the Austrian and German cities and regions:
-
-    worlddb --include <your_path_to_fixtures> at/regions at/cities de/regions de/cities
-
-That's it.
+To build your own `world.db` copy
+use the `worlddb` command line tool.
+See the [`worlddb` command line tool project](https://github.com/geraldb/world.db.ruby)
+for more.
 
 
 ## Plain Text Fixtures
