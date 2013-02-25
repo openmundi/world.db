@@ -1,0 +1,127 @@
+####################
+# all fixtures
+
+
+tags:
+- tags.1
+- tags.3
+
+countries:
+- africa/countries
+- asia/countries
+- caribbean/countries
+- central-america/countries
+- europe/countries
+- middle-east/countries
+- north-america/countries
+- pacific/countries
+- south-america/countries
+
+####
+# todo/fix: change 3_more to 3-more for keeping folders names the same (e.g. north-america,etc.)
+
+langs:
+- langs
+- africa/3_more/lang
+- asia/3_more/lang
+- caribbean/3_more/lang
+- central-america/3_more/lang
+- europe/3_more/lang
+- middle-east/3_more/lang
+- north-america/3_more/lang
+- pacific/3_more/lang
+- south-america/3_more/lang
+
+africa:
+- africa/1_codes/fifa
+- africa/1_codes/internet
+- africa/1_codes/iso3
+
+south-america:
+- south-america/1_codes/fifa
+- south-america/1_codes/internet
+- south-america/1_codes/iso3
+- south-america/1_codes/motor
+- south-america/ve/regions
+- south-america/ve/cities
+- south-america/br/regions
+
+caribbean:
+- caribbean/1_codes/fifa
+- caribbean/1_codes/internet
+- caribbean/1_codes/iso3
+
+central-america:
+- central-america/1_codes/fifa
+- central-america/1_codes/internet
+- central-america/1_codes/iso3
+
+north-america:
+- north-america/1_codes/fifa
+- north-america/1_codes/internet
+- north-america/1_codes/iso3
+- north-america/1_codes/motor
+- north-america/ca/regions
+- north-america/ca/cities
+- north-america/us/regions
+- north-america/us/cities
+- north-america/mx/regions
+- north-america/mx/cities
+
+asia:
+- asia/1_codes/fifa
+- asia/1_codes/internet
+- asia/1_codes/iso3
+- asia/jp/cities
+
+europe:
+- europe/1_codes/fifa
+- europe/1_codes/internet
+- europe/1_codes/iso3
+- europe/1_codes/motor
+- europe/at/regions
+- europe/at/cities
+- europe/be/regions
+- europe/be/cities
+- europe/bg/cities
+- europe/by/cities
+- europe/ch/cities
+- europe/cy/cities
+- europe/cz/regions
+- europe/cz/cities
+- europe/de/regions
+- europe/de/cities
+- europe/dk/cities
+- europe/ee/cities
+- europe/en/regions
+- europe/en/cities
+- europe/es/regions
+- europe/es/cities
+- europe/fi/cities
+- europe/fr/regions
+- europe/fr/cities
+- europe/gr/cities
+- europe/hr/cities
+- europe/hu/cities
+- europe/ie/cities
+- europe/it/cities
+- europe/lt/cities
+- europe/lv/cities
+- europe/nl/cities
+- europe/no/cities
+- europe/pl/cities
+- europe/pt/cities
+- europe/ro/cities
+- europe/rs/cities
+- europe/ru/cities
+- europe/sc/cities
+- europe/se/cities
+- europe/tr/cities
+- europe/ua/cities
+- europe/wa/cities
+
+pacific:
+- pacific/1_codes/fifa
+- pacific/1_codes/internet
+- pacific/1_codes/iso3
+- pacific/au/cities

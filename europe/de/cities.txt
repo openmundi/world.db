@@ -14,8 +14,8 @@ Köln/Bonn  [Cologne-Bonn],  region:nw, m:2_063_000, metro   # includes koeln, l
 Berlin,           region:be,   3_501_872,  m:3_453_000
 Hamburg,          region:hh,   1_798_836,  m:1_794_000
 München [Munich], region:by,   1_378_176,  m:1_355_000
-Köln,             region:nw,   1_017_155, metro:koelnbonn, 
-Frankfurt,        region:he,     691_518   m:2_300_000     # frankfurt metro includes wiesbaden, darmstadt
+Köln,             region:nw,   1_017_155, metro:koelnbonn
+Frankfurt,        region:he,     691_518,  m:2_300_000     # frankfurt metro includes wiesbaden, darmstadt
 Stuttgart,        region:bw,     613_392,  m:1_272_000
 Düsseldorf,       region:nw,     592_393
 Dortmund,         region:nw,     580_956, metro:ruhr

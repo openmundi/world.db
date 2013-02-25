@@ -1,0 +1,63 @@
+##################
+# europe fixtures
+
+
+tags:
+- tags.1
+- tags.3
+
+countries:
+- europe/countries
+
+####
+# todo/fix: change 3_more to 3-more for keeping folders names the same (e.g. north-america,etc.)
+
+langs:
+- langs
+- europe/3_more/lang
+
+europe:
+- europe/1_codes/fifa
+- europe/1_codes/internet
+- europe/1_codes/iso3
+- europe/1_codes/motor
+- europe/at/regions
+- europe/at/cities
+- europe/be/regions
+- europe/be/cities
+- europe/bg/cities
+- europe/by/cities
+- europe/ch/cities
+- europe/cy/cities
+- europe/cz/regions
+- europe/cz/cities
+- europe/de/regions
+- europe/de/cities
+- europe/dk/cities
+- europe/ee/cities
+- europe/en/regions
+- europe/en/cities
+- europe/es/regions
+- europe/es/cities
+- europe/fi/cities
+- europe/fr/regions
+- europe/fr/cities
+- europe/gr/cities
+- europe/hr/cities
+- europe/hu/cities
+- europe/ie/cities
+- europe/it/cities
+- europe/lt/cities
+- europe/lv/cities
+- europe/nl/cities
+- europe/no/cities
+- europe/pl/cities
+- europe/pt/cities
+- europe/ro/cities
+- europe/rs/cities
+- europe/ru/cities
+- europe/sc/cities
+- europe/se/cities
+- europe/tr/cities
+- europe/ua/cities
+- europe/wa/cities
