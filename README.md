@@ -14,7 +14,7 @@ Step 1:  Get a copy of the `world.db` fixtures
 
     $ git clone git://github.com/geraldb/world.db.git
 
-Step 3:  Let's build the `world.db`
+Step 2:  Let's build the `world.db`
 
     $ worldb setup --include ./world.db
 

@@ -1,0 +1,17 @@
+####################
+## america
+##
+## see http://en.wikipedia.org/wiki/List_of_FIFA_country_codes
+
+ar: ARG           # Argentina
+bo: BOL           # Bolivia
+br: BRA           # Brazil
+cl: CHI           # Chile
+co: COL           # Colombia
+ec: ECU           # Ecuador
+gy: GUY           # Guyana
+pe: PER           # Peru
+sr: SUR           # Suriname
+py: PAR           # Paraguay
+uy: URU           # Uruguay
+ve: VEN           # Venezuela
