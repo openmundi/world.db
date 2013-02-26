@@ -17,6 +17,9 @@ countries:
 - pacific/countries
 - south-america/countries
 
+countries2:
+- caribbean/countries.2
+
 ####
 # todo/fix: change 3_more to 3-more for keeping folders names the same (e.g. north-america,etc.)
 

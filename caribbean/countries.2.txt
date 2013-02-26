@@ -1,0 +1,13 @@
+##############################
+# dependencies / countries
+
+pr, Puerto Rico,  PUR,      8_870,   3_982_000, country:us, fifa|caribbean
+
+
+### todo/fix: add depedency France - move dependencies to its own file e.g.
+# countries2.txt  to avoid circular dependencies e.g. France must get created first - why?? why not??
+
+# fix: add more tags
+gp, Guadeloupe, GPE, 1_628, 405_500, caribbean
+mq, Martinique, MTQ, 1_128, 403_795, caribbean
+
