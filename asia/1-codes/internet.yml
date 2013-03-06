@@ -1,8 +1,8 @@
 ####################
 ## asia
 
+
 af: af           # Afghanistan
-az: az           # Azerbaijan
 bt: bt           # Bhutan
 bn: bn           # Brunei
 kh: kh           # Cambodia
@@ -16,8 +16,6 @@ tl: tl           # Timor-Leste [East Timor]
 tm: tm           # Turkmenistan
 uz: uz           # Uzbekistan
 kz: kz           # Kazakhstan
-ge: ge           # Georgia
-am: am           # Armenia
 jp: jp           # Japan
 kp: kp           # North Korea
 kr: kr           # South Korea

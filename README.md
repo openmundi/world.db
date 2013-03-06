@@ -99,7 +99,7 @@ for more.
 The `worlddb` command line tool lets you import fixtures (countries, regions, cities)
 in plain text. Example:
 
-[`america/countries.txt`](https://github.com/geraldb/world.db/blob/master/america/countries.txt):
+[`north-america/countries.txt`](https://github.com/geraldb/world.db/blob/master/north-america/countries.txt):
 
 ```
 ca, Canada,        CAN, 9_984_670,  34_278_406, un|north america

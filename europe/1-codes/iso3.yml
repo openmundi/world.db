@@ -49,6 +49,11 @@ no: NOR           # Norway
 is: ISL           # Iceland
 va: VAT           # Vatican City
 
+az: AZE           # Azerbaijan
+ge: GEO           # Georgia
+am: ARM           # Armenia
+
+
 ########
 ## no official iso codes found - check if mistaken
 

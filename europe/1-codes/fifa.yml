@@ -51,6 +51,13 @@ mk: MKD           # Macedonia
 no: NOR           # Norway
 is: ISL           # Iceland
 
+
+az: AZE           # Azerbaijan
+ge: GEO           # Georgia
+am: ARM           # Armenia
+
+
+
 ####
 ## not members - double check if mistaken
 

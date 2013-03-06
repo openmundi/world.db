@@ -1,39 +1,35 @@
 ####################
 ## asia
-##
-## http://en.wikipedia.org/wiki/List_of_FIFA_country_codes
 
 af: AFG           # Afghanistan
-az: AZE           # Azerbaijan
-bt: BHU           # Bhutan
-bn: BRU           # Brunei
-kh: CAM           # Cambodia
+bt: BTN           # Bhutan
+bn: BRN           # Brunei
+kh: KHM           # Cambodia
 kg: KGZ           # Kyrgyzstan
 la: LAO           # Laos
+lb: LBN           # Lebanon
 mv: MDV           # Maldives
-mn: MGL           # Mongolia
-mm: MYA           # Myanmar
+mn: MNG           # Mongolia
+mm: MMR           # Myanmar
 tj: TJK           # Tajikistan
 tl: TLS           # Timor-Leste [East Timor]
 tm: TKM           # Turkmenistan
 uz: UZB           # Uzbekistan
 kz: KAZ           # Kazakhstan
-ge: GEO           # Georgia
-am: ARM           # Armenia
 jp: JPN           # Japan
 kp: PRK           # North Korea
 kr: KOR           # South Korea
 cn: CHN           # China
 hk: HKG           # Hong Kong
-tw: TPE           # Taiwan
+tw: TWN           # Taiwan
 id: IDN           # Indonesia
-my: MAS           # Malaysia
-sg: SIN           # Singapore
+my: MYS           # Malaysia
+sg: SGB           # Singapore
 th: THA           # Thailand
-ph: PHI           # Philippines
-vn: VIE           # Vietnam
+ph: PHL           # Philippines
+vn: VNM           # Vietnam
 pk: PAK           # Pakistan
 in: IND           # India
-bd: BAN           # Bangladesh
-np: NEP           # Nepal
-lk: SRI           # Sri Lanka
+bd: BGD           # Bangladesh
+np: NPL           # Nepal
+lk: LKA           # Sri Lanka

@@ -16,37 +16,40 @@ countries:
 - south-america/countries
 
 countries2:
+- asia/countries.2
 - caribbean/countries.2
+- europe/countries.2
+- pacific/countries.2
 
 africa:
-- africa/1_codes/fifa
-- africa/1_codes/internet
-- africa/1_codes/iso3
+- africa/1-codes/fifa
+- africa/1-codes/internet
+- africa/1-codes/iso3
 
 south-america:
-- south-america/1_codes/fifa
-- south-america/1_codes/internet
-- south-america/1_codes/iso3
-- south-america/1_codes/motor
+- south-america/1-codes/fifa
+- south-america/1-codes/internet
+- south-america/1-codes/iso3
+- south-america/1-codes/motor
 - south-america/ve/regions
 - south-america/br/regions
 ##- south-america/ve/cities
 
 caribbean:
-- caribbean/1_codes/fifa
-- caribbean/1_codes/internet
-- caribbean/1_codes/iso3
+- caribbean/1-codes/fifa
+- caribbean/1-codes/internet
+- caribbean/1-codes/iso3
 
 central-america:
-- central-america/1_codes/fifa
-- central-america/1_codes/internet
-- central-america/1_codes/iso3
+- central-america/1-codes/fifa
+- central-america/1-codes/internet
+- central-america/1-codes/iso3
 
 north-america:
-- north-america/1_codes/fifa
-- north-america/1_codes/internet
-- north-america/1_codes/iso3
-- north-america/1_codes/motor
+- north-america/1-codes/fifa
+- north-america/1-codes/internet
+- north-america/1-codes/iso3
+- north-america/1-codes/motor
 - north-america/ca/regions
 - north-america/ca/cities
 - north-america/us/regions
@@ -55,16 +58,16 @@ north-america:
 - north-america/mx/cities
 
 asia:
-- asia/1_codes/fifa
-- asia/1_codes/internet
-- asia/1_codes/iso3
+- asia/1-codes/fifa
+- asia/1-codes/internet
+- asia/1-codes/iso3
 - asia/jp/cities
 
 europe:
-- europe/1_codes/fifa
-- europe/1_codes/internet
-- europe/1_codes/iso3
-- europe/1_codes/motor
+- europe/1-codes/fifa
+- europe/1-codes/internet
+- europe/1-codes/iso3
+- europe/1-codes/motor
 - europe/at/regions
 - europe/at/cities
 - europe/be/regions
@@ -107,7 +110,7 @@ europe:
 - europe/wa/cities
 
 pacific:
-- pacific/1_codes/fifa
-- pacific/1_codes/internet
-- pacific/1_codes/iso3
+- pacific/1-codes/fifa
+- pacific/1-codes/internet
+- pacific/1-codes/iso3
 - pacific/au/cities

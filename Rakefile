@@ -1,7 +1,14 @@
 #############################
 ### Build a new world.db
 
+# stdlibs
+
 require 'pp'
+
+
+# 3rd party libs/gems
+
+require 'logutils/db'
 require 'worlddb'
 
 
@@ -39,24 +46,15 @@ end
 
 desc "create db schema"
 task :create => [:env, :clean] do
-  WorldDB.create
+  LogDb.create
+  WorldDb.create
 end
 
 desc "import db seeds from folder '#{DATA_DIR}'"
 task :import => :env do
 
-  reader = WorldDB::Reader.new
-  
-  excludes = [
-      'america/br/cities'
-  ]
-  names = WorldDB.fixtures - excludes
-  
-  names.each do |name|
-    reader.load_with_include_path( name, DATA_DIR )
-  end
-
-  WorldDB.stats
+  WorldDb.read_setup( 'setups/all', DATA_DIR )
+  WorldDb.stats
 
 end
 

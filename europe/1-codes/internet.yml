@@ -49,6 +49,10 @@ no: no           # Norway
 is: is           # Iceland
 va: va           # Vatican City
 
+az: az           # Azerbaijan
+ge: ge           # Georgia
+am: am           # Armenia
+
 #################
 # NB: some different mappings
 

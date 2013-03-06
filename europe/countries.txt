@@ -90,14 +90,6 @@ hu, Hungary,          HUN,   93_030,  9_979_000,  supra:eu, un|fifa|uefa|eu|sche
 ## uk, United Kingdown (of Great Britain and Northern Irleland),  UKI, 243_610,     London, supra:eu, un|fifa|eu|g8|g20
 
 gb, Great Britain, GBR,     243_610,  63_047_162,  supra:eu, un|eu|g8|g20|northern europe|western_europe|commonwealth
-en, England,       ENG,     130_395,  53_013_000,  country:gb, fifa|uefa|northern europe|western_europe   # NB: FIFA (ENG); not a valid iso country n internet domain / its uk - what to use - anything better?
-
-sc, Scotland,      SCO,      78_387,   5_254_800,  country:gb, fifa|uefa|northern europe|western_europe  # NB: FIFA (SCO); not a valid iso country/internet domain - its uk - what to use - anything better?
-wa, Wales,         WAL,      20_779,   3_064_000,  country:gb, fifa|uefa|northern europe|western_europe
-nd, Northern Ireland, NIR,   13_843,   1_810_900,  Belfast, country:gb, fifa|uefa|northern europe|western_europe
-
-
-fo, Faroe Islands,  FRO,    1_399,      49_267,  country:dk,  fifa|uefa|northern europe|nordic
 
 ad, Andorra,     AND,         468,      85_082,  un|fifa|uefa|microstate|western_europe
 al, Albania,     ALB,      28_748,   3_002_859,  un|fifa|uefa|southern_europe|balkans|southeastern_europe
@@ -121,3 +113,14 @@ mc, Monaco, MCO,  2,  36371,  Monaco,  un|microstate|western_europe    # nb: use
 me, Montenegro, MNE, 13_812,  625_266,   Podgorica,  un|fifa|uefa|southern_europe|balkans|southeastern_europe
 md, Moldova, MDA,  33_846,  3_559_500,   Chișinău,  un|fifa|uefa|eastern_europe
 sm, San Marino, SMR,  61,  32_404,  City of San Marino,  un|fifa|uefa|microstate|southern_europe
+
+
+
+##  south caucasus
+## - add to middle east?
+##  - check azerbaijan is in europe and fifa too?
+
+ge, Georgia,      GEO,    69_700,  4_570_934,   un|fifa|uefa|europe|western asia|south caucasus
+am, Armenia,      ARM,    29_743,  2_970_495,   un|fifa|uefa|europe|western asia|south caucasus
+az, Azerbaijan,   AZE,   86_600,   9_165_000,     Baku, un|fifa|uefa|western asia|south caucasus
+
