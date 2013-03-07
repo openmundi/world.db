@@ -1,20 +1,9 @@
 ##################################
-## africa
-##
-## see http://en.wikipedia.org/wiki/Africa#Territories_and_regions
-
-###
-## regions:
-# - Northern Africa
-# - Western Africa
-# - Central Africa
-# - Eastern Africa
-# - Southern Africa
-
+# africa
 
 
 ###############
-## Eastern Africa
+# Eastern Africa
 
 bi, Burundi, BDI,         27_834,     8_749_000,      Bujumbura,   un|fifa|eastern_africa
 km, Comoros, COM,           2_235,      798_000,   Moroni,  un|fifa|eastern_africa
@@ -36,7 +25,7 @@ zm, Zambia, ZAM,   752_618,  14_309_466,     Lusaka,  un|fifa|eastern_africa|com
 zw, Zimbabwe, ZIM,     390_757,  12_619_600,    Harare,  un|fifa|eastern_africa
 
 ######################
-## Central Africa
+# Central Africa
 
 ao, Angola,  ANG,      1_246_700,   18_498_000,       Luanda,  un|fifa|central_africa
 cm, Cameroon,       CMR,  475_440,  18_879_301,  un|fifa|central_africa|commonwealth
@@ -50,7 +39,7 @@ st, São Tomé and Príncipe, STP,  1_001,  183_176,  São Tomé,  un|fifa|centr
 
 
 ###############
-## Northern Africa
+# Northern Africa
 
 dz, Algeria,   ALG,  2_381_740,  34_178_188,  un|fifa|northern africa
 eg, Egypt,     EGY,  1_001_450,  82_868_000,  un|fifa|northern africa|middle_east
@@ -62,7 +51,7 @@ sd, Sudan, SDN, 1_886_068,  30_894_000,    Khartoum,  un|fifa|northern africa
 
 
 ################
-## Southern Africa
+# Southern Africa
 
 za, South Africa,   RSA,  1_219_912,  51_770_560,  un|fifa|southern_africa|g5|g20|commonwealth
 bw, Botswana, BOT,       581_730,     2_029_307,   Gaborone,  un|fifa|southern_africa|commonwealth
@@ -72,7 +61,7 @@ sz, Swaziland, SWZ,  17_364,  1_185_000,     Lobamba,  un|fifa|southern_africa|c
 
 
 ###################
-## Western Africa
+# Western Africa
 
 bj, Benin,   BEN,        112_622,     9_598_787,   Porto-Novo,   un|fifa|western_africa
 bf, Burkina Faso, BFA,   274_200,    15_730_977,   Ouagadougou,  un|fifa|western_africa

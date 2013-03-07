@@ -1,20 +1,5 @@
-###################################################
-## north/central/south america & caribbean islands
-
-## regions
-##  North America
-##  Central America
-##  Caribbean
-##  South America
-## extra Latin America
-
-
-##############
-## south america
-##
-##  sub regions
-##   - southern cone - see http://en.wikipedia.org/wiki/Southern_Cone
-##   - andean states - see http://en.wikipedia.org/wiki/Andean_states
+##################
+# south america
 
 ar, Argentina,     ARG, 2_780_400,  40_518_425, un|fifa|south america|g20|southern_cone
 bo, Bolivia,       BOL, 1_098_581,  10_907_778, un|fifa|south america|andean_states

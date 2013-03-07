@@ -1,44 +1,9 @@
-##################################
-### asia (includes middle east)
-##
-
-## NB: uefa country kazakhstan is listed here 
-## NB: australia is listed in pacific (oceania) (w/ australia)
-
-
-####
-# regions (United Nations geoscheme)
-# -  Central Asia
-# -  East Asia
-# -  North Asia
-# -  South Asia | Southern Asia
-# -  Southeast Asia
-# -  Western Asia | Middle East | Near East 
-#    o Arabian Peninsula
-#    o South Caucasus
-#    o Fertile Crescent
-
-
-#######
-## western asia / middle east
-##  see 
-##   subregions used:
-##     - arabian peninsula
-##     - south caucasus
-##     - fertile crescent
-##
-##  nb: egypt listed in africa - marked as middle_east   -- western_asia too?
-##  nb: cyprus listed in europe - mark as middle_east|western_asia 
-##  nb: turkey listed in europe - mark as w/ middle_east|western_asia  ??
-##
-##  middle east; see -> http://en.wikipedia.org/wiki/Middle_East
-
-
-
+#######################
+# asia
+#
 
 #######################
 #  central asia
-#   see http://en.wikipedia.org/wiki/Central_Asia
 
 kz, Kazakhstan,  KAZ,  2_724_900,  16_600_000,    un|fifa|uefa|europe|central_asia
 kg, Kyrgyzstan, KGZ, 199_900,  5_550_239,  Bishkek, un|fifa|central_asia
@@ -46,10 +11,8 @@ tj, Tajikistan, TJK,  143_100, 7_616_000,     Dushanbe,  un|fifa|central_asia
 tm, Turkmenistan, TKM, 491_210, 5_125_693,   Ashgabat,  un|fifa|central_asia
 uz, Uzbekistan, UZB, 447_400,  29_559_100,    Tashkent,  un|fifa|central_asia
 
-
 ################
 # east asia
-#  see http://en.wikipedia.org/wiki/East_Asia
 
 jp, Japan,        JPN,    377_930,    127_950_000,  un|fifa|east_asia|g8|g20
 kp, North Korea,  PRK,    120_538,     24_346_000,  un|fifa|east_asia
@@ -61,7 +24,6 @@ mn, Mongolia, MGL,  1_564_116, 2_754_685,  Ulan Bator, un|fifa|east_asia
 
 ###################
 # south asia
-#   see http://en.wikipedia.org/wiki/South_Asia
 
 pk, Pakistan,   PAK,    796_095,   180_440_000,  un|fifa|south_asia|commonwealth
 in, India,      IND,  3_287_240, 1_210_193_422,  un|fifa|south_asia|g5|g20|commonwealth
@@ -78,7 +40,6 @@ af, Afghanistan, AFG, 647_500,  30_419_928,     Kabul, un|fifa|south_asia|centra
 
 ########################
 # southeast asia
-#   see http://en.wikipedia.org/wiki/Southeast_Asia
 
 id, Indonesia,   IDN,   1_904_569,   241_030_522,  un|fifa|southeast_asia|g20
 my, Malaysia,    MAS,     329_847,    28_731_000,  un|fifa|southeast_asia|commonwealth

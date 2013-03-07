@@ -1,17 +1,5 @@
 #########
-# Land der Berge, Land am Strome
-#
-# sources:
-#  http://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Austria
-#  http://en.wikipedia.org/wiki/List_of_cities_in_Austria_over_5,000_population_(2001_census)
-
-##
-## NB: using 3 NUTS1 regions for tags
-#
-# NB: using OENORM for keys
-
-
-## 9 Bundesländer
+# 9 Bundesländer
 
 bgld,   Bgld.|Burgenland,                   3_962,  eastern austria
 noe,    NÖ|Niederösterreich [Lower Austria],  19_186, eastern austria
