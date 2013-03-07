@@ -1,18 +1,11 @@
 ###############################
 # australia & oceania
 
-####
-# regions
-#  - Melanesia
-#  - Micronesia
-#  - Polynesia
-
 
 au, Australia, AUS,    7_686_850,  22_028_000,   un|fifa|g20|commonwealth
 
 ##############
 # Melanesia
-# see http://en.wikipedia.org/wiki/Melanesia
 
 pg, Papua New Guinea, PNG,   462_840,  5_172_033,  un|fifa|melanesia|commonwealth
 fj, Fiji, FIJ,   18_274,   849_000,     Suva,  un|fifa|melanesia|commonwealth
@@ -22,7 +15,6 @@ vu, Vanuatu, VAN,  12_190,  224_564,  Port Vila,  un|fifa|melanesia|commonwealth
 
 #############
 # Micronesia
-#  see http://en.wikipedia.org/wiki/Micronesia
 
 pw, Palau, PLW,  459,  20_956,   Ngerulmud, un|micronesia|microstate          # nb: use ISO code; NOT fifa member
 fm, Micronesia, FSM,  702, 111_000,  Palikir, un|micronesia|microstate        # nb: use ISO code; NOT fifa member
@@ -32,7 +24,6 @@ ki, Kiribati, KIR, 811, 103_500,  Tarawa,  un|micronesia|microstate|commonwealth
 
 ##############
 # Polynesia
-#   see http://en.wikipedia.org/wiki/Polynesia
 
 nz, New Zealand, NZL,    268_680,   4_108_037,   un|fifa|polynesia|commonwealth
 ws, Samoa, SAM,   2_831,  194_320,   Apia, un|fifa|polynesia|commonwealth
