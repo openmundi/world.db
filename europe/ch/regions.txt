@@ -60,7 +60,9 @@ ag, Aargau, Aarau,             1_404, de|northwestern_switzerland
 be, Bern, Bern,                   5_959, de|fr|espace_mittelland
 fr, Fribourg|Freiburg, Fribourg,  1_671, fr|de|espace_mittelland
 so, Solothurn, Solothurn,           791, de|espace_mittelland
-ne, Neuchâtel|Neuenburg, Neuchâtel, 803, fr|espace_mittelland
+
+### todo: add Neuchâtel as capital
+ne, Neuchâtel|Neuenburg, 803, fr|espace_mittelland
 ju, Jura, Delsberg,                 838, fr|espace_mittelland
 
 ####################################
@@ -68,7 +70,9 @@ ju, Jura, Delsberg,                 838, fr|espace_mittelland
 
 vd, Vaud|Waadt, Lausanne,   3_212, fr|lake_geneva_region
 vs, Valais|Wallis, Sitten,  5_224, fr|de|lake_geneva_region
-ge, Genève|Genf, Genève,      282, fr|lake_geneva_region
+
+### todo: add Genève as capital
+ge, Genève|Genf,      282, fr|lake_geneva_region
 
 #################################
 # Ticino / Tessin
