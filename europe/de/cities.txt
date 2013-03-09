@@ -38,3 +38,17 @@ Gelsenkirchen, region:nw,  256_652, metro:ruhr
 Leverkusen,    region:nw,  161_195, metro:koelnbonn
 M'gladbach|Mönchengladbach, region:nw,  257_208
 Mainz,         region:rp,   200_957
+
+# from 2. Bundesliga
+
+Braunschweig,  region:ni
+Kaiserlautern, region:rp
+Cottbus,     region:bb
+Aalen,     region:bw
+Ingolstadt,     region:by
+Paderborn,     region:nw
+Aue,     region:sn
+Sandhausen,     region:bw
+Regensburg,     region:by
+
+
