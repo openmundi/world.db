@@ -134,9 +134,11 @@ Regionen nach Fischer Weltalmanach Länderatlas 2012
 - Mittel-Amerika/Karibik
 - Süd-Amerika
 
-### Weitere
+### Ozeanien
 
 - Ozeanien
+
+### Weitere
 
 - Arktis (Nordpol)
 - Antarktis (Südpol)
