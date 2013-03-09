@@ -4,6 +4,9 @@
 World Regions / Wikipedia
 =========================
 
+- [[List_of_sovereign_states_and_dependent_territories_in_Europe]](http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_Europe)
+- [[List_of_sovereign_states_and_dependent_territories_in_North_America]](http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_North_America)
+
 see [[Template:Regions_of_the_world]](http://en.wikipedia.org/wiki/Template:Regions_of_the_world)
 
 ### Africa
@@ -93,6 +96,8 @@ Regionen nach Fischer Weltalmanach Länderatlas 2012
 
 - 196 Staaten  (check if: UN count is the same??)
 
+### Europa
+
 - Nord-Europa
 - Nordost-Europa
 - West-Europa
@@ -102,6 +107,7 @@ Regionen nach Fischer Weltalmanach Länderatlas 2012
 - Südost-Europa
 - Ost-Europa
 
+### Asien
 
 - Vorder-Asien
 - Zentral-Asien
@@ -109,6 +115,7 @@ Regionen nach Fischer Weltalmanach Länderatlas 2012
 - Südost-Asien
 - Ost-Asien
 
+### Afrika
 
 - Nord-Afria
 - Nordwest-Afrika
@@ -120,11 +127,14 @@ Regionen nach Fischer Weltalmanach Länderatlas 2012
 - Südwest-Afrika
 - Südost-Afrika
 
+### Amerika
 
 - Nord-Amerika
 - Mittel-Amerika
 - Mittel-Amerika/Karibik
 - Süd-Amerika
+
+### Weitere
 
 - Ozeanien
 
@@ -133,7 +143,9 @@ Regionen nach Fischer Weltalmanach Länderatlas 2012
 
 - Süd-Atlantik
 
-### Ost-Europa (4)
+### Länder
+
+#### Ost-Europa (4)
 
 - Ukraine
 - Russland
@@ -166,6 +178,7 @@ Regionen nach Fischer Weltalmanach Länderatlas 2012
 - Slowenien
 - Kroatien
 - ...
+
 
 ### Notes
 
