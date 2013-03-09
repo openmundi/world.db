@@ -1,10 +1,8 @@
 ##############################
 # dependencies / countries
 
-pr, Puerto Rico,  PUR,      8_870,   3_982_000, country:us, fifa|caribbean
+pr, Puerto Rico,  PUR,      8_870,   3_982_000, country:us, caribbean|fifa|concacaf|concacaf_cfu
 
-# fix: add more tags - e.g. fifa,etc.
 
-gp, Guadeloupe, GPE, 1_628, 405_500, country:fr, caribbean
-mq, Martinique, MTQ, 1_128, 403_795, country:fr, caribbean
-
+gp, Guadeloupe, GPE, 1_628, 405_500, country:fr, caribbean|concacaf|concacaf_cfu
+mq, Martinique, MTQ, 1_128, 403_795, country:fr, caribbean|concacaf|concacaf_cfu

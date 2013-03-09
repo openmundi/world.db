@@ -8,6 +8,7 @@
 ###################
 #
 # NUTS 2 Regions (used for tags)
+#  see de.wikipedia.org/wiki/NUTS:CH
 
 ## fix: allow umlauts in tags!!! e.g zürich instead of zurich - why? why not??
 ## todo: change tags spaces from _ to - (e.g. eastern-switzerland)

@@ -1,10 +1,10 @@
 #####################
 # central america
 
-bz, Belize,          BLZ,  22_966,    307_000,   un|fifa|central_america|commonwealth
-gt, Guatemala,       GUA, 108_889, 14_027_000,   un|fifa|central_america
-cr, Costa Rica,      CRC,  51_100,  4_579_000,   un|fifa|central_america
-hn, Honduras,        HON, 112_492,  7_466_000,   un|fifa|central_america
-sv, El Salvador,     SLV,  21_041,  6_163_000,   un|fifa|central_america
-ni, Nicaragua,       NCA, 130_373,  5_743_000,   un|fifa|central_america
-pa, Panamá [Panama], PAN,  75_417,  3_454_000,   un|fifa|central_america
+bz, Belize,          BLZ,  22_966,    307_000,   un|fifa|concacaf|concacaf_uncaf|central_america|commonwealth
+gt, Guatemala,       GUA, 108_889, 14_027_000,   un|fifa|concacaf|concacaf_uncaf|central_america
+cr, Costa Rica,      CRC,  51_100,  4_579_000,   un|fifa|concacaf|concacaf_uncaf|central_america
+hn, Honduras,        HON, 112_492,  7_466_000,   un|fifa|concacaf|concacaf_uncaf|central_america
+sv, El Salvador,     SLV,  21_041,  6_163_000,   un|fifa|concacaf|concacaf_uncaf|central_america
+ni, Nicaragua,       NCA, 130_373,  5_743_000,   un|fifa|concacaf|concacaf_uncaf|central_america
+pa, Panamá [Panama], PAN,  75_417,  3_454_000,   un|fifa|concacaf|concacaf_uncaf|central_america
