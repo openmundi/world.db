@@ -1,4 +1,24 @@
 
-zuerich, Zürich, m:742_000
+zuerich,    Zürich, region:zh, m:742_000, 
+winterthur, Winterthur,  region:zh
 
-basel, Basel
+bern,       Bern,  region:be
+thun,       Thun,  region:be
+biel,       Biel-Bienne,  region:be
+
+stgallen,   St. Gallen,  region:sg
+wil,        Wil,  region:sg
+
+bellinzona, Bellinzona,  region:ti
+chiasso,    Chiasso,  region:ti
+lugano,     Lugano,  region:ti
+locarno,    Locarno,  region:ti
+
+aarau,      Aarau,  region:ag
+wohlen,     Wohlen,  region:ag
+
+basel,      Basel,  region:bs
+geneve,     Genève,  region:ge
+lausanne,   Lausanne,  region:vd
+luzern,     Luzern,  region:lu
+sion,       Sion,  region:vs

@@ -1,0 +1,75 @@
+#################################
+# 26 Kantone
+#  see de.wikipedia.org/wiki/Kanton_(Schweiz)
+
+# NB: second entry is de/german (fix: mark as german with de:???)
+# fix: cities in kanton fr - use french name
+
+###################
+#
+# NUTS 2 Regions (used for tags)
+
+## fix: allow umlauts in tags!!! e.g zürich instead of zurich - why? why not??
+## todo: change tags spaces from _ to - (e.g. eastern-switzerland)
+
+# Eastern Switzerland / Ostschweiz
+# Zurich / Zürich
+# Central Switzerland  / Zentralschweiz
+# Northwestern Switzerland / Nordwestschweiz
+# Espace Mittelland
+# Lake Geneva region / Région lémanique / Genferseeregion
+# Ticino / Tessin
+
+###
+# Eastern Switzerland / Ostschweiz
+
+gl, Glarus, Glarus,                 685, de|eastern_switzerland
+sh, Schaffhausen, Schaffhausen,     298, de|eastern_switzerland
+ar, Appenzell Ausserrhoden|Ap. Ausserrhoden, Herisau, 243, de|eastern_switzerland
+ai, Appenzell Innerrhoden|Ap. Innerrhoden, Appenzell, 173, de|eastern_switzerland
+sg, St. Gallen, St. Gallen,       2_026, de|eastern_switzerland
+gr, Graubünden, Chur,             7_105, de|rm|it|eastern_switzerland
+tg, Thurgau, Frauenfeld,            991, de|eastern_switzerland
+
+##############
+# Zurich
+
+zh, Zürich, Zürich, 1_729,  de|zurich
+
+################
+# Central Switzerland  / Zentralschweiz
+
+lu, Luzern, Luzern,  1_493, de|central_switzerland
+ur, Uri, Altdorf,    1_077, de|central_switzerland
+sz, Schwyz, Schwyz,    908, de|central_switzerland
+ow, Obwalden, Sarnen,  491, de|central_switzerland
+nw, Nidwalden, Stans,  276, de|central_switzerland
+zg, Zug, Zug,          239, de|central_switzerland
+
+#####################################
+# Northwestern Switzerland / Nordwestschweiz
+
+bs, Basel-Stadt, Basel,           37, de|northwestern_switzerland
+bl, Basel-Landschaft, Liestal,   518, de|northwestern_switzerland
+ag, Aargau, Aarau,             1_404, de|northwestern_switzerland
+
+########################
+# Espace Mittelland
+
+be, Bern, Bern,                   5_959, de|fr|espace_mittelland
+fr, Fribourg|Freiburg, Fribourg,  1_671, fr|de|espace_mittelland
+so, Solothurn, Solothurn,           791, de|espace_mittelland
+ne, Neuchâtel|Neuenburg, Neuchâtel, 803, fr|espace_mittelland
+ju, Jura, Delsberg,                 838, fr|espace_mittelland
+
+####################################
+# Lake Geneva region / Région lémanique / Genferseeregion
+
+vd, Vaud|Waadt, Lausanne,   3_212, fr|lake_geneva_region
+vs, Valais|Wallis, Sitten,  5_224, fr|de|lake_geneva_region
+ge, Genève|Genf, Genève,      282, fr|lake_geneva_region
+
+#################################
+# Ticino / Tessin
+
+ti, Ticino|Tessin, Bellinzona, 2_812, it|ticino
