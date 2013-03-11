@@ -37,5 +37,7 @@ concacaf.uncaf,     Central America
 concacaf.cfu,       Caribbean
 caf,                Africa
 afc.waff,           Middle East       # West Asia
-afc,                Asia & Australia  
+afc,                Asia & Australia
 ofc,                Pacific           # Oceania
+
+others,             Others  # Unaffiliated (e.g. Vatican, Monaco, etc.)

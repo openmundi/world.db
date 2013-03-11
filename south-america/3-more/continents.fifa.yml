@@ -1,0 +1,16 @@
+####################
+# south america
+
+ar: conmebol        # Argentina
+bo: conmebol        # Bolivia
+br: conmebol        # Brazil
+cl: conmebol        # Chile
+co: conmebol        # Colombia
+ec: conmebol        # Ecuador
+pe: conmebol        # Peru
+py: conmebol        # Paraguay
+uy: conmebol        # Uruguay
+ve: conmebol        # Venezuela
+
+gy: concacaf.cfu      # Guyana
+sr: concacaf.cfu      # Suriname

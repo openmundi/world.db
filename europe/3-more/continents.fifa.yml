@@ -1,0 +1,63 @@
+####################
+## europe
+
+ba: uefa           # Bosnia and Herzegovina
+li: uefa           # Liechtenstein
+mc: others         # Monaco
+me: uefa           # Montenegro
+md: uefa           # Moldova
+sm: uefa           # San Marino
+at: uefa           # Austria
+be: uefa           # Belgium
+cy: uefa           # Cyprus
+de: uefa           # Germany
+ee: uefa           # Estonia
+es: uefa           # Spain
+fi: uefa           # Finland
+fr: uefa           # France
+gr: uefa           # Greece
+ie: uefa           # Irland
+it: uefa           # Italy
+lu: uefa           # Luxembourg
+mt: uefa           # Malta
+nl: uefa           # Netherlands
+pt: uefa           # Portugal
+sk: uefa           # Slovakia
+si: uefa           # Slovenia
+bg: uefa           # Bulgaria
+dk: uefa           # Denmark
+lv: uefa           # Latvija [Latvia]
+lt: uefa           # Lithuania
+pl: uefa           # Poland
+ro: uefa           # Romania
+se: uefa           # Sweden
+cz: uefa           # Czech Republic
+hu: uefa           # Hungary
+gb: others         # Great Britain
+ad: uefa           # Andorra
+al: uefa           # Albania
+by: uefa           # Belarus
+ch: uefa           # Switzerland
+hr: uefa           # Croatia
+rs: uefa           # Serbia
+ru: uefa           # Russia
+tr: uefa           # Turkey
+ua: uefa           # Ukraine
+mk: uefa           # Macedonia
+no: uefa           # Norway
+is: uefa           # Iceland
+va: others         # Vatican City
+
+az: uefa           # Azerbaijan
+ge: uefa           # Georgia
+am: uefa           # Armenia
+
+#  Territories & Supranationals
+
+fo: uefa           # Faroe Islands
+en: uefa           # England
+sc: uefa           # Scotland
+wa: uefa           # Wales
+nd: uefa           # Northern Ireland
+
+eu: others         # European Union

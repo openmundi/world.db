@@ -3,6 +3,8 @@
 #  e.g. no tags n taggings  (NB: requires skip_tags: true option)
 #       no langs n usages
 
+defs:
+- continents.fifa
 
 countries:
 - africa/countries
@@ -20,6 +22,18 @@ countries2:
 - caribbean/countries.2
 - europe/countries.2
 - pacific/countries.2
+
+continents:
+- africa/3-more/continents.fifa
+- asia/3-more/continents.fifa
+- caribbean/3-more/continents.fifa
+- central-america/3-more/continents.fifa
+- europe/3-more/continents.fifa
+- middle-east/3-more/continents.fifa
+- north-america/3-more/continents.fifa
+- pacific/3-more/continents.fifa
+- south-america/3-more/continents.fifa
+
 
 africa:
 - africa/1-codes/fifa

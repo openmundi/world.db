@@ -1,0 +1,38 @@
+####################
+# asia
+
+af: afc           # Afghanistan
+bt: afc           # Bhutan
+bn: afc           # Brunei
+kh: afc           # Cambodia
+kg: afc           # Kyrgyzstan
+la: afc           # Laos
+mv: afc           # Maldives
+mn: afc           # Mongolia
+mm: afc           # Myanmar
+tj: afc           # Tajikistan
+tl: afc           # Timor-Leste [East Timor]
+tm: afc           # Turkmenistan
+uz: afc           # Uzbekistan
+jp: afc           # Japan
+kp: afc           # North Korea
+kr: afc           # South Korea
+cn: afc           # China
+tw: afc           # Taiwan
+id: afc           # Indonesia
+my: afc           # Malaysia
+sg: afc           # Singapore
+th: afc           # Thailand
+ph: afc           # Philippines
+vn: afc           # Vietnam
+pk: afc           # Pakistan
+in: afc           # India
+bd: afc           # Bangladesh
+np: afc           # Nepal
+lk: afc           # Sri Lanka
+
+kz: uefa          # Kazakhstan
+
+#  Territories & Supranationals
+
+hk: afc           # Hong Kong
