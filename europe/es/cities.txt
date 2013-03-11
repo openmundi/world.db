@@ -15,3 +15,10 @@ Bilbao,      region:pv,   352_700, m:750_000
 
 # more cities here
 
+Granada,    region:an
+Pamplona,   region:na
+Vigo,       region:ga
+Valladolid, region:cl
+
+acoruna,      A Coruña,      region:ga
+sansebastian, San Sebastián, region:pv

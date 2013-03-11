@@ -12,4 +12,21 @@ Bordeaux,    region:aq,   236_725, m:845_000
 Lille,       region:nc,   226_827, m:1_050_000
 Rennes,      region:br,   206_604
 
+
 # more cities
+
+Lorient,      region:br
+Brest,        region:br
+
+Reims,        region:ca
+Troyes,       region:ca
+
+Bastia,       region:cr
+Ajaccio,      region:cr
+
+Valenciennes, region:nc
+Sochaux,      region:fc
+Nancy,        region:lr
+
+saintetienne,   Saint-Étienne,    region:ra
+thononlesbains, Thonon-les-Bains, region:ra

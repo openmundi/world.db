@@ -41,14 +41,12 @@ Mainz,         region:rp,   200_957
 
 # from 2. Bundesliga
 
-Braunschweig,  region:ni
-Kaiserlautern, region:rp
-Cottbus,     region:bb
-Aalen,     region:bw
-Ingolstadt,     region:by
-Paderborn,     region:nw
-Aue,     region:sn
-Sandhausen,     region:bw
-Regensburg,     region:by
-
-
+Braunschweig,    region:ni
+Kaiserslautern,  region:rp
+Cottbus,         region:bb
+Aalen,           region:bw
+Ingolstadt,      region:by
+Paderborn,       region:nw
+Aue,             region:sn
+Sandhausen,      region:bw
+Regensburg,      region:by

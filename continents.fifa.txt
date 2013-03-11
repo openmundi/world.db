@@ -9,9 +9,9 @@
 #  see en.wikipedia.org/wiki/West_Asian_Football_Federation
 #  CAF - Confédération Africaine de Football in Africa
 #  CONCACAF - Confederation of North, Central American and Caribbean Association Football in North America and Central America
-#  -- Caribbean Football Union (CFU) – represents all nations in the Caribbean
-#  -- North American Football Union (NAFU) – represents the teams of Canada, Mexico and the USA.
-#  -- Union Centroamericana de Fútbol (UNCAF) – represents the seven nations of Central America
+#  -- Caribbean Football Union (CFU) - represents all nations in the Caribbean
+#  -- North American Football Union (NAFU) - represents the teams of Canada, Mexico and the USA.
+#  -- Union Centroamericana de Fútbol (UNCAF) - represents the seven nations of Central America
 #  CONMEBOL - Confederación Sudamericana de Fútbol in South America
 #  OFC - Oceania Football Confederation in Oceania
 #  UEFA - Union of European Football Associations in Europe
