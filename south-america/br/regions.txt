@@ -1,27 +1,50 @@
-ac, Acre
-al, Alagoas
-am, Amapa
-ap, Amazonas
-ba, Bahia
-ce, Ceara
-df, Distrito Federal
-es, Espirito Santo
-go, Goias
-to, Tocantins
-ma, Maranhao
-mg, Minas Gerais
-ms, Mato Grosso do Sul
-mt, Mato Grosso
-pa, Para
-pb, Paraiba
-pe, Pernambuco
-pi, Piaui
-pr, Parana
-rj, Rio de Janeiro
-rn, Rio Grande do Norte
-ro, Rondonia
-rr, Roraima
-rs, Rio Grande do Sul
-sc, Santa Catarina
-se, Sergipe
-sp, Sao Paulo
+################
+# see en.wikipedia.org/wiki/States_of_Brazil
+
+
+###################
+# North
+
+ac, Acre,         Rio Branco,    152_581, north
+am, Amapá,        Macapá,        142_815, north
+ap, Amazonas,     Manaus,      1_570_746, north
+pa, Pará,         Belém,       1_247_690, north
+ro, Rondônia,     Porto Velho,   237_576, north
+rr, Roraima,      Boa Vista,     224_299, north
+to, Tocantins,    Palmas,        277_621, north
+
+##############################
+# Northeast
+
+al, Alagoas,      Maceió,       27_768, northeast
+ba, Bahia,        Salvador,    564_693, northeast
+ce, Ceará,        Fortaleza,   148_826, northeast
+ma, Maranhão,     São Luís,    331_984, northeast
+pb, Paraíba,      João Pessoa,  56_440, northeast
+pe, Pernambuco,   Recife,       98_312, northeast
+pi, Piauí,        Teresina,    251_529, northeast
+rn, Rio Grande do Norte, Natal,   52_797, northeast
+se, Sergipe,      Aracaju,      21_910, northeast
+
+################################
+# Center-West
+
+df, Distrito Federal (Brasil), Brasília,   5_822, center_west
+go, Goiás,        Goiânia,   340_087, center_west
+mt, Mato Grosso,  Cuiabá,  903_358, center_west
+ms, Mato Grosso do Sul, Campo Grande, 357_125, center_west
+
+###############################
+# Southeast
+
+es, Espírito Santo, Vitória,          46_078, southeast
+mg, Minas Gerais,   Belo Horizonte,  586_528, southeast
+rj, Rio de Janeiro, Rio de Janeiro,   43_696, southeast
+sp, São Paulo,      São Paulo,       248_209, southeast
+
+#################################
+# South
+
+pr, Paraná,            Curitiba,      199_315, south
+rs, Rio Grande do Sul, Porto Alegre,  281_749, south
+sc, Santa Catarina,    Florianópolis,  95_346, south
