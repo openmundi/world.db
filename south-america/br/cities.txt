@@ -16,14 +16,25 @@ Curitiba,       region:pr,   1_746_896, m:3_172_357
 Recife,         region:pe,   1_536_934, m:4_150_004
 Porto Alegre,   region:rs,   1_409_939, m:4_200_413
 Belém,          region:pa,   1_392_031, m:2_142_185
-Goiânia,        region:go,   1_301_892, m:2_162_097
+
+
+###### fix: add to accented chars - â from Goiânia
+
+goiania, Goiânia,        region:go,   1_301_892, m:2_162_097
+
 Guarulhos,      region:sp,   1_222_357
 Campinas,       region:sp,   1_080_999, m:2_633_523
-São Gonçalo,    region:rj,   1_016_128
+
+###### fix: add to accented chars - ç from São Gonçalo
+
+saogoncalo, São Gonçalo,    region:rj,   1_016_128
+
 São Luís,        region:ma,   1_011_943, m:1_211_270
 Maceió,          region:al,   1_002_675, m:1_160_393
 Duque de Caxias, region:rj,   872_762
-Nova Iguaçu,     region:rj,   865_089
+
+novaiguacu, Nova Iguaçu,     region:rj,   865_089
+
 Natal,           region:rn,   806_203, m:1_998_123
 Teresina,        region:pi,   802_537, m:1_116_303
 Campo Grande,    region:ms,   787_204, m:991_420

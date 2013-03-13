@@ -43,7 +43,7 @@ am, Amazonas,   Puerto Ayacucho,  180_145, guayana
 bo, Bolívar, Ciudad Bolívar,      238_000, guayana
 da, Delta Amacuro, Tucupita,       40_200, guayana
 
-an, Anzoátegui, Barcelona          43_300, nor_oriental|north_eastern
+an, Anzoátegui, Barcelona,          43_300, nor_oriental|north_eastern
 mo, Monagas, Maturín,              28_930, nor_oriental|north_eastern
 su, Sucre, Cumaná,                 11_800, nor_oriental|north_eastern
 
