@@ -1,46 +1,50 @@
 
 ### top 10 cities
 
-New York,     region:ny,   8175133
-Los Angeles,  region:ca,   3792621
-Chicago,      region:il,   2695598
-Houston,      region:tx,   2099451
-Philadelphia, region:pa,   1526006
-Phoenix,      region:az,   1445632
-San Antonio,  region:tx,   1327407
-San Diego,    region:ca,   1307402
-Dallas,       region:tx,   1197816
-San Jose,     region:ca,    945942
+###
+# todo/fix: allow/use two-letter uppercase codes for region
+#   e.g. NY, CA, IL, TX, AZ etc.
+
+New York,     region:ny,   8_175_133
+Los Angeles,  region:ca,   3_792_621
+Chicago,      region:il,   2_695_598
+Houston,      region:tx,   2_099_451
+Philadelphia, region:pa,   1_526_006
+Phoenix,      region:az,   1_445_632
+San Antonio,  region:tx,   1_327_407
+San Diego,    region:ca,   1_307_402
+Dallas,       region:tx,   1_197_816
+San Jose,     region:ca,     945_942
 
 
 ## more cities
 
-Buffalo,       region:ny,   261310
-Boston,        region:ma,   617594
-Columbus,      region:oh,   787033
-Detroit,       region:mi,   713777
-Nashville,     region:tn,   601222
-Anaheim,       region:ca,   336265
-St. Louis,     region:mo,   319294
-Pittsburgh,    region:pa,   305704
-Washington,    region:dc,   601723
-Newark,        region:nj,   277140
-Raleigh,       region:nc,   403892
-Miami,         region:fl,   399457
-Tampa,         region:fl,   335709
-Denver,        region:co,   600158
-St. Paul,      region:mn,   285068
-Baltimore,     region:md,   620961
-Cincinnati,    region:oh,   296943
-Cleveland,     region:oh,   396815
-Indianapolis,  region:in,   820445
-Jacksonville,  region:fl,   821784
-Oakland,       region:ca,   390724
-San Francisco, region:ca,   805235
-Kansas City,   region:mo,   459787
-Green Bay,     region:wi,   104057
-Minneapolis,   region:mn,   382578
-Atlanta,       region:ga,   420003
-New Orleans,   region:la,   343829
-Charlotte,     region:nc,   731424
-Seattle,       region:wa,   608660
+Buffalo,       region:ny,   261_310
+Boston,        region:ma,   617_594
+Columbus,      region:oh,   787_033
+Detroit,       region:mi,   713_777
+Nashville,     region:tn,   601_222
+Anaheim,       region:ca,   336_265
+St. Louis,     region:mo,   319_294
+Pittsburgh,    region:pa,   305_704
+Washington,    region:dc,   601_723
+Newark,        region:nj,   277_140
+Raleigh,       region:nc,   403_892
+Miami,         region:fl,   399_457
+Tampa,         region:fl,   335_709
+Denver,        region:co,   600_158
+St. Paul,      region:mn,   285_068
+Baltimore,     region:md,   620_961
+Cincinnati,    region:oh,   296_943
+Cleveland,     region:oh,   396_815
+Indianapolis,  region:in,   820_445
+Jacksonville,  region:fl,   821_784
+Oakland,       region:ca,   390_724
+San Francisco, region:ca,   805_235
+Kansas City,   region:mo,   459_787
+Green Bay,     region:wi,   104_057
+Minneapolis,   region:mn,   382_578
+Atlanta,       region:ga,   420_003
+New Orleans,   region:la,   343_829
+Charlotte,     region:nc,   731_424
+Seattle,       region:wa,   608_660

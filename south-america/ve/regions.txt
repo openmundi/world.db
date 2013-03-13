@@ -1,8 +1,8 @@
-#-------------------------------------------------------------------------------
-# Country: Venezuela
-# Sources:
-# - http://es.wikipedia.org/wiki/Organizaci%C3%B3n_territorial_de_Venezuela
-#-------------------------------------------------------------------------------
+################################
+# Venezuela
+# see
+# - es.wikipedia.org/wiki/Organización_territorial_de_Venezuela
+# - en.wikipedia.org/wiki/States_of_Venezuela
 
 
 #-------------------------------------------------------------------------------
@@ -15,32 +15,59 @@
 #        Population data were not added because the information shown on
 #        Wikipedia is outdated. Currently being revised 2011 Census data on the
 #        website of the National Statistics Institute
-#        http://www.ine.gov.ve/CENSO2011/index.htm
+#        see www.ine.gov.ve/CENSO2011/index.htm
 #-------------------------------------------------------------------------------
 
-am, Amazonas
-an, Anzoátegui
-ap, Apure
-ar, Aragua
-ba, Barinas
-bo, Bolívar
-ca, Carabobo
-co, Cojedes
-da, Delta Amacuro
-dc, Distrito Capital
-fa, Falcón
-gu, Guárico
-la, Lara
-me, Mérida
-mi, Miranda
-mo, Monagas
-ne, Nueva Esparta
-po, Portuguesa
-su, Sucre
-ta, Táchira
-tr, Trujillo
-va, Vargas
-ya, Yaracuy
-zu, Zulia
+########
+# fix/todo: allow km² in area e.g. 180_145 km² or 76_500 km²
 
 
+###################
+# Regions (used for tags)
+#
+#    Andean (Andina)  (check: use  Los Andes  ??)
+#    Capital
+#    Central
+#    Central-Western (Centro-Occidental)
+#    Guayana
+#    Insular
+#    Llanos
+#    North-Eastern (Nor-Oriental)
+#    Zulian (Zuliana)
+#
+#    South-Western   (todo: ?? any states ?? check)
+
+
+
+am, Amazonas,   Puerto Ayacucho,  180_145, guayana
+bo, Bolívar, Ciudad Bolívar,      238_000, guayana
+da, Delta Amacuro, Tucupita,       40_200, guayana
+
+an, Anzoátegui, Barcelona          43_300, nor_oriental|north_eastern
+mo, Monagas, Maturín,              28_930, nor_oriental|north_eastern
+su, Sucre, Cumaná,                 11_800, nor_oriental|north_eastern
+
+ap, Apure, San Fernando de Apure,     76_500, llanos
+gu, Guárico, San Juan De Los Morros,  64_986, llanos
+
+ca, Carabobo, Valencia,             4_650, central
+co, Cojedes, San Carlos,           14_800, central
+ar, Aragua, Maracay,                7_014, central
+
+mi, Miranda, Los Teques,            7_950, capital
+va, Vargas, La Güaira,              1_496, capital
+dc, Distrito Capital, Caracas,        433, capital
+
+fa, Falcón, Coro,         24_800, centro_occidental|central_western
+la, Lara, Barquisimeto,   19_800, centro_occidental|central_western
+po, Portuguesa, Guanare,  15_200, centro_occidental|central_western
+ya, Yaracuy, San Felipe,   7_100, centro_occidental|central_western
+
+ba, Barinas, Barinas,              35_200, andina|andean
+me, Mérida, Mérida,                11_300, andina|andean
+ta, Táchira, San Cristóbal,        11_100, andina|andean
+tr, Trujillo, Trujillo,             7_400, andina|andean
+
+ne, Nueva Esparta, La Asunción, 1_150,  insular
+
+zu, Zulia, Maracaibo,  63_100,  zuliana|zulian

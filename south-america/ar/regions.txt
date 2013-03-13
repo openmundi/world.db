@@ -1,0 +1,55 @@
+##########################
+# Argentinia
+#
+# see
+#  - http://es.wikipedia.org/wiki/Provincias_de_Argentina
+#  - en.wikipedia.org/wiki/Provinces_of_Argentina
+
+
+#################
+# regions: (use for tags)
+# Argentine Northwest =>Jujuy, Salta, Tucumán, Catamarca, La Rioja
+# Gran Chaco => Formosa, Chaco, Santiago del Estero
+# Mesopotamia => Misiones, Entre Ríos, Corrientes
+# Cuyo => San Juan, Mendoza, San Luis
+# The Pampas  => Córdoba, Santa Fe, La Pampa, Buenos Aires
+# Patagonia => Rio Negro, Neuquén, Chubut, Santa Cruz, Tierra del Fuego
+#
+# Even though there are provinces that belong to more than one region,
+# they are shown here within the most representative region.
+# In the Tucumán province, the smallest of Argentina, coexist three regions:
+# the Pampas to the south, Gran Chaco to the northeast, and Argentine Northwest.
+
+
+####
+# check - make up two-letter codes ?? find anything official??
+#
+#  use single letters doubled for now
+#
+#  todo: allow single letter codes? why? why not?
+
+
+cc, Ciudad de Buenos Aires,  200
+bb, Provincia de Buenos Aires, La Plata, 307_571
+kk, Catamarca,  San Fernando del Valle de Catamarca,  102_602
+hh, Chaco,  Resistencia,  99_633
+uu, Chubut, Rawson,  224_686
+xx, Córdoba, Córdoba, 165_321
+ww, Corrientes, Corrientes, 88_199
+ee, Entre Ríos, Paraná, 78_781
+pp, Formosa, Formosa, 72_066
+yy, Jujuy, San Salvador de Jujuy, 53_219
+ll, La Pampa, Santa Rosa, 143_440
+ff, La Rioja, La Rioja, 89_680
+mm, Mendoza, Mendoza, 148_827
+nn, Misiones, Posadas, 29_801
+qq, Neuquén, Neuquén, 94_078
+rr, Río Negro, Viedma, 203_013
+aa, Salta, Salta, 155_488
+jj, San Juan, San Juan, 89_651
+dd, San Luis, San Luis, 76_748
+zz, Santa Cruz, Río Gallegos, 243_943
+ss, Santa Fe,  Santa Fe, 133_007
+gg, Santiago del Estero, Santiago del Estero, 136_351
+vv, Tierra del Fuego (Antártida e Islas del Atlántico Sur), Ushuaia, 21_5712
+tt, Tucumán, San Miguel de Tucumán, 22_524

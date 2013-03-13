@@ -2,6 +2,10 @@
 # see en.wikipedia.org/wiki/States_of_Brazil
 
 
+########
+# fix/todo: allow km² in area e.g. 180_145 km² or 76_500 km²
+
+
 ###################
 # North
 
