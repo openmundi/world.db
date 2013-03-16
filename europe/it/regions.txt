@@ -1,0 +1,60 @@
+###################
+# Italy
+# 20 Regions
+#  see en.wikipedia.org/wiki/Regions_of_Italy
+
+
+################
+# regions for tags
+# ITC - North West: Aosta Valley, Liguria, Lombardy, Piedmont
+# ITD - North East: Emilia-Romagna, Friuli-Venezia Giulia, Trentino-Alto Adige/Südtirol, Veneto
+# ITE - Centre: Lazio, Marche, Tuscany, Umbria
+# ITF - South: Abruzzo, Apulia, Basilicata, Calabria, Campania, Molise
+# ITG - Islands: Sardinia, Sicily
+#
+#  see en.wikipedia.org/wiki/Italian_NUTS_level_1_regions#Italy
+
+
+##
+# NB: no official two-letter codes found (make up our own for now)
+
+
+##########
+# North West
+
+ao, Valle d'Aosta [Aosta Valley],   Aosta,       3_263, north_west
+li, Liguria,                        Genova,       5_422, north_west
+lo, Lombardia [Lombardy],           Milano,      23_861, north_west
+pi, Piemonte [Piedmont],            Torino,      25_402, north_west
+
+##########
+# North East
+
+er, Emilia-Romagna,                 Bologna,    22_446, north_east
+fv, Friuli-Venezia Giulia,          Trieste,     7_858, north_east
+tr, Trentino-Alto Adige (Südtirol), Trento,     13_607, north_east
+ve, Veneto,                         Venezia,     18_399, north_east
+
+################
+# Centre
+
+la, Lazio,                          Roma,       17_236, centre
+ma, Marche,                         Ancona,      9_366, centre
+to, Toscana [Tuscany],              Firenze,   22_994, centre
+um, Umbria,                         Perugia,     8_456, centre
+
+################
+# South
+
+ab, Abruzzo,                        L'Aquila,   10_763, south
+pu, Puglia [Apulia],                Bari,       19_358, south
+ba, Basilicata,                     Potenza,     9_995, south
+ca, Calabria,                       Catanzaro,  15_081, south
+cm, Campania,                       Napoli,     13_590, south
+mo, Molise,                         Campobasso,  4_438, south
+
+#################
+# Islands
+
+sa, Sardegna [Sardinia],            Cagliari,   24_090, islands
+si, Sicilia [Sicily],               Palermo,    25_711, islands

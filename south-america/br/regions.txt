@@ -35,9 +35,7 @@ se, Sergipe,      Aracaju,      21_910, northeast
 
 df, Distrito Federal (Brasil), Brasília,   5_822, center_west
 
-#### fix: Goiânia  - â convert to a for autokey
-
-go, Goiás,     340_087, center_west    # Goiânia
+go, Goiás, Goiânia,   340_087, center_west
 mt, Mato Grosso,  Cuiabá,  903_358, center_west
 ms, Mato Grosso do Sul, Campo Grande, 357_125, center_west
 

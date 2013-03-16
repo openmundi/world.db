@@ -1,17 +1,17 @@
 
 
-Milano [Milan],    1_338_436, m:5_232_000
-Roma [Rome],       2_777_979, m:3_799_000
-Napoli [Naples],   1_046_987, m:3_726_000
-Torino [Turin],   921_485,  m:1_499_000
-Palermo,           689_349,  m:876_000
-Genova [Genoa],    655_704
-Bologna,           385_813
-Firenze [Florence], 381_762, m:821_000
+Milano [Milan],     region:lo,    1_338_436, m:5_232_000
+Roma [Rome],        region:la,    2_777_979, m:3_799_000
+Napoli [Naples],    region:cm,    1_046_987, m:3_726_000
+Torino [Turin],     region:pi,      921_485, m:1_499_000
+Palermo,            region:si,      689_349,  m:876_000
+Genova [Genoa],     region:li,      655_704
+Bologna,            region:er,      385_813
+Firenze [Florence], region:to,      381_762, m:821_000
 
-Catania,   341_685
-Bari,      335_647
-Venezia [Venice],  297_743
-Messina,  262_524
-Verona,   254_146
-Trieste,  222_589
+Catania,           region:si,  341_685
+Bari,              region:pu,  335_647
+Venezia [Venice],  region:ve,  297_743
+Messina,     region:si,  262_524
+Verona,      region:ve,  254_146
+Trieste,     region:fv,  222_589
