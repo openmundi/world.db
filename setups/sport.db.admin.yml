@@ -72,6 +72,7 @@ north-america:
 - north-america/us/regions
 - north-america/us/cities
 - north-america/mx/regions
+- north-america/mx/regions.abbr
 - north-america/mx/cities
 
 asia:
@@ -86,6 +87,8 @@ europe:
 - europe/1-codes/iso3
 - europe/1-codes/motor
 - europe/at/regions
+- europe/at/regions.abbr
+- europe/at/regions.iso
 - europe/at/cities
 - europe/be/regions
 - europe/be/cities

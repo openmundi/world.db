@@ -1,45 +1,45 @@
 # Top 10 cities
 
-Wien [Vienna],  region:wien,  1_731_236, m:1_724_000
-Graz,         region:stmk,      265_318
-Linz,         region:ooe,       191_107
-Salzburg,     region:sbg,       148_521
-Innsbruck,    region:tirol,     121_329
-Klagenfurt,   region:ktn,        94_796
-Villach,      region:ktn,        59_585
-Wels,         region:ooe,        58_717
-St. Pölten,   region:noe,        52_048
-Dornbirn,     region:vbg,        45_978
+Wien [Vienna],  WI,  1_731_236, m:1_724_000
+Graz,           ST,      265_318
+Linz,           OO,       191_107
+Salzburg,       SB,       148_521
+Innsbruck,      TI,       121_329
+Klagenfurt,     KT,        94_796
+Villach,        KT,        59_585
+Wels,           OO,        58_717
+St. Pölten,     NO,        52_048
+Dornbirn,       VB,        45_978
 
 # Top 20 cities
 
-Wr. Neustadt|Wiener Neustadt, region:noe,   41537
-Steyr,             region:ooe,    38248
-Feldkirch,         region:vbg, 31025
-Bregenz,           region:vbg, 28007
-Kosterneuburg,     region:noe,   25927
-Leonding,          region:ooe,   25689
-Baden|Baden bei Wien,  region:noe, 25142
-Wolfsberg,         region:ktn,  24983
-Leoben,            region:stmk,  24645
-Krems|Krems an der Donau, region:noe,   24110
+Wr. Neustadt|Wiener Neustadt, NO,   41_537
+Steyr,             OO,    38_248
+Feldkirch,         VB, 31_025
+Bregenz,           VB, 28_007
+Kosterneuburg,     NO,   25_927
+Leonding,          OO,   25_689
+Baden|Baden bei Wien,  NO, 25_142
+Wolfsberg,         KT,  24_983
+Leoben,            ST,  24_645
+Krems|Krems an der Donau, NO,   24_110
 
 
 # more cities
 
-Mödling,             region:noe,   20649
-Horn,                         region:noe,    6411,  # < 10000 pop
+Mödling,             NO,   20_649
+Horn,                NO,    6_411,  # < 10000 pop
 
-Traun,             region:ooe,   23941
-Ried|Ried im Innkreis, region:ooe,    11585
+Traun,                 OO,   23_941
+Ried|Ried im Innkreis, OO,    11_585
 
-Eisenstadt,  region:bgld, 12367
-Mattersburg, region:bgld,  6256,  # < 10000 pop
+Eisenstadt,  BL, 12_367
+Mattersburg, BL,  6_256,  # < 10000 pop
 
-Kapfenberg,  region:stmk,   21928
-Hartberg,    region:stmk,    6547,   # < 10000 pop
+Kapfenberg,  ST,   21_928
+Hartberg,    ST,    6_547,   # < 10000 pop
 
-Grödig,      region:sbg,     6638,   # < 10000 pop
+Grödig,      SB,     6_638,   # < 10000 pop
 
-Lustenau,   region:vbg, 20606
-Altach,     region:vbg,  5704,  # < 10000 pop
+Lustenau,    VB, 20_606
+Altach,      VB,  5_704,  # < 10000 pop

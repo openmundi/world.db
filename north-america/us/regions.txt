@@ -3,62 +3,62 @@
 # for census regions (northeast,etc.)
 # see http://en.wikipedia.org/wiki/List_of_regions_of_the_United_States
 
-me, Maine,          Augusta,    79_924,  northeast|new england
-nh, New Hampshire,  Concord,    23_225,  northeast|new england
-vt, Vermont,        Montpelier, 23_954,  northeast|new england
-ma, Massachusetts,  Boston,     20_304,  northeast|new england
-ri, Rhode Island,   Providence,  2_706,  northeast|new england
-ct, Connecticut,    Hartford,   12_547,  northeast|new england
+me, Maine,          Augusta,    79_924 km²,  northeast|new england
+nh, New Hampshire,  Concord,    23_225 km²,  northeast|new england
+vt, Vermont,        Montpelier, 23_954 km²,  northeast|new england
+ma, Massachusetts,  Boston,     20_304 km²,  northeast|new england
+ri, Rhode Island,   Providence,  2_706 km²,  northeast|new england
+ct, Connecticut,    Hartford,   12_547 km²,  northeast|new england
 
-ny, New York,       Albany,     122_272, northeast|mid atlantic
-pa, Pennsylvania,   Harrisburg, 116_064, northeast|mid atlantic
-nj, New Jersey,     Trenton,     19_209,  northeast|mid atlantic
+ny, New York,       Albany,     122_272 km², northeast|mid atlantic
+pa, Pennsylvania,   Harrisburg, 116_064 km², northeast|mid atlantic
+nj, New Jersey,     Trenton,     19_209 km²,  northeast|mid atlantic
 
-wi, Wisconsin,      Madison,   140_649, midwest|east north central
-mi, Michigan,       Lansing,   147_108, midwest|east north central
-il, Illinois,       Springfield,  143_947, midwest|east north central
-in, Indiana,        Indianapolis,  92_886,  midwest|east north central
-oh, Ohio,           Columbus,     106_046, midwest|east north central
+wi, Wisconsin,      Madison,   140_649 km², midwest|east north central
+mi, Michigan,       Lansing,   147_108 km², midwest|east north central
+il, Illinois,       Springfield,  143_947 km², midwest|east north central
+in, Indiana,        Indianapolis,  92_886 km²,  midwest|east north central
+oh, Ohio,           Columbus,     106_046 km², midwest|east north central
 
-mo, Missouri,       Jefferson City,  178_397, midwest|west north central
-nd, North Dakota,   Bismarck,        178_630, midwest|west north central
-sd, South Dakota,   Pierre,          196_522, midwest|west north central
-ne, Nebraska,       Lincoln,         199_080, midwest|west north central
-ks, Kansas,         Topeka,          211_880, midwest|west north central
-mn, Minnesota,      Saint Paul,      206_170, midwest|west north central
-ia, Iowa,           Des Moines,      144_688, midwest|west north central
+mo, Missouri,       Jefferson City,  178_397 km², midwest|west north central
+nd, North Dakota,   Bismarck,        178_630 km², midwest|west north central
+sd, South Dakota,   Pierre,          196_522 km², midwest|west north central
+ne, Nebraska,       Lincoln,         199_080 km², midwest|west north central
+ks, Kansas,         Topeka,          211_880 km², midwest|west north central
+mn, Minnesota,      Saint Paul,      206_170 km², midwest|west north central
+ia, Iowa,           Des Moines,      144_688 km², midwest|west north central
 
-de, Delaware,       Dover,   5_059,    south|south atlantic
-md, Maryland,       Annapolis,  25_312,  south|south atlantic
-dc, District of Columbia,  Washingtion,   159, south|south atlantic
-va, Virginia,       Richmond,      102_539, south|south atlantic
-wv, West Virginia,  Charleston,     62_355,  south|south atlantic
-nc, North Carolina, Raleigh,       126_149, south|south atlantic
-sc, South Carolina, Columbia,       77_976, south|south atlantic
-ga, Georgia,        Atlanta,       149_962, south|south atlantic
-fl, Florida,        Tallahassee,   139_657, south|south atlantic
+de, Delaware,       Dover,   5_059 km²,    south|south atlantic
+md, Maryland,       Annapolis,  25_312 km²,  south|south atlantic
+dc, District of Columbia,  Washingtion,   159 km², south|south atlantic
+va, Virginia,       Richmond,      102_539 km², south|south atlantic
+wv, West Virginia,  Charleston,     62_355 km²,  south|south atlantic
+nc, North Carolina, Raleigh,       126_149 km², south|south atlantic
+sc, South Carolina, Columbia,       77_976 km², south|south atlantic
+ga, Georgia,        Atlanta,       149_962 km², south|south atlantic
+fl, Florida,        Tallahassee,   139_657 km², south|south atlantic
 
-ky, Kentucky,      Frankfort,   102_886, south|east south central
-tn, Tennessee,     Nashville,   106_742, south|east south central
-ms, Mississippi,   Jackson,     121_477, south|east south central
-al, Alabama,       Montgomery,  131_414,  south|east south central
+ky, Kentucky,      Frankfort,   102_886 km², south|east south central
+tn, Tennessee,     Nashville,   106_742 km², south|east south central
+ms, Mississippi,   Jackson,     121_477 km², south|east south central
+al, Alabama,       Montgomery,  131_414 km²,  south|east south central
 
-ok, Oklahoma,     Oklahoma City,    177_830, south|west south central
-tx, Texas,        Austin,           677_989, south|west south central
-ar, Arkansas,     Little Rock,      134_843,  south|west south central
-la, Louisiana,    Baton Rouge,      112_814, south|west south central
+ok, Oklahoma,     Oklahoma City,    177_830 km², south|west south central
+tx, Texas,        Austin,           677_989 km², south|west south central
+ar, Arkansas,     Little Rock,      134_843 km²,  south|west south central
+la, Louisiana,    Baton Rouge,      112_814 km², south|west south central
 
-id, Idaho,       Boise,      214_294, west|mountain
-mt, Montana,     Helena,     376_944, west|mountain
-wy, Wyoming,     Cheyenne,   251_466, west|mountain
-nv, Nevada,      Carson City,  284_422, west|mountain
-ut, Utah,        Salt Lake City,  212_731, west|mountain
-co, Colorado,    Denver,      268_602,  west|mountain
-az, Arizona,     Phoenix,    294_285,  west|mountain
-nm, New Mexico,  Santa Fe,    314_280, west|mountain
+id, Idaho,       Boise,      214_294 km², west|mountain
+mt, Montana,     Helena,     376_944 km², west|mountain
+wy, Wyoming,     Cheyenne,   251_466 km², west|mountain
+nv, Nevada,      Carson City,  284_422 km², west|mountain
+ut, Utah,        Salt Lake City,  212_731 km², west|mountain
+co, Colorado,    Denver,      268_602 km²,  west|mountain
+az, Arizona,     Phoenix,    294_285 km²,  west|mountain
+nm, New Mexico,  Santa Fe,    314_280 km², west|mountain
 
-ak, Alaska,      Juneau,      1_481_210, west|pacific
-wa, Washington,  Olympia,       172_332, west|pacific
-or, Oregon,      Salem,         248_607, west|pacific
-ca, California,  Sacramento,    403_895, west|pacific
-hi, Hawaii,      Honolulu,       16_633, west|pacific
+ak, Alaska,      Juneau,      1_481_210 km², west|pacific
+wa, Washington,  Olympia,       172_332 km², west|pacific
+or, Oregon,      Salem,         248_607 km², west|pacific
+ca, California,  Sacramento,    403_895 km², west|pacific
+hi, Hawaii,      Honolulu,       16_633 km², west|pacific

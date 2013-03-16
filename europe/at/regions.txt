@@ -1,14 +1,32 @@
 #########
 # 9 Bundesländer
 
-bgld,   Bgld.|Burgenland,                   3_962,  eastern austria
-noe,    NÖ|Niederösterreich [Lower Austria],  19_186, eastern austria
-wien,   Wien [Vienna],                        415,    eastern austria
+########
+# todo: allow single letter for key??? why - why not?
 
-stmk,   Stmk.|Steiermark [Styria],            16_401, southern austria
-ktn,    Ktn.|Kärnten [Carinthia],             9_538,  southern austria
 
-ooe,    OÖ|Oberösterreich [Upper Austria],    11_980, western austria
-sbg,    Sbg.|Salzburg,                      7_156,  western austria
-tirol,  Tirol [Tyrol],                        12_640, western austria
-vbg,    Vbg.|Vorarlberg,                    2_601,  western austria
+bl, Burgenland,                         3_962 km², eastern austria
+no, Niederösterreich [Lower Austria],  19_186 km², eastern austria
+wi, Wien [Vienna],                        415 km², eastern austria
+
+st, Steiermark [Styria],            16_401 km², southern austria
+kt, Kärnten [Carinthia],             9_538 km², southern austria
+
+oo, Oberösterreich [Upper Austria],   11_980 km², western austria
+sb, Salzburg,                          7_156 km², western austria
+ti, Tirol [Tyrol],                    12_640 km², western austria
+vb, Vorarlberg,                        2_601 km², western austria
+
+
+####
+# old keys used:
+#
+# bgld
+# noe
+# wien
+# stmk
+# ktn
+# ooe
+# sbg
+# tirol
+# vbg

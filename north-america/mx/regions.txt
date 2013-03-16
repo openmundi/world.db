@@ -4,54 +4,51 @@
 ##  see -> http://en.wikipedia.org/wiki/Political_divisions_of_Mexico
 
 
-#####
-# fix: move conventional abbrevations to abbrev.yml
+ag, Aguascalientes,        Aguascalientes,      5_471 km²
 
-ag, Ags.|Aguascalientes,        Aguascalientes,        5_471
+bc, Baja California,       Mexicali,    69_921 km²
+bs, Baja California Sur,   La Paz,      73_475 km²
 
-bc, B.C.|Baja California,       Mexicali,    69_921
-bs, B.C.S.|Baja California Sur, La Paz,      73_475
+cm, Campeche,      (San Francisco de) Campeche,      50_812 km²
+cs, Chiapas,       Tuxtla (Gutiérrez),   74_211 km²
+ch, Chihuahua,     Chihuahua,  247_938 km²
+co, Coahuila,      Saltillo,   151_571 km²
+cl, Colima,         Colima,       5_191 km²
 
-cm, Camp.|Campeche,      (San Francisco de) Campeche,      50_812
-cs, Chis.|Chiapas,       Tuxtla (Gutiérrez),   74_211
-ch, Chih.|Chihuahua,     Chihuahua,  247_938
-co, Coah.|Coahuila,      Saltillo,   151_571
-cl, Col.|Colima,         Colima,       5_191
+df, Distrito Federal,   México, 1_479 km²
+dg, Durango,            (Victoria de) Durango,  123_181 km²
 
-df, D.F.|Distrito Federal,   México, 1_479
-dg, Dgo.|Durango,            (Victoria de) Durango,  123_181
+gt, Guanajuato,        Guanajuato,     30_491 km²
+gr, Guerrero,          Chilpancingo (de los Bravo),   64_281 km²
 
-gt, Gto.|Guanajuato,        Guanajuato,     30_491
-gr, Gro.|Guerrero,          Chilpancingo (de los Bravo),   64_281
+hg, Hidalgo,          Pachuca,     20_813 km²
 
-hg, Hgo.|Hidalgo,          Pachuca,     20_813
+ja, Jalisco,          Guadalajara,    80_386 km²
 
-ja, Jal.|Jalisco,          Guadalajara,    80_386
+me, México,      Toluca (de Lerdo),   21_355 km²
+mi, Michoacán,     Morelia,             59_928 km²
+mo, Morelos,        Cuernavaca,           4_950 km²
 
-me, Edomex.|México,      Toluca (de Lerdo),   21_355
-mi, Mich.|Michoacán,     Morelia,             59_928
-mo, Mor.|Morelos,        Cuernavaca,           4_950
+na, Nayarit,       Tepic,        26_979 km²
+nl, Nuevo León,    Monterrey,     64_924 km²
 
-na, Nay.|Nayarit,       Tepic,        26_979
-nl, N.L.|Nuevo León,    Monterrey,     64_924
+oa, Oaxaca,       Oaxaca (de Juárez),  93_952 km²
 
-oa, Oax.|Oaxaca,       Oaxaca (de Juárez),  93_952
+pb, Puebla,       Puebla (de Zaragoza),   33_902 km²
 
-pb, Pue.|Puebla,       Puebla (de Zaragoza),   33_902
+qe, Querétaro,     (Santiago de) Querétaro,   11_499 km²
+qr, Quintana Roo,  Chetumal,    50_212 km²
 
-qe, Qro.|Querétaro,     (Santiago de) Querétaro,   11_499
-qr, Q. Roo.|Quintana Roo,  Chetumal,    50_212
+sl, San Luis Potosí,   San Luis Potosí,    63_068 km²
+si, Sinaloa,             Culiacán,      58_328 km²
+so, Sonora,              Hermosillo,    182_052 km²
 
-sl, S.L.P.|San Luis Potosí,   San Luis Potosí,    63_068
-si, Sin.|Sinaloa,             Culiacán,      58_328
-so, Son.|Sonora,              Hermosillo,    182_052
+tb, Tabasco,            Villahermosa,       25_267 km²
+tm, Tamaulipas,       Ciudad Victoria,   79_384 km²
+tl, Tlaxcala,         Tlaxcala,   4_016 km²
 
-tb, Tab.|Tabasco,            Villahermosa,       25_267
-tm, Tamps.|Tamaulipas,       Ciudad Victoria,   79_384
-tl, Tlax.|Tlaxcala,         Tlaxcala,   4_016
+ve, Veracruz,       Xalapa,       71_699 km²
 
-ve, Ver.|Veracruz,       Xalapa,       71_699
+yu, Yucatán,        Mérida,    38_402 km²
 
-yu, Yuc.|Yucatán,        Mérida,    38_402
-
-za, Zac.|Zacatecas,      Zacatecas,    73_252
+za, Zacatecas,      Zacatecas,    73_252 km²

@@ -3,31 +3,31 @@
 #####
 # see  en.wikipedia.org/wiki/Metropolitan_areas_of_Mexico
 
-México,      region:df, m:20137152
-Guadalajara, region:ja, m:4434252
-Monterrey,   region:nl, m:4080329
-Puebla,      region:pb, m:2668347
-Toluca|Toluca de Lerdo,     region:me,  m:1846602
-Tijuana,     region:bc, m:1751302
-León,        region:gt, m:1609717
-Juárez|Ciudad Juárez, region:ch,  m:1495094
-Torreón,     region:co,  m:1275993
-Querétaro,   region:qe,  m:1097028
-San Luis Potosì, region:sl, m:1040822
+México,      DF, m:20137152
+Guadalajara, JA, m:4434252
+Monterrey,   NL, m:4080329
+Puebla,      PB, m:2668347
+Toluca|Toluca de Lerdo,     ME,  m:1846602
+Tijuana,     BC, m:1751302
+León,        GT, m:1609717
+Juárez|Ciudad Juárez, CH,  m:1495094
+Torreón,     CO,  m:1275993
+Querétaro,   QE,  m:1097028
+San Luis Potosì, SL, m:1040822
 
 
 # more cities
 
-Mérida,      region:yu,   m:973046
+Mérida,      YU,   m:973046
 
-Chihuahua,   region:ch,   m:809232
+Chihuahua,   CH,   m:809232
 
-Morelia,    region:mi, m:729757
+Morelia,    MI, m:729757
 
-Cancún,          region:qr, m:628306
+Cancún,        QR, m:628306
 
-Tuxtla|Tuxtla Gutiérrez,  region:cs, m:503320
+Tuxtla|Tuxtla Gutiérrez,  CS, m:503320
 
 
-Pachuca, region:hg, 275578
-San Nicolás de los Garza, region:nl, 476761 
+Pachuca, HG, 275578
+San Nicolás de los Garza, NL, 476761 

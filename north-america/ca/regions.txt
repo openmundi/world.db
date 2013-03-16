@@ -9,20 +9,20 @@
 #   en.wikipedia.org/wiki/List_of_regions_of_Canada
 
 
-bc, British Columbia,       Victoria,     922_509, en|western canada
+bc, British Columbia,       Victoria,     922_509 km², en|western canada
 
-ab, Alberta,                Edmonton,       640_082, en|western canada|prairies
-mb, Manitoba,               Winnipeg,       552_330, en|western canada|prairies
-sk, Saskatchewan,           Regina,         588_239, en|western canada|prairies
+ab, Alberta,                Edmonton,       640_082 km², en|western canada|prairies
+mb, Manitoba,               Winnipeg,       552_330 km², en|western canada|prairies
+sk, Saskatchewan,           Regina,         588_239 km², en|western canada|prairies
 
-nb, New Brunswick,            Fredericton,    71_377, en|fr|eastern canada|atlantic canada|maritimes
-ns, Nova Scotia,              Halifax,        52_939, en|eastern canada|atlantic canada|maritimes
-pe, Prince Edward Island,     Charlottetown,   5_686, en|eastern canada|atlantic canada|maritimes
-nl, Newfoundland and Labrador,  St. John's,   370_511, en|eastern canada|atlantic canada
+nb, New Brunswick,            Fredericton,    71_377 km², en|fr|eastern canada|atlantic canada|maritimes
+ns, Nova Scotia,              Halifax,        52_939 km², en|eastern canada|atlantic canada|maritimes
+pe, Prince Edward Island,     Charlottetown,   5_686 km², en|eastern canada|atlantic canada|maritimes
+nl, Newfoundland and Labrador,  St. John's,   370_511 km², en|eastern canada|atlantic canada
 
-on, Ontario,                Toronto,        908_608, en|eastern canada|central canada
-qc, Québec,                 Quebec City,  1_356_547, fr|en|eastern canada|central canada
+on, Ontario,                Toronto,        908_608 km², en|eastern canada|central canada
+qc, Québec,                 Quebec City,  1_356_547 km², fr|en|eastern canada|central canada
 
-nt, Northwest Territories,  Yellowknife,    1_143_793, en|fr|northern canada|territories
-yt, Yukon,                  Whitehorse,   474_713, en|northern canada|territories
-nu, Nunavut,                Iqaluit,     1_877_788, iu|en|fr|northern canada|territories
+nt, Northwest Territories,  Yellowknife,    1_143_793 km², en|fr|northern canada|territories
+yt, Yukon,                  Whitehorse,   474_713 km², en|northern canada|territories
+nu, Nunavut,                Iqaluit,     1_877_788 km², iu|en|fr|northern canada|territories

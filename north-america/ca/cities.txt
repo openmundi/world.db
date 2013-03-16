@@ -4,45 +4,45 @@
 
 # top 10 cities
 
-Toronto,   region:on,   5_583_064
-Montreal,  region:qc,   3_824_221
-Vancouver, region:bc,   2_313_328
-Ottawa,    region:on,   1_236_324
-Calgary,   region:ab,   1_214_839
-Edmonton,  region:ab,   1_159_869
-Québec,    region:qc,     765_706
-Winnipeg,  region:mb,     730_018
-Hamilton,  region:on,     721_053
-Kitchener, region:on,     477_160
-London,    region:on,     474_786
+Toronto,   ON,   5_583_064
+Montreal,  QC,   3_824_221
+Vancouver, BC,   2_313_328
+Ottawa,    ON,   1_236_324
+Calgary,   AB,   1_214_839
+Edmonton,  AB,   1_159_869
+Québec,    QC,     765_706
+Winnipeg,  MB,     730_018
+Hamilton,  ON,     721_053
+Kitchener, ON,     477_160
+London,    ON,     474_786
 
 # more cities
 
 
-St Catharines-Niagara,  region:on, 372_000
-Halifax,                region:ns, 333_000
-Victoria,               region:bc, 304_000
-Windsor,                region:on, 279_000
-Oshawa,                 region:on, 269_000
-Saskatoon,              region:sk, 219_000
-Regina,                 region:sk, 194_000
-St John's,              region:nl, 174_000
-Sudbury,                region:on, 160_000
-Chicoutimi,             region:qc, 160_000
-Sherbrooke,             region:qc, 147_000
-Kingston,               region:on, 143_000
-Trois-Rivières,         region:qc, 140_000
-Kelowna,                region:bc, 137_000
-Abbotsford,             region:bc, 136_000
-Saint John,             region:nb, 126_000
-Thunder Bay,            region:on, 126_000
-Barrie,                 region:on, 119_000
-Sydney,                 region:ns, 118_000
+St Catharines-Niagara,  ON, 372_000
+Halifax,                NS, 333_000
+Victoria,               BC, 304_000
+Windsor,                ON, 279_000
+Oshawa,                 ON, 269_000
+Saskatoon,              SK, 219_000
+Regina,                 SK, 194_000
+St John's,              NL, 174_000
+Sudbury,                ON, 160_000
+Chicoutimi,             QC, 160_000
+Sherbrooke,             QC, 147_000
+Kingston,               ON, 143_000
+Trois-Rivières,         QC, 140_000
+Kelowna,                BC, 137_000
+Abbotsford,             BC, 136_000
+Saint John,             NB, 126_000
+Thunder Bay,            ON, 126_000
+Barrie,                 ON, 119_000
+Sydney,                 NS, 118_000
 
 # add more captials 
 
-Frederiction,           region:nb
-Yellowknife,            region:nt
-Iqaluit,                region:nu
-Charlottetown,          region:pe
-Whitehorse,             region:yt
+Frederiction,           NB
+Yellowknife,            NT
+Iqaluit,                NU
+Charlottetown,          PE
+Whitehorse,             YT

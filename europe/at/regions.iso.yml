@@ -1,0 +1,16 @@
+
+#########
+# 9 Bundesländer
+
+########
+# todo: allow single letter for key 
+
+bl: 1
+kt: 2
+no: 3
+oo: 4
+sb: 5
+st: 6
+ti: 7
+vb: 8
+wi: 9

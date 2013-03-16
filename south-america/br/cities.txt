@@ -1,48 +1,45 @@
 ####################################
 # see en.wikipedia.org/wiki/List_of_major_cities_in_Brazil
 
-###
-# todo/fix: allow/use two-letter (or single-letter) uppercase codes for region
-#   e.g. SP, RJ, BA etc. 
 
-São Paulo,      region:sp,  11_244_369,  m:19_889_559
-Rio de Janeiro, region:rj,   6_323_037,  m:11_902_701
-Salvador,       region:ba,   2_676_606, m:3_451_549
-Brasília,       region:df,   2_562_963, m:3_768_902
-Fortaleza,      region:ce,   2_447_409, m:3_502_319
-Belo Horizonte, region:mg,   2_375_444, m:5_397_438
-Manaus,         region:ap,   1_802_525, m:2_178_405
-Curitiba,       region:pr,   1_746_896, m:3_172_357
-Recife,         region:pe,   1_536_934, m:4_150_004
-Porto Alegre,   region:rs,   1_409_939, m:4_200_413
-Belém,          region:pa,   1_392_031, m:2_142_185
-Goiânia,        region:go,   1_301_892, m:2_162_097
+São Paulo,      SP,  11_244_369,  m:19_889_559
+Rio de Janeiro, RJ,   6_323_037,  m:11_902_701
+Salvador,       BA,   2_676_606, m:3_451_549
+Brasília,       DF,   2_562_963, m:3_768_902
+Fortaleza,      CE,   2_447_409, m:3_502_319
+Belo Horizonte, MG,   2_375_444, m:5_397_438
+Manaus,         AP,   1_802_525, m:2_178_405
+Curitiba,       PR,   1_746_896, m:3_172_357
+Recife,         PE,   1_536_934, m:4_150_004
+Porto Alegre,   RS,   1_409_939, m:4_200_413
+Belém,          PA,   1_392_031, m:2_142_185
+Goiânia,        GO,   1_301_892, m:2_162_097
 
-Guarulhos,      region:sp,   1_222_357
-Campinas,       region:sp,   1_080_999, m:2_633_523
+Guarulhos,      SP,   1_222_357
+Campinas,       SP,   1_080_999, m:2_633_523
 
-São Gonçalo,    region:rj,   1_016_128
+São Gonçalo,    RJ,   1_016_128
 
-São Luís,        region:ma,   1_011_943, m:1_211_270
-Maceió,          region:al,   1_002_675, m:1_160_393
-Duque de Caxias, region:rj,   872_762
+São Luís,        MA,   1_011_943, m:1_211_270
+Maceió,          AL,   1_002_675, m:1_160_393
+Duque de Caxias, RJ,   872_762
 
-Nova Iguaçu,     region:rj,   865_089
+Nova Iguaçu,     RJ,   865_089
 
-Natal,           region:rn,   806_203, m:1_998_123
-Teresina,        region:pi,   802_537, m:1_116_303
-Campo Grande,    region:ms,   787_204, m:991_420
-São Bernardo do Campo,  region:sp,  765_204
-Osasco,          region:sp,   730_051
-João Pessoa,     region:pb,   702_235, m:1_146_461
+Natal,           RN,   806_203, m:1_998_123
+Teresina,        PI,   802_537, m:1_116_303
+Campo Grande,    MS,   787_204, m:991_420
+São Bernardo do Campo,  SP,  765_204
+Osasco,          SP,   730_051
+João Pessoa,     PB,   702_235, m:1_146_461
 
-Sorocaba,       region:sp,  586_311, m:1_488_410
-Florianópolis,  region:sc,  408_161, m:1_012_831
-Vitória,        region:es,  320_156, m:1_624_837
-Cuiabá,         region:mt,  550_562, m:815_392
-Santos,         region:sp,  433_502
+Sorocaba,       SP,  586_311, m:1_488_410
+Florianópolis,  SC,  408_161, m:1_012_831
+Vitória,        ES,  320_156, m:1_624_837
+Cuiabá,         MT,  550_562, m:815_392
+Santos,         SP,  433_502
 
-Criciúma,       region:sc
+Criciúma,       SC
 
 ######
 ## todo: check metros
