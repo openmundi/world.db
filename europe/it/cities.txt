@@ -23,5 +23,5 @@ Bergamo,     region:lo,   121_316
 Cagliari,    region:sa,   149_883
 Parma,       region:er,   187_214
 Pescara,     region:ab,   123_103
-Siena,       region:tu,    54_526
+Siena,       region:to,    54_526
 Udine,       region:fv,   100_514
