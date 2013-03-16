@@ -40,7 +40,7 @@ oa, Oax.|Oaxaca,       Oaxaca (de Juárez),  93_952
 pb, Pue.|Puebla,       Puebla (de Zaragoza),   33_902
 
 qe, Qro.|Querétaro,     (Santiago de) Querétaro,   11_499
-qr, Q. Roo.|Quintana Roo,  Chetumal    50_212
+qr, Q. Roo.|Quintana Roo,  Chetumal,    50_212
 
 sl, S.L.P.|San Luis Potosí,   San Luis Potosí,    63_068
 si, Sin.|Sinaloa,             Culiacán,      58_328
