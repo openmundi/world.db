@@ -1,2 +1,4 @@
 
 Buenos Aires, region:cc
+Rosario,      region:ss      # Santa Fe
+Rafaela,      region:ss      # Santa Fe

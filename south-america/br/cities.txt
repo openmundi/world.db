@@ -42,6 +42,8 @@ Vitória,        region:es,  320_156, m:1_624_837
 Cuiabá,         region:mt,  550_562, m:815_392
 Santos,         region:sp,  433_502
 
+Criciúma,       region:sc
+
 ######
 ## todo: check metros
 ## 16.  Baixada Santista      / São Paulo / m:1,606,863

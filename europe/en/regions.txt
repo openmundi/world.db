@@ -2,7 +2,7 @@
 ####
 ## todo: check what abbrevations to use for regions?
 ##
-## see http://en.wikipedia.org/wiki/Regions_of_England
+## see  en.wikipedia.org/wiki/Regions_of_England
 ##
 ## make regions into tags? and use smaller admin units?
 
@@ -16,6 +16,3 @@ ee, East of England
 gl, Greater London
 se, South East England
 sw, South West England
-
-wa, Wales
-

@@ -2,15 +2,15 @@
 # australia & oceania
 
 
-au, Australia, AUS,    7_686_850,  22_028_000,   un|fifa|g20|commonwealth
+au, Australia, AUS,    7_686_850,  22_028_000,   un|fifa|afc|g20|commonwealth
 
 ##############
 # Melanesia
 
-pg, Papua New Guinea, PNG,   462_840,  5_172_033,  un|fifa|melanesia|commonwealth
-fj, Fiji, FIJ,   18_274,   849_000,     Suva,  un|fifa|melanesia|commonwealth
-sb, Solomon Islands,  SOL,  28_400,  523_000,   Honiara,  un|fifa|melanesia|commonwealth 
-vu, Vanuatu, VAN,  12_190,  224_564,  Port Vila,  un|fifa|melanesia|commonwealth
+pg, Papua New Guinea, PNG,   462_840,  5_172_033,  un|fifa|ofc|melanesia|commonwealth
+fj, Fiji, FIJ,   18_274,   849_000,     Suva,  un|fifa|ofc|melanesia|commonwealth
+sb, Solomon Islands,  SOL,  28_400,  523_000,   Honiara,  un|fifa|ofc|melanesia|commonwealth 
+vu, Vanuatu, VAN,  12_190,  224_564,  Port Vila,  un|fifa|ofc|melanesia|commonwealth
 
 
 #############
@@ -25,8 +25,8 @@ ki, Kiribati, KIR, 811, 103_500,  Tarawa,  un|micronesia|microstate|commonwealth
 ##############
 # Polynesia
 
-nz, New Zealand, NZL,    268_680,   4_108_037,   un|fifa|polynesia|commonwealth
-ws, Samoa, SAM,   2_831,  194_320,   Apia, un|fifa|polynesia|commonwealth
-to, Tonga, TGA,  748,  103_036,     Nuku'alofa,   un|fifa|polynesia|microstate|commonwealth
-tv, Tuvalu, TUV, 26,  10_544,   Funafuti,   un|polynesia|microstate|commonwealth      # nb: use ISO code; NOT fifa member
+nz, New Zealand, NZL,    268_680,   4_108_037,   un|fifa|ofc|polynesia|commonwealth
+ws, Samoa, SAM,   2_831,  194_320,   Apia, un|fifa|ofc|polynesia|commonwealth
+to, Tonga, TGA,  748,  103_036,     Nuku'alofa,   un|fifa|ofc|polynesia|microstate|commonwealth
+tv, Tuvalu, TUV, 26,  10_544,   Funafuti,   un|polynesia|ofc|microstate|commonwealth      # nb: use ISO code; NOT fifa member
 

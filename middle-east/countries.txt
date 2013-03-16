@@ -1,24 +1,24 @@
 
 ### arabian peninsula
 
-bh, Bahrain, BHR,      765,      1_234_571,     Manama,  un|fifa|middle_east|western_asia|arabian peninsula|microstate
-kw, Kuwait, KUW,      17_820,  3_566_437,  Kuwait City, un|fifa|middle_east|western_asia|arabian peninsula
-om, Oman, OMA,  309_501,   2_773_479,    Muscat,  un|fifa|middle_east|western_asia|arabian peninsula
-qa, Qatar, QAT, 11_571,  1_853_563,    Doha,  un|fifa|middle_east|western_asia|arabian peninsula
-sa, Saudi Arabia, KSA,  1_960_582,  27_136_977,  un|fifa|middle_east|western_asia|arabian peninsula|g20
-ae, United Arab Emirates, UAE, 83_600,  8_264_070,    Abu Dhabi,  un|fifa|middle_east|western_asia|arabian peninsula
-ye, Yemen, YEM, 527_829,   25_130_000,      Sana'a,  un|fifa|middle_east|western_asia|arabian peninsula
+bh, Bahrain, BHR,      765,      1_234_571,     Manama,  un|fifa|afc|afc.waff|middle_east|western_asia|arabian peninsula|microstate
+kw, Kuwait, KUW,      17_820,  3_566_437,  Kuwait City, un|fifa|afc|afc.waff|middle_east|western_asia|arabian peninsula
+om, Oman, OMA,  309_501,   2_773_479,    Muscat,  un|fifa|afc|afc.waff|middle_east|western_asia|arabian peninsula
+qa, Qatar, QAT, 11_571,  1_853_563,    Doha,  un|fifa|afc|afc.waff|middle_east|western_asia|arabian peninsula
+sa, Saudi Arabia, KSA,  1_960_582,  27_136_977,  un|fifa|afc|afc.waff|middle_east|western_asia|arabian peninsula|g20
+ae, United Arab Emirates, UAE, 83_600,  8_264_070,    Abu Dhabi,  un|fifa|afc|afc.waff|middle_east|western_asia|arabian peninsula
+ye, Yemen, YEM, 527_829,   25_130_000,      Sana'a,  un|fifa|afc|afc.waff|middle_east|western_asia|arabian peninsula
 
 
 ### fertile crescent
 
-iq, Iraq,   IRQ,   438_317,  31_129_225,  Baghdad,  un|fifa|middle_east|western_asia|fertile crescent
+iq, Iraq,   IRQ,   438_317,  31_129_225,  Baghdad,  un|fifa|afc|afc.waff|middle_east|western_asia|fertile crescent
 il, Israel, ISR,           20_770,   7_653_600,  un|fifa|uefa|middle_east|western_asia|fertile crescent
-jo, Jordan, JOR,    89_342,   6_508_271,  Amman, un|fifa|middle_east|western_asia|fertile crescent
-lb, Lebanon, LIB, 10_452,  4_224_000,    Beirut,  un|fifa|middle_east|western_asia|fertile crescent
-ps, Palestine, PLE,         6_220,   4_260_636,  fifa|middle_east|western_asia|fertile crescent
-sy, Syria, SYR,  185_180,  22_530_746,   Damascus,  un|fifa|middle_east|western_asia|fertile crescent
+jo, Jordan, JOR,    89_342,   6_508_271,  Amman, un|fifa|afc|afc.waff|middle_east|western_asia|fertile crescent
+lb, Lebanon, LIB, 10_452,  4_224_000,    Beirut,  un|fifa|afc|afc.waff|middle_east|western_asia|fertile crescent
+ps, Palestine, PLE,         6_220,   4_260_636,  fifa|afc|afc.waff|middle_east|western_asia|fertile crescent
+sy, Syria, SYR,  185_180,  22_530_746,   Damascus,  un|fifa|afc|afc.waff|middle_east|western_asia|fertile crescent
 
 ### iranian Plateau
 
-ir, Iran,   IRN, 1_648_195,  75_149_669,  Tehran, un|fifa|middle_east|western_asia
+ir, Iran,   IRN, 1_648_195,  75_149_669,  Tehran, un|fifa|afc|afc.waff|middle_east|western_asia

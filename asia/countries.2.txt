@@ -1,4 +1,5 @@
 
+### check if hong kong is fifa/afc member ??
 
-hk, Hong Kong,    HKG,      1_104,      7_061_200, country:cn,   fifa|east_asia
+hk, Hong Kong,    HKG,      1_104,      7_061_200, country:cn,   fifa|afc|east_asia
 

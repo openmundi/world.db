@@ -3,62 +3,62 @@
 # for census regions (northeast,etc.)
 # see http://en.wikipedia.org/wiki/List_of_regions_of_the_United_States
 
-me, Maine,         79924,  northeast|new england
-nh, New Hampshire, 23225,  northeast|new england
-vt, Vermont,        23954, northeast|new england
-ma, Massachusetts, 20304,  northeast|new england
-ri, Rhode Island,   2706,  northeast|new england
-ct, Connecticut,   12547,  northeast|new england
+me, Maine,          Augusta,    79_924,  northeast|new england
+nh, New Hampshire,  Concord,    23_225,  northeast|new england
+vt, Vermont,        Montpelier, 23_954,  northeast|new england
+ma, Massachusetts,  Boston,     20_304,  northeast|new england
+ri, Rhode Island,   Providence,  2_706,  northeast|new england
+ct, Connecticut,    Hartford,   12_547,  northeast|new england
 
-ny, New York,      122272, northeast|mid atlantic
-pa, Pennsylvania,  116064, northeast|mid atlantic
-nj, New Jersey,    19209,  northeast|mid atlantic
+ny, New York,       Albany,     122_272, northeast|mid atlantic
+pa, Pennsylvania,   Harrisburg, 116_064, northeast|mid atlantic
+nj, New Jersey,     Trenton,     19_209,  northeast|mid atlantic
 
-wi, Wisconsin,      140649, midwest|east north central
-mi, Michigan,      147108, midwest|east north central
-il, Illinois,      143947, midwest|east north central
-in, Indiana,       92886,  midwest|east north central
-oh, Ohio,          106046, midwest|east north central
+wi, Wisconsin,      Madison,   140_649, midwest|east north central
+mi, Michigan,       Lansing,   147_108, midwest|east north central
+il, Illinois,       Springfield,  143_947, midwest|east north central
+in, Indiana,        Indianapolis,  92_886,  midwest|east north central
+oh, Ohio,           Columbus,     106_046, midwest|east north central
 
-mo, Missouri,      178397, midwest|west north central
-nd, North Dakota,  178630, midwest|west north central
-sd, South Dakota,   196522, midwest|west north central
-ne, Nebraska,      199080, midwest|west north central
-ks, Kansas,        211880, midwest|west north central
-mn, Minnesota,     206170, midwest|west north central
-ia, Iowa,          144688, midwest|west north central
+mo, Missouri,       Jefferson City,  178_397, midwest|west north central
+nd, North Dakota,   Bismarck,        178_630, midwest|west north central
+sd, South Dakota,   Pierre,          196_522, midwest|west north central
+ne, Nebraska,       Lincoln,         199_080, midwest|west north central
+ks, Kansas,         Topeka,          211_880, midwest|west north central
+mn, Minnesota,      Saint Paul,      206_170, midwest|west north central
+ia, Iowa,           Des Moines,      144_688, midwest|west north central
 
-de, Delaware,      5059,    south|south atlantic
-md, Maryland,      25312,  south|south atlantic
-dc, District of Columbia, 159, south|south atlantic
-va, Virginia,       102539, south|south atlantic
-wv, West Virginia,  62355,  south|south atlantic
-nc, North Carolina, 126149, south|south atlantic
-sc, South Carolina, 77976, south|south atlantic
-ga, Georgia,       149962, south|south atlantic
-fl, Florida,       139657, south|south atlantic
+de, Delaware,       Dover,   5_059,    south|south atlantic
+md, Maryland,       Annapolis,  25_312,  south|south atlantic
+dc, District of Columbia,  Washingtion,   159, south|south atlantic
+va, Virginia,       Richmond,      102_539, south|south atlantic
+wv, West Virginia,  Charleston,     62_355,  south|south atlantic
+nc, North Carolina, Raleigh,       126_149, south|south atlantic
+sc, South Carolina, Columbia,       77_976, south|south atlantic
+ga, Georgia,        Atlanta,       149_962, south|south atlantic
+fl, Florida,        Tallahassee,   139_657, south|south atlantic
 
-ky, Kentucky,      102886, south|east south central
-tn, Tennessee,      106742, south|east south central
-ms, Mississippi,   121477, south|east south central
-al, Alabama,       131414,  south|east south central
+ky, Kentucky,      Frankfort,   102_886, south|east south central
+tn, Tennessee,     Nashville,   106_742, south|east south central
+ms, Mississippi,   Jackson,     121_477, south|east south central
+al, Alabama,       Montgomery,  131_414,  south|east south central
 
-ok, Oklahoma,      177830, south|west south central
-tx, Texas,          677989, south|west south central
-ar, Arkansas,      134843,  south|west south central
-la, Louisiana,     112814, south|west south central
+ok, Oklahoma,     Oklahoma City,    177_830, south|west south central
+tx, Texas,        Austin,           677_989, south|west south central
+ar, Arkansas,     Little Rock,      134_843,  south|west south central
+la, Louisiana,    Baton Rouge,      112_814, south|west south central
 
-id, Idaho,         214294, west|mountain
-mt, Montana,       376944, west|mountain
-wy, Wyoming,        251466, west|mountain
-nv, Nevada,        284422, west|mountain
-ut, Utah,           212731, west|mountain
-co, Colorado,      268602,  west|mountain
-az, Arizona,       294285,  west|mountain
-nm, New Mexico,    314280, west|mountain
+id, Idaho,       Boise,      214_294, west|mountain
+mt, Montana,     Helena,     376_944, west|mountain
+wy, Wyoming,     Cheyenne,   251_466, west|mountain
+nv, Nevada,      Carson City,  284_422, west|mountain
+ut, Utah,        Salt Lake City,  212_731, west|mountain
+co, Colorado,    Denver,      268_602,  west|mountain
+az, Arizona,     Phoenix,    294_285,  west|mountain
+nm, New Mexico,  Santa Fe,    314_280, west|mountain
 
-ak, Alaska,        1481210, west|pacific
-wa, Washington,     172332, west|pacific
-or, Oregon,        248607, west|pacific
-ca, California,    403895,  west|pacific
-hi, Hawaii,        16633,  west|pacific
+ak, Alaska,      Juneau,      1_481_210, west|pacific
+wa, Washington,  Olympia,       172_332, west|pacific
+or, Oregon,      Salem,         248_607, west|pacific
+ca, California,  Sacramento,    403_895, west|pacific
+hi, Hawaii,      Honolulu,       16_633, west|pacific

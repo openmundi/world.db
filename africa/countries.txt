@@ -5,77 +5,77 @@
 ###############
 # Eastern Africa
 
-bi, Burundi, BDI,         27_834,     8_749_000,      Bujumbura,   un|fifa|eastern_africa
-km, Comoros, COM,           2_235,      798_000,   Moroni,  un|fifa|eastern_africa
-dj, Djibouti, DJI,         23_200,      923_000,    Djibouti,  un|fifa|eastern_africa
-er, Eritrea, ERI,          117_600,    6_086_495,  Asmara,  un|fifa|eastern_africa
-et, Ethiopia, ETH,  1_104_300, 84_320_987,  un|fifa|eastern_africa
-ke, Kenya, KEN, 580_367, 43_013_341,  Nairobi, un|fifa|eastern_africa|commonwealth
-mg, Madagascar, MAD, 587_041,  22_005_222,   Antananarivo, un|fifa|eastern_africa
-mw, Malawi, MWI, 118_484,  14_901_000,    Lilongwe, un|fifa|eastern_africa|commonwealth
-mu, Mauritius, MRI,  2_040, 1_291_456,    un|fifa|eastern_africa|commonwealth
-mz, Mozambique, MOZ,  801_590,  22_894_000, Maputo,  un|fifa|eastern_africa|commonwealth
-rw, Rwanda, RWA,  26_338,  11_689_696,    Kigali,  un|fifa|eastern_africa|commonwealth
+bi, Burundi, BDI,         27_834,     8_749_000,      Bujumbura,   un|fifa|caf|eastern_africa
+km, Comoros, COM,           2_235,      798_000,   Moroni,  un|fifa|caf|eastern_africa
+dj, Djibouti, DJI,         23_200,      923_000,    Djibouti,  un|fifa|caf|eastern_africa
+er, Eritrea, ERI,          117_600,    6_086_495,  Asmara,  un|fifa|caf|eastern_africa
+et, Ethiopia, ETH,  1_104_300, 84_320_987,  un|fifa|caf|eastern_africa
+ke, Kenya, KEN, 580_367, 43_013_341,  Nairobi, un|fifa|caf|eastern_africa|commonwealth
+mg, Madagascar, MAD, 587_041,  22_005_222,   Antananarivo, un|fifa|caf|eastern_africa
+mw, Malawi, MWI, 118_484,  14_901_000,    Lilongwe, un|fifa|caf|eastern_africa|commonwealth
+mu, Mauritius, MRI,  2_040, 1_291_456,    un|fifa|caf|eastern_africa|commonwealth
+mz, Mozambique, MOZ,  801_590,  22_894_000, Maputo,  un|fifa|caf|eastern_africa|commonwealth
+rw, Rwanda, RWA,  26_338,  11_689_696,    Kigali,  un|fifa|caf|eastern_africa|commonwealth
 ## NB: sc renamed to yc (sc used for Scottland)
-yc, Seychelles, SEY,  451, 84_000,  Victoria,  un|fifa|eastern_africa|indian_ocean|microstate|commonwealth
-so, Somalia, SOM,  637_657, 10_085_638,     Mogadishu,  un|fifa|eastern_africa
-tz, Tanzania, TAN,  945_203,  43_188_000,   Dodoma,    un|fifa|eastern_africa|commonwealth
-ug, Uganda, UGA,   236_040,  35_873_253,    Kampala,   un|fifa|eastern_africa|commonwealth
-zm, Zambia, ZAM,   752_618,  14_309_466,     Lusaka,  un|fifa|eastern_africa|commonwealth
-zw, Zimbabwe, ZIM,     390_757,  12_619_600,    Harare,  un|fifa|eastern_africa
+yc, Seychelles, SEY,  451, 84_000,  Victoria,  un|fifa|caf|eastern_africa|indian_ocean|microstate|commonwealth
+so, Somalia, SOM,  637_657, 10_085_638,     Mogadishu,  un|fifa|caf|eastern_africa
+tz, Tanzania, TAN,  945_203,  43_188_000,   Dodoma,    un|fifa|caf|eastern_africa|commonwealth
+ug, Uganda, UGA,   236_040,  35_873_253,    Kampala,   un|fifa|caf|eastern_africa|commonwealth
+zm, Zambia, ZAM,   752_618,  14_309_466,     Lusaka,  un|fifa|caf|eastern_africa|commonwealth
+zw, Zimbabwe, ZIM,     390_757,  12_619_600,    Harare,  un|fifa|caf|eastern_africa
 
 ######################
 # Central Africa
 
-ao, Angola,  ANG,      1_246_700,   18_498_000,       Luanda,  un|fifa|central_africa
-cm, Cameroon,       CMR,  475_440,  18_879_301,  un|fifa|central_africa|commonwealth
-cf, Central African Republic, CTA,  622_984,  4_422_000,    Bangui,  un|fifa|central_africa
-td, Chad, CHA,          1_284_000,   10_329_208,        N'Djamena,  un|fifa|central_africa
-cg, Congo, CGO,           342_000,    4_366_266,   Brazzaville,   un|fifa|central_africa
-cd, Congo DR, COD,      2_345_409,    71_712_867,    Kinshasa, un|fifa|central_africa
-gq, Equatorial Guinea, EQG, 28_050,     676_000,   Malabo,  un|fifa|central_africa
-ga, Gabon, GAB,   267_667, 1_475_000,   un|fifa|central_africa
-st, São Tomé and Príncipe, STP,  1_001,  183_176,  São Tomé,  un|fifa|central_africa|atlantic_ocean|microstate
+ao, Angola,  ANG,      1_246_700,   18_498_000,       Luanda,  un|fifa|caf|central_africa
+cm, Cameroon,       CMR,  475_440,  18_879_301,  un|fifa|caf|central_africa|commonwealth
+cf, Central African Republic, CTA,  622_984,  4_422_000,    Bangui,  un|fifa|caf|central_africa
+td, Chad, CHA,          1_284_000,   10_329_208,        N'Djamena,  un|fifa|caf|central_africa
+cg, Congo, CGO,           342_000,    4_366_266,   Brazzaville,   un|fifa|caf|central_africa
+cd, Congo DR, COD,      2_345_409,    71_712_867,    Kinshasa, un|fifa|caf|central_africa
+gq, Equatorial Guinea, EQG, 28_050,     676_000,   Malabo,  un|fifa|caf|central_africa
+ga, Gabon, GAB,   267_667, 1_475_000,   un|fifa|caf|central_africa
+st, São Tomé and Príncipe, STP,  1_001,  183_176,  São Tomé,  un|fifa|caf|central_africa|atlantic_ocean|microstate
 
 
 ###############
 # Northern Africa
 
-dz, Algeria,   ALG,  2_381_740,  34_178_188,  un|fifa|northern africa
-eg, Egypt,     EGY,  1_001_450,  82_868_000,  un|fifa|northern africa|middle_east
-ma, Morocco,   MAR,    446_550,  34_859_364,  un|fifa|northern africa
-ly, Libya,     LBY,  1_759_540,   6_310_434,  un|fifa|northern africa
-tn, Tunisia,   TUN,    163_610,  10_486_339,  un|fifa|northern africa
-ss, South Sudan, SSD,  619_745,  8_260_490,     Juba,   un|fifa|northern africa
-sd, Sudan, SDN, 1_886_068,  30_894_000,    Khartoum,  un|fifa|northern africa
+dz, Algeria,   ALG,  2_381_740,  34_178_188,  un|fifa|caf|northern africa
+eg, Egypt,     EGY,  1_001_450,  82_868_000,  un|fifa|caf|northern africa|middle_east
+ma, Morocco,   MAR,    446_550,  34_859_364,  un|fifa|caf|northern africa
+ly, Libya,     LBY,  1_759_540,   6_310_434,  un|fifa|caf|northern africa
+tn, Tunisia,   TUN,    163_610,  10_486_339,  un|fifa|caf|northern africa
+ss, South Sudan, SSD,  619_745,  8_260_490,     Juba,   un|fifa|caf|northern africa
+sd, Sudan, SDN, 1_886_068,  30_894_000,    Khartoum,  un|fifa|caf|northern africa
 
 
 ################
 # Southern Africa
 
-za, South Africa,   RSA,  1_219_912,  51_770_560,  un|fifa|southern_africa|g5|g20|commonwealth
-bw, Botswana, BOT,       581_730,     2_029_307,   Gaborone,  un|fifa|southern_africa|commonwealth
-ls, Lesotho, LES, 30_355, 2_067_000,  Maseru, un|fifa|southern_africa|commonwealth
-na, Namibia, NAM, 825_418,  2_100_000,   Windhoek,  un|fifa|southern_africa|commonwealth
-sz, Swaziland, SWZ,  17_364,  1_185_000,     Lobamba,  un|fifa|southern_africa|commonwealth
+za, South Africa,   RSA,  1_219_912,  51_770_560,  un|fifa|caf|southern_africa|g5|g20|commonwealth
+bw, Botswana, BOT,       581_730,     2_029_307,   Gaborone,  un|fifa|caf|southern_africa|commonwealth
+ls, Lesotho, LES, 30_355, 2_067_000,  Maseru, un|fifa|caf|southern_africa|commonwealth
+na, Namibia, NAM, 825_418,  2_100_000,   Windhoek,  un|fifa|caf|southern_africa|commonwealth
+sz, Swaziland, SWZ,  17_364,  1_185_000,     Lobamba,  un|fifa|caf|southern_africa|commonwealth
 
 
 ###################
 # Western Africa
 
-bj, Benin,   BEN,        112_622,     9_598_787,   Porto-Novo,   un|fifa|western_africa
-bf, Burkina Faso, BFA,   274_200,    15_730_977,   Ouagadougou,  un|fifa|western_africa
-cv, Cape Verde, CPV,       4_033,       567_000,         Praia,    un|fifa|western_africa
-ci, Côte d'Ivoire,  CIV,  322_460,  20_617_068,   un|fifa|western_africa
-gm, Gambia, GAM, 11_295, 1_782_893, un|fifa|western_africa|commonwealth
-gh, Ghana,          GHA,  239_460,  23_832_495,   un|fifa|western_africa|commonwealth
-gn, Guinea, GUI, 245_857, 10_057_975,  Conakry, un|fifa|western_africa
-gw, Guinea-Bissau, GNB, 36_125, 1_647_000,  Bissau,  un|fifa|western_africa
-lr, Liberia, LBR,  111_369,  3_786_764,   Monrovia, un|fifa|western_africa
-ml, Mali, MLI, 1_240_192,  14_517_176,  Bamako, un|fifa|western_africa
-mr, Mauritania, MTN,  1_030_700,  3_359_185,  un|fifa|western_africa
-ne, Niger, NIG, 1_267_000, 16_274_738,    Niamey,  un|fifa|western_africa
-ng, Nigeria,        NGA,  923_768,  166_629_000,  un|fifa|western_africa|commonwealth
-sn, Senegal, SEN, 196_723,  12_855_153,     Dakar,  un|fifa|western_africa
-sl, Sierra Leone, SLE,  71_740,  5_485_998,    Freetown,  un|fifa|western_africa|commonwealth
-tg, Togo, TOG,  56_785, 6_619_000,    Lomé,  un|fifa|western_africa
+bj, Benin,   BEN,        112_622,     9_598_787,   Porto-Novo,   un|fifa|caf|western_africa
+bf, Burkina Faso, BFA,   274_200,    15_730_977,   Ouagadougou,  un|fifa|caf|western_africa
+cv, Cape Verde, CPV,       4_033,       567_000,         Praia,    un|fifa|caf|western_africa
+ci, Côte d'Ivoire,  CIV,  322_460,  20_617_068,   un|fifa|caf|western_africa
+gm, Gambia, GAM, 11_295, 1_782_893, un|fifa|caf|western_africa|commonwealth
+gh, Ghana,          GHA,  239_460,  23_832_495,   un|fifa|caf|western_africa|commonwealth
+gn, Guinea, GUI, 245_857, 10_057_975,  Conakry, un|fifa|caf|western_africa
+gw, Guinea-Bissau, GNB, 36_125, 1_647_000,  Bissau,  un|fifa|caf|western_africa
+lr, Liberia, LBR,  111_369,  3_786_764,   Monrovia, un|fifa|caf|western_africa
+ml, Mali, MLI, 1_240_192,  14_517_176,  Bamako, un|fifa|caf|western_africa
+mr, Mauritania, MTN,  1_030_700,  3_359_185,  un|fifa|caf|western_africa
+ne, Niger, NIG, 1_267_000, 16_274_738,    Niamey,  un|fifa|caf|western_africa
+ng, Nigeria,        NGA,  923_768,  166_629_000,  un|fifa|caf|western_africa|commonwealth
+sn, Senegal, SEN, 196_723,  12_855_153,     Dakar,  un|fifa|caf|western_africa
+sl, Sierra Leone, SLE,  71_740,  5_485_998,    Freetown,  un|fifa|caf|western_africa|commonwealth
+tg, Togo, TOG,  56_785, 6_619_000,    Lomé,  un|fifa|caf|western_africa

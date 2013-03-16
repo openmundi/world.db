@@ -15,3 +15,13 @@ Venezia [Venice],  region:ve,  297_743
 Messina,     region:si,  262_524
 Verona,      region:ve,  254_146
 Trieste,     region:fv,  222_589
+
+###
+# add more cities for serie a teams
+
+Bergamo,     region:lo,   121_316
+Cagliari,    region:sa,   149_883
+Parma,       region:er,   187_214
+Pescara,     region:ab,   123_103
+Siena,       region:tu,    54_526
+Udine,       region:fv,   100_514

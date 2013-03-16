@@ -4,51 +4,54 @@
 ##  see -> http://en.wikipedia.org/wiki/Political_divisions_of_Mexico
 
 
-ag, Ags.|Aguascalientes,         5471
+#####
+# fix: move conventional abbrevations to abbrev.yml
 
-bc, B.C.|Baja California,        69921
-bs, B.C.S.|Baja California Sur,  73475
+ag, Ags.|Aguascalientes,        Aguascalientes,        5_471
 
-cm, Camp.|Campeche,        50812
-cs, Chis.|Chiapas,         74211
-ch, Chih.|Chihuahua,      247938
-co, Coah.|Coahuila,       151571
-cl, Col.|Colima,            5191
+bc, B.C.|Baja California,       Mexicali,    69_921
+bs, B.C.S.|Baja California Sur, La Paz,      73_475
 
-df, D.F.|Distrito Federal, 1479
-dg, Dgo.|Durango,    123181
+cm, Camp.|Campeche,      (San Francisco de) Campeche,      50_812
+cs, Chis.|Chiapas,       Tuxtla (Gutiérrez),   74_211
+ch, Chih.|Chihuahua,     Chihuahua,  247_938
+co, Coah.|Coahuila,      Saltillo,   151_571
+cl, Col.|Colima,         Colima,       5_191
 
-gt, Gto.|Guanajuato,       30491
-gr, Gro.|Guerrero,         64281
+df, D.F.|Distrito Federal,   México, 1_479
+dg, Dgo.|Durango,            (Victoria de) Durango,  123_181
 
-hg, Hgo.|Hidalgo,         20813
+gt, Gto.|Guanajuato,        Guanajuato,     30_491
+gr, Gro.|Guerrero,          Chilpancingo (de los Bravo),   64_281
 
-ja, Jal.|Jalisco,     80386
+hg, Hgo.|Hidalgo,          Pachuca,     20_813
 
-me, Edomex.|México,          21355
-mi, Mich.|Michoacán,        59928
-mo, Mor.|Morelos,          4950
+ja, Jal.|Jalisco,          Guadalajara,    80_386
 
-na, Nay.|Nayarit,         26979
-nl, N.L.|Nuevo León,       64924
+me, Edomex.|México,      Toluca (de Lerdo),   21_355
+mi, Mich.|Michoacán,     Morelia,             59_928
+mo, Mor.|Morelos,        Cuernavaca,           4_950
 
-oa, Oax.|Oaxaca,      93952
+na, Nay.|Nayarit,       Tepic,        26_979
+nl, N.L.|Nuevo León,    Monterrey,     64_924
 
-pb, Pue.|Puebla,          33902
+oa, Oax.|Oaxaca,       Oaxaca (de Juárez),  93_952
 
-qe, Qro.|Querétaro,       11499
-qr, Q. Roo.|Quintana Roo,    50212
+pb, Pue.|Puebla,       Puebla (de Zaragoza),   33_902
 
-sl, S.L.P.|San Luis Potosí,  63068
-si, Sin.|Sinaloa,         58328
-so, Son.|Sonora,     182052
+qe, Qro.|Querétaro,     (Santiago de) Querétaro,   11_499
+qr, Q. Roo.|Quintana Roo,  Chetumal    50_212
 
-tb, Tab.|Tabasco,         25267
-tm, Tamps.|Tamaulipas,  79384
-tl, Tlax.|Tlaxcala,         4016
+sl, S.L.P.|San Luis Potosí,   San Luis Potosí,    63_068
+si, Sin.|Sinaloa,             Culiacán,      58_328
+so, Son.|Sonora,              Hermosillo,    182_052
 
-ve, Ver.|Veracruz,         71699
+tb, Tab.|Tabasco,            Villahermosa,       25_267
+tm, Tamps.|Tamaulipas,       Ciudad Victoria,   79_384
+tl, Tlax.|Tlaxcala,         Tlaxcala,   4_016
 
-yu, Yuc.|Yucatán,         38402
+ve, Ver.|Veracruz,       Xalapa,       71_699
 
-za, Zac.|Zacatecas,        73252
+yu, Yuc.|Yucatán,        Mérida,    38_402
+
+za, Zac.|Zacatecas,      Zacatecas,    73_252

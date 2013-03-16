@@ -1,32 +1,32 @@
-islaraton,                       Isla Ratón,                                  region:am
-laesmeralda,                     La Esmeralda,                                region:am
-maroa,                           Maroa,                                       region:am
-puertoayacucho,                  Puerto Ayacucho,                             region:am
-sancarlosderionegro,             San Carlos de Río Negro|Río Negro,           region:am
-sanfernandodeatabapo,            San Fernando de Atabapo,                     region:am
-sanjuandemanapiare,              San Juan de Manapiare|Manapiare,             region:am
+Isla Ratón,                                  region:am
+La Esmeralda,                                region:am
+Maroa,                                       region:am
+Puerto Ayacucho,                             region:am
+San Carlos de Río Negro|Río Negro,           region:am
+San Fernando de Atabapo,                     region:am
+San Juan de Manapiare|Manapiare,             region:am
 
-anaco,                           Anaco,                                       region:an
-araguadebarcelona,               Aragua de Barcelona,                         region:an
-barcelona,                       Barcelona,                                   region:an
-bocadeuchire,                    Boca de Uchire,                              region:an
-cantaura,                        Cantaura,                                    region:an
-clarines,                        Clarines,                                    region:an
-elchaparro,                      El Chaparro,                                 region:an
-eltigre,                         El Tigre,                                    region:an
-eltigrito,                       El Tigrito,                                  region:an
-guanta,                          Guanta,                                      region:an
-lecheria,                        Lechería,                                    region:an
-mapire,                          Mapire,                                      region:an
-onoto,                           Onoto,                                       region:an
-pariaguan,                       Pariaguán,                                   region:an
-piritu,                          Píritu,                                      region:an
-puertolacruz,                    Puerto la Cruz,                              region:an
-puertopiritu,                    Puerto Píritu,                               region:an
-sanmateo,                        San Mateo,                                   region:an
-santaana,                        Santa Ana,                                   region:an
-soledad,                         Soledad,                                     region:an
-valledeguanape,                  Valle de Guanape|Guanape,                    region:an
+Anaco,                                       region:an
+Aragua de Barcelona,                         region:an
+Barcelona,                                   region:an
+Boca de Uchire,                              region:an
+Cantaura,                                    region:an
+Clarines,                                    region:an
+El Chaparro,                                 region:an
+El Tigre,                                    region:an
+El Tigrito,                                  region:an
+Guanta,                                      region:an
+Lechería,                                    region:an
+Mapire,                                      region:an
+Onoto,                                       region:an
+Pariaguán,                                   region:an
+Píritu,                                      region:an
+Puerto la Cruz,                              region:an
+Puerto Píritu,                               region:an
+San Mateo,                                   region:an
+Santa Ana,                                   region:an
+Soledad,                                     region:an
+Valle de Guanape|Guanape,                    region:an
 
 achaguas,                        Achaguas,                                    region:ap
 biruaca,                         Biruaca,                                     region:ap
