@@ -1,0 +1,43 @@
+#################################
+# see en.wikipedia.org/wiki/ISO_3166-2:IT
+
+
+##########
+# North West
+
+ao: IT-23
+li: IT-42
+lo: IT-25
+pi: IT-21
+
+##########
+# North East
+
+er: IT-45
+fv: IT-36
+tr: IT-32
+ve: IT-34
+
+################
+# Centre
+
+la: IT-62
+ma: IT-57
+to: IT-52
+um: IT-55
+
+################
+# South
+
+ab: IT-65
+pu: IT-75
+ba: IT-77
+ca: IT-78
+cm: IT-72
+mo: IT-67
+
+#################
+# Islands
+
+sa: IT-88
+si: IT-82

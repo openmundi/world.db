@@ -23,6 +23,7 @@ europe:
 - europe/at/regions
 - europe/at/regions.abbr
 - europe/at/regions.iso
+- europe/at/regions.nuts
 - europe/at/cities
 - europe/be/regions
 - europe/be/cities
@@ -49,6 +50,8 @@ europe:
 - europe/hu/cities
 - europe/ie/cities
 - europe/it/regions
+- europe/it/regions.iso
+- europe/it/regions.nuts
 - europe/it/cities
 - europe/lt/cities
 - europe/lv/cities

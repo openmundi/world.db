@@ -1,16 +1,17 @@
-
 #########
 # 9 Bundesländer
+#
+# see en.wikipedia.org/wiki/ISO_3166-2:AT
 
 ########
 # todo: allow single letter for key 
 
-bl: 1
-kt: 2
-no: 3
-oo: 4
-sb: 5
-st: 6
-ti: 7
-vb: 8
-wi: 9
+bl: AT-1
+kt: AT-2
+no: AT-3
+oo: AT-4
+sb: AT-5
+st: AT-6
+ti: AT-7
+vb: AT-8
+wi: AT-9

@@ -1,0 +1,17 @@
+#########
+# 9 Bundesländer
+#
+#  see en.wikipedia.org/wiki/NUTS_of_Austria
+
+########
+# todo: allow single letter for key 
+
+bl: AT11
+no: AT12
+wi: AT13
+kt: AT21
+st: AT22
+oo: AT31
+sb: AT32
+ti: AT33
+vb: AT34

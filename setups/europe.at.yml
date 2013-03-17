@@ -17,4 +17,5 @@ europe:
 - europe/at/regions
 - europe/at/regions.abbr
 - europe/at/regions.iso
+- europe/at/regions.nuts
 - europe/at/cities
