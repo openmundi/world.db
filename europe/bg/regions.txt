@@ -19,19 +19,19 @@
 
 # -- Yugozapaden (5)
 
-so, Sofija City,    Sofija,      1_349, yugozapaden|south_western
-sf, Sofija Province, 7_277, yugozapaden|south_western
-bl, Blagoevgrad,   Blagoevgrad,  6_478, yugozapaden|south_western
-pe, Pernik,        Pernik,       2_377, yugozapaden|south_western
-ky, Kyustendil,    Kyustendil,   3_027, yugozapaden|south_western
+so, Sofija City,    Sofija,      1_349 km², yugozapaden|south_western
+sf, Sofija Province, 7_277 km², yugozapaden|south_western
+bl, Blagoevgrad,   Blagoevgrad,  6_478 km², yugozapaden|south_western
+pe, Pernik,        Pernik,       2_377 km², yugozapaden|south_western
+ky, Kyustendil,    Kyustendil,   3_027 km², yugozapaden|south_western
 
 #  -- Yuzhen tsentralen (5)
 
-pv, Plovdiv,    Plovdiv,    5_973, yuzhen_tsentralen|south_central
-ha, Haskovo,    Haskovo,    4_033, yuzhen_tsentralen|south_central
-pa, Pazardzhik, Pazardzhik, 4_393, yuzhen_tsentralen|south_central
-sm, Smolyan,    3_532, yuzhen_tsentralen|south_central
-ka, Kardzhali,  Kardzhali,  4_032, yuzhen_tsentralen|south_central
+pv, Plovdiv,    Plovdiv,    5_973 km², yuzhen_tsentralen|south_central
+ha, Haskovo,    Haskovo,    4_033 km², yuzhen_tsentralen|south_central
+pa, Pazardzhik, Pazardzhik, 4_393 km², yuzhen_tsentralen|south_central
+sm, Smolyan,    3_532 km², yuzhen_tsentralen|south_central
+ka, Kardzhali,  Kardzhali,  4_032 km², yuzhen_tsentralen|south_central
 
 
 ###############################
@@ -39,30 +39,30 @@ ka, Kardzhali,  Kardzhali,  4_032, yuzhen_tsentralen|south_central
 
 # -- Severozapaden (5)
 
-vi, Vidin,      Vidin,   3_071, severozapaden|northern|north_western
-mo, Montana,    Montana, 3_595, severozapaden|northern|north_western
-vr, Vratsa,     Vratsa,  4_098, severozapaden|northern|north_western
-pl, Pleven,     Pleven,  4_216, severozapaden|northern|north_western
-lo, Lovech,     4_134, severozapaden|northern|north_western
+vi, Vidin,      Vidin,   3_071 km², severozapaden|northern|north_western
+mo, Montana,    Montana, 3_595 km², severozapaden|northern|north_western
+vr, Vratsa,     Vratsa,  4_098 km², severozapaden|northern|north_western
+pl, Pleven,     Pleven,  4_216 km², severozapaden|northern|north_western
+lo, Lovech,     4_134 km², severozapaden|northern|north_western
 
 # -- Severen tsentralen (5)
 
-ve, Veliko Tarnovo,  Veliko Tarnovo,  4_684, severen_tsentralen|northern|north_central
-ga, Gabrovo,      Gabrovo,  2_053, severen_tsentralen|northern|north_central
-ru, Ruse,         Ruse,     2_616, severen_tsentralen|northern|north_central
-ra, Razgrad,        2_648, severen_tsentralen|northern|north_central
-si, Silistra,       2_862, severen_tsentralen|northern|north_central
+ve, Veliko Tarnovo,  Veliko Tarnovo,  4_684 km², severen_tsentralen|northern|north_central
+ga, Gabrovo,      Gabrovo,  2_053 km², severen_tsentralen|northern|north_central
+ru, Ruse,         Ruse,     2_616 km², severen_tsentralen|northern|north_central
+ra, Razgrad,        2_648 km², severen_tsentralen|northern|north_central
+si, Silistra,       2_862 km², severen_tsentralen|northern|north_central
 
 # -- Severoiztochen (4)
 
-va, Varna,        Varna,   3_819, severoiztochen|northern|eastern|north_eastern
-do, Dobrich,      Dobrich, 4_700, severoiztochen|northern|eastern|north_eastern
-sh, Shumen,       Shumen,  3_365, severoiztochen|northern|eastern|north_eastern
-ta, Targovishte,  2_735, severoiztochen|northern|eastern|north_eastern
+va, Varna,        Varna,   3_819 km², severoiztochen|northern|eastern|north_eastern
+do, Dobrich,      Dobrich, 4_700 km², severoiztochen|northern|eastern|north_eastern
+sh, Shumen,       Shumen,  3_365 km², severoiztochen|northern|eastern|north_eastern
+ta, Targovishte,  2_735 km², severoiztochen|northern|eastern|north_eastern
 
 # -- Yugoiztochen (4)
 
-bu, Burgas,       Burgas, 7_618, yugoiztochen|eastern|south_eastern
-sl, Sliven,       Sliven, 3_646, yugoiztochen|eastern|south_eastern
-ya, Yambol,       Yambol, 4_209, yugoiztochen|eastern|south_eastern
-sz, Stara Zagora, Stara Zagora, 4_959, yugoiztochen|eastern|south_eastern
+bu, Burgas,       Burgas, 7_618 km², yugoiztochen|eastern|south_eastern
+sl, Sliven,       Sliven, 3_646 km², yugoiztochen|eastern|south_eastern
+ya, Yambol,       Yambol, 4_209 km², yugoiztochen|eastern|south_eastern
+sz, Stara Zagora, Stara Zagora, 4_959 km², yugoiztochen|eastern|south_eastern
