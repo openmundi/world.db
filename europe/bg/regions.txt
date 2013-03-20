@@ -1,0 +1,13 @@
+###################################################
+# For further information, visit wikipedia:
+# http://en.wikipedia.org/wiki/Regions_of_Bulgaria
+# 
+# 
+###################################################
+
+
+sf, Sofia-Capital 
+so, Sofia-Province
+pb, Plovdiv
+b, Burgas
+v, Varna
