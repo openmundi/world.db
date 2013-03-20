@@ -1,8 +1,6 @@
-sofija, Sofija [Sofia], 1_204_685,  m:1_291_591
+Sofija [Sofia],  SO,  1_204_685,  m:1_291_591
 
-plovdiv, Plovdiv [Plovdiv], 338_153, m:403_153
-varna, Varna [Varna] 334_870, m:343_643
-burgas, Burgas [Burgas] 200_271, m:212_902
-
-
+Plovdiv,         PV, 338_153, m:403_153
+Varna,           VA, 334_870, m:343_643
+Burgas,          BU, 200_271, m:212_902
 
