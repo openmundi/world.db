@@ -13,7 +13,12 @@
 #  Nord-Vest, North-West (6)
 
 bh, Bihor,           7_544 km², Oradea,       nord_vest|north_west
-bn, Bistrița-Năsăud, 5_355 km², Bistrița,     nord_vest|north_west
+
+## fix:
+#  add ț Bistrița to textutils
+#  - also check Năsăud
+
+bn, Bistrița-Năsăud, 5_355 km²,     nord_vest|north_west    # Bistrița, 
 cj, Cluj,            6_674 km², Cluj-Napoca,  nord_vest|north_west
 mm, Maramureș,       6_304 km², Baia Mare,    nord_vest|north_west
 sm, Satu Mare,       4_418 km², Satu Mare,    nord_vest|north_west
@@ -37,7 +42,11 @@ sb, Sibiu,    5_432 km², Sibiu,           centru|center
 bc, Bacău,    6_621 km², Bacău,        nord_est|north_east
 bt, Botoșani, 4_986 km², Botoșani,     nord_est|north_east
 is, Iași,     5_476 km², Iași,         nord_est|north_east
-nt, Neamț,    5_896 km², Piatra-Neamț, nord_est|north_east
+
+#### fix:
+##  ț  -  Piatra-Neamț,
+
+nt, Neamț,    5_896 km²,  nord_est|north_east   # Piatra-Neamț,
 sv, Suceava,  8_553 km², Suceava,      nord_est|north_east
 vs, Vaslui,   5_318 km², Vaslui,       nord_est|north_east
 
@@ -47,8 +56,11 @@ vs, Vaslui,   5_318 km², Vaslui,       nord_est|north_east
 
 br, Brăila,    4_766 km², Brăila,    sud_est|south_east
 bz, Buzău,     6_103 km², Buzău,     sud_est|south_east
-ct, Constanța, 7_071 km², Constanța, sud_est|south_east
-gl, Galați,    4_466 km², Galați,    sud_est|south_east
+
+#### fix: țțț
+
+ct, Constanța, 7_071 km²,  sud_est|south_east   # Constanța,
+gl, Galați,    4_466 km²,   sud_est|south_east   # Galați, 
 tl, Tulcea,    8_499 km², Tulcea,    sud_est|south_east
 vn, Vrancea,   4_857 km², Focșani,   sud_est|south_east
 
@@ -87,6 +99,10 @@ vl, Vâlcea,    5_765 km², Râmnicu Vâlcea,  sud_vest_oltenia|south_west
 # Vest, West (4)
 
 ar, Arad,          7_754 km², Arad,      vest|west
-cs, Caraș-Severin, 8_520 km², Reșița,    vest|west
+
+#####
+# fix: țțțț
+
+cs, Caraș-Severin, 8_520 km²,    vest|west   # Reșița, 
 hd, Hunedoara,     7_063 km², Deva,      vest|west
 tm, Timiș,         8_697 km², Timișoara, vest|west

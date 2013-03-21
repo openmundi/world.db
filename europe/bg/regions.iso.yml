@@ -1,0 +1,31 @@
+###################################
+# see en.wikipedia.org/wiki/ISO_3166-2:BG
+
+bl: BG-01  # Blagoevgrad
+bu: BG-02  # Burgas
+va: BG-03  # Varna
+ve: BG-04  # Veliko Tarnovo
+vi: BG-05  # Vidin
+vr: BG-06  # Vratsa
+ga: BG-07  # Gabrovo
+do: BG-08  # Dobrich
+ka: BG-09  # Kardzhali
+ky: BG-10  # Kyustendil
+lo: BG-11  # Lovech
+mo: BG-12  # Montana
+pa: BG-13  # Pazardzhik
+pe: BG-14  # Pernik
+pl: BG-15  # Pleven
+pv: BG-16  # Plovdiv
+ra: BG-17  # Razgrad
+ru: BG-18  # Ruse
+si: BG-19  # Silistra
+sl: BG-20  # Sliven
+sm: BG-21  # Smolyan
+so: BG-22  # Sofia-Grad
+sf: BG-23  # Sofia
+sz: BG-24  # Stara Zagora
+ta: BG-25  # Targovishte
+ha: BG-26  # Haskovo
+sh: BG-27  # Shumen
+ya: BG-28  # Yambol

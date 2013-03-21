@@ -1,6 +1,40 @@
+
+######
+# 1_000_000+
+
 Sofija [Sofia],  SO,  1_204_685,  m:1_291_591
+
+###############
+# 300_000+
 
 Plovdiv,         PV, 338_153, m:403_153
 Varna,           VA, 334_870, m:343_643
-Burgas,          BU, 200_271, m:212_902
 
+################
+# 100_000+
+
+Burgas,          BU, 200_271, m:212_902
+Ruse,            RU, 149_642
+Stara Zagora,    SZ, 138_272
+Pleven,          PL, 106_954
+
+############
+# 50_000+
+
+Asenovgrad,      PV,  50_846
+Blagoevgrad,     BL,  70_881
+Dobrich,         DO,  91_030
+Gabrovo,         GA,  58_930
+Haskovo,         HA,  76_397
+Pazardzhik,      PA,  71_979
+Pernik,          PE,  80_191 
+Sliven,          SL,  91_620
+Shumen,          SH,  80_855
+Veliko Tarnovo,  VE,  68_783
+Vratsa,          VR,  60_692
+Yambol,          YA,  74_132
+
+##################################
+# 20_000+
+
+# add more cities here

@@ -1,0 +1,55 @@
+##################################
+# see en.wikipedia.org/wiki/NUTS_of_Bulgaria
+
+
+###############################
+# Northern and Eastern Bulgaria
+
+# -- Severozapaden (5)
+
+vi: BG311 
+mo: BG312
+vr: BG313
+pl: BG314
+lo: BG315
+
+# -- Severen tsentralen (5)
+
+ve: BG321
+ga: BG322
+ru: BG323
+ra: BG324
+si: BG325
+
+# -- Severoiztochen (4)
+
+va: BG331
+do: BG332
+sh: BG333
+ta: BG334
+
+# -- Yugoiztochen (4)
+
+bu: BG341
+sl: BG342
+ya: BG343
+sz: BG344
+
+##########################
+# South-Western and South-Central Bulgaria
+
+# -- Yugozapaden (5)
+
+so: BG411
+sf: BG412
+bl: BG413
+pe: BG414
+ky: BG415
+
+#  -- Yuzhen tsentralen (5)
+
+pv: BG421
+ha: BG422
+pa: BG423
+sm: BG424
+ka: BG425
