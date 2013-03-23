@@ -6,7 +6,7 @@ eu,  Europe
 sa,  South America
 na,  North America
 ca,  Central America
-ci,  Caribbean Islands
+ci,  Caribbean         # Caribbean Islands
 af,  Africa
 me,  Middle East       # West Asia
 as,  Asia
