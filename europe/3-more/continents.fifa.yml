@@ -1,5 +1,5 @@
 ####################
-## europe
+# europe
 
 ba: uefa           # Bosnia and Herzegovina
 li: uefa           # Liechtenstein
@@ -59,5 +59,10 @@ en: uefa           # England
 sc: uefa           # Scotland
 wa: uefa           # Wales
 nd: uefa           # Northern Ireland
+
+gi: others         # Gibraltar
+im: others         # Isle of Man
+je: others         # Jersey
+gg: others         # Guernsey
 
 eu: others         # European Union

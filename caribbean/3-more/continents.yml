@@ -1,0 +1,20 @@
+cu: ci           # Cuba
+jm: ci           # Jamaica
+do: ci           # Dominican Republic
+ht: ci           # Haiti
+ag: ci           # Antigua and Barbuda
+bs: ci           # Bahamas
+bb: ci           # Barbados
+dm: ci           # Dominica
+gd: ci           # Grenada
+kn: ci           # Saint Kitts and Nevis
+lc: ci           # Saint Lucia
+vc: ci           # Saint Vincent and the Grenadines
+tt: ci           # Trinidad and Tobago
+
+################
+#  Dependencies & Territories
+
+pr: ci           # Puerto Rico
+gp: ci           # Guadeloupe
+mq: ci           # Martinique

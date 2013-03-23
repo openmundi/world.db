@@ -1,0 +1,68 @@
+####################
+# europe
+
+ba: eu           # Bosnia and Herzegovina
+li: eu           # Liechtenstein
+mc: eu           # Monaco
+me: eu           # Montenegro
+md: eu           # Moldova
+sm: eu           # San Marino
+at: eu           # Austria
+be: eu           # Belgium
+cy: eu           # Cyprus
+de: eu           # Germany
+ee: eu           # Estonia
+es: eu           # Spain
+fi: eu           # Finland
+fr: eu           # France
+gr: eu           # Greece
+ie: eu           # Irland
+it: eu           # Italy
+lu: eu           # Luxembourg
+mt: eu           # Malta
+nl: eu           # Netherlands
+pt: eu           # Portugal
+sk: eu           # Slovakia
+si: eu           # Slovenia
+bg: eu           # Bulgaria
+dk: eu           # Denmark
+lv: eu           # Latvija [Latvia]
+lt: eu           # Lithuania
+pl: eu           # Poland
+ro: eu           # Romania
+se: eu           # Sweden
+cz: eu           # Czech Republic
+hu: eu           # Hungary
+gb: eu           # Great Britain
+ad: eu           # Andorra
+al: eu           # Albania
+by: eu           # Belarus
+ch: eu           # Switzerland
+hr: eu           # Croatia
+rs: eu           # Serbia
+ru: eu           # Russia
+tr: eu           # Turkey
+ua: eu           # Ukraine
+mk: eu           # Macedonia
+no: eu           # Norway
+is: eu           # Iceland
+va: eu           # Vatican City
+
+az: eu           # Azerbaijan
+ge: eu           # Georgia
+am: eu           # Armenia
+
+#  Dependencies & Territories & Supranationals
+
+fo: eu           # Faroe Islands
+en: eu           # England
+sc: eu           # Scotland
+wa: eu           # Wales
+nd: eu           # Northern Ireland
+
+gi: eu           # Gibraltar
+im: eu           # Isle of Man
+je: eu           # Jersey
+gg: eu           # Guernsey
+
+eu: eu           # European Union

@@ -1,0 +1,37 @@
+####################
+# asia
+
+af: as           # Afghanistan
+bt: as           # Bhutan
+bn: as           # Brunei
+kh: as           # Cambodia
+kg: as           # Kyrgyzstan
+la: as           # Laos
+mv: as           # Maldives
+mn: as           # Mongolia
+mm: as           # Myanmar
+tj: as           # Tajikistan
+tl: as           # Timor-Leste [East Timor]
+tm: as           # Turkmenistan
+uz: as           # Uzbekistan
+jp: as           # Japan
+kp: as           # North Korea
+kr: as           # South Korea
+cn: as           # China
+tw: as           # Taiwan
+id: as           # Indonesia
+my: as           # Malaysia
+sg: as           # Singapore
+th: as           # Thailand
+ph: as           # Philippines
+vn: as           # Vietnam
+pk: as           # Pakistan
+in: as           # India
+bd: as           # Bangladesh
+np: as           # Nepal
+lk: as           # Sri Lanka
+kz: as           # Kazakhstan
+
+#  Territories & Supranationals
+
+hk: as           # Hong Kong

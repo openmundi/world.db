@@ -1,0 +1,23 @@
+####################
+# oceania
+
+au: pa        # Australia
+
+fj: pa        # Fiji
+ki: pa        # Kiribati
+mh: pa        # Marshall Islands
+fm: pa        # Micronesia
+nr: pa        # Nauru
+pw: pa        # Palau
+ws: pa        # Samoa
+sb: pa        # Solomon Islands
+to: pa        # Tonga
+tv: pa        # Tuvalu
+vu: pa        # Vanuatu
+nz: pa        # New Zealand
+pg: pa        # Papua New Guinea
+
+################
+#  Dependencies & Territories
+
+pf: pa           # Tahiti / French Polynesia / Polynésie française

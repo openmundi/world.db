@@ -1,5 +1,5 @@
 ####################
-## oceania
+# oceania
 
 au: afc           # Australia
 
@@ -17,4 +17,7 @@ vu: ofc           # Vanuatu
 nz: ofc           # New Zealand
 pg: ofc           # Papua New Guinea
 
+################
+#  Dependencies & Territories
 
+pf: ofc           # Tahiti / French Polynesia / Polynésie française

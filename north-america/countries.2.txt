@@ -1,0 +1,2 @@
+
+gl, Greenland,      GRL, 2_166_086 km², 56_370,  country:dk     # Nuuk (Godthåb)

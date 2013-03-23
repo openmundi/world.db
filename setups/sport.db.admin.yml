@@ -21,6 +21,7 @@ countries2:
 - asia/countries.2
 - caribbean/countries.2
 - europe/countries.2
+- north-america/countries.2
 - pacific/countries.2
 
 continents:
@@ -39,6 +40,11 @@ africa:
 - africa/1-codes/fifa
 - africa/1-codes/internet
 - africa/1-codes/iso3
+
+middle-east:
+- middle-east/1-codes/fifa
+- middle-east/1-codes/internet
+- middle-east/1-codes/iso3
 
 south-america:
 - south-america/1-codes/fifa

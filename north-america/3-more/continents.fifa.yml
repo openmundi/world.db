@@ -2,3 +2,4 @@
 ca: concacaf.nafu        # Canada
 us: concacaf.nafu        # United States
 mx: concacaf.nafu        # México [Mexico]
+gl: others               # Greenland

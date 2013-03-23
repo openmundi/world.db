@@ -12,8 +12,8 @@ lc: concacaf.cfu           # Saint Lucia
 vc: concacaf.cfu           # Saint Vincent and the Grenadines
 tt: concacaf.cfu           # Trinidad and Tobago
 
-###################
-#  Territories
+################
+#  Dependencies & Territories
 
 pr: concacaf.cfu           # Puerto Rico
 gp: concacaf.cfu           # Guadeloupe
