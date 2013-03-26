@@ -2,7 +2,22 @@
 # territories / dependencies / countries
 
 pr, Puerto Rico,  PUR,      8_870 km²,   3_982_000, country:us, caribbean|fifa|concacaf|concacaf_cfu
+vi, United States Virgin Islands, VIR, Charlotte Amalie, 346 km², 106_405, country:us, caribbean
+
+gp, Guadeloupe,       GPE, 1_628 km², 405_500, country:fr, caribbean|concacaf|concacaf_cfu
+mq, Martinique,       MTQ, 1_128 km², 403_795, country:fr, caribbean|concacaf|concacaf_cfu
+bl, Saint Barthélemy, BLM,    22 km²,   8_902, country:fr, caribbean
+mf, Saint Martin (French), MAF, Marigot, 54 km²,  36_824,  country:fr, caribbean
 
 
-gp, Guadeloupe, GPE, 1_628 km², 405_500, country:fr, caribbean|concacaf|concacaf_cfu
-mq, Martinique, MTQ, 1_128 km², 403_795, country:fr, caribbean|concacaf|concacaf_cfu
+aw, Aruba,   ABW, Oranjestad,  179 km², 101_484, country:nl, caribbean
+cw, Curaçao, CUW, Willemstad,  444 km², 142_180, country:nl, caribbean
+sx, Sint Maarten (Dutch), SXM, Philipsburg, 34 km², 37_429, country:nl, caribbean
+
+
+ai, Anguilla,       AIA, The Valley,      91 km²,  13_600, country:gb, caribbean
+bm, Bermuda,        BMU, Hamilton,        53 km²,  64_268, country:gb, caribbean
+ky, Cayman Islands, CYM, George Town,    264 km²,  54_878, country:gb, caribbean
+ms, Montserrat,     MSR, Plymouth,       102 km²,   5_164, country:gb, caribbean
+tc, Turks and Caicos Islands, TCA, Cockburn Town, 616 km²,  46_400, country:gb, caribbean
+vg, British Virgin Islands, VGB, Road Town,  153 km²,  27_800, country:gb, caribbean

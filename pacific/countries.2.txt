@@ -1,4 +1,17 @@
 
 ## check if fifa member too?
 
-pf, Tahiti, TAH, 1_045, 178_133, country:fr, ofc|polynesia    # French Polynesia / Polynésie française
+pf, Tahiti, TAH, 1_045 km², 178_133, country:fr, ofc|polynesia    # French Polynesia / Polynésie française
+nc, New Caledonia|Nouvelle-Calédonie, NCL, Nouméa, 18_576 km²,  252_000, country:fr
+wf, Wallis and Futuna, WLF, 264 km², 15_289, country:fr
+
+as, American Samoa, ASM,  197 km²,   55_519, country:us
+gu, Guam,           GUM,  541 km²,  159_358, country:us
+mp, Northern Mariana Islands, MNP, Saipan,  464 km², 53_833, country:us
+
+ck, Cook Islands, COK,           240 km²,  19_569, country:nz
+nu, Niue,         NIU, Alofi,    260 km²,   1_398, country:nz
+tk, Tokelau,      TKL, Fakaofo,   10 km²,   1_411, country:nz
+
+nf, Norfolk Island,   NFK, Kingston,   35 km², 2_302, country:gb
+pn, Pitcairn Islands, PCN, Adamstown,  47 km²,    48, country:gb

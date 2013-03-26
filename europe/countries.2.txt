@@ -16,3 +16,5 @@ gi, Gibraltar,      GIB,   7 km², 29_200, country:gb, southern_europe
 im, Isle of Man,    IMN, 572 km², 82_900, country:gb, northern_europe|western_europe
 je, Jersey,         JEY, 116 km², 97_900, country:gb, western_europe
 gg, Guernsey,       GGY,  63 km², 62_300, country:gb, western_europe
+
+ax, Åland Islands|Åland, ALA, 1_580km²,  28_355, country:fi, nordic|northern_europe

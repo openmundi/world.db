@@ -1,0 +1,7 @@
+
+
+gf, French Guiana|Guyane, GUF,   Cayenne, 83_534 km², 236_250,   country:fr
+
+fk, Falkland Islands|Malvinas, FLK, Stanley,  12_173 km²,  2_841, country:gb
+gs, South Georgia and South Sandwich, SGS, King Edward Point,  3_903 km², 30, country:gb
+sh, Saint Helena|Saint Helena, Ascension and Tristan da Cunha, SHN, Jamestown,  420 km², 7_728, country:gb

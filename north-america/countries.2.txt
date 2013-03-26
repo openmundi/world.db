@@ -1,2 +1,3 @@
 
-gl, Greenland,      GRL, 2_166_086 km², 56_370,  country:dk     # Nuuk (Godthåb)
+gl, Greenland,      GRL, 2_166_086 km², 56_370,   country:dk     # Nuuk (Godthåb)
+pm, Saint Pierre and Miquelon, SPM,   242 km², 5_888,  county:fr
