@@ -18,11 +18,14 @@ countries:
 - south-america/countries
 
 countries2:
+- africa/countries.2
 - asia/countries.2
 - caribbean/countries.2
 - europe/countries.2
 - north-america/countries.2
 - pacific/countries.2
+- south-america/countries.2
+
 
 continents:
 - africa/3-more/continents.fifa
