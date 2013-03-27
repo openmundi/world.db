@@ -1,5 +1,5 @@
 ####################
-## oceania
+# oceania
 
 fj: FJI           # Fiji
 ki: KIR           # Kiribati
@@ -15,3 +15,21 @@ vu: VUT           # Vanuatu
 au: AUS           # Australia
 nz: NZL           # New Zealand
 pg: PNG           # Papua New Guinea
+
+################
+# dependencies & territories
+
+pf: TAH   # Tahiti / French Polynesia (FR)
+nc: NCL   # New Caledonia (FR)
+wf: WLF   # Wallis and Futuna (FR)
+
+as: ASM   # American Samoa (US)
+gu: GUM   # Guam (US)
+mp: MNP   # Northern Mariana Islands (US)
+
+ck: COK   # Cook Islands (NZ)
+nu: NIU   # Niue (NZ)
+tk: TKL   # Tokelau (NZ)
+
+nf: NFK   # Norfolk Island (GB)
+pn: PCN   # Pitcairn Islands (GB)

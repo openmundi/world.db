@@ -17,7 +17,21 @@ vu: pa        # Vanuatu
 nz: pa        # New Zealand
 pg: pa        # Papua New Guinea
 
-################
-#  Dependencies & Territories
 
-pf: pa           # Tahiti / French Polynesia / Polynésie française
+################
+# dependencies & territories
+
+pf: pa    # Tahiti / French Polynesia (FR)
+nc: pa    # New Caledonia (FR)
+wf: pa    # Wallis and Futuna (FR)
+
+as: pa    # American Samoa (US)
+gu: pa    # Guam (US)
+mp: pa    # Northern Mariana Islands (US)
+
+ck: pa    # Cook Islands (NZ)
+nu: pa    # Niue (NZ)
+tk: pa    # Tokelau (NZ)
+
+nf: pa    # Norfolk Island (GB)
+pn: pa    # Pitcairn Islands (GB)

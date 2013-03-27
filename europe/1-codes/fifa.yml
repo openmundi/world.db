@@ -33,11 +33,6 @@ ro: ROU           # Romania
 se: SWE           # Sweden
 cz: CZE           # Czech Republic
 hu: HUN           # Hungary
-en: ENG           # England
-sc: SCO           # Scotland
-wa: WAL           # Wales
-nd: NIR           # Northern Ireland
-fo: FRO           # Faroe Islands
 ad: AND           # Andorra
 al: ALB           # Albania
 by: BLR           # Belarus
@@ -56,6 +51,15 @@ az: AZE           # Azerbaijan
 ge: GEO           # Georgia
 am: ARM           # Armenia
 
+
+#  Dependencies & Territories & Supranationals
+
+en: ENG           # England (GB)
+sc: SCO           # Scotland (GB)
+wa: WAL           # Wales (GB)
+nd: NIR           # Northern Ireland (GB)
+
+fo: FRO           # Faroe Islands (DK)
 
 
 ####

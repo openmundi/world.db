@@ -34,7 +34,6 @@ se: SWE           # Sweden
 cz: CZE           # Czech Republic
 hu: HUN           # Hungary
 gb: GBR           # Great Britain
-fo: FRO           # Faroe Islands
 ad: AND           # Andorra
 al: ALB           # Albania
 by: BLR           # Belarus
@@ -58,7 +57,17 @@ am: ARM           # Armenia
 ## no official iso codes found - check if mistaken
 
 eu: !!null           # European Union
-en: !!null           # England
-sc: !!null           # Scotland
-wa: !!null           # Wales
-nd: !!null           # Northern Ireland
+en: !!null           # England (GB)
+sc: !!null           # Scotland (GB)
+wa: !!null           # Wales (GB)
+nd: !!null           # Northern Ireland (GB)
+
+#  Dependencies & Territories & Supranationals
+
+fo: FRO           # Faroe Islands (DK)
+ax: ALA           # Åland (FI)
+
+gi: GIB           # Gibraltar (GB)
+im: IMN           # Isle of Man (GB)
+je: JEY           # Jersey (GB)
+gg: GGY           # Guernsey (GB)

@@ -55,3 +55,9 @@ gh: af           # Ghana
 ng: af           # Nigeria
 cm: af           # Cameroon
 za: af           # South Africa
+
+###############################
+# Dependencies & Territories
+
+yt: af      # Mayotte (FR)
+re: af      # Réunion (FR)

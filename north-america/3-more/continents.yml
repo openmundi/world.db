@@ -2,4 +2,10 @@
 ca: na   # Canada
 us: na   # United States
 mx: na   # México [Mexico]
-gl: na   # Greenland
+
+
+################
+#  Dependencies & Territories
+
+gl: na   # Greenland (DK)
+pm: na   # Saint Pierre and Miquelon (FR)

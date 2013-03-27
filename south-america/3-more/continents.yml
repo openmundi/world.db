@@ -11,6 +11,14 @@ pe: sa    # Peru
 py: sa    # Paraguay
 uy: sa    # Uruguay
 ve: sa    # Venezuela
-
 gy: sa    # Guyana
 sr: sa    # Suriname
+
+################
+#  Dependencies & Territories
+
+gf: sa   # French Guiana|Guyane (FR)
+
+fk: sa   # Falkland Islands|Malvinas (GB)
+gs: sa   # South Georgia and South Sandwich (GB)
+sh: sa   # Saint Helena|Saint Helena, Ascension and Tristan da Cunha (GB)

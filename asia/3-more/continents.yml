@@ -32,6 +32,14 @@ np: as           # Nepal
 lk: as           # Sri Lanka
 kz: as           # Kazakhstan
 
-#  Territories & Supranationals
 
-hk: as           # Hong Kong
+###############################
+# Dependencies & Territories
+
+hk: as           # Hong Kong (CN)
+mo: as           # Macao (CN)
+
+cc: as           # Cocos (Keeling) Islands (AU)
+cx: as           # Christmas Island (AU)
+
+io: as           # British Indian Ocean Territory (GB)

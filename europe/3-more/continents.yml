@@ -54,15 +54,17 @@ am: eu           # Armenia
 
 #  Dependencies & Territories & Supranationals
 
-fo: eu           # Faroe Islands
-en: eu           # England
-sc: eu           # Scotland
-wa: eu           # Wales
-nd: eu           # Northern Ireland
+fo: eu           # Faroe Islands (DK)
+ax: eu           # Åland (FI)
 
-gi: eu           # Gibraltar
-im: eu           # Isle of Man
-je: eu           # Jersey
-gg: eu           # Guernsey
+en: eu           # England (GB)
+sc: eu           # Scotland (GB)
+wa: eu           # Wales (GB)
+nd: eu           # Northern Ireland (GB)
+
+gi: eu           # Gibraltar (GB)
+im: eu           # Isle of Man (GB)
+je: eu           # Jersey (GB)
+gg: eu           # Guernsey (GB)
 
 eu: eu           # European Union

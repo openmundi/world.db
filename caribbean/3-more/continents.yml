@@ -15,6 +15,23 @@ tt: ci           # Trinidad and Tobago
 ################
 #  Dependencies & Territories
 
-pr: ci           # Puerto Rico
-gp: ci           # Guadeloupe
-mq: ci           # Martinique
+pr: ci   # Puerto Rico (US)
+vi: ci   # United States Virgin Islands (US)
+
+gp: ci   # Guadeloupe (FR)
+mq: ci   # Martinique (FR)
+bl: ci   # Saint Barthélemy (FR)
+mf: ci   # Saint Martin (FR)
+
+aw: ci   # Aruba (NL)
+cw: ci   # Curaçao (NL)
+
+###  fix: missing flag in worlddb-flags - check it
+## sx: # Sint Maarten (NL)
+
+ai: ci   # Anguilla (GB)
+bm: ci   # Bermuda (GB)
+ky: ci   # Cayman Islands (GB)
+ms: ci   # Montserrat (GB)
+tc: ci   # Turks and Caicos Islands (GB)
+vg: ci   # British Virgin Islands (GB)

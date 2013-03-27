@@ -1,5 +1,5 @@
 ####################
-# america
+# south america
 
 ar: ar           # Argentina
 bo: bo           # Bolivia
@@ -13,3 +13,12 @@ sr: sr           # Suriname
 py: py           # Paraguay
 uy: uy           # Uruguay
 ve: ve           # Venezuela
+
+################
+# dependencies & territories
+
+gf: gf   # French Guiana|Guyane (FR)
+
+fk: fk   # Falkland Islands|Malvinas (GB)
+gs: gs   # South Georgia and South Sandwich (GB)
+sh: sh   # Saint Helena|Saint Helena, Ascension and Tristan da Cunha (GB)

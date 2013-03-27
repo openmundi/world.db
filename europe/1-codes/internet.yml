@@ -1,5 +1,5 @@
 ####################
-## europe
+# europe
 
 ba: ba           # Bosnia and Herzegovina
 li: li           # Liechtenstein
@@ -7,7 +7,6 @@ mc: mc           # Monaco
 me: me           # Montenegro
 md: md           # Moldova
 sm: sm           # San Marino
-eu: eu           # European Union
 at: at           # Austria
 be: be           # Belgium
 cy: cy           # Cyprus
@@ -34,7 +33,6 @@ ro: ro           # Romania
 se: se           # Sweden
 cz: cz           # Czech Republic
 hu: hu           # Hungary
-fo: fo           # Faroe Islands
 ad: ad           # Andorra
 al: al           # Albania
 by: by           # Belarus
@@ -57,7 +55,19 @@ am: am           # Armenia
 # NB: some different mappings
 
 gb: uk               # Great Britain
-en: !!null           # England
-sc: !!null           # Scotland
-wa: !!null           # Wales
-nd: !!null           # Northern Ireland
+en: !!null           # England (GB)
+sc: !!null           # Scotland (GB)
+wa: !!null           # Wales (GB)
+nd: !!null           # Northern Ireland (GB)
+
+#  Dependencies & Territories & Supranationals
+
+fo: fo           # Faroe Islands (DK)
+ax: ax           # Åland (FI)
+
+gi: gi           # Gibraltar (GB)
+im: im           # Isle of Man (GB)
+je: je           # Jersey (GB)
+gg: gg           # Guernsey (GB)
+
+eu: eu           # European Union

@@ -16,7 +16,20 @@ au: au           # Australia
 nz: nz           # New Zealand
 pg: pg           # Papua New Guinea
 
-###########
-# terretories / dependencies
+################
+# dependencies & territories
 
-pf: pf           # French Polynesia / Tahiti
+pf: pf   # Tahiti / French Polynesia (FR)
+nc: nc   # New Caledonia (FR)
+wf: wf   # Wallis and Futuna (FR)
+
+as: as   # American Samoa (US)
+gu: gu   # Guam (US)
+mp: mp   # Northern Mariana Islands (US)
+
+ck: ck   # Cook Islands (NZ)
+nu: nu   # Niue (NZ)
+tk: tk   # Tokelau (NZ)
+
+nf: nf   # Norfolk Island (GB)
+pn: pn   # Pitcairn Islands (GB)

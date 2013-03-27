@@ -13,3 +13,12 @@ sr: SUR           # Suriname
 py: PRY           # Paraguay
 uy: URY           # Uruguay
 ve: VEN           # Venezuela
+
+################
+#  Dependencies & Territories
+
+gf: GUF   # French Guiana|Guyane (FR)
+
+fk: FLK   # Falkland Islands|Malvinas (GB)
+gs: SGS   # South Georgia and South Sandwich (GB)
+sh: SHN   # Saint Helena|Saint Helena, Ascension and Tristan da Cunha (GB)
