@@ -1,5 +1,5 @@
 ####################
-## africa
+# africa
 
 ao: AGO           # Angola
 bj: BEN           # Benin
@@ -55,3 +55,9 @@ gh: GHA           # Ghana
 ng: NGA           # Nigeria
 cm: CMR           # Cameroon
 za: ZAF           # South Africa
+
+###############################
+# dependencies & territories
+
+yt: MYT     # Mayotte (FR)
+re: REU     # Réunion (FR)

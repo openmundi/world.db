@@ -1,5 +1,5 @@
 ####################
-## asia
+# asia
 
 af: AFG           # Afghanistan
 bt: BTN           # Bhutan
@@ -20,7 +20,6 @@ jp: JPN           # Japan
 kp: PRK           # North Korea
 kr: KOR           # South Korea
 cn: CHN           # China
-hk: HKG           # Hong Kong
 tw: TWN           # Taiwan
 id: IDN           # Indonesia
 my: MYS           # Malaysia
@@ -33,3 +32,15 @@ in: IND           # India
 bd: BGD           # Bangladesh
 np: NPL           # Nepal
 lk: LKA           # Sri Lanka
+
+
+###############################
+# dependencies & territories
+
+hk: HKG           # Hong Kong (CN)
+mo: MAC           # Macao (CN)
+
+cc: CCK           # Cocos (Keeling) Islands (AU)
+cx: CXR           # Christmas Island (AU)
+
+io: IOT           # British Indian Ocean Territory (GB)

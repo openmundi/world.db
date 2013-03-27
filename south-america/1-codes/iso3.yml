@@ -1,5 +1,5 @@
 ####################
-# america
+# south america
 
 ar: ARG           # Argentina
 bo: BOL           # Bolivia
@@ -15,7 +15,7 @@ uy: URY           # Uruguay
 ve: VEN           # Venezuela
 
 ################
-#  Dependencies & Territories
+# dependencies & territories
 
 gf: GUF   # French Guiana|Guyane (FR)
 

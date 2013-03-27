@@ -3,3 +3,9 @@ ca: CAN           # Canada
 us: USA           # United States
 mx: MEX           # México [Mexico]
 
+################
+# dependencies & territories
+
+gl: GRL   # Greenland (DK)
+pm: SPM   # Saint Pierre and Miquelon (FR)
+

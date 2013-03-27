@@ -13,7 +13,7 @@ vc: ci           # Saint Vincent and the Grenadines
 tt: ci           # Trinidad and Tobago
 
 ################
-#  Dependencies & Territories
+# dependencies & territories
 
 pr: ci   # Puerto Rico (US)
 vi: ci   # United States Virgin Islands (US)

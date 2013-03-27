@@ -14,8 +14,26 @@ vc: vc           # Saint Vincent and the Grenadines
 tt: tt           # Trinidad and Tobago
 
 
-# Terretories / Dependencies
+################
+# dependencies & territories
 
-pr: pr           # Puerto Rico
-gp: gp           # Guadeloupe
-mq: mq           # Martinique
+pr: pr   # Puerto Rico (US)
+vi: vi   # United States Virgin Islands (US)
+
+gp: gp   # Guadeloupe (FR)
+mq: mq   # Martinique (FR)
+bl: bl   # Saint Barthélemy (FR)
+mf: mf   # Saint Martin (FR)
+
+aw: aw   # Aruba (NL)
+cw: cw   # Curaçao (NL)
+
+###  fix: missing flag in worlddb-flags - check it
+## sx: # Sint Maarten (NL)
+
+ai: ai   # Anguilla (GB)
+bm: bm   # Bermuda (GB)
+ky: ky   # Cayman Islands (GB)
+ms: ms   # Montserrat (GB)
+tc: tc   # Turks and Caicos Islands (GB)
+vg: vg   # British Virgin Islands (GB)

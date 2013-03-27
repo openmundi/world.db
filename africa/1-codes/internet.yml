@@ -1,7 +1,7 @@
 ####################
-## africa country internet top level domains
-##
-## see http://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
+# africa country internet top level domains
+#
+# see en.wikipedia.org/wiki/List_of_Internet_top-level_domains
 
 
 ao: ao           # Angola
@@ -59,6 +59,13 @@ cm: cm           # Cameroon
 za: za           # South Africa
   
 ###########
-## NB: renamed - sc in use for scotland
+# NB: renamed - sc in use for scotland
 
 yc: sc           # Seychelles
+
+
+###############################
+# dependencies & territories
+
+yt: yt     # Mayotte (FR)
+re: re     # Réunion (FR)
