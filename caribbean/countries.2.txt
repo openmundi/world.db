@@ -12,7 +12,9 @@ mf, Saint Martin (French), MAF, Marigot, 54 km²,  36_824,  country:fr, caribbea
 
 aw, Aruba,   ABW, Oranjestad,  179 km², 101_484, country:nl, caribbean
 cw, Curaçao, CUW, Willemstad,  444 km², 142_180, country:nl, caribbean
-sx, Sint Maarten (Dutch), SXM, Philipsburg, 34 km², 37_429, country:nl, caribbean
+
+###  fix: missing flag in worlddb-flags - check it
+## sx, Sint Maarten (Dutch), SXM, Philipsburg, 34 km², 37_429, country:nl, caribbean
 
 
 ai, Anguilla,       AIA, The Valley,      91 km²,  13_600, country:gb, caribbean
