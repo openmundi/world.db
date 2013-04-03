@@ -1,3 +1,10 @@
 
-dublin, Dublin,  m:1_128_000
-
+Dublin,     DB, 1_110_627, m:1_801_040
+Cork,       CO,   198_582
+Limerick,   LK,    91_454
+Galway,     GA,    76_778
+Waterford,  WD,    51_519
+Drogheda,   LH,    38_578
+Dundalk,    LH,    37_816
+Bray,       WW,    32_781
+Swords,     DB,    30_742

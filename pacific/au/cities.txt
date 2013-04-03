@@ -1,2 +1,35 @@
+#########################
+# see en.wikipedia.org/wiki/List_of_cities_in_Australia_by_population
 
-## add australian regions and cities here
+
+Sydney,         NS,  3_908_642, m:4_605_992
+Melbourne,      VI,  3_707_530, m:4_169_103
+Brisbane,       QL,  1_874_427, m:2_146_577
+Perth,          WA,  1_627_576, m:1_832_114
+Adelaide,       SA,  1_103_979, m:1_262_940
+Gold Coast,     QL,    591_473     # NB: metro Gold Coast-Tweed Heads
+Tweed Heads,    NS,     51_788     # NB: metro Gold Coast-Tweed Heads
+Newcastle,      NS,    308_308, m:540_002
+Canberra,       CT,    367_752     # NB: metro Canberra-Queanbeyan
+Queanbeyan,     NS,     34_084     # NB: metro Canberra-Queanbeyan
+Wollongong,     NS,    245_942, m:288_101
+Hobart,         TS,    170_975, m:216_276    # fix/check: use Greater Hobart for metro region?
+Geelong,        VI,    143_291, m:174_087
+Townsville,     QL,             m:167_636
+Cairns,         QL,    133_893, m:146_477
+Darwin,         NT,     75_908, m:129_062
+Toowoomba,      QL,     96_597, m:125_265
+Launceston,     TS,     74_085, m:107_746
+Albury,         NS,     45_627       # NB: metro Albury-Wodonga
+Wodonga,        VI,     31_605       # NB: metro Albury-Wodonga
+Ballarat,       VI,     85_935, m:95_007
+Bendigo,        VI,     82_794, m:89_666
+
+
+
+## fix: metro region only - Sunshine Coast, QL, m:241_643
+
+# todo/fix: check how to handle metro regions with two states e.g.
+# - Gold Coast-Tweed Heads  QLD/NSW  576,747
+# - Canberra-Queanbeyan    ACT/NSW   418,292
+# - Albury-Wodonga  NSW/VIC 103,209

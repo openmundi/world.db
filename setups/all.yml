@@ -140,6 +140,7 @@ europe:
 - europe/gr/cities
 - europe/hr/cities
 - europe/hu/cities
+- europe/ie/regions
 - europe/ie/cities
 - europe/it/regions
 - europe/it/regions.iso
@@ -165,4 +166,5 @@ pacific:
 - pacific/1-codes/fifa
 - pacific/1-codes/internet
 - pacific/1-codes/iso3
+- pacific/au/regions
 - pacific/au/cities

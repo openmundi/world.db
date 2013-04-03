@@ -1,0 +1,16 @@
+#############################
+#
+# see en.wikipedia.org/wiki/ISO_3166-2:AU
+
+
+# NB: we use (old) two-letter codes for keys;
+#  if you want to use "proper" iso code use the iso attribute/field
+
+ns, New South Wales,                 801_425 km², Sydney      # state
+ql, Queensland,                    1_736_587 km², Brisbane    # state
+sa, South Australia,                 984_377 km², Adelaide    # state
+ts, Tasmania,                         68_127 km², Hobart      # state
+vi, Victoria,                        227_619 km², Melbourne   # state
+wa, Western Australia,             2_527_621 km², Perth       # state
+ct, Australian Capital Territory,      2_365 km², Canberra    # territory
+nt, Northern Territory,            1_356_170 km², Darwin      # territory

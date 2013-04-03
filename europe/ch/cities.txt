@@ -1,24 +1,32 @@
 
-zuerich,    Zürich, region:zh, m:742_000, 
-winterthur, Winterthur,  region:zh
 
-bern,       Bern,  region:be
-thun,       Thun,  region:be
+zuerich,    Zürich, region:zh, m:742_000, 
+Winterthur,  region:zh
+
+Bern,  region:be
+Thun,  region:be
 biel,       Biel-Bienne,  region:be
 
 stgallen,   St. Gallen,  region:sg
-wil,        Wil,  region:sg
+Wil,  region:sg
 
-bellinzona, Bellinzona,  region:ti
-chiasso,    Chiasso,  region:ti
-lugano,     Lugano,  region:ti
-locarno,    Locarno,  region:ti
+Bellinzona,  region:ti
+Chiasso,  region:ti
+Lugano,  region:ti
+Locarno,  region:ti
 
-aarau,      Aarau,  region:ag
-wohlen,     Wohlen,  region:ag
+Aarau,  region:ag
+Wohlen,  region:ag
 
-basel,      Basel,  region:bs
-geneve,     Genève,  region:ge
-lausanne,   Lausanne,  region:vd
-luzern,     Luzern,  region:lu
-sion,       Sion,  region:vs
+Basel,  region:bs
+geneve, Genève,  region:ge
+Lausanne,  region:vd
+Luzern,  region:lu
+Sion,  region:vs
+
+
+## todo: check auto-key generator
+# for Zürich -> zuerich
+#     Genève -> geneve
+#     St. Gallen -> stgallen
+#  remove key here

@@ -24,13 +24,13 @@
 ###
 # Eastern Switzerland / Ostschweiz
 
-gl, Glarus, Glarus,                 685, de|eastern_switzerland
-sh, Schaffhausen, Schaffhausen,     298, de|eastern_switzerland
-ar, Appenzell Ausserrhoden|Ap. Ausserrhoden, Herisau, 243, de|eastern_switzerland
-ai, Appenzell Innerrhoden|Ap. Innerrhoden, Appenzell, 173, de|eastern_switzerland
-sg, St. Gallen, St. Gallen,       2_026, de|eastern_switzerland
-gr, Graubünden, Chur,             7_105, de|rm|it|eastern_switzerland
-tg, Thurgau, Frauenfeld,            991, de|eastern_switzerland
+gl, Glarus, Glarus,                 685, de|eastern
+sh, Schaffhausen, Schaffhausen,     298, de|eastern
+ar, Appenzell Ausserrhoden|Ap. Ausserrhoden, Herisau, 243, de|eastern
+ai, Appenzell Innerrhoden|Ap. Innerrhoden, Appenzell, 173, de|eastern
+sg, St. Gallen, St. Gallen,       2_026, de|eastern
+gr, Graubünden, Chur,             7_105, de|rm|it|eastern
+tg, Thurgau, Frauenfeld,            991, de|eastern
 
 ##############
 # Zurich
@@ -40,19 +40,19 @@ zh, Zürich, Zürich, 1_729,  de|zurich
 ################
 # Central Switzerland  / Zentralschweiz
 
-lu, Luzern, Luzern,  1_493, de|central_switzerland
-ur, Uri, Altdorf,    1_077, de|central_switzerland
-sz, Schwyz, Schwyz,    908, de|central_switzerland
-ow, Obwalden, Sarnen,  491, de|central_switzerland
-nw, Nidwalden, Stans,  276, de|central_switzerland
-zg, Zug, Zug,          239, de|central_switzerland
+lu, Luzern, Luzern,  1_493, de|central
+ur, Uri, Altdorf,    1_077, de|central
+sz, Schwyz, Schwyz,    908, de|central
+ow, Obwalden, Sarnen,  491, de|central
+nw, Nidwalden, Stans,  276, de|central
+zg, Zug, Zug,          239, de|central
 
 #####################################
 # Northwestern Switzerland / Nordwestschweiz
 
-bs, Basel-Stadt, Basel,           37, de|northwestern_switzerland
-bl, Basel-Landschaft, Liestal,   518, de|northwestern_switzerland
-ag, Aargau, Aarau,             1_404, de|northwestern_switzerland
+bs, Basel-Stadt, Basel,           37, de|northwestern
+bl, Basel-Landschaft, Liestal,   518, de|northwestern
+ag, Aargau, Aarau,             1_404, de|northwestern
 
 ########################
 # Espace Mittelland
@@ -68,11 +68,11 @@ ju, Jura, Delsberg,                 838, fr|espace_mittelland
 ####################################
 # Lake Geneva region / Région lémanique / Genferseeregion
 
-vd, Vaud|Waadt, Lausanne,   3_212, fr|lake_geneva_region
-vs, Valais|Wallis, Sitten,  5_224, fr|de|lake_geneva_region
+vd, Vaud|Waadt, Lausanne,   3_212, fr|lake_geneva
+vs, Valais|Wallis, Sitten,  5_224, fr|de|lake_geneva
 
 ### todo: add Genève as capital
-ge, Genève|Genf,      282, fr|lake_geneva_region
+ge, Genève|Genf,      282, fr|lake_geneva
 
 #################################
 # Ticino / Tessin

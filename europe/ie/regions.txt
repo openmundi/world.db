@@ -1,0 +1,103 @@
+##################
+#  for regions, counties, etc.
+#
+#  see en.wikipedia.org/wiki/ISO_3166-2:IE
+#  and en.wikipedia.org/wiki/NUTS_of_Ireland
+
+
+#####
+# NB: Ireland is divided into 26 (traditional) counties
+#
+# - for now use only traditional counties from nuts (skip "non-tradition")
+#
+#  only exception is Tipperary!! (why? use two different NUTS 2 regions)
+#   split into Northern Tipperary and
+#              Southern Tipperary
+#
+#  thus, 25+2 = 27 regions
+#
+# e.g.
+#  Galaway City n Galway is just Galway
+#  4 Dublin Nuts is just Dublin etc.
+
+
+#########################
+# NUTS II Region: Border, Midland and Western
+
+lh, Louth / Leinster,         832 km², Dundalk,      border|leinster
+
+## NB: check if auto-city generate works for names with dash e.g. Carrick-on-Shannon
+lm, Leitrim / Connaught,     1_589 km², Carrick-on-Shannon, border|connaught
+so, Sligo / Connaught,       1_837 km², Sligo,        border|connaught
+cn, Cavan / Ulster,       1_932 km², Cavan,        border|ulster
+dl, Donegal / Ulster,     4_860 km², Lifford,      border|ulster
+mn, Monaghan / Ulster,    1_296 km², Monaghan,     border|ulster
+ls, Laois / Leinster,       1_719 km², Portlaoise,   midlands|leinster
+ld, Longford / Leinster,    1_091 km², Longford,     midlands|leinster
+oy, Offaly / Leinster,      1_990 km², Tullamore,    midlands|leinster
+wh, Westmeath / Leinster,   1_825 km², Mullingar,    midlands|leinster
+
+## NB: check conflic? Galway captial for two regions?
+# gc, Galway City,    51 km², Galway,    west   # NB: orignal code is single-letter G only
+# ga, Galway,      6_100 km², Galway,    west   # NB: orginal code is single-letter G only
+
+## NB: rolled into one
+ga, Galway / Connaught,      5_940 km², Galway,    west|connaught    # NB: orginal code is single-letter G only
+
+mo, Mayo / Connaught,        5_588 km², Castlebar, west|connaught
+rn, Roscommon / Connaught,   2_548 km², Roscommon, west|connaught
+
+
+######################################
+# NUTS II Region: Southern and Eastern
+
+# Dublin City, 118 km²,  Dublin,  dublin_region
+# Dún Laoghaire-Rathdown, 127 km²,  Dún Laoghaire, dublin
+# Fingal, 453 km², Swords,  dublin_region
+# South Dublin, 223 km²,  Tallaght, dublin_region
+
+## NB: all *four* dublin regions rolled into one
+db, Dublin / Leinster,  921 km²,  Dublin,  dublin|leinster   # NB: orginal code is single-letter D only
+
+
+## NB: check conflic? Limerick captial for two regions?
+# lc, Limerick City,       20 km², Limerick,    mid_west  # NB: original code is single-letter L only
+# lk, Limerick,         2_740 km², Limerick,    mid_west
+
+## NB: rolled into one
+lk, Limerick / Munster,         2_760 km², Limerick,    mid_west|munster
+
+
+### merge into one ? Tipperary (ta)  ??  province M
+
+tn, North Tipperary / Munster,  2_046 km², Nenagh,      mid_west|munster
+ts, South Tipperary / Munster,  2_258 km², Clonmel,     south_east|munster
+
+
+ce, Clare / Munster,            3_442 km², Ennis,       mid_west|munster
+ke, Kildare / Leinster,          1_694 km², Naas,        mid_east|leinster
+mh, Meath / Leinster,            2_335 km², Navan,       mid_east|leinster
+ww, Wicklow / Leinster,          2_033 km², Wicklow,     mid_east|leinster
+wx, Wexford / Leinster,          2_365 km², Wexford,     south_east|leinster
+kk, Kilkenny / Leinster,         2_072 km², Kilkenny,    south_east|leinster
+cw, Carlow / Leinster,             898 km², Carlow,      south_east|leinster
+
+
+
+####
+# wc, Waterford City,      42 km², Waterford,   south_east  # NB: original code is single-letter W 
+# wd, Waterford,        1_817 km², Dungarvan,   south_east
+
+## NB: rolled into one
+wd, Waterford / Munster,        1_859 km², Waterford,   south_east|munster
+
+
+## NB: check conflic? Cork captial for two regions?
+# cc, Cork City,           40 km², Cork,        south_west  # NB: original code is single-letter C
+# co, Cork,             7_468 km², Cork,        south_west  # NB: original code is single-letter C
+
+## NB: rolled into one
+co, Cork / Munster,             7_508 km², Cork,        south_west|munster  # NB: original code is single-letter C
+
+
+ky, Kerry / Munster,            4_735 km², Tralee,      south_west|munster
