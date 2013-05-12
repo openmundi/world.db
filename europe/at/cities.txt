@@ -1,45 +1,45 @@
 # Top 10 cities
 
-Wien [Vienna],  WI,  1_731_236, m:1_724_000
+Wien [Vienna],  W,  1_731_236, m:1_724_000
 Graz,           ST,      265_318
-Linz,           OO,       191_107
-Salzburg,       SB,       148_521
-Innsbruck,      TI,       121_329
-Klagenfurt,     KT,        94_796
-Villach,        KT,        59_585
-Wels,           OO,        58_717
-St. Pölten,     NO,        52_048
-Dornbirn,       VB,        45_978
+Linz,           O,       191_107
+Salzburg,       S,       148_521
+Innsbruck,      T,       121_329
+Klagenfurt,     K,        94_796
+Villach,        K,        59_585
+Wels,           O,        58_717
+St. Pölten,     N,        52_048
+Dornbirn,       V,        45_978
 
 # Top 20 cities
 
-Wr. Neustadt|Wiener Neustadt, NO,   41_537
-Steyr,             OO,    38_248
-Feldkirch,         VB, 31_025
-Bregenz,           VB, 28_007
-Kosterneuburg,     NO,   25_927
-Leonding,          OO,   25_689
-Baden|Baden bei Wien,  NO, 25_142
-Wolfsberg,         KT,  24_983
+Wr. Neustadt|Wiener Neustadt, N,   41_537
+Steyr,             O,    38_248
+Feldkirch,         V, 31_025
+Bregenz,           V, 28_007
+Kosterneuburg,     N,   25_927
+Leonding,          O,   25_689
+Baden|Baden bei Wien,  N, 25_142
+Wolfsberg,         K,  24_983
 Leoben,            ST,  24_645
-Krems|Krems an der Donau, NO,   24_110
+Krems|Krems an der Donau, N,   24_110
 
 
 # more cities
 
-Mödling,             NO,   20_649
-Horn,                NO,    6_411,  # < 10000 pop
+Mödling,             N,   20_649
+Horn,                N,    6_411    # < 10000 pop
 
-Traun,                 OO,   23_941
-Ried|Ried im Innkreis, OO,    11_585
+Traun,                 O,   23_941
+Ried|Ried im Innkreis, O,    11_585
 
-Eisenstadt,  BL, 12_367
-Mattersburg, BL,  6_256,  # < 10000 pop
+Eisenstadt,  B, 12_367
+Mattersburg, B,  6_256    # < 10000 pop
 
 Kapfenberg,  ST,   21_928
-Hartberg,    ST,    6_547,   # < 10000 pop
+Hartberg,    ST,    6_547     # < 10000 pop
 
-Grödig,      SB,     6_638,   # < 10000 pop
+Grödig,      S,     6_638     # < 10000 pop
 
-Lustenau,    VB, 20_606
-Altach,      VB,  5_704,  # < 10000 pop
+Lustenau,    V, 20_606
+Altach,      V,  5_704    # < 10000 pop

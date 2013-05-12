@@ -1,15 +1,13 @@
-#########
+###################
 # 9 Bundesländer
 
-########
-# todo: allow single letter for key 
 
-bl: Bgld.
-no: NÖ
-wi: Wien
+b: Bgld.
+n: NÖ
+w: Wien
 st: Stmk.
-kt: Ktn.
-oo: OÖ
-sb: Sbg.
-ti: Tirol
-vb: Vbg.
+k: Ktn.
+o: OÖ
+s: Sbg.
+t: Tirol
+v: Vbg.

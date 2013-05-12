@@ -1,21 +1,18 @@
-#########
+####################
 # 9 Bundesländer
 
-########
-# todo: allow single letter for key??? why - why not?
 
-
-bl, Burgenland,                         3_962 km², eastern austria
-no, Niederösterreich [Lower Austria],  19_186 km², eastern austria
-wi, Wien [Vienna],                        415 km², eastern austria
+b,  Burgenland,                         3_962 km², eastern austria
+n,  Niederösterreich [Lower Austria],  19_186 km², eastern austria
+w,  Wien [Vienna],                        415 km², eastern austria
 
 st, Steiermark [Styria],            16_401 km², southern austria
-kt, Kärnten [Carinthia],             9_538 km², southern austria
+k,  Kärnten [Carinthia],             9_538 km², southern austria
 
-oo, Oberösterreich [Upper Austria],   11_980 km², western austria
-sb, Salzburg,                          7_156 km², western austria
-ti, Tirol [Tyrol],                    12_640 km², western austria
-vb, Vorarlberg,                        2_601 km², western austria
+o,  Oberösterreich [Upper Austria],   11_980 km², western austria
+s,  Salzburg,                          7_156 km², western austria
+t,  Tirol [Tyrol],                    12_640 km², western austria
+v,  Vorarlberg,                        2_601 km², western austria
 
 
 ####
