@@ -4,11 +4,15 @@
 
 #
 #  NB: using iso three letter codes (cut off first letter is always V or W for NUTS1 region)
+#
+#  fix: use "official" three letter codes (region codes can be 1 to 3 letters) ???
+#
 
 ## todo: check what code to use for bruxeelles -> br is taken by Babant Wallon
 ##   official code is BRU; no unique official two letter code available?
 
-bx, Bruxelles|Brussel [Brussels (Capital Region)],  161,  fr|nl
+### fix: use • as language delimiter e.g. Bruxelles • Brussel or Bruxelles•Brussel
+bx, Bruxelles•Brussel [Brussels (Capital Region)],  161,  fr|nl
 
 an, Antwerpen [Antwerp],              2_867, flanders|nl
 li, Limburg,                          2_422, flanders|nl
