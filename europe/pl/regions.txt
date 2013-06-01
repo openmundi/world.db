@@ -12,20 +12,20 @@ mz, Mazowieckie [Mazovia • Masowien], 35_566 km², Warsaw, centralny
 ### NUTS PL2 Południowy
 
 ma, Małopolskie [Lesser Poland • Kleinpolen],  15_108 km², Kraków, poludniowy
-sl, Śląskie [Silesia • Oberschlesien], 12_294 km², Katowice, poludniowy
+sl, Śląskie [Silesia • Schlesien], 12_294 km², Katowice, poludniowy
 
 ### NUTS PL3 Wschodni
 
 lu, Lubelskie [Lublin • Lublin],  25_114 km², Lublin, wschodni
-pk, Podkarpackie [Subcarpathian • Vorkarpaten],  17_844 km², Rzeszów, wschodni
-sk, Świętokrzyskie [Świętokrzyskie • Heiligkreuz],  11_691 km², Kielce, wschodni
-pd, Podlaskie [Podlasie • Podlachien], 20_180 km², Białystok, wschodni
+pk, Podkarpackie [Subcarpathia • Karpatenvorland],  17_844 km², Rzeszów, wschodni
+sk, Świętokrzyskie [Holy Cross • Heiligkreuz],  11_691 km², Kielce, wschodni
+pd, Podlaskie [Podlachia • Podlachien], 20_180 km², Białystok, wschodni
 
 ### NUTS PL4 Północno-zachodni
 
 wp, Wielkopolskie [Greater Poland • Großpolen], 29_826 km², Poznań, polnocno_zachodni
 zp, Zachodnio-Pomorskie [West Pomerania • Westpommern], 22_896 km², Szczecin, polnocno_zachodni
-lb, Lubuskie [Lubuskie • Lebus], 13_988 km², Gorzów Wielkopolski, polnocno_zachodni    ## and Zielona Góra
+lb, Lubuskie [Lubusz • Lebus], 13_988 km², Gorzów Wielkopolski, polnocno_zachodni    ## and Zielona Góra
 
 ### NUTS PL5 Południowo-zachodni
 
