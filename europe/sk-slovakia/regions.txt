@@ -1,0 +1,28 @@
+###################
+#  Slovakia / sk
+#
+# - 8 Regions
+
+
+### NUTS SK01 Bratislava Region
+
+bl, Bratislava,  2_053 km²,   603_699,  Bratislava
+
+
+### NUTS SK02 Western Slovakia (Západné Slovensko)
+
+ta, Trnava,  4_172 km²,  554_172,  Trnava,     western_slovakia
+tc, Trenčín, 4_502 km²,  600_386,  Trenčín,    western_slovakia
+ni, Nitra,   6_343 km²,  708_498,  Nitra,      western_slovakia
+
+
+### NUTS SK03 Central Slovakia (Stredné Slovensko)
+
+zi, Žilina,           6_808 km²,  694_763,  Žilina,          central_slovakia
+bc, Banská Bystrica,  9_455 km²,  657_119,  Banská Bystrica, central_slovakia 
+
+
+### NUTS SK04 Eastern Slovakia (Východné Slovensko)
+
+pv, Prešov,   8_975 km²,  798_596,  Prešov, eastern_slovakia
+ki, Košice,   6_752 km²,  771_947,  Košice, eastern_slovakia

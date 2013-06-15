@@ -1,0 +1,27 @@
+######################
+# Slovakia cities
+
+
+# 20 largest cities 
+
+Bratislava,     462_603, BT
+Košice,         240_688, KI
+Prešov,          91_638, PV
+Žilina,          81_515, ZI
+Banská Bystrica, 79_775, BC
+Nitra,           78_875, NI
+Trnava,          66_219, TA
+Martin,          57_300, ZI
+Trenčín,         55_832, TC
+Poprad,          52_791, PV
+
+Prievidza,         48_866, TC
+Zvolen,            43_311, BC
+Považská Bystrica, 41_153, TC
+Michalovce,        39_940, KI
+Nové Zámky,        39_585, NI
+Spišská Nová Ves,  37_948, KI
+Humenné,           34_913, PV
+Levice,            34_649, NI
+Komárno,           34_478, NI
+Bardejov,          33_625, PV

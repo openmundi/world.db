@@ -110,9 +110,9 @@ us, United States, USA, 9_629_091, 314_167_157, un|north america
 [`europe/at/cities.txt`](https://github.com/geraldb/world.db/blob/master/europe/at/cities.txt):
 
 ```
-Wien [Vienna],                region:wien, 1_664_146
-St. Pölten,                   region:noe,     51_360
-Wr. Neustadt|Wiener Neustadt, region:noe,     39_940
+Wien [Vienna],                W,  1_664_146
+St. Pölten,                   N,     51_360
+Wr. Neustadt|Wiener Neustadt, N,     39_940
 ```
 
 The plain text format reader skips comments (starting with `#`)
@@ -143,7 +143,15 @@ in the first commit.
 
 [world.db.admin](https://github.com/geraldb/world.db.admin) - A free, open source web admin tool for world.db in Ruby on Rails (version 3.2 and up).
 
-[sport.db](https://github.com/geraldb/sport.db) - A free, open sports database & schema.
+[sport.db](https://github.com/geraldb/sport.db) - free open public domain sports database & schema.
+
+[football.db](http://openfootball.github.io) -  free open public domain football (soccer) database & schema
+
+[formula1.db](https://github.com/geraldb/formula1.db) - free open public domain Formula 1/Formula One database & schema
+
+[ski.db](https://github.com/geraldb/ski.db) -  free open public domain ski alpin/alpine ski database & schema
+
+[beer.db](http://openbeer.github.io) - free open public domain beer database & schema
 
 [Sportbook](http://geraldb.github.com/sportbook) - A free, open source sports betting pool
 in Ruby on Rails (version 3.2 and up). 
