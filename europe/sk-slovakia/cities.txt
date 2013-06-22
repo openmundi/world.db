@@ -2,9 +2,9 @@
 # Slovakia cities
 
 
-# 20 largest cities 
+# 20 largest cities
 
-Bratislava,     462_603, BT
+Bratislava,     462_603, BL
 Košice,         240_688, KI
 Prešov,          91_638, PV
 Žilina,          81_515, ZI
