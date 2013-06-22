@@ -135,7 +135,8 @@ europe:
 - europe/it/cities
 - europe/lt/cities
 - europe/lv/cities
-- europe/nl/cities
+- europe/nl-netherlands/regions
+- europe/nl-netherlands/cities
 - europe/no/cities
 - europe/pl/cities
 - europe/pt/cities
@@ -145,6 +146,8 @@ europe:
 - europe/ru/cities
 - europe/sc/cities
 - europe/se/cities
+- europe/sk-slovakia/regions
+- europe/sk-slovakia/cities
 - europe/tr/cities
 - europe/ua/cities
 - europe/wa/cities
