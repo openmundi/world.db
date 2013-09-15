@@ -96,19 +96,21 @@ The `world.db` includes the following tables:
 [`north-america/countries.txt`](https://github.com/openmundi/world.db/blob/master/north-america/countries.txt):
 
 ```
-ca, Canada,        CAN, 9_984_670,  34_278_406, un|north america
-mx, Mexico,        MEX, 1_972_550, 112_322_757, un|north america
-us, United States, USA, 9_629_091, 314_167_157, un|north america
+ca, Canada,          CAN, 9_984_670 km²,  34_278_406, un|north america
+mx, México [Mexico], MEX, 1_972_550 km², 112_322_757, un|north america
+us, United States,   USA, 9_629_091 km², 314_167_157, un|north america
 ```
 
 ### Cities
 
-[`europe/at-austria/cities.txt`](https://github.com/openmundi/world.db/blob/master/europe/at/cities.txt):
+[`europe/at-austria/cities.txt`](https://github.com/openmundi/world.db/blob/master/europe/at-austria/cities.txt):
 
 ```
-Wien [Vienna],                W,  1_664_146
-St. Pölten,                   N,     51_360
-Wr. Neustadt|Wiener Neustadt, N,     39_940
+Wien [Vienna], W,  1_731_236, m:1_724_000
+Graz,          ST,   265_318
+Linz,          O,    191_107
+Salzburg,      S,    148_521
+Innsbruck,     T,    121_329
 ```
 
 The plain text format reader skips comments (starting with `#`)
