@@ -3,6 +3,10 @@
 #
 #  see en.wikipedia.org/wiki/NUTS_of_Austria
 
+##
+# todo: move to europe-nuts e.g.
+#   at-austria.yml
+
 b: AT11
 n: AT12
 w: AT13
