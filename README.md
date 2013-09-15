@@ -2,25 +2,27 @@
 
 A free open public domain world database & schema
 for use in any (programming) language
-(e.g. uses plain text fixtures/data sets)
+(e.g. uses plain text fixtures/data sets).
 
 
 ## Usage
 
-Build yourself a copy of the `world.db` from the plain text fixtures
-in two steps.
+Use the `worlddb` command line tool to build yourself a copy of
+the `world.db` from the plain text fixtures in two steps.
 
 Step 1:  Get a copy of the `world.db` fixtures
 
-    $ git clone git://github.com/geraldb/world.db.git
+    $ git clone git://github.com/openmundi/world.db.git
 
 Step 2:  Let's build the `world.db`
 
     $ worldb setup --include ./world.db
 
-That's it.
+That's it. See the [`worlddb` command line tool project](https://github.com/geraldb/world.db.ruby)
+for more.
 
-![](https://raw.github.com/geraldb/world.db/master/i/sqlitestudio.png)
+
+![](https://raw.github.com/openmundi/world.db/master/i/sqlitestudio.png)
 
 
 ## Demo
@@ -86,20 +88,12 @@ The `world.db` includes the following tables:
     );
 
 
-## Command Line Tool
-
-To build your own `world.db` copy
-use the `worlddb` command line tool.
-See the [`worlddb` command line tool project](https://github.com/geraldb/world.db.ruby)
-for more.
-
 
 ## Plain Text Fixtures
 
-The `worlddb` command line tool lets you import fixtures (countries, regions, cities)
-in plain text. Example:
+### Countries
 
-[`north-america/countries.txt`](https://github.com/geraldb/world.db/blob/master/north-america/countries.txt):
+[`north-america/countries.txt`](https://github.com/openmundi/world.db/blob/master/north-america/countries.txt):
 
 ```
 ca, Canada,        CAN, 9_984_670,  34_278_406, un|north america
@@ -107,7 +101,9 @@ mx, Mexico,        MEX, 1_972_550, 112_322_757, un|north america
 us, United States, USA, 9_629_091, 314_167_157, un|north america
 ```
 
-[`europe/at/cities.txt`](https://github.com/geraldb/world.db/blob/master/europe/at/cities.txt):
+### Cities
+
+[`europe/at-austria/cities.txt`](https://github.com/openmundi/world.db/blob/master/europe/at/cities.txt):
 
 ```
 Wien [Vienna],                W,  1_664_146
@@ -125,35 +121,22 @@ and blank lines. Example:
 ```
 
 
-## Frequently asked questions (F.A.Q.s)
-
-Q: Why is Kanada spelled with a K and not a C? Why is Argentina spelled Argentien?
-
-A: Look for the English version. In the German version Canada is spelled Kanada
-and Argentina is spelled Argentinien.
- 
-Q: Why is country X missing?
-
-A: It all started with Sportbook - an open source football pool for the Champions League.
-Is a club from country X playing in the  Champions League 2012/13 season? If, yes, it is included
-in the first commit. 
-
 
 ## Real World Usage
 
 [world.db.admin](https://github.com/geraldb/world.db.admin) - A free, open source web admin tool for world.db in Ruby on Rails (version 3.2 and up).
 
-[sport.db](https://github.com/geraldb/sport.db) - free open public domain sports database & schema.
+[sport.db](https://github.com/opensport) - free open public domain sports database & schema.
 
-[football.db](http://openfootball.github.io) -  free open public domain football (soccer) database & schema
+[football.db](https://github.com/openfootball) -  free open public domain football (soccer) database & schema
 
-[formula1.db](https://github.com/geraldb/formula1.db) - free open public domain Formula 1/Formula One database & schema
+[formula1.db](https://github.com/opensport/formula1.db) - free open public domain Formula 1/Formula One database & schema
 
-[ski.db](https://github.com/geraldb/ski.db) -  free open public domain ski alpin/alpine ski database & schema
+[ski.db](https://github.com/opensport/ski.db) -  free open public domain ski alpin/alpine ski database & schema
 
-[beer.db](http://openbeer.github.io) - free open public domain beer database & schema
+[beer.db](https://github.com/openbeer) - free open public domain beer database & schema
 
-[Sportbook](http://geraldb.github.com/sportbook) - A free, open source sports betting pool
+[Sportbook](https://github.com/openbookie/sportbook) - free, open source sports betting (prediction) pool
 in Ruby on Rails (version 3.2 and up). 
 
 
