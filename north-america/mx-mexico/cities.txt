@@ -3,14 +3,14 @@
 #####
 # see  en.wikipedia.org/wiki/Metropolitan_areas_of_Mexico
 
-México,      DF, m:20137152
+México|Distrito Federal|D.F.|DF,   DF, m:20137152
 Guadalajara, JA, m:4434252
 Monterrey,   NL, m:4080329
 Puebla,      PB, m:2668347
-Toluca|Toluca de Lerdo,     ME,  m:1846602
+Toluca (de Lerdo),    ME,  m:1846602
 Tijuana,     BC, m:1751302
 León,        GT, m:1609717
-Juárez|Ciudad Juárez, CH,  m:1495094
+(Ciudad) Juárez, CH,  m:1495094
 Torreón,     CO,  m:1275993
 Querétaro,   QE,  m:1097028
 San Luis Potosì, SL, m:1040822
@@ -18,15 +18,55 @@ San Luis Potosì, SL, m:1040822
 
 # more cities
 
-Mérida,      YU,   m:973046
+
+
+Acapulco (de Juárez),  GR   # Guerrero
+Chilpancingo (de los Bravo),  GR
+
+Aguascalientes,    AG       # Aguascalientes
+
+(San Francisco de) Campeche,     CM #Campeche
+
+Cancún,        QR, m:628306
+Chetumal,      QR   #  Quintana Roo
+
+
+Ciudad Obregón, SO    # Sonora
+Hermosillo,     SO
+
+
+Ciudad Victoria, TM      # Tamaulipas
 
 Chihuahua,   CH,   m:809232
 
+Cuernavaca,  MO  #  Morelos
+
+Colima,  CL  #  Colima
+
+Culiacán (Rosales),  SI  # Sinaloa
+Los Mochis,  SI
+
+
+(Victoria de) Durango,  DG    # Durango
+
+Guanajuato,  GT   # Guanajuato
+
+(Santa María) Huatulco, OA  #   Oaxaca
+
+Xalapa(-Enríquez)|Jalapa, VE   # Veracruz
+
+La Paz, BS   #  Baja California Sur
+
+
+Mérida,      YU,   m:973046
+
+Mexicali,  BC #  Baja California
+
 Morelia,    MI, m:729757
 
-Cancún,        QR, m:628306
 
-Tuxtla|Tuxtla Gutiérrez,  CS, m:503320
+
+Tuxtla (Gutiérrez),  CS, m:503320
 
 
 Pachuca, HG, 275578
