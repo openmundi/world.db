@@ -4,38 +4,64 @@
 # see  en.wikipedia.org/wiki/Metropolitan_areas_of_Mexico
 
 México|Distrito Federal|D.F.|DF,   DF, m:20137152
-Guadalajara, JA, m:4434252
+Guadalajara|Gdl., JA, m:4434252
 Monterrey,   NL, m:4080329
 Puebla,      PB, m:2668347
 Toluca (de Lerdo),    ME,  m:1846602
 Tijuana,     BC, m:1751302
 León,        GT, m:1609717
-(Ciudad) Juárez, CH,  m:1495094
+(Ciudad) Juárez|Cd. Juárez, CH,  m:1495094
 Torreón,     CO,  m:1275993
 Querétaro,   QE,  m:1097028
-San Luis Potosì, SL, m:1040822
+San Luis Potosì|S.L.P., SL, m:1040822
 
 
 # more cities
 
 
+#########################
+# Guerrero / Gro. / GR
 
-Acapulco (de Juárez),  GR   # Guerrero
+Acapulco (de Juárez),  GR 
 Chilpancingo (de los Bravo),  GR
 
-Aguascalientes,    AG       # Aguascalientes
+##############################
+# Aguascalientes / Ags. / AG
 
-(San Francisco de) Campeche,     CM #Campeche
+Aguascalientes|Ags.,    AG
+
+#########################
+# Campeche / Camp. / CM
+
+(San Francisco de) Campeche, CM
+
+################################
+# Quintana Roo / Q. Roo. / QR
 
 Cancún,        QR, m:628306
-Chetumal,      QR   #  Quintana Roo
+Chetumal,      QR
 
+#######################
+# Sonora / Son. / SO
 
-Ciudad Obregón, SO    # Sonora
+Ciudad Obregón, SO
 Hermosillo,     SO
 
+#######################
+# Sinaloa / Sin. / SI
 
-Ciudad Victoria, TM      # Tamaulipas
+Culiacán (Rosales),  SI
+Los Mochis,  SI
+
+##########################
+# Oaxaca / Oax. / OA
+
+Oaxaca, OA
+(Santa María) Huatulco, OA
+
+
+
+Ciudad Victoria|Cd. Victoria, TM      # Tamaulipas
 
 Chihuahua,   CH,   m:809232
 
@@ -43,15 +69,10 @@ Cuernavaca,  MO  #  Morelos
 
 Colima,  CL  #  Colima
 
-Culiacán (Rosales),  SI  # Sinaloa
-Los Mochis,  SI
-
 
 (Victoria de) Durango,  DG    # Durango
 
-Guanajuato,  GT   # Guanajuato
-
-(Santa María) Huatulco, OA  #   Oaxaca
+Guanajuato|Gto.,  GT   # Guanajuato
 
 Xalapa(-Enríquez)|Jalapa, VE   # Veracruz
 
@@ -64,10 +85,21 @@ Mexicali,  BC #  Baja California
 
 Morelia,    MI, m:729757
 
+Puerto Vallarta|Pto. Vallarta,   ???
 
+Saltillo,   ???
+
+Tepic,   ???
+
+
+Tlaxcala, TL  # Tlaxcala
 
 Tuxtla (Gutiérrez),  CS, m:503320
 
-
 Pachuca, HG, 275578
-San Nicolás de los Garza, NL, 476761 
+
+San Nicolás de los Garza, NL, 476761
+
+Villahermosa, TB    # Tabasco
+
+Zacatecas,  ZA  # Zacatecas
