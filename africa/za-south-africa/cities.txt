@@ -1,0 +1,13 @@
+#  ten world cup 2010 venues (two stadiums in johannesburg)
+
+Johannesburg,          957_441, m:4_434_827   # Province Gauteng
+Pretoria,              741_651                # Province Gauteng
+
+Kaapstad [Cape Town],          m:3_740_026  # Province Western Cape
+Durban,                595_061 # Province KwaZulu-Natal
+Port Elizabeth,        312_392, m:1_152_915   # Province Eastern Cape
+Polokwane|Pietersburg, 130_028  #   Province Limpopo
+Nelspruit|Mbombela,    58_672   # Province Mpumalanga
+Bloemfontein,          256_185   # Province Free State
+Rustenburg,            104_612   # Province North West
+

@@ -1,0 +1,12 @@
+# venues world cup club 2013
+
+Marrakesh|Marrakech,   909_000, m:1_063_415    # province Marrakesh
+Agadir,                615_229  # province  Agadir-Ida Ou Tanane  (MA-AGD)
+
+## more cities
+
+Casablanca
+Fes
+Rabat
+Meknes
+Tangier
