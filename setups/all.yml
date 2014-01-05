@@ -80,6 +80,7 @@ north-america:
 - north-america/1-codes/iso3
 - north-america/1-codes/motor
 - north-america/ca-canada/regions
+- north-america/ca-canada/regions.abbr
 - north-america/ca-canada/cities
 - north-america/us-united-states/regions
 - north-america/us-united-states/cities

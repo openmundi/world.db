@@ -1,0 +1,24 @@
+
+###########
+#  Abbreviations and codes for provinces and territories, 2011 Census
+#  - www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-8-eng.cfm
+
+
+bc: B.C.
+
+ab: Alta.
+mb: Man.
+sk: Sask.
+
+nb: N.B.
+ns: N.S.
+pe: P.E.I.
+nl: N.L.         # formerly also N.F  (now Newfoundland and Labrador)
+
+on: Ont.
+qc: Que.         # formerly also P.Q. (for province quebec)
+
+nt: N.W.T.
+yt: Y.T.         # or use alternative Yuk. ??  - Yukon
+nu: Nvt.
+
