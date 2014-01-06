@@ -83,6 +83,7 @@ north-america:
 - north-america/ca-canada/regions.abbr
 - north-america/ca-canada/cities
 - north-america/us-united-states/regions
+- north-america/us-united-states/regions.abbr
 - north-america/us-united-states/cities
 - north-america/mx-mexico/regions
 - north-america/mx-mexico/regions.abbr

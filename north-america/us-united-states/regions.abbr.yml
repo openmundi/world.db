@@ -1,0 +1,64 @@
+###############################
+# traditional abbrevations
+#
+# todo: support alternative abbrevations - why ??? why not??
+
+me: Me.       # Maine
+nh: N.H.      # New Hampshire
+vt: Vt.       # Vermont
+ma: Mass.     # Massachusetts
+ri: R.I.      # Rhode Island
+ct: Conn.     # Connecticut
+
+ny: N.Y.             # New York
+pa: Penna.|Penn.|Pa. # Pennsylvania
+nj: N.J.             # New Jersey
+
+wi: Wis.|Wisc.  # Wisconsin
+mi: Mich.       # Michigan
+il: Ill.        # Illinois
+in: Ind.        # Indiana
+oh: Ohio|O.     # Ohio
+
+mo: Mo.         # Missouri
+nd: N.D.|N.Dak. # North Dakota
+sd: S.D.|S.Dak. # South Dakota
+ne: Neb.|Nebr.  # Nebraska
+ks: Kan.|Kans.  # Kansas
+mn: Minn.       # Minnesota
+ia: Iowa|Ia.    # Iowa
+
+de: Del.   # Delaware
+md: Md.    # Maryland
+dc: D.C.   # District of Columbia
+va: Va.    # Virginia
+wv: W.Va.  # West Virginia
+nc: N.C.   # North Carolina
+sc: S.C.   # South Carolina
+ga: Ga.    # Georgia
+fl: Fla.   # Florida
+
+ky: Ken.|Ky.  # Kentucky
+tn: Tenn.     # Tennessee
+ms: Miss.     # Mississippi
+al: Ala.      # Alabama
+
+ok: Okla.|Ok.  # Oklahoma
+tx: Tex.       # Texas
+ar: Ark.       # Arkansas
+la: La.        # Louisiana
+
+id: Ida.|Id.|I.  # Idaho
+mt: Mont.        # Montana
+wy: Wyo.         # Wyoming
+nv: Nev.         # Nevad
+ut: Utah|Ut.     # Utah
+co: Col.|Colo.   # Colorado
+az: Ariz.        # Arizona
+nm: N.M.|N.Mex.  # New Mexico
+
+ak: Alaska       # Alaska
+wa: Wash.        # Washington
+or: Ore.         # Oregon
+ca: Cal.|Calif.  # California
+hi: Hawaii|H.I.  # Hawaii
