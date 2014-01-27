@@ -22,34 +22,31 @@
 
 
 ####
-# check - make up two-letter codes ?? find anything official??
-#
-#  use single letters doubled for now
-#
-#  todo: allow single letter codes? why? why not?
+# note: use (official) single letter iso codes
 
 
-cc, Ciudad de Buenos Aires,  200
-bb, Provincia de Buenos Aires, La Plata, 307_571
-kk, Catamarca,  San Fernando del Valle de Catamarca,  102_602
-hh, Chaco,  Resistencia,  99_633
-uu, Chubut, Rawson,  224_686
-xx, Córdoba, Córdoba, 165_321
-ww, Corrientes, Corrientes, 88_199
-ee, Entre Ríos, Paraná, 78_781
-pp, Formosa, Formosa, 72_066
-yy, Jujuy, San Salvador de Jujuy, 53_219
-ll, La Pampa, Santa Rosa, 143_440
-ff, La Rioja, La Rioja, 89_680
-mm, Mendoza, Mendoza, 148_827
-nn, Misiones, Posadas, 29_801
-qq, Neuquén, Neuquén, 94_078
-rr, Río Negro, Viedma, 203_013
-aa, Salta, Salta, 155_488
-jj, San Juan, San Juan, 89_651
-dd, San Luis, San Luis, 76_748
-zz, Santa Cruz, Río Gallegos, 243_943
-ss, Santa Fe,  Santa Fe, 133_007
-gg, Santiago del Estero, Santiago del Estero, 136_351
-vv, Tierra del Fuego (Antártida e Islas del Atlántico Sur), Ushuaia, 21_5712
-tt, Tucumán, San Miguel de Tucumán, 22_524
+c, Ciudad de Buenos Aires,  200 km²
+b, Provincia de Buenos Aires, La Plata, 307_571 km²
+k, Catamarca,  San Fernando del Valle de Catamarca,  102_602 km²
+h, Chaco,  Resistencia,  99_633 km²
+u, Chubut, Rawson,  224_686 km²
+x, Córdoba, Córdoba, 165_321 km²
+w, Corrientes, Corrientes, 88_199 km²
+e, Entre Ríos, Paraná, 78_781 km²
+p, Formosa, Formosa, 72_066 km²
+y, Jujuy, San Salvador de Jujuy, 53_219 km²
+l, La Pampa, Santa Rosa, 143_440 km²
+f, La Rioja, La Rioja, 89_680 km²
+m, Mendoza, Mendoza, 148_827 km²
+n, Misiones, Posadas, 29_801 km²
+q, Neuquén, Neuquén, 94_078 km²
+r, Río Negro, Viedma, 203_013 km²
+a, Salta, Salta, 155_488 km²
+j, San Juan, San Juan, 89_651 km²
+d, San Luis, San Luis, 76_748 km²
+z, Santa Cruz, Río Gallegos, 243_943 km²
+s, Santa Fe,  Santa Fe, 133_007 km²
+g, Santiago del Estero, Santiago del Estero, 136_351 km²
+v, Tierra del Fuego (Antártida e Islas del Atlántico Sur), Ushuaia, 21_5712 km²
+t, Tucumán, San Miguel de Tucumán, 22_524 km²
+

@@ -4,26 +4,27 @@
 
 ### Northern Netherlands - NL1
 
-gr, Groningen,           2_333 km²,  576_668,  Groningen    # NL11
-fr, Fryslân [Friesland], 3_341 km²,  646_305,  Leeuwarden   # NL12 - (fy) Frisian
-dr, Drenthe,             2_641 km²,  490_981,  Assen        # NL13
+gr, Groningen,           Groningen,  2_333 km²,  576_668   # NL11
+fr, Fryslân [Friesland], Leeuwarden, 3_341 km²,  646_305     # NL12 - (fy) Frisian
+dr, Drenthe,             Assen,      2_641 km²,  490_981        # NL13
 
 
 ### Eastern Netherlands  - NL2
 
-ov, Overijssel,  3_325 km²,     1_130_345,   Zwolle  # NL21
-ge, Gelderland, 4_971 km²,  1_998_936,  Arnhem  # NL22
-fl, Flevoland,  1_417 km²,  387_881,    Lelystad   # NL23
+ov, Overijssel,          Zwolle,    3_325 km²,     1_130_345  # NL21
+ge, Gelderland,          Arnhem,    4_971 km²,  1_998_936  # NL22
+fl, Flevoland,           Lelystad,  1_417 km²,  387_881   # NL23
 
 
 ### Western Netherlands - NL3
 
 ut, Utrecht        # NL31
-nh, Noord-Holland [North Holland], 2_671 km²,   2_669_084,     Haarlem  # NL32
+nh, Noord-Holland [North Holland],  Haarlem,  2_671 km²,   2_669_084  # NL32
 zh, Zuid-Holland [South Holland]  # NL33
 ze, Zeeland        # NL34
 
 ### Southern Netherlands - NL4
 
-nb, Noord-Brabant [North Brabant],  4_916 km², 2_444_158,  's-Hertogenbosch   # NL41
-li, Limburg,                        2_150 km², 1_122_701,   Maastricht      # NL42
+nb, Noord-Brabant [North Brabant], 's-Hertogenbosch,  4_916 km², 2_444_158   # NL41
+li, Limburg,                       Maastricht,        2_150 km², 1_122_701   # NL42
+

@@ -1,16 +1,16 @@
-bw, Baden-Württemberg,             35_752
-by, Bayern [Bavaria],              70_552
-be, Berlin,                          892
-bb, Brandenburg,                   29_479
-hb, Bremen,                          419
-hh, Hamburg,                         755
-he, Hessen [Hesse],                21_115
-mv, Mecklenburg-Vorpommern,        23_180
-ni, Niedersachsen [Lower Saxony],  47_609
-nw, Nordrhein-Westfalen [North Rhine-Westphalia], 34_085
-rp, Rheinland-Pfalz [Rhineland-Palatinate],    19_853
-sl, Saarland ,                    2_569
-sn, Sachsen [Saxony],             18_416
-st, Sachsen-Anhalt [Saxony-Anhalt],  20_446
-sh, Schleswig-Holstein,          15_799
-th, Thüringen [Thuringia],         16_172
+bw, Baden-Württemberg,             35_752 km²
+by, Bayern [Bavaria],              70_552 km²
+be, Berlin,                           892 km²
+bb, Brandenburg,                   29_479 km²
+hb, Bremen,                          419 km²
+hh, Hamburg,                         755 km²
+he, Hessen [Hesse],                21_115 km²
+mv, Mecklenburg-Vorpommern,        23_180 km²
+ni, Niedersachsen [Lower Saxony],  47_609 km²
+nw, Nordrhein-Westfalen [North Rhine-Westphalia], 34_085 km²
+rp, Rheinland-Pfalz [Rhineland-Palatinate],    19_853 km²
+sl, Saarland ,                    2_569 km²
+sn, Sachsen [Saxony],             18_416 km²
+st, Sachsen-Anhalt [Saxony-Anhalt],  20_446 km²
+sh, Schleswig-Holstein,          15_799 km²
+th, Thüringen [Thuringia],         16_172 km²
