@@ -1,3 +1,8 @@
 
 Delhi, m: 24m
+Mumbai [Bombay], m:21.4m
+Kolkata [Calcutta], m:16m
+Bengaluru [Bangalore], m:9.7m
+Chennai [Madras], m:9.7m
+Hyderābād [Hyderabad], m:8.6m
 

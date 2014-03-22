@@ -1,4 +1,8 @@
 
-Guangzhou [Canton], m: 31.7m
+Guangzhou|Canton,   m: 31.7m
 Shanghai,           m: 28.9m
+Beijing|Peking,     m: 19.3m
+Shenzhen,           m: 11.7m
+Tianjin|Tientsin,   m: 10.6m
+Chengdu|Chengtu,    m:  8.6m
 
