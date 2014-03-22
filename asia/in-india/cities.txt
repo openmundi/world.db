@@ -5,4 +5,7 @@ Kolkata [Calcutta], m:16m
 Bengaluru [Bangalore], m:9.7m
 Chennai [Madras], m:9.7m
 Hyderābād [Hyderabad], m:8.6m
+Ahmadābād [Ahmedabad], m:7m
+Pune [Poona], m:5.6m
+
 
