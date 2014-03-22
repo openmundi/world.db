@@ -2,24 +2,24 @@
 # top cities
 #   see en.wikipedia.org/wiki/Metropolitan_areas_of_Mexico
 
-México|Distrito Federal|D.F.|DF,   DF, m:20137152
+México|Distrito Federal|D.F.|DF,   DF, m:20_137_152
 
 
-Guadalajara|Gdl., JA, m:4434252
-Monterrey,   NL, m:4080329
-Puebla,      PB, m:2668347
-Toluca (de Lerdo),    ME,  m:1846602
-León,        GT, m:1609717
-(Ciudad) Juárez|Cd. Juárez, CH,  m:1495094
-Torreón,     CO,  m:1275993
-Querétaro,   QE,  m:1097028
-San Luis Potosì|S.L.P., SL, m:1040822
+Guadalajara|Gdl., JA, m:4_434_252
+Monterrey,   NL, m:4_080_329
+Puebla,      PB, m:2_668_347
+Toluca (de Lerdo),    ME,  m:1_846_602
+León,        GT, m:1_609_717
+(Ciudad) Juárez|Cd. Juárez, CH,  m:1_495_094
+Torreón,     CO,  m:1_275_993
+Querétaro,   QE,  m:1_097_028
+San Luis Potosì|S.L.P., SL, m:1_040_822
 
 
 ################################
 # Baja California / B.C. / BC
 
-Tijuana,   BC, m:1751302
+Tijuana,   BC, m:1_751_302
 Mexicali,  BC
 Ensenada,  BC
 
