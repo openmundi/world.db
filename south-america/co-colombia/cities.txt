@@ -1,2 +1,5 @@
 
-Bogotá, m:9.4m
+Bogotá,   m:9.4m
+Medellín, m:3.8m
+Cali [Cali], m:2.9m
+

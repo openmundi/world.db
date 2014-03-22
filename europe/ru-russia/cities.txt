@@ -1,6 +1,6 @@
 
 Moskva [Moscow],  11_689_048, m:15_512_000
-St. Petersburg,  4_879_566, m:4_879_000
+Sankt-Peterburg [St. Petersburg],  4_879_566, m:4_879_000
 
 Novgorod|Nizhni Novgorod, 1_250_615, m:1_248_000
 

@@ -5,7 +5,7 @@
 # top 10 cities
 
 Toronto,   ON,   5_583_064
-Montreal,  QC,   3_824_221
+Montréal|Montreal,  QC,   3_824_221
 Vancouver, BC,   2_313_328
 Ottawa,    ON,   1_236_324
 Calgary,   AB,   1_214_839
@@ -15,6 +15,7 @@ Winnipeg,  MB,     730_018
 Hamilton,  ON,     721_053
 Kitchener, ON,     477_160
 London,    ON,     474_786
+
 
 # more cities
 

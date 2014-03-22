@@ -7,5 +7,10 @@ Chennai [Madras], m:9.7m
 Hyderābād [Hyderabad], m:8.6m
 Ahmadābād [Ahmedabad], m:7m
 Pune [Poona], m:5.6m
+Sūrat [Surat], m:5.3m
+Kānpur [Kanpur], m:3.5m
+Jaipur,          m:3.4m
+Lucknow,         m:3.4m
+Nāgpur [Nagpur], m:2.9m
 
 

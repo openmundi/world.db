@@ -5,7 +5,7 @@ Agadir,                615_229  # province  Agadir-Ida Ou Tanane  (MA-AGD)
 
 ## more cities
 
-Casablanca
+Casablanca,  m:4.2m
 Fes
 Rabat
 Meknes

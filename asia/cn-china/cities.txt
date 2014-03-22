@@ -12,5 +12,17 @@ Wuhan,              m:  7.2m
 Chongqing|Chungking, m: 6.7m
 Xi'an|Sian,         m: 6.5m
 Nanjing|Nanking,    m: 6.4m
+Shantou,            m: 5.3m
+Harbin,             m: 4.9m
+Xiamen,             m: 4.8m
+Wenzhou,            m: 4.6m
+Zhengzhou,          m: 4.5m
+Qingdao|Tsingtao,   m: 4.4m
+Dalian|Dairen,      m: 4.3m
+Hefei|Hofei,        m: 4.2m
+Changsha,           m: 4m
+Quanzhou,           m: 4m
+Taiyuan,            m: 4m
+
 
 
