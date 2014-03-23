@@ -1,20 +1,24 @@
 
-Delhi, m: 24m
-Mumbai [Bombay], m:21.4m
-Kolkata [Calcutta], m:16m
-Bengaluru [Bangalore], m:9.7m
-Chennai [Madras], m:9.7m
-Hyderābād [Hyderabad], m:8.6m
-Ahmadābād [Ahmedabad], m:7m
-Pune [Poona], m:5.6m
-Sūrat [Surat], m:5.3m
-Kānpur [Kanpur], m:3.5m
-Jaipur,          m:3.4m
-Lucknow,         m:3.4m
-Nāgpur [Nagpur], m:2.9m
-Indore,          m:2.5m
-Coimbatore,      m:2.4m
-Bhilai,          m:2.4m
-Patna,           m:2.4m
+Delhi,                 10_927_986, m:24m     ## NCT|Delhi
+Mumbai [Bombay],       12_691_836, m:21.4m   ## Maharashtra 
+Kolkata [Calcutta],     4_631_392, m:16m     ## Bengal
+Bengaluru [Bangalore],  5_104_047, m:9.7m    ## Karnataka
+Chennai [Madras],       4_328_063, m:9.7m    ## Tamil Nadu
+Hyderābād [Hyderabad],  3_597_816, m:8.6m    ## Andhra Pradesh
+Ahmadābād [Ahmedabad],             m:7m      ## Gujarat
+Pune [Poona],           2_935_744, m:5.6m    ## Maharashtra
+Sūrat [Surat],          2_894_504, m:5.3m    ## Gujarāt
+Kānpur [Kanpur],        2_823_249, m:3.5m    ## Uttar Pradesh
 
+Jaipur,          m:3.4m   ## Rajasthan
+Lucknow,         m:3.4m   ## Uttar Pradesh
+Nāgpur [Nagpur], m:2.9m   ## Maharashtra
+Indore,          m:2.5m   ## Madhya Pradesh
+Coimbatore,      m:2.4m   ## Tamil Nadu
+Bhilai,          m:2.4m   ## Chhattisgarh
+Patna,           m:2.4m   ## Bihar
+
+
+###########################
+# see en.wikipedia.org/wiki/List_of_most_populous_cities_in_India
 

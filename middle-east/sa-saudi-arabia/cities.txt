@@ -1,4 +1,15 @@
 
-Ar-Riyād [Riyadh], m:6.2m
-Jiddah [Jeddah],   m:4m
+Ar-Riyād [Riyadh],                     4_205_961,  m:6.2m   ## Riyadh Province
+Jiddah|Jaddah [Jeddah|Jiddah|Jedda],   2_867_446,  m:4m     ## Makkah
+Makkah [Mecca]                         1_323_624            ## Makkah
+Al-Madīnah [Medina],                   1_300_000            ## Al Madīnah
+Ad-Dammām [Dammam],                      768_602,  m:2.2m   ## Eastern Province
 
+Aṭ-Ṭā’if [Taif],                                987_914   ## Makkah 
+Ḫamīs Mušayṭ [Khamis Mushait|Khamis Mushayt],   630_000   ## Minţaqat ‘Asīr
+Burayda [Buraydah|Buraidah],                    614_093   ## Al-Qassim
+Al-Khubar [Al Khubar|Al Khobar|Khobar],         578,500   ## Eastern Province
+
+
+### oasis region (not really a city - might be a metro region)
+## Al-Aḥsāʾ|Al-Ḥasā [Al Ahsa|Al Hasa|El Hasa|Hadjar],    1_063_112  ## Eastern Province

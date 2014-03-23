@@ -1,0 +1,17 @@
+
+La Habana [Havana],  2_163_824, m:2.2m  ## Provincia de La Habana
+Santiago (de Cuba),    555_865          ## Santiago de Cuba
+Camagüey,              347_562          ## Camagüey
+Holguín,               319_102          ## Holguín
+Guantánamo,            272_801          ## Guantánamo
+Santa Clara,           250_512          ## Villa Clara
+Las Tunas,             203_684          ## Las Tunas
+Bayamo,                144_664          ## Granma
+Cienfuegos,            140_734          ## Cienfuegos
+Pinar del Río,         139_336          ## Pinar del Río
+Matanzas,              127_287          ## Matanzas
+Ciego de Ávila,        106_225          ## Ciego de Ávila
+Sancti Spíritus,        98_283          ## Sancti Spíritus
+Manzanillo,             97_038          ## Granma
+Cárdenas,               80_832          ## Matanzas
+

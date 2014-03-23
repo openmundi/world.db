@@ -1,3 +1,4 @@
 
-Santo Domingo, m:3.5m
+Santo Domingo,              2_201_941,  m:3.5m   ## Distrito Nacional
+Santiago de los Caballeros, 1_200_000            ## Santiago
 

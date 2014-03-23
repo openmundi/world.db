@@ -1,28 +1,32 @@
 
-Guangzhou|Canton,   m: 31.7m
-Shanghai,           m: 28.9m
-Beijing|Peking,     m: 19.3m
-Shenzhen,           m: 11.7m
-Tianjin|Tientsin,   m: 10.6m
-Chengdu|Chengtu,    m:  8.6m
-Shenyang,           m:  7.4m
-Hangzhou|Hangchou,  m:  7.3m
-Hong Kong,          m:  7.2m
-Wuhan,              m:  7.2m
-Chongqing|Chungking, m: 6.7m
-Xi'an|Sian,         m: 6.5m
-Nanjing|Nanking,    m: 6.4m
-Shantou,            m: 5.3m
-Harbin,             m: 4.9m
-Xiamen,             m: 4.8m
-Wenzhou,            m: 4.6m
-Zhengzhou,          m: 4.5m
-Qingdao|Tsingtao,   m: 4.4m
-Dalian|Dairen,      m: 4.3m
-Hefei|Hofei,        m: 4.2m
-Changsha,           m: 4m
-Quanzhou,           m: 4m
-Taiyuan,            m: 4m
+Guangzhou|Canton,   m: 31.7m   ## Guangdong|Canton
+Shanghai,           m: 28.9m   ## Shanghai 
+Beijing|Peking,     m: 19.3m   ## Beijing
+Shenzhen,           m: 11.7m   ## Guangdong
+Tianjin|Tientsin,   m: 10.6m   ## Tianjin
+Chengdu|Chengtu,    m:  8.6m   ## Sichuan
+Shenyang,           m:  7.4m   ## Liaoning
+Hangzhou|Hangchou,  m:  7.3m   ## Zhejiang
+Hong Kong,          m:  7.2m   ## Hong Kong
+Wuhan,              m:  7.2m   ## Hubei
+Chongqing|Chungking, m: 6.7m   ## Chongqing
+Xi'an|Sian,         m: 6.5m    ## Shaanxi
+Nanjing|Nanking,       m: 6.4m  ## Jiangsu
+Shantou|Swatow|Suátao, m: 5.3m    ## Guangdong
+Harbin,             m: 4.9m      ## Heilongjiang
+Xiamen,             m: 4.8m      ## Fujian
+Wenzhou,            m: 4.6m      ## Zhejiang
+Zhengzhou,          m: 4.5m      ## Henan
+Qingdao|Tsingtao,   m: 4.4m      ## Shandong
+Dalian|Dairen,      m: 4.3m      ## Liaoning
+Hefei|Hofei,        m: 4.2m      ## Anhui
+Changsha,           m: 4m        ## Hunan
+Quanzhou,           m: 4m        ## Fujian
+Taiyuan,            m: 4m        ## Shanxi
+
+
+########
+# see en.wikipedia.org/wiki/List_of_cities_in_China_by_population
 
 
 

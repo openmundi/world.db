@@ -1,12 +1,13 @@
 
-Karāchi [Karachi], m: 22.7m
-Lahore,            m:  9.5m
-Faisalabad,        m:  3.7m
+Karāchi [Karachi],  11_624_219,  m: 22.7m     ## Sindh
+Lahore,              6_310_888,  m:  9.5m     ## Punjab
+Faisalabad,          2_506_595,  m:  3.7m     ## Punjab
 
-Rawalpindi
-Gujrānwāla [Gujranwala], m:2.3m
-Hyderābād [Hyderabad], m:2.3m
+Rawalpindi,              1_743_101    ## Punjab
+Multan,                  1_437_230   ## Punjab
+Hyderābād [Hyderabad],   1_386_330,  m:2.3m   ## Sindh
+Gujrānwāla [Gujranwala], 1_384_471, m:2.3m   ## Punjab
+Pex̌awar|Pishōr|Pishāwar [Peshawar|Pekhawar], 1_218_773  ## Khyber Pakhtunkhwa
 
 Islām ābād [Islamabad]
-Multan
-Pex̌awar|Pishōr|Pishāwar [Peshawar|Pekhawar]
+

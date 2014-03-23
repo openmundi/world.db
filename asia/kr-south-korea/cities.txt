@@ -1,5 +1,6 @@
 
-Seoul, m: 25.8m
-Busan [Pusan], m: 3.7m
-Daegu [Taegu], m: 2.7m
+Seoul,         10_349_312, m:25.8m    ## Seoul
+Busan [Pusan],  3_678_555, m:3.7m     ## Busan
+Incheon,        2_628_000             ## Incheon
+Daegu [Taegu],  2_566_540, m:2.7m     ## Daegu
 
