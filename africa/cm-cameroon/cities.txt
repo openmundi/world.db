@@ -1,0 +1,4 @@
+
+Douala,    m:2.6m
+Yaoundé,   m:2.6m
+

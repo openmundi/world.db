@@ -9,4 +9,4 @@ gdansktri,     Gdańsk (Tricity), m:775_000, metro   # includes Gdańsk, Gdynia 
 Warszawa [Warsaw],  1_720_398, m:1_713_000
 Łódź,    m:  907_000
 Kraków,  m:  760_000
-
+Katowice

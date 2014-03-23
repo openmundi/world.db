@@ -1,3 +1,4 @@
 
-Caracas,   m:3.6m,  region:dc
+Caracas,     m:3.6m,  region:dc
+Maracaibo,   m:2.5m,  region:zu
 

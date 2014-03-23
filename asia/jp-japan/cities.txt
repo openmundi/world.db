@@ -2,4 +2,6 @@
 Tōkyō [Tokyo],  m: 34.8m
 Ōsaka [Osaka],  m: 16.8m
 Nagoya,         m: 8.5m
+Sapporo,        m: 2.6m
+Fukuoka,        m: 2.5m
 

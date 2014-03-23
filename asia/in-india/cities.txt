@@ -12,5 +12,9 @@ Kānpur [Kanpur], m:3.5m
 Jaipur,          m:3.4m
 Lucknow,         m:3.4m
 Nāgpur [Nagpur], m:2.9m
+Indore,          m:2.5m
+Coimbatore,      m:2.4m
+Bhilai,          m:2.4m
+Patna,           m:2.4m
 
 

@@ -1,6 +1,5 @@
 
-lisboa, Lissabon|Lisboa,  m:3_051_000
-porto, Porto,             m:1_491_000
+Lisboa [Lisbon]|Lissabon[de],  m:3_051_000
+Porto,             m:1_491_000
+Braga
 
-
-braga, Braga

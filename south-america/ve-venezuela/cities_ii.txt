@@ -344,7 +344,6 @@ encontrados,                     Encontrados,                                 re
 laconcepcion,                    La Concepción,                               region:zu
 lospuertosdealtagracia,          Los Puertos de Altagracia|Los Puertos,       region:zu
 machiques,                       Machiques,                                   region:zu
-maracaibo,                       Maracaibo,                                   region:zu
 pueblonuevoelchivo,              Pueblo Nuevo-El Chivo|Pueblo Nuevo,          region:zu
 sancarlosdelzulia,               San Carlos del Zulia|San Carlos,             region:zu
 sanfrancisco,                    San Francisco,                               region:zu
