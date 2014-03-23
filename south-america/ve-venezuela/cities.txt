@@ -1,8 +1,9 @@
-#########################
+#####################
 # Venezuela (ve)
 
-Caracas,     m:3.6m,  region:dc
-Maracaibo,   m:2.5m,  region:zu
-Valencia,    m:1.9m,  region:ca
-Maracay,     m:1.4m,  region:ar
+Caracas,      m:3.6m,  region:dc
+Maracaibo,    m:2.5m,  region:zu
+Valencia,     m:1.9m,  region:ca
+Maracay,      m:1.4m,  region:ar
+Barquisimeto, m:1.2m,  region:la
 

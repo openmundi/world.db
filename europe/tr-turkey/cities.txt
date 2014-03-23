@@ -7,3 +7,6 @@ Ankara,                          m:4.5m
 Bursa,                           m:1.9m
 Adana,                           m:1.7m
 Gaziantep,                       m:1.5m
+Konya,                           m:1.1m
+Antalya,                         m:1.1m
+

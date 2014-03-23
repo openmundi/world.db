@@ -1,6 +1,7 @@
-###################################
+###################
 # Bolivia (bo)
 
 La Paz,      m:2.1m
 Santa Cruz,  m:2m
+Cochabamba,  m:1.2m
 

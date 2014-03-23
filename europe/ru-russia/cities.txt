@@ -15,10 +15,10 @@ Volgograd,   m:1.4m
 Čel'abinsk [Chelyabinsk], 1_130_273, m:1.4m
 
 Samara|Самара[ru],       1_164_896, m:1.3m
-Kazan|Казань[ru],        1_143_546, m:1_141_000
+Kazan|Казань[ru],        1_143_546, m:1.2m
 
 Rostov-na-Donu [Rostov-on-Don], m:1.3m
-
+Omsk,   m:1.2m
 
 #####
 ## todo: add a special symbol for transliteration?

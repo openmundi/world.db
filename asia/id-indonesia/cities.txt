@@ -1,4 +1,4 @@
-#######################
+###################
 # Indonesia (id)
 
 Jakarta,    m:26.4m
@@ -10,4 +10,7 @@ Makassar,   m:1.7m
 Palembang,  m:1.6m
 Denpasar,   m:1.4m
 Malang,     m:1.4m
+Yogyakarta, m:1.3m
+Surakarta,  m:1.2m
+Pekanbaru,  m:1.1m
 

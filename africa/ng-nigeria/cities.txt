@@ -8,4 +8,5 @@ Port Harcourt,  m:1.9m
 Kaduna,         m:1.7m
 Abuja,          m:1.6m
 Benin City,     m:1.5m
+Maiduguri,      m:1.1m
 

@@ -8,4 +8,6 @@ Daegu [Taegu],  2_566_540, m:2.7m     ## Daegu
 
 Gwangju [Kwangju], m:1.6m
 Daejeon [Taejon],  m:1.6m
+Ulsan,             m:1.2m
+Changwon,          m:1.1m
 

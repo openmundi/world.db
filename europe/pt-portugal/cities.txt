@@ -1,5 +1,11 @@
+###################
+# Portugal (pt)
 
 Lisboa [Lisbon]|Lissabon[de],  m:3_051_000
 Porto,             m:1_491_000
 Braga
 
+############
+# todo/fix:
+#   allow translated name w/o | e.g
+#  Lisboa [Lisbon] Lissabon[de]

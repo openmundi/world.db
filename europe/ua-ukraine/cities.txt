@@ -7,5 +7,4 @@ Kharkiv|Kharkov[ru], 1_470_000,  m:1.5m
 Donets’k|Donetsk[ru]|Donezk[de],  m:1m
 
 Dnipropetrovsk|Dnepropetrovsk[ru]|Dnipropetrowsk[de], 1_007_200, m:1.4m
-Odessa|Odesa,   1_003_705, m:1m
-
+Odessa|Odesa,   1_003_705, m:1.1m

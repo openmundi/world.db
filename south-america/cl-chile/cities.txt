@@ -1,5 +1,6 @@
-########################
+################
 # Chile (cl)
 
-Santiago, m: 6.8m
+Santiago,   m:6.8m
+Valparaíso, m:1.1m
 

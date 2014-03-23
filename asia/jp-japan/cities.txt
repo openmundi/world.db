@@ -16,4 +16,8 @@ Hiroshima,      m:1.9m
 Sendai,         m:1.6m
 Kitakyūshū [Kitakyushu], m:1.6m
 Okayama,        m:1.4m
+Naha,           m:1.2m
+Himeji,         m:1.1m
+Kumamoto,       m:1.1m
+Hamamatsu,      m:1.1m
 

@@ -150,7 +150,6 @@ tucupido,                        Tucupido,                                    re
 valledelapascua,                 Valle de la Pascua,                          region:gu
 zaraza,                          Zaraza,                                      region:gu
 
-barquisimeto,                    Barquisimeto,                                region:la
 cabudare,                        Cabudare,                                    region:la
 carora,                          Carora,                                      region:la
 duaca,                           Duaca,                                       region:la
