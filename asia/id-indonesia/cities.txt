@@ -13,4 +13,7 @@ Malang,     m:1.4m
 Yogyakarta, m:1.3m
 Surakarta,  m:1.2m
 Pekanbaru,  m:1.1m
+Batam,      m:1.1m
+Bandar Lampung, m:1m
+Serang,     m:1m
 

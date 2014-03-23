@@ -19,6 +19,11 @@ Kazan|Казань[ru],        1_143_546, m:1.2m
 
 Rostov-na-Donu [Rostov-on-Don], m:1.3m
 Omsk,   m:1.2m
+Saratov, m:1.1m
+Ufa,     m:1.1m
+Perm,    m:1.1m
+Krasnojarsk [Krasnoyarsk], m:1.1m
+
 
 #####
 ## todo: add a special symbol for transliteration?

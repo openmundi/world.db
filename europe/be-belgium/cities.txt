@@ -1,4 +1,4 @@
-#################################
+#################
 # Belgium (be)
 
 Brussel|Bruxelles [Brussels], region:bru,  1_048_491, m:1_929_000      # nl|fr|en

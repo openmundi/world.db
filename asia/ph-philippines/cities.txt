@@ -1,7 +1,8 @@
 #####################
 # Philippines (ph)
 
-Manila, m:22.2m
-Cebu,   m:2.2m
-Davao,  m:1.3m
+Manila,  m:22.2m
+Cebu,    m:2.2m
+Davao,   m:1.3m
+Angeles, m:1m
 

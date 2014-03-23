@@ -1,0 +1,7 @@
+###############
+# Kenya (ke)
+
+Nairobi,  m:4.8m
+Mombasa,  m:1.1m
+
+
