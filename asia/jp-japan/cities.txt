@@ -1,4 +1,4 @@
-############################
+##################
 # Japan (jp)
 
 Tōkyō [Tokyo],   8_336_599,   m:34.8m   ## Tōkyō
@@ -15,4 +15,5 @@ Kawasaki,        1_306_785             ## Kanagawa
 Hiroshima,      m:1.9m
 Sendai,         m:1.6m
 Kitakyūshū [Kitakyushu], m:1.6m
+Okayama,        m:1.4m
 

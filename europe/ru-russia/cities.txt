@@ -1,4 +1,4 @@
-###############################
+###################
 # Russia (ru)
 
 Moskva|Москва[ru] [Moscow],  11_689_048, m:15_512_000
@@ -8,13 +8,16 @@ Sankt-Peterburg|Санкт-Петербур[ru] [St. Petersburg],  4_879_566, m:
 Nizhny Novgorod|Нижний Новгород[ru]|Novgorod [Nizhny Novgorod|Nizhny|Nizhniy Novgorod],  1_250_615, m:1_248_000
 ## from 1932 to 1990 it was known as Gorky
 
-Samara|Самара[ru],       1_164_896, m:1_163_000
-Kazan|Казань[ru],        1_143_546, m:1_141_000
-
 Novosibirsk,  m:1.6m
 Jekaterinburg [Yekaterinburg], 1_350_136, m:1.6m
+Volgograd,   m:1.4m
 
-# Chelyabinsk    1_130_273   ??
+Čel'abinsk [Chelyabinsk], 1_130_273, m:1.4m
+
+Samara|Самара[ru],       1_164_896, m:1.3m
+Kazan|Казань[ru],        1_143_546, m:1_141_000
+
+Rostov-na-Donu [Rostov-on-Don], m:1.3m
 
 
 #####

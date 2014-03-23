@@ -1,5 +1,6 @@
-###########################
+####################
 # Malaysia (my)
 
 Kuala Lumpur, m:6.7m
+George Town,  m:1.5m
 

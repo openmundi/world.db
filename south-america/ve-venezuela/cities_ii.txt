@@ -44,7 +44,6 @@ elconsejo,                       El Consejo,                                  re
 ellimon,                         El Limón,                                    region:ar
 lavictoria,                      La Victoria,                                 region:ar
 lastejerias,                     Las Tejerías|Tejerías,                       region:ar
-maracay,                         Maracay,                                     region:ar
 ocumaredelacosta,                Ocumare de la Costa|Ocumare,                 region:ar
 palonegro,                       Palo Negro,                                  region:ar
 sancasimiro,                     San Casimiro,                                region:ar

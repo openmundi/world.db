@@ -3,5 +3,6 @@
 
 Caracas,     m:3.6m,  region:dc
 Maracaibo,   m:2.5m,  region:zu
-Valencia,    m:1.9m   region:ca
+Valencia,    m:1.9m,  region:ca
+Maracay,     m:1.4m,  region:ar
 
