@@ -6,3 +6,6 @@ Busan [Pusan],  3_678_555, m:3.7m     ## Busan
 Incheon,        2_628_000             ## Incheon
 Daegu [Taegu],  2_566_540, m:2.7m     ## Daegu
 
+Gwangju [Kwangju], m:1.6m
+Daejeon [Taejon],  m:1.6m
+

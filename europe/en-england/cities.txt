@@ -1,9 +1,13 @@
-# metros
+####################
+# England (en)
+
+
+# -- metros
 
 Leeds-Bradford, region:yh, m:1_541_000, metro
 
 
-# top cities
+# -- top cities
 
 London,     region:gl, 7_619_800, m:8_586_000
 Birmingham, region:wm, 1_010_400, m:2_294_000
@@ -18,7 +22,7 @@ Kingston|Kingston upon Hull, region:yh,  301_416
 Bradford,   region:yh,  293_717, metro:leedsbradford
 
 
-# more cities
+# -- more cities
 
 ## change key to westbromwich in sport.db
 westbrom,    West Bromwich,       region:wm, 136940

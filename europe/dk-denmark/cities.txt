@@ -1,6 +1,8 @@
+##############################
+# Denmark (dk)
 
 
-kobenhavn, København [Copenhagen], m:1_181_000
+København [Copenhagen], m:1.5m
 
+Farum
 
-farum, Farum

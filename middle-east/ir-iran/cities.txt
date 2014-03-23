@@ -4,4 +4,6 @@
 Tehrān [Tehran], m:13.2m
 Mashhad [Meshed], m:2.9m
 Eṣfahān [Isfahan], m:2.7m
+Shīrāz [Shiraz], m:1.6m
+Tabrīz [Tabriz], m:1.6m
 

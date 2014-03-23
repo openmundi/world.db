@@ -1,8 +1,10 @@
 #################################
 # Nigeria (ng)
 
-Lagos,  m:13.2m
-Kano,   m:3.9m
-Ibadan, m:2.9m
+Lagos,          m:13.2m
+Kano,           m:3.9m
+Ibadan,         m:2.9m
 Port Harcourt,  m:1.9m
+Kaduna,         m:1.7m
+Abuja,          m:1.6m
 

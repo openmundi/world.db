@@ -6,4 +6,6 @@ Bandung,   m:  5.7m
 Surabaya,  m:  4.6m
 Medan,     m: 3.3m
 Semarang,  m: 2m
+Makassar,   m: 1.7m
+Palembang,  m: 1.6m
 

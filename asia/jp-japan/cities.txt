@@ -13,3 +13,6 @@ Kawasaki,        1_306_785             ## Kanagawa
 
 
 Hiroshima,      m:1.9m
+Sendai,         m:1.6m
+Kitakyūshū [Kitakyushu], m:1.6m
+

@@ -1,17 +1,17 @@
 ##########################
 # caribbean islands
 
-cu, Cuba,         CUB,    109_886,  11_204_000,  un|fifa|concacaf|concacaf_cfu|caribbean
-jm, Jamaica,      JAM,     10_991,   2_719_000,  un|fifa|concacaf|concacaf_cfu|caribbean|commonwealth
-do, Dominican Republic, DOM,   48_671,  10_090_000,  un|fifa|concacaf|concacaf_cfu|caribbean
-ht, Haiti, HAI, 27_750, 9_719_932,  Port-au-Prince, un|fifa|concacaf|concacaf_cfu|caribbean
+cu, Cuba,         CUB,    109_886 km²,  11_204_000,  un|fifa|concacaf|concacaf_cfu|caribbean
+jm, Jamaica,      JAM,     10_991 km²,   2_719_000,  un|fifa|concacaf|concacaf_cfu|caribbean|commonwealth
+do, Dominican Republic, DOM,   48_671 km²,  10_090_000,  un|fifa|concacaf|concacaf_cfu|caribbean
+ht, Haiti, HAI, 27_750 km², 9_719_932,  Port-au-Prince, un|fifa|concacaf|concacaf_cfu|caribbean
 
-ag, Antigua and Barbuda, ATG,  440,  81_799,    Saint John's,   un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
-bs, Bahamas, BAH,    13_878,   353_658,    Nassau, un|fifa|concacaf|concacaf_cfu|caribbean|commonwealth
-bb, Barbados, BRB,      431,   284_589,    Bridgetown,  un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
-dm, Dominica, DMA,      750,   73_126,    Roseau, un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
-gd, Grenada, GRN, 344, 110_000,  St. George's, un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
-kn, Saint Kitts and Nevis, SKN,  261,  51_300,   Basseterre,  un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
-lc, Saint Lucia, LCA,   617,  173_765,   Castries,   un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
-vc, Saint Vincent and the Grenadines, VIN,  389,  120_000,   Kingstown,   un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
-tt, Trinidad and Tobago, TRI,  5_131,  1_346_350,    Port of Spain,  un|fifa|concacaf|concacaf_cfu|caribbean|commonwealth
+ag, Antigua and Barbuda, ATG,  440 km²,  81_799,    Saint John's,   un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
+bs, Bahamas, BAH,    13_878 km²,   353_658,    Nassau, un|fifa|concacaf|concacaf_cfu|caribbean|commonwealth
+bb, Barbados, BRB,      431 km²,   284_589,    Bridgetown,  un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
+dm, Dominica, DMA,      750 km²,   73_126,    Roseau, un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
+gd, Grenada, GRN, 344 km², 110_000,  St. George's, un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
+kn, Saint Kitts and Nevis, SKN,  261 km²,  51_300,   Basseterre,  un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
+lc, Saint Lucia, LCA,   617 km²,  173_765,   Castries,   un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
+vc, Saint Vincent and the Grenadines, VIN,  389 km²,  120_000,   Kingstown,   un|fifa|concacaf|concacaf_cfu|caribbean|microstate|commonwealth
+tt, Trinidad and Tobago, TRI,  5_131 km²,  1_346_350,    Port of Spain,  un|fifa|concacaf|concacaf_cfu|caribbean|commonwealth

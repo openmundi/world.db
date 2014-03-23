@@ -11,7 +11,9 @@ Nizhny Novgorod|Нижний Новгород[ru]|Novgorod [Nizhny Novgorod|Nizh
 Samara|Самара[ru],       1_164_896, m:1_163_000
 Kazan|Казань[ru],        1_143_546, m:1_141_000
 
-# Yekaterinburg  1_350_136   ??
+Novosibirsk,  m:1.6m
+Jekaterinburg [Yekaterinburg], 1_350_136, m:1.6m
+
 # Chelyabinsk    1_130_273   ??
 
 

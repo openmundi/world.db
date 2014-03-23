@@ -1,7 +1,7 @@
-#######################
-# Austria (at)
+##############################
+# Austria / Österreich (at)
 
-# -- Top 10 cities
+# -- top 10 cities
 
 Wien [Vienna],  W,  1_731_236, m:1_724_000
 Graz,           ST,      265_318
@@ -14,7 +14,7 @@ Wels,           O,        58_717
 St. Pölten,     N,        52_048
 Dornbirn,       V,        45_978
 
-# -- Top 20 cities
+# -- top 20 cities
 
 Wr. Neustadt|Wiener Neustadt, N,   41_537
 Steyr,             O,    38_248
@@ -28,21 +28,16 @@ Leoben,            ST,  24_645
 Krems|Krems an der Donau, N,   24_110
 
 
-# more cities
+# -- more cities
 
 Mödling,             N,   20_649
-Horn,                N,    6_411    # < 10000 pop
 
 Traun,                 O,   23_941
 Ried|Ried im Innkreis, O,    11_585
 
 Eisenstadt,  B, 12_367
-Mattersburg, B,  6_256    # < 10000 pop
 
 Kapfenberg,  ST,   21_928
-Hartberg,    ST,    6_547     # < 10000 pop
-
-Grödig,      S,     6_638     # < 10000 pop
 
 Lustenau,    V, 20_606
-Altach,      V,  5_704    # < 10000 pop
+
