@@ -1,3 +1,5 @@
+#############################
+# Sweden (se)
 
-stockholm, Stockholm, m:1_288_000
+Stockholm, m:1_288_000
 

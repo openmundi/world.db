@@ -93,7 +93,6 @@ puertocabello,                   Puerto Cabello|El Puerto,                    re
 sandiego,                        San Diego,                                   region:ca
 sanjoaquin,                      San Joaquín,                                 region:ca
 tocuyito,                        Tocuyito,                                    region:ca
-valencia,                        Valencia,                                    region:ca
 
 ciudaddecojedes,                 Ciudad de Cojedes,                           region:co
 elbaul,                          El Baúl,                                     region:co

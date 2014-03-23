@@ -1,6 +1,7 @@
-###########
-# top cities
-#   see en.wikipedia.org/wiki/Metropolitan_areas_of_Mexico
+#############################
+# Mexico (mx)
+
+# -- top cities
 
 México|Distrito Federal|D.F.|DF,   DF, m:20_137_152
 
@@ -118,3 +119,7 @@ San Nicolás de los Garza, NL, 476761
 Villahermosa, TB    # Tabasco
 
 Zacatecas,  ZA  # Zacatecas
+
+
+################
+#   see en.wikipedia.org/wiki/Metropolitan_areas_of_Mexico

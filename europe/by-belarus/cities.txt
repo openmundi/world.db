@@ -1,4 +1,6 @@
+###########################
+# Belarus (by)
 
-minsk, Minsk, 1_864_100, m:1_856_000
+Minsk, 1_864_100, m:1_856_000
 
 borisov, Borissow|Borisov|Barysaw

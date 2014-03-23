@@ -1,5 +1,8 @@
+###############################
+# Turkey (tr)
 
 İstanbul [Istanbul], 13_624_240, m:13_576_000
-Ankara,     m:4.5m
-İzmir   [Izmir], m:2.9m
+Ankara,                          m:4.5m
+İzmir   [Izmir],                 m:2.9m
+Bursa,                           m:1.9m
 

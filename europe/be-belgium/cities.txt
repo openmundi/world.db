@@ -1,4 +1,5 @@
-
+#################################
+# Belgium (be)
 
 Brussel|Bruxelles [Brussels], region:bru,  1_048_491, m:1_929_000      # nl|fr|en
 Antwerpen|Anvers [Antwerp],   region:van, 466_203,  m:960_000

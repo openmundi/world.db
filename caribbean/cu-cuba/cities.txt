@@ -1,3 +1,5 @@
+################
+# Cuba (cu)
 
 La Habana [Havana],  2_163_824, m:2.2m  ## Provincia de La Habana
 Santiago (de Cuba),    555_865          ## Santiago de Cuba

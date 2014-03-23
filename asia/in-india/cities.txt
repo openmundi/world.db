@@ -1,3 +1,6 @@
+############################
+# India (in)
+
 
 Delhi,                 10_927_986, m:24m     ## NCT|Delhi
 Mumbai [Bombay],       12_691_836, m:21.4m   ## Maharashtra 
@@ -17,6 +20,9 @@ Indore,          m:2.5m   ## Madhya Pradesh
 Coimbatore,      m:2.4m   ## Tamil Nadu
 Bhilai,          m:2.4m   ## Chhattisgarh
 Patna,           m:2.4m   ## Bihar
+
+Bhopāl [Bhopal],  m:2.1m
+Vadodara,         m:2m
 
 
 ###########################

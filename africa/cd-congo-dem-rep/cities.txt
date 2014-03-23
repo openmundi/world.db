@@ -1,3 +1,7 @@
+#######################################
+# Congo Democratic Republic (cd)
 
-Kinshasa, m:10m
 
+Kinshasa,    m:10m
+Lubumbashi,  m:1.8m
+Mbuji-Mayi,  m:1.7m

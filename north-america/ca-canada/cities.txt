@@ -1,6 +1,5 @@
-###
-## todo/fix: add parser check for region (e.g. lets you use Ontario instead of region:on) why? why not?
-##  
+######################
+# Canada (ca)
 
 # top 10 cities
 
@@ -47,3 +46,8 @@ Yellowknife,            NT
 Iqaluit,                NU
 Charlottetown,          PE
 Whitehorse,             YT
+
+
+###
+## todo/fix: add parser check for region (e.g. lets you use Ontario instead of region:on) why? why not?
+##  

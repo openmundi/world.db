@@ -1,5 +1,5 @@
-####################################
-# see en.wikipedia.org/wiki/List_of_major_cities_in_Brazil
+##########################
+# Brazil (br)
 
 
 São Paulo,      SP,  11_244_369,  m:19_889_559
@@ -45,3 +45,6 @@ Criciúma,       SC
 ## todo: check metros
 ## 16.  Baixada Santista      / São Paulo / m:1,606,863
 ## 25.  Petrolina and Juazeiro / Pernambuco and  Bahia / m:812,515
+
+#################
+# see en.wikipedia.org/wiki/List_of_major_cities_in_Brazil

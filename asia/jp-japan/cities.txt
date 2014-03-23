@@ -1,3 +1,5 @@
+############################
+# Japan (jp)
 
 Tōkyō [Tokyo],   8_336_599,   m:34.8m   ## Tōkyō
 Yokohama,        3_574_443               ## Kanagawa
@@ -9,3 +11,5 @@ Kyoto            1_459_640              ## Kyōto
 Fukuoka,         1_392_289,  m:2.5m    ## Fukuoka 
 Kawasaki,        1_306_785             ## Kanagawa 
 
+
+Hiroshima,      m:1.9m

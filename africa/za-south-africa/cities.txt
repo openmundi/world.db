@@ -1,3 +1,7 @@
+###############################
+# South Africa (za)
+
+
 #  ten world cup 2010 venues (two stadiums in johannesburg)
 
 Johannesburg,          957_441, m:4_434_827   # Province Gauteng

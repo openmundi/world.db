@@ -1,9 +1,12 @@
+###########################
+# Saudi Arabia (sa)
 
 Ar-Riyād [Riyadh],                     4_205_961,  m:6.2m   ## Riyadh Province
 Jiddah|Jaddah [Jeddah|Jiddah|Jedda],   2_867_446,  m:4m     ## Makkah
-Makkah [Mecca]                         1_323_624            ## Makkah
+Makkah [Mecca]                         1_323_624,  m:1.8m   ## Makkah
 Al-Madīnah [Medina],                   1_300_000            ## Al Madīnah
 Ad-Dammām [Dammam],                      768_602,  m:2.2m   ## Eastern Province
+
 
 Aṭ-Ṭā’if [Taif],                                987_914   ## Makkah 
 Ḫamīs Mušayṭ [Khamis Mushait|Khamis Mushayt],   630_000   ## Minţaqat ‘Asīr
