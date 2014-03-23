@@ -2,4 +2,5 @@
 # Ecuador (ec)
 
 Guayaquil, m:2.7m
+Quito,     m:1.8m
 
