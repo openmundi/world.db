@@ -1,4 +1,6 @@
 
-Lagos, m:13.2m
-Kano,  m:3.9m
+Lagos,  m:13.2m
+Kano,   m:3.9m
+Ibadan, m:2.9m
+
 
