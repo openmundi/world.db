@@ -6,8 +6,8 @@ Yokohama,        3_574_443               ## Kanagawa
 Ōsaka [Osaka],   2_592_413,   m:16.8m   ## Ōsaka
 Nagoya,          2_191_279,   m:8.5m    ## Aichi
 Sapporo,         1_883_027,   m:2.6m    ## Hokkaidō
-Kobe             1_528_478              ## Hyōgo
-Kyoto            1_459_640              ## Kyōto
+Kobe,            1_528_478              ## Hyōgo
+Kyoto,           1_459_640              ## Kyōto
 Fukuoka,         1_392_289,  m:2.5m    ## Fukuoka 
 Kawasaki,        1_306_785             ## Kanagawa 
 
