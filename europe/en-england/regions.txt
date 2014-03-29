@@ -4,7 +4,8 @@
 ##
 ## see  en.wikipedia.org/wiki/Regions_of_England
 ##
-## make regions into tags? and use smaller admin units?
+## fix: make regions into tags? and use smaller admin units? - yes, yes
+##
 
 
 ne, North East England

@@ -1,32 +1,36 @@
+####################################
+# France (fr)
+
 
 # NB: use 9 NUTS1 regions for tags
 
 
-if, Ile-de-France,      12012,  ile_de_france
+if, Ile-de-France,      Paris,  12_012 km²,  ile_de_france
 
-ca, Champagne-Ardenne,  25606,  bassin_parisien
-pd, Picardie,           19399,  bassin_parisien
-hn, Haute-Normandie,  12317,  bassin_parisien
-ct, Centre,        39151,  bassin_parisien
-bn, Basse-Normandie,   17589,  bassin_parisien
-bg, Bourgogne,     31582,  bassin_parisien
+ca, Champagne-Ardenne,  Châlons-en-Champagne,  25_606 km²,  bassin_parisien
+pd, Picardie [Picardy],  Amiens,               19_399 km²,  bassin_parisien
+hn, Haute-Normandie [Upper Normandy],  Rouen,  12_317 km²,  bassin_parisien
+ct, Centre,              Orléans, 39_151 km²,  bassin_parisien
+bn, Basse-Normandie [Lower Normandy], Caen,      17_589 km²,  bassin_parisien
+bg, Bourgogne [Burgundy],             Dijon,     31_582 km²,  bassin_parisien
 
-nc, Nord-Pas-de-Calais, 12414,  nord_pas_de_calais
+nc, Nord-Pas-de-Calais,  Lille,  12_414 km²,  nord_pas_de_calais
 
-lr, Lorraine,             23547,  est
-al, Alsace,                8280,  est
-fc, Franche-Comté,        16202,  est
+lr, Lorraine,         Metz,             23_547 km²,  est
+al, Alsace,           Strasbourg,        8_280 km²,  est
+fc, Franche-Comté,    Besançon,         16_202 km²,  est
 
-pl, Pays de la Loire,   32082,  ouest
-br, Bretagne [Brittany],       27208,  ouest
-pc, Poitou-Charentes,   25810, ouest
-aq, Aquitaine,          41308, ouest
-mp, Midi-Pyrénées,      45348, ouest
-lm, Limousin,           16942, ouest
+pl, Pays de la Loire,     Nantes,   32_082 km²,  ouest
+br, Bretagne [Brittany],  Rennes,   27_208 km²,  ouest
+pc, Poitou-Charentes,     Poitiers, 25_810 km², ouest
+aq, Aquitaine,            Bordeaux,  41_308 km², ouest
+mp, Midi-Pyrénées,        Toulouse,  45_348 km², ouest
+lm, Limousin,             Limoges,   16_942 km², ouest
 
-ra, Rhône-Alpes,         43698, centre_est
-av, Auvergne,            26013, centre_est
+ra, Rhône-Alpes,       Lyon,              43_698 km², centre_est
+av, Auvergne,          Clermont-Ferrand,  26_013 km², centre_est
 
-lr, Languedoc-Roussillon,        27376, mediterranee
-ac, Provence-Alpes-Côte d'Azur,  31400, mediterranee
-cr, Corse,                        8680, mediterranee
+lr, Languedoc-Roussillon,         Montpellier,   27_376 km², mediterranee
+ac, Provence-Alpes-Côte d'Azur,   Marseille,     31_400 km², mediterranee
+cr, Corse [Corsica],              Ajaccio,        8_680 km², mediterranee
+

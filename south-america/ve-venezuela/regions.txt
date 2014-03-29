@@ -18,9 +18,6 @@
 #        see www.ine.gov.ve/CENSO2011/index.htm
 #-------------------------------------------------------------------------------
 
-########
-# fix/todo: allow km² in area e.g. 180_145 km² or 76_500 km²
-
 
 ###################
 # Regions (used for tags)
@@ -39,35 +36,36 @@
 
 
 
-am, Amazonas,   Puerto Ayacucho,  180_145, guayana
-bo, Bolívar, Ciudad Bolívar,      238_000, guayana
-da, Delta Amacuro, Tucupita,       40_200, guayana
+am, Amazonas,   Puerto Ayacucho,  180_145 km², guayana
+bo, Bolívar, Ciudad Bolívar,      238_000 km², guayana
+da, Delta Amacuro, Tucupita,       40_200 km², guayana
 
-an, Anzoátegui, Barcelona,          43_300, nor_oriental|north_eastern
-mo, Monagas, Maturín,              28_930, nor_oriental|north_eastern
-su, Sucre, Cumaná,                 11_800, nor_oriental|north_eastern
+an, Anzoátegui, Barcelona,          43_300 km², nor_oriental|north_eastern
+mo, Monagas, Maturín,              28_930 km², nor_oriental|north_eastern
+su, Sucre, Cumaná,                 11_800 km², nor_oriental|north_eastern
 
-ap, Apure, San Fernando de Apure,     76_500, llanos
-gu, Guárico, San Juan De Los Morros,  64_986, llanos
+ap, Apure, San Fernando de Apure,     76_500 km², llanos
+gu, Guárico, San Juan De Los Morros,  64_986 km², llanos
 
-ca, Carabobo, Valencia,             4_650, central
-co, Cojedes, San Carlos,           14_800, central
-ar, Aragua, Maracay,                7_014, central
+ca, Carabobo, Valencia,             4_650 km², central
+co, Cojedes, San Carlos,           14_800 km², central
+ar, Aragua, Maracay,                7_014 km², central
 
-mi, Miranda, Los Teques,            7_950, capital
-va, Vargas, La Güaira,              1_496, capital
-dc, Distrito Capital, Caracas,        433, capital
+mi, Miranda, Los Teques,            7_950 km², capital
+va, Vargas, La Güaira,              1_496 km², capital
+dc, Distrito Capital, Caracas,        433 km², capital
 
-fa, Falcón, Coro,         24_800, centro_occidental|central_western
-la, Lara, Barquisimeto,   19_800, centro_occidental|central_western
-po, Portuguesa, Guanare,  15_200, centro_occidental|central_western
-ya, Yaracuy, San Felipe,   7_100, centro_occidental|central_western
+fa, Falcón, Coro,         24_800 km², centro_occidental|central_western
+la, Lara, Barquisimeto,   19_800 km², centro_occidental|central_western
+po, Portuguesa, Guanare,  15_200 km², centro_occidental|central_western
+ya, Yaracuy, San Felipe,   7_100 km², centro_occidental|central_western
 
-ba, Barinas, Barinas,              35_200, andina|andean
-me, Mérida, Mérida,                11_300, andina|andean
-ta, Táchira, San Cristóbal,        11_100, andina|andean
-tr, Trujillo, Trujillo,             7_400, andina|andean
+ba, Barinas, Barinas,              35_200 km², andina|andean
+me, Mérida, Mérida,                11_300 km², andina|andean
+ta, Táchira, San Cristóbal,        11_100 km², andina|andean
+tr, Trujillo, Trujillo,             7_400 km², andina|andean
 
-ne, Nueva Esparta, La Asunción, 1_150,  insular
+ne, Nueva Esparta, La Asunción, 1_150 km²,  insular
 
-zu, Zulia, Maracaibo,  63_100,  zuliana|zulian
+zu, Zulia, Maracaibo,  63_100 km²,  zuliana|zulian
+

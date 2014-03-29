@@ -1,26 +1,28 @@
+########################
+# Spain / España (es)
 
-########
-# 17 autonomous communities (+2 autonomous cities)
+# -- 17 autonomous communities (+2 autonomous cities)
 
-an, Andalucía|Andalusia,  87598
-ar, Aragón,               47720
-as, Asturias,             10604
-ib, Illes Balears|Balearic Islands,   4992 
-pv, Pais Vasco|Basque Country,   7235
-cn, Canarias|Canary Islands,   7447
-cb, Cantábria,                 5321
-cl, Castilla y León,           94225
-cm, Castilla-La Mancha,        79462
-ct, Cataluña|Catalonia,        32113
-ex, Extremadura,               41635
-ga, Galicia,                   29574
-ri, La Rioja,                   5045
-md, Madrid,                     8028
-mc, Murcia,                    11313
-na, Navarra,                   10390
-vc, Valencia,                 23255
+an, Andalucía [Andalusia],   Sevilla,   87_598 km²
+ar, Aragón,                  Zaragoza,  47_720 km²
+as, Asturias,                Oviedo,    10_604 km²
+ib, Illes Balears [Balearic Islands],  Palma (de Mallorca),  4_992 km²
+pv, Pais Vasco [Basque Country],   Vitoria,    7_235 km²
+cn, Canarias [Canary Islands],   Las Palmas (de Gran Canaria),  7_447 km²   ### todo: allow 2nd capital; add Santa Cruz de Tenerife-
+cb, Cantábria,                   Santander,    5_321 km²
+cl, Castilla y León,             Valladolid,  94_225 km²
+cm, Castilla-La Mancha,          Toledo,      79_462 km²
+ct, Cataluña [Catalonia],        Barcelona,   32_113 km²
+ex, Extremadura,                 Mérida,      41_635 km²
+ga, Galicia,                     Santiago de Compostela,  29_574 km²
+ri, La Rioja,                    Logroño,      5_045 km²
+md, Madrid,                      Madrid,       8_028 km²
+mc, Murcia,                      Murcia,      11_313 km²
+na, Navarra,                     Pamplona,    10_390 km²
+vc, Valencia,                    Valencia,    23_255 km²
 
 ## autonomous cities
 
-ce, Ceuta,      19
-ml, Melilla,    13
+ce, Ceuta,   Ceuta,    19 km²
+ml, Melilla, Melilla,  13 km²
+
