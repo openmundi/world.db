@@ -1,18 +1,5 @@
-
-##
-## NB: using 11 NUTS2 regions (provinces) and 3 NUTS1 regions for tags
-
-
-#
-#  NB: using iso three letter codes
-#
-# see en.wikipedia.org/wiki/ISO_3166-2:BE
-
-##
-#  fix/todo: add postal code range
-
-
-### fix: use • as language delimiter e.g. Bruxelles • Brussel or Bruxelles•Brussel
+#########################
+# Belgium (be)
 
 bru, Bruxelles•Brussel [Brussels (Capital Region)],  161 km²,  fr|nl
 
@@ -27,3 +14,18 @@ wht, Hainaut,                          Mons,       3_786 km²,  wallonia|fr
 wlg, Liège,                            Liège,      3_862 km²,  wallonia|fr
 wlx, Luxembourg,                       Arlon,      4_440 km²,  wallonia|fr
 wna, Namur,                            Namur,      3_666 km²,  wallonia|fr
+
+
+##
+## NB: using 11 NUTS2 regions (provinces) and 3 NUTS1 regions for tags
+
+#
+#  NB: using iso three letter codes
+#
+# see en.wikipedia.org/wiki/ISO_3166-2:BE
+
+##
+#  fix/todo: add postal code range
+
+
+### fix: use • as language delimiter e.g. Bruxelles • Brussel or Bruxelles•Brussel

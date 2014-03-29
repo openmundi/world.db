@@ -1,16 +1,22 @@
 #################
 # Belgium (be)
 
-Brussel|Bruxelles [Brussels], region:bru,  1_048_491, m:1_929_000      # nl|fr|en
-Antwerpen|Anvers [Antwerp],   region:van, 466_203,  m:960_000
-Gent|Gand [Ghent],     region:vov, 235_143
-Charleroi,         region:wht, 201_550
-Liège|Luik,        region:wlg, 188_907
-Bruges|Brugge,     region:vwv, 116_982
-Namur|Namen,       region:wna, 107_653
-Leuven|Louvain,    region:vbr,  91_942
-Mons|Bergen,       region:wht,  91_196
-Mechelen|Malines,  region:van,  78_900
+##
+#  fix: use BRU, VAN etc. for region code
+#  fix: remove pipeline |  w/ space(add to parser)
+
+## fix: allow Brussel[nl]•Bruxelles[fr] for auto-key; change back
+
+Brussel[nl]|Bruxelles[fr]|[Brussels], region:bru,  1_048_491, m:1_929_000      # nl|fr|en
+Antwerpen[nl]|Anvers[fr] [Antwerp],   region:van, 466_203,  m:960_000
+Gent[nl]|Gand[fr][Ghent],     region:vov, 235_143
+Charleroi[fr],             region:wht, 201_550
+Liège[fr]|Luik[nl],        region:wlg, 188_907
+Brugge[nl]|Bruges[fr],     region:vwv, 116_982
+Namur[fr]|Namen[nl],       region:wna, 107_653
+Leuven[nl]|Louvain[fr] Löwen[de],    region:vbr,  91_942
+Mons[fr]|Bergen[nl],       region:wht,  91_196
+Mechelen[nl]|Malines[fr],  region:van,  78_900
 
 
 ## add as city districts? (or cities w/ major or similar flag=false?)

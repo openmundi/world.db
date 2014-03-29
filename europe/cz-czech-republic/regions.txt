@@ -1,3 +1,6 @@
+###########################
+# Czech Republic (cz)
+
 
 ###
 ##  14 regions
@@ -11,45 +14,46 @@
 
 ### NUTS CZ01 Praha
 
-pr, Praha [Prague • Prag],     496 km²
+pr, Praha [Prague]|Prag[de],    496 km²
 
 
 ### NUTS CZ02 Central Bohemia
 
-st, Střední Čechy [Central Bohemia • Mittelböhmen], 11_015 km², central bohemia
+st, Střední Čechy [Central Bohemia]|Mittelböhmen[de], 11_015 km², central bohemia
 
 
 ### NUTS CZ03 Southwest
 
-jc, Jižní Čechy [South Bohemia • Südböhmen], 10_057 km², southwest
-pl, Plzeň [• Pilsen],             7_561 km², southwest
+jc, Jižní Čechy [South Bohemia]|Südböhmen[de], 10_057 km², southwest
+pl, Plzeň|Pilsen[de],             7_561 km², southwest
 
 
 ### NUTS CZ04 Northwest
 
-ka, Karlovy Vary [Carlsbad • Karlsbad],    3_314 km², northwest
-us, Ústí nad Labem [• Aussig],    5_335 km², northwest
+ka, Karlovy Vary [Carlsbad]|Karlsbad[de],    3_314 km², northwest
+us, Ústí nad Labem|Aussig[de],    5_335 km², northwest
 
 
 ### NUTS CZ05 Northeast
 
-li, Liberec   [• Reichenberg],  3_163 km², northeast
-kr, Hradec Králové [• Königgrätz],    4_758 km², northeast
-pa, Pardubice   [• Pardubitz],         4_519 km², northeast
+li, Liberec|Reichenberg[de],  3_163 km², northeast
+kr, Hradec Králové|Königgrätz[de],    4_758 km², northeast
+pa, Pardubice|Pardubitz[de],         4_519 km², northeast
 
 
 ### NUTS CZ06 Southeast
 
-jm, Jižní Morava [South Moravia • Südmähren],   7_067 km², southeast
-vy, Vysočina [• Hochland],          6_926 km², southeast
+jm, Jižní Morava [South Moravia]|Südmähren[de],   7_067 km², southeast
+vy, Vysočina|Hochland[de],          6_926 km², southeast
 
 
 ### NUTS CZ07 Central Moravia
 
-ol, Olomouc [• Olmütz],    5_159 km², central moravia
-zl, Zlín [• Zlin],         3_964 km², central moravia
+ol, Olomouc|Olmütz[de],    5_159 km², central moravia
+zl, Zlín|Zlin[de],         3_964 km², central moravia
 
 
 ### NUTS CZ08 Moravia-Silesia
 
-mo, Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien],   5_535 km²
+mo, Moravskoslezsko [Moravia-Silesia]|Mähren-Schlesien[de],   5_535 km²
+

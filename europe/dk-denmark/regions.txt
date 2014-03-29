@@ -1,0 +1,19 @@
+#############################
+# Denmark (dk)
+
+
+h,  Hovedstaden [Greater Copenhagen|Capital Region], Hillerød, 2_561 km², 1_714_486   ## use h - why? why not? in common use?
+sj, Sjælland [Zealand],                              Sorø,     7_273 km²,   817_907   ## use sl - why? why not? in common use?
+n,  Nordjylland [North Denmark|North Jutland],       Aalborg,  8_020 km²,   579_996
+m,  Midtjylland [Central Denmark|Central Jutland],   Viborg,  13_053 km², 1_266_682
+s,  Syddanmark  [South Denmark],                     Vejle,   12_191 km², 1_201_342   ## use s - why? why not? in common use?
+
+
+##
+# todo/check: what keys to use? no official iso or nuts alpha code; only numeric
+
+## use NUTS
+## NUTS 2 --  5 Regions (Regioner)
+## NUTS 3 -- 11 Lands (Landsdele)
+##  see en.wikipedia.org/wiki/NUTS:DK
+
