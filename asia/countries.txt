@@ -6,10 +6,10 @@
 #  central asia
 
 kz, Kazakhstan,  KAZ,  2_724_900 km²,  16_600_000,    un|fifa|uefa|europe|central_asia
-kg, Kyrgyzstan, KGZ, 199_900 km²,  5_550_239,  Bishkek, un|fifa|afc|central_asia
-tj, Tajikistan, TJK,  143_100 km², 7_616_000,     Dushanbe,  un|fifa|afc|central_asia
-tm, Turkmenistan, TKM, 491_210 km², 5_125_693,   Ashgabat,  un|fifa|afc|central_asia
-uz, Uzbekistan, UZB, 447_400 km²,  29_559_100,    Tashkent,  un|fifa|afc|central_asia
+kg, Kyrgyzstan, KGZ, Bishkek, 199_900 km²,  5_550_239,  un|fifa|afc|central_asia
+tj, Tajikistan, TJK, Dushanbe, 143_100 km², 7_616_000,      un|fifa|afc|central_asia
+tm, Turkmenistan, TKM, Ashgabat, 491_210 km², 5_125_693,     un|fifa|afc|central_asia
+uz, Uzbekistan, UZB, Tashkent, 447_400 km²,  29_559_100,     un|fifa|afc|central_asia
 
 ################
 # east asia
@@ -19,7 +19,7 @@ kp, North Korea,  PRK,    120_538 km²,     24_346_000,  un|fifa|afc|east_asia
 kr, South Korea,  KOR,     99_828 km²,     48_988_833,  un|fifa|afc|east_asia|g20
 cn, China,        CHN,  9_596_961 km²,  1_339_724_852,  un|fifa|afc|east_asia|g5|g20
 tw, Taiwan,       TPE,     36_188 km²,     23_174_528,  fifa|afc|east_asia
-mn, Mongolia, MGL,  1_564_116 km², 2_754_685,  Ulan Bator, un|fifa|afc|east_asia
+mn, Mongolia, MGL, Ulan Bator, 1_564_116 km², 2_754_685,  un|fifa|afc|east_asia
 
 
 ###################
@@ -30,12 +30,12 @@ in, India,      IND,  3_287_240 km², 1_210_193_422,  un|fifa|afc|south_asia|g5|
 bd, Bangladesh, BAN,    147_570 km²,   152_518_015,  un|fifa|afc|south_asia|commonwealth
 np, Nepal,      NEP,    147_181 km²,    26_620_080,  un|fifa|afc|south_asia
 lk, Sri Lanka,  SRI,     65_610 km²,    20_277_597,  un|fifa|afc|south_asia|commonwealth
-bt, Bhutan,     BHU,     38_394 km²,       742_737,    Thimphu, un|fifa|afc|south_asia
-mv, Maldives,   MDV,        298 km²,       328_536,  Malé,  un|fifa|afc|south_asia|microstate|commonwealth
+bt, Bhutan,     BHU, Thimphu,    38_394 km²,       742_737,  un|fifa|afc|south_asia
+mv, Maldives,   MDV, Malé,          298 km²,       328_536,  un|fifa|afc|south_asia|microstate|commonwealth
 
 # also add afghanistan here - why? why not?
 
-af, Afghanistan, AFG, 647_500 km²,  30_419_928,     Kabul, un|fifa|afc|south_asia|central_asia
+af, Afghanistan, AFG, Kabul, 647_500 km²,  30_419_928,    un|fifa|afc|south_asia|central_asia
 
 
 ########################
@@ -47,9 +47,9 @@ sg, Singapore,   SIN,         724 km²,     5_274_700,  un|fifa|afc|southeast_as
 th, Thailand,    THA,     513_120 km²,    64_076_000,  un|fifa|afc|southeast_asia
 ph, Philippines, PHI,     300_000 km²,    95_856_000,  un|fifa|afc|southeast_asia
 vn, Vietnam,     VIE,     331_210 km²,    89_316_000,  un|fifa|afc|southeast_asia
-bn, Brunei, BRU,      5_765 km²,       408_786,    Bandar Seri Begawan,   un|fifa|afc|southeast_asia|commonwealth
-mm, Myanmar, MYA,   676_578 km²,  60_280_000,    Naypyidaw, un|fifa|afc|southeast_asia
-kh, Cambodia, CAM,   181_035 km²,   14_952_665,  Phnom Penh,  un|fifa|afc|southeast_asia
-tl, Timor-Leste [East Timor], TLS, 14_874 km², 1_066_582,   Dili, un|fifa|afc|southeast_asia
-la, Laos, LAO,  236_800 km²,  6_500_000,    Vientiane,  un|fifa|afc|southeast_asia
+bn, Brunei, BRU, Bandar Seri Begawan,      5_765 km²,     408_786, un|fifa|afc|southeast_asia|commonwealth
+mm, Myanmar, MYA, Naypyidaw,             676_578 km²,  60_280_000, un|fifa|afc|southeast_asia
+kh, Cambodia, CAM, Phnom Penh,           181_035 km²,  14_952_665, un|fifa|afc|southeast_asia
+tl, Timor-Leste [East Timor], TLS, Dili,  14_874 km²,   1_066_582, un|fifa|afc|southeast_asia
+la, Laos, LAO, Vientiane,                236_800 km²,   6_500_000, un|fifa|afc|southeast_asia
 

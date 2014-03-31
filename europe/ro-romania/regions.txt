@@ -9,20 +9,16 @@
 # NUTS regions used for tags
 #   see en.wikipedia.org/wiki/NUTS_of_Romania
 
+
 ###########################
 #  Nord-Vest, North-West (6)
 
-bh, Bihor,          Oradea,  7_544 km²,        nord_vest|north_west
-
-## fix:
-#  add ț Bistrița to textutils
-#  - also check Năsăud
-
-bn, Bistrița-Năsăud, 5_355 km²,     nord_vest|north_west    # Bistrița, 
-cj, Cluj,            Cluj-Napoca, 6_674 km²,   nord_vest|north_west
-mm, Maramureș,       Baia Mare,   6_304 km²,     nord_vest|north_west
-sm, Satu Mare,       Satu Mare,   4_418 km²,    nord_vest|north_west
-sj, Sălaj,           Zalău,       3_864 km²,         nord_vest|north_west
+bh, Bihor,           Oradea,      7_544 km², nord_vest|north_west
+bn, Bistrița-Năsăud, Bistrița,    5_355 km², nord_vest|north_west
+cj, Cluj,            Cluj-Napoca, 6_674 km², nord_vest|north_west
+mm, Maramureș,       Baia Mare,   6_304 km², nord_vest|north_west
+sm, Satu Mare,       Satu Mare,   4_418 km², nord_vest|north_west
+sj, Sălaj,           Zalău,       3_864 km², nord_vest|north_west
 
 
 ##############################
@@ -39,71 +35,59 @@ sb, Sibiu,    Sibiu,           5_432 km²,  centru|center
 ####################################
 # Nord-Est, North-East (6)
 
-bc, Bacău,    Bacău,    6_621 km²,        nord_est|north_east
-bt, Botoșani, Botoșani, 4_986 km²,      nord_est|north_east
-is, Iași,     Iași,     5_476 km²,        nord_est|north_east
-
-#### fix:
-##  ț  -  Piatra-Neamț,
-
-nt, Neamț,    5_896 km²,  nord_est|north_east   # Piatra-Neamț,
-sv, Suceava,  Suceava,   8_553 km²,      nord_est|north_east
-vs, Vaslui,   Vaslui,    5_318 km²,       nord_est|north_east
+bc, Bacău,    Bacău,        6_621 km², nord_est|north_east
+bt, Botoșani, Botoșani,     4_986 km², nord_est|north_east
+is, Iași,     Iași,         5_476 km², nord_est|north_east
+nt, Neamț,    Piatra-Neamț, 5_896 km², nord_est|north_east
+sv, Suceava,  Suceava,      8_553 km², nord_est|north_east
+vs, Vaslui,   Vaslui,       5_318 km², nord_est|north_east
 
 
 ######################################
 # Sud-Est, South-East (6)
 
-br, Brăila,   Brăila,   4_766 km²,   sud_est|south_east
-bz, Buzău,    Buzău,    6_103 km²,   sud_est|south_east
-
-#### fix: țțț
-
-ct, Constanța, 7_071 km²,  sud_est|south_east   # Constanța,
-gl, Galați,    4_466 km²,   sud_est|south_east   # Galați, 
-tl, Tulcea,   Tulcea,  8_499 km²,    sud_est|south_east
-vn, Vrancea,  Focșani, 4_857 km²,    sud_est|south_east
+br, Brăila,    Brăila,    4_766 km², sud_est|south_east
+bz, Buzău,     Buzău,     6_103 km², sud_est|south_east
+ct, Constanța, Constanța, 7_071 km², sud_est|south_east
+gl, Galați,    Galați,    4_466 km², sud_est|south_east
+tl, Tulcea,    Tulcea,    8_499 km², sud_est|south_east
+vn, Vrancea,   Focșani,   4_857 km², sud_est|south_east
 
 
 #######################################
 # Sud-Muntenia, South (7)
 
-ag, Argeș,     Pitești,    6_826 km²,     sud_muntenia|south
-cl, Călărași,  Călărași,   5_088 km²,    sud_muntenia|south
-db, Dâmbovița, Târgoviște, 4_054 km²,   sud_muntenia|south
-gr, Giurgiu,   Giurgiu,    3_526 km²,     sud_muntenia|south
-il, Ialomița,  Slobozia,   4_453 km²,     sud_muntenia|south
-ph, Prahova,   Ploiești,   4_716 km²,     sud_muntenia|south
-tr, Teleorman, Alexandria, 5_790 km²,   sud_muntenia|south
+ag, Argeș,     Pitești,    6_826 km², sud_muntenia|south
+cl, Călărași,  Călărași,   5_088 km², sud_muntenia|south
+db, Dâmbovița, Târgoviște, 4_054 km², sud_muntenia|south
+gr, Giurgiu,   Giurgiu,    3_526 km², sud_muntenia|south
+il, Ialomița,  Slobozia,   4_453 km², sud_muntenia|south
+ph, Prahova,   Ploiești,   4_716 km², sud_muntenia|south
+tr, Teleorman, Alexandria, 5_790 km², sud_muntenia|south
 
 
 ########################################
 #  Bucureşti-Ilfov, Bucharest-Ilfov (2)
 
-#### fix: change to official code b (single-letter)
-
-bb, București, București,   238 km²,  bucuresti_ilfov
+b,  București, București,   238 km²,  bucuresti_ilfov
 if, Ilfov,     București, 1_583 km²,  bucuresti_ilfov
 
 
 ###########################################
 # Sud-Vest Oltenia, South-West (5)
 
-dj, Dolj,      Craiova,    7_414 km²,   sud_vest_oltenia|south_west
-gj, Gorj,      Târgu Jiu,  5_602 km²,  sud_vest_oltenia|south_west
-mh, Mehedinți, Drobeta-Turnu Severin, 4_933 km²,   sud_vest_oltenia|south_west
-ot, Olt,       Slatina,    5_498 km²,  sud_vest_oltenia|south_west
-vl, Vâlcea,    Râmnicu Vâlcea, 5_765 km²,   sud_vest_oltenia|south_west
+dj, Dolj,      Craiova,               7_414 km², sud_vest_oltenia|south_west
+gj, Gorj,      Târgu Jiu,             5_602 km², sud_vest_oltenia|south_west
+mh, Mehedinți, Drobeta-Turnu Severin, 4_933 km², sud_vest_oltenia|south_west
+ot, Olt,       Slatina,               5_498 km², sud_vest_oltenia|south_west
+vl, Vâlcea,    Râmnicu Vâlcea,        5_765 km², sud_vest_oltenia|south_west
+
 
 #######################################
 # Vest, West (4)
 
-ar, Arad,       Arad,   7_754 km²,      vest|west
-
-#####
-# fix: țțțț
-
-cs, Caraș-Severin, 8_520 km²,    vest|west   # Reșița, 
-hd, Hunedoara,     Deva,      7_063 km²,      vest|west
-tm, Timiș,         Timișoara, 8_697 km²,  vest|west
+ar, Arad,          Arad,      7_754 km², vest|west
+cs, Caraș-Severin, Reșița,    8_520 km², vest|west
+hd, Hunedoara,     Deva,      7_063 km², vest|west
+tm, Timiș,         Timișoara, 8_697 km², vest|west
 

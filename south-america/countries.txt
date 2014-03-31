@@ -1,5 +1,6 @@
 ##################
-# south america
+# South America
+
 
 ar, Argentina,     ARG, 2_780_400 km²,  40_518_425, un|fifa|conmebol|south america|g20|southern_cone
 bo, Bolivia,       BOL, 1_098_581 km²,  10_907_778, un|fifa|conmebol|south america|andean_states

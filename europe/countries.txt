@@ -1,5 +1,5 @@
 ####################
-# europe
+# Europe
 
 
 ## eu 27 (+ euro 17)
@@ -56,14 +56,14 @@ no, Norway,       NOR,    385_155 km²,   4_993_300,  un|fifa|uefa|schengen|uefa
 is, Iceland,      ISL,    103_000 km²,     318_452,  un|fifa|uefa|schengen|uefa|northern europe|nordic
 
 
-va, Vatican City, VAT,          1 km²,   836,   Vatican City,   microstate|southern_europe  # NB: not fifa member; use ISO code
+va, Vatican City, VAT, Vatican City,      1 km²,   836,    microstate|southern_europe  # NB: not fifa member; use ISO code
 
-ba, Bosnia and Herzegovina, BIH,  51_197 km²,   3_839_737,  Sarajevo, un|fifa|uefa|southern_europe|balkans|southeastern_europe
-li, Liechtenstein, LIE, 160 km²,  36281,  Vaduz,  un|fifa|uefa|microstate|western_europe
-mc, Monaco, MCO,  2 km²,  36371,  Monaco,  un|microstate|western_europe    # nb: use ISO code; not fifa member
-me, Montenegro, MNE, 13_812 km²,  625_266,   Podgorica,  un|fifa|uefa|southern_europe|balkans|southeastern_europe
-md, Moldova, MDA,  33_846 km²,  3_559_500,   Chișinău,  un|fifa|uefa|eastern_europe
-sm, San Marino, SMR,  61 km²,  32_404,  City of San Marino,  un|fifa|uefa|microstate|southern_europe
+ba, Bosnia and Herzegovina, BIH, Sarajevo,  51_197 km²,   3_839_737, un|fifa|uefa|southern_europe|balkans|southeastern_europe
+li, Liechtenstein,          LIE, Vaduz,        160 km²,      36_281, un|fifa|uefa|microstate|western_europe
+mc, Monaco,                 MCO, Monaco,         2 km²,       36371, un|microstate|western_europe    # nb: use ISO code; not fifa member
+me, Montenegro,             MNE, Podgorica, 13_812 km²,     625_266, un|fifa|uefa|southern_europe|balkans|southeastern_europe
+md, Moldova,                MDA, Chișinău,  33_846 km²,   3_559_500, un|fifa|uefa|eastern_europe
+sm, San Marino,             SMR, (City of) San Marino, 61 km², 32_404, un|fifa|uefa|microstate|southern_europe
 
 
 
@@ -71,7 +71,7 @@ sm, San Marino, SMR,  61 km²,  32_404,  City of San Marino,  un|fifa|uefa|micro
 ## - add to middle east?
 ##  - check azerbaijan is in europe and fifa too?
 
-ge, Georgia,      GEO,    69_700 km²,  4_570_934,   un|fifa|uefa|europe|western asia|south caucasus
-am, Armenia,      ARM,    29_743 km²,  2_970_495,   un|fifa|uefa|europe|western asia|south caucasus
-az, Azerbaijan,   AZE,   86_600 km²,   9_165_000,     Baku, un|fifa|uefa|western asia|south caucasus
+ge, Georgia,      GEO,        69_700 km²,  4_570_934, un|fifa|uefa|europe|western asia|south caucasus
+am, Armenia,      ARM,        29_743 km²,  2_970_495, un|fifa|uefa|europe|western asia|south caucasus
+az, Azerbaijan,   AZE, Bakı,  86_600 km²,  9_165_000, un|fifa|uefa|western asia|south caucasus
 
