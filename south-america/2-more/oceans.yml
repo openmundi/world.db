@@ -1,0 +1,16 @@
+#################################
+# south america / Neighbouring seas and oceans
+
+ar: Atlantic Ocean   # Argentina
+bo: -                # Bolivia
+br: Atlantic Ocean   # Brazil
+cl: Pacific Ocean    # Chile
+co: Atlantic Ocean, Pacific Ocean   # Colombia
+ec: Pacific Ocean    # Ecuador
+pe: Pacific Ocean    # Peru
+py: -                # Paraguay
+uy: Atlantic Ocean   # Uruguay
+ve: Atlantic Ocean   # Venezuela
+gy: Atlantic Ocean   # Guyana
+sr: Atlantic Ocean   # Suriname
+

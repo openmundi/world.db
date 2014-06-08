@@ -1,0 +1,69 @@
+
+
+at: Germany (784 km),
+    Italy (430 km),
+    Hungary (366 km),
+    Czech Republic (362 km),
+    Slovenia (330 km),
+    Switzerland (164 km),
+    Slovakia (91 km),
+    Liechtenstein (35 km)   # Austria - 2.562 km
+
+cz:  Germany (815 km), 
+     Poland (615 km),
+     Austria (362 km),
+     Slovakia (197 km)    # Czech Republic - 1.989 km
+
+ch:  Italy (740 km),
+     France (573 km),
+     Germany (334 km),
+     Austria (164 km),
+     Liechtenstein (41 km)   #  Switzerland - 1.852 km
+
+de: Austria (784 km), 
+    Czech Republic (646 km),
+    Netherlands (577 km),
+    Poland (456 km),
+    France (451 km),
+    Switzerland (334 km),
+    Belgium (167 km),
+    Luxembourg (138 km),
+    Denmark (68 km)   # Germany - 3.621 km 
+
+it:  Switzerland (740 km),
+     France (488 km),
+     Austria (430 km),
+     Slovenia (199 km),
+     San Marino (39 km),
+     Vatican City (3 km)    # Italy - 1.899 km
+
+fr:  Spain (623 km),
+     Belgium (620 km),
+     Switzerland (573 km),
+     Italy (488 km),
+     Germany (451 km),
+     Luxembourg (73 km),
+     Andorra (57 km),
+     Monaco (4 km)    # France  - 2.889 km
+
+es:  Portugal (1.214 km),
+     France (623 km),
+      Andorra (64 km),
+      Morocco (16 km),
+      Gibraltar (1 km)   # Spain - 1.918 km
+
+pt:  Spain (1,214 km)    # Portugal - 1,214 km
+
+nl:   Germany (577 km),
+      Belgium (450 km)   # Netherlands - 1.027 km
+ 
+be:   France (620 km),
+      Netherlands (450 km),
+      Germany (167 km),
+      Luxembourg (148 km)  # Belgium - 1.385 km
+
+lu:   Belgium (148 km),
+      Germany (138 km),
+      France  (73 km)    # Luxembourrg - 359 km
+
+

@@ -1,0 +1,34 @@
+##############
+# Asia 
+
+af: -           # Afghanistan
+bt: ?           # Bhutan
+bn: ?           # Brunei
+kh: South China Sea      # Cambodia
+kg: ?           # Kyrgyzstan
+la: -           # Laos
+mv: Indian Ocean         # Maldives
+mn: ?           # Mongolia
+mm: ?           # Myanmar
+tj: ?           # Tajikistan
+tl: ?           # Timor-Leste [East Timor]
+tm: ?           # Turkmenistan
+uz: Aral Sea                                # Uzbekistan
+jp: East China Sea, Pacific Ocean           # Japan
+kp: East China Sea, Yellow Sea              # North Korea
+kr: East Sea (Japanese Sea), Yellow Sea     # South Korea
+cn: Yellow Sea, China Sea                   # China
+tw: China Sea, Philippine Sea               # Taiwan
+id: Indian Ocean, Pacific Ocean             # Indonesia
+my: South China Sea, Sulu Sea, Celebes Sea  # Malaysia
+sg: South China Sea                         # Singapore
+th: South China Sea                         # Thailand
+ph: Pacific Ocean, Philippine Sea, Sulu Sea # Philippines
+vn: South China Sea                         # Vietnam
+pk: Indian Ocean        # Pakistan
+in: Indian Ocean        # India
+bd: Indian Ocean        # Bangladesh
+np: -           # Nepal
+lk: Indian Ocean            # Sri Lanka
+kz: Caspian Sea, Aral Sea   # Kazakhstan
+

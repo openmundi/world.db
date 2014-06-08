@@ -1,0 +1,72 @@
+#######################
+# Oceans n Seas
+
+Arctic Ocean
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+
+#########
+# see  en.wikipedia.org/wiki/Template:List_of_seas
+#  check - use to reorder??
+
+Labrador Sea
+Beaufort Sea
+
+Gulf of Mexico
+Caribbean Sea
+
+East China Sea
+China Sea
+Yellow Sea
+East Sea (Japanese Sea)
+Philippine Sea
+Sulu Sea
+Celebes Sea
+
+Sea of Japan
+Okhotsk Sea
+East Siberian Sea
+Laptev Sea
+Kara Sea
+Barents Sea
+
+
+Greenland Sea
+Norwegian Sea
+Channel
+Irish Sea
+Sea of the Hebrides
+North Sea
+Mediterranean Sea
+Adriatic Sea
+Baltic Sea
+Gulf of Bothnia
+
+Ionian Sea
+Aegean Sea
+Sea of Crete
+Sea of Thrace
+
+Sea of Azov
+Black Sea
+
+
+Red Sea
+Gulf of Aqaba
+Gulf of Oman
+Sea of Oman
+
+###########################
+# Landlocked seas
+
+Dead Sea
+Caspian Sea
+Aral Sea
+
+
+
+
+
+
+

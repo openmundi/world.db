@@ -1,0 +1,60 @@
+###########################################
+# Europe / Neighbouring seas and oceans
+
+ba: ?           # Bosnia and Herzegovina
+mc: ?           # Monaco
+me: ?           # Montenegro
+md: ?           # Moldova
+sm: ?           # San Marino
+
+be: North Sea          # Belgium
+nl: North Sea          # Netherlands
+de: North Sea, Baltic Sea   # Germany
+dk: North Sea, Baltic Sea   # Denmark
+ee: Baltic Sea             # Estonia
+fi: Baltic Sea             # Finland
+lv: Baltic Sea             # Latvija [Latvia]
+lt: Baltic Sea             # Lithuania
+pl: Baltic Sea             # Poland
+se: Baltic Sea, Gulf of Bothnia    # Sweden
+
+no: Norwegian Sea, Arctic Ocean           # Norway
+is: Atlantic Ocean, Greenland Sea         # Iceland
+ie: Atlantic Ocean, Sea of the Hebrides, Irish Sea   # Irland
+gb: Atlantic Ocean, Irish Sea, North Sea, Channel   # Great Britain
+
+pt: Atlantic Ocean        # Portugal
+es: Atlantic Ocean, Mediterranean Sea   # Spain
+fr: Atlantic Ocean, Mediterranean Sea, Channel     # France
+gr: Mediterranean Sea, Ionian Sea, Aegean Sea, Sea of Crete, Sea of Thrace    # Greece
+it: Mediterranean Sea, Adriatic Sea          # Italy
+mt: Mediterranean Sea             # Malta
+cy: Mediterranean Sea             # Cyprus
+tr: Mediterranean Sea, Black Sea  # Turkey
+bg: Black Sea             # Bulgaria
+ro: Black Sea             # Romania
+
+lu: -        # Luxembourg
+at: -        # Austria
+li: -        # Liechtenstein
+ch: -        # Switzerland
+cz: -        # Czech Republic
+hu: -        # Hungary
+sk: -        # Slovakia
+
+si: Adriatic Sea          # Slovenia
+al: Adriatic Sea  # Albania
+hr: Adriatic Sea  # Croatia
+rs: Adriatic Sea  # Serbia
+
+
+ad: ?           # Andorra
+ru: Arctic Ocean, Pacific Ocean, Baltic Sea, Black Sea, Caspian Sea, Sea of Japan, Okhotsk Sea, East Siberian Sea, Laptev Sea, Kara Sea, Barents Sea  # Russia
+by: -           # Belarus
+ua: Sea of Azov, Black Sea         # Ukraine
+mk: ?           # Macedonia
+va: ?           # Vatican City
+
+az: ?           # Azerbaijan
+ge: ?           # Georgia
+am: ?           # Armenia

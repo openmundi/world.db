@@ -1,0 +1,58 @@
+####################
+# africa
+
+ao: ?           # Angola
+bj: ?           # Benin
+bw: ?           # Botswana
+bf: ?           # Burkina Faso
+bi: ?           # Burundi
+cv: ?           # Cape Verde
+cf: ?           # Central African Republic
+td: ?           # Chad
+km: ?           # Comoros
+cg: ?           # Congo
+cd: ?           # Congo DR
+dj: ?           # Djibouti
+gq: ?           # Equatorial Guinea
+er: ?           # Eritrea
+et: ?           # Ethiopia
+ga: ?           # Gabon
+gm: ?           # Gambia
+gn: ?           # Guinea
+gw: ?           # Guinea-Bissau
+ke: ?           # Kenya
+ls: ?           # Lesotho
+lr: ?           # Liberia
+mg: ?           # Madagascar
+mw: ?           # Malawi
+ml: ?           # Mali
+mr: ?           # Mauritania
+mu: ?           # Mauritius
+mz: ?           # Mozambique
+na: ?           # Namibia
+ne: ?           # Niger
+rw: ?           # Rwanda
+st: ?           # São Tomé and Príncipe
+sn: ?           # Senegal
+yc: Indian Ocean           # Seychelles
+sl: ?           # Sierra Leone
+so: Indian Ocean          # Somalia
+ss: -                 # South Sudan
+sd: Red Sea           # Sudan
+sz: ?           # Swaziland
+tg: ?           # Togo
+ug: ?           # Uganda
+tz: ?           # Tanzania
+zm: ?           # Zambia
+zw: ?           # Zimbabwe
+dz: Mediterranean Sea                   # Algeria
+eg: Mediterranean Sea, Red Sea          # Egypt
+ma: Mediterranean Sea, Atlantic Ocean   # Morocco
+ly: Mediterranean Sea                   # Libya
+tn: Mediterranean Sea                   # Tunisia
+ci: ?           # Côte d'Ivoire
+gh: ?           # Ghana
+ng: ?           # Nigeria
+cm: ?           # Cameroon
+za: Indian Ocean, Atlantic Ocean      # South Africa
+

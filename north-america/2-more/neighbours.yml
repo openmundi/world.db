@@ -1,0 +1,11 @@
+
+ca: United States (8.893 km)   ## Canada - 8.893 km
+
+us:  Canada (8.893 km),
+     Mexico (3.141 km)         ## United States - 12.034 km
+
+mx:  United States (3.141 km),
+     Guatemala (962 km),
+     Belize (250 km)           ## México - 4.353 km
+
+
