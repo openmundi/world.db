@@ -141,11 +141,6 @@ europe/1-codes/internet
 europe/1-codes/iso3
 europe/1-codes/motor
 europe/am-armenia/cities
-europe/at-austria/regions
-europe/at-austria/regions.abbr
-europe/at-austria/regions.iso
-europe/at-austria/cities
-europe/at-austria/cities_10_000
 europe/be-belgium/regions
 europe/be-belgium/cities
 europe/bg-bulgaria/regions
