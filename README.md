@@ -1,4 +1,4 @@
-# Welcome to `world.db` - Benvenuto - Willkommen - ようこそ - Bienvenido
+# Willkommen - Benvenuto  - ようこそ - Bienvenido - Welcome to `world.db` 
 
 
 A free open public domain world database & schema
@@ -6,28 +6,25 @@ for use in any (programming) language
 (e.g. uses plain text datasets). Example:
 
 ~~~
+### Continents
+
+eu, Europe
+sa, South America
+na, North America
+ca, Central America
+ci, Caribbean         
+af, Africa
+me, Middle East        
+as, Asia
+pa, Pacific
+~~~
+
+~~~
 ### Countries
 
 ca, Canada,          CAN,   9_984_670 km²,  34_278_406, un|north america
 mx, México [Mexico], MEX,   1_972_550 km², 112_322_757, un|north america
 us, United States,   USA,   9_629_091 km², 314_167_157, un|north america
-~~~
-
-~~~
-### Cities
-
-Toronto,            ON,   5_583_064
-Montréal|Montreal,  QC,   3_824_221
-Vancouver,          BC,   2_313_328
-Ottawa,             ON,   1_236_324
-Calgary,            AB,   1_214_839
-Edmonton,           AB,   1_159_869
-Québec,             QC,     765_706
-Winnipeg,           MB,     730_018
-Hamilton,           ON,     721_053
-Kitchener,          ON,     477_160
-London,             ON,     474_786
-...
 ~~~
 
 ~~~
@@ -50,6 +47,23 @@ qc, Québec,                 Quebec City,  1_356_547 km², fr|en|eastern canada|
 nt, Northwest Territories,  Yellowknife,    1_143_793 km², en|fr|northern canada|territories
 yt, Yukon,                  Whitehorse,   474_713 km², en|northern canada|territories
 nu, Nunavut,                Iqaluit,     1_877_788 km², iu|en|fr|northern canada|territories
+~~~
+
+~~~
+### Cities
+
+Toronto,            ON,   5_583_064
+Montréal|Montreal,  QC,   3_824_221
+Vancouver,          BC,   2_313_328
+Ottawa,             ON,   1_236_324
+Calgary,            AB,   1_214_839
+Edmonton,           AB,   1_159_869
+Québec,             QC,     765_706
+Winnipeg,           MB,     730_018
+Hamilton,           ON,     721_053
+Kitchener,          ON,     477_160
+London,             ON,     474_786
+...
 ~~~
 
 
