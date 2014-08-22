@@ -1,0 +1,79 @@
+#########################
+# Europe (49 countries)
+#
+#  alpha2, alpha3, num3 codes
+
+ba, BA, BIH, 070    # Bosnia and Herzegovina
+li, LI, LIE, 438    # Liechtenstein
+mc, MC, MCO, 492    # Monaco
+me, ME, MNE, 499    # Montenegro
+md, MD, MDA, 498    # Moldova
+sm, SM, SMR, 674    # San Marino
+at, AT, AUT, 040    # Austria
+be, BE, BEL, 056    # Belgium
+cy, CY, CYP, 196    # Cyprus
+de, DE, DEU, 276    # Germany
+ee, EE, EST, 233    # Estonia
+es, ES, ESP, 724    # Spain
+fi, FI, FIN, 246    # Finland
+fr, FR, FRA, 250    # France
+gr, GR, GRC, 300    # Greece
+ie, IE, IRL, 372    # Ireland
+it, IT, ITA, 380    # Italy
+lu, LU, LUX, 442    # Luxembourg
+mt, MT, MLT, 470    # Malta
+nl, NL, NLD, 528    # Netherlands
+pt, PT, PRT, 620    # Portugal
+sk, SK, SVK, 703    # Slovakia
+si, SI, SVN, 705    # Slovenia
+bg, BG, BGR, 100    # Bulgaria
+dk, DK, DNK, 208    # Denmark
+lv, LV, LVA, 428    # Latvija
+lt, LT, LTU, 440    # Lithuania
+pl, PL, POL, 616    # Poland
+ro, RO, ROU, 642    # Romania
+se, SE, SWE, 752    # Sweden
+cz, CZ, CZE, 203    # Czech Republic
+hu, HU, HUN, 348    # Hungary
+gb, GB, GBR, 826    # Great Britain
+ad, AD, AND, 020    # Andorra
+al, AL, ALB, 008    # Albania
+by, BY, BLR, 112    # Belarus
+ch, CH, CHE, 756    # Switzerland
+hr, HR, HRV, 191    # Croatia
+rs, RS, SRB, 688    # Serbia
+ru, RU, RUS, 643    # Russia
+tr, TR, TUR, 792    # Turkey
+ua, UA, UKR, 804    # Ukraine
+mk, MK, MKD, 807    # Macedonia
+no, NO, NOR, 578    # Norway
+is, IS, ISL, 352    # Iceland
+va, VA, VAT, 336    # Vatican City
+
+az, AZ, AZE, 031    # Azerbaijan
+ge, GE, GEO, 268    # Georgia
+am, AM, ARM, 051    # Armenia
+
+
+########
+## no official iso codes found - check if mistaken
+#  fix -- ??
+
+# eu: !!null           # European Union
+# en: !!null           # England (GB)
+# sc: !!null           # Scotland (GB)
+# wa: !!null           # Wales (GB)
+# nd: !!null           # Northern Ireland (GB)
+
+
+#################################
+#  Dependencies & Territories
+
+fo, FO, FRO, 234    # Faroe Islands (DK)
+ax, AX, ALA, 248    # Åland (FI)
+
+gi, GI, GIB, 292    # Gibraltar (GB)
+im, IM, IMN, 833    # Isle of Man (GB)
+je, JE, JEY, 832    # Jersey (GB)
+gg, GG, GGY, 831    # Guernsey (GB)
+
