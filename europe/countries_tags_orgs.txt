@@ -1,0 +1,92 @@
+###############################
+# Europe (49 countries)
+
+
+## eu 27 (+ euro 17)
+
+eu, European Union, g20
+
+at, Austria,        un|eu|euro|schengen
+be, Belgium,        un|eu|euro|schengen
+cy, Cyprus,         un|eu|euro|commonwealth
+de, Germany,        un|eu|euro|schengen|g8|g20
+ee, Estonia,        un|eu|euro|schengen
+es, Spain,          un|eu|euro|schengen
+fi, Finland,        un|eu|euro|schengen
+fr, France,         un|eu|euro|schengen|g8|g20
+gr, Greece,         un|eu|euro|schengen
+ie, Irland,         un|eu|euro
+it, Italy,          un|eu|euro|schengen|g8|g20
+lu, Luxembourg,     un|eu|euro|schengen
+mt, Malta,          un|eu|euro|schengen|microstate|commonwealth
+nl, Netherlands,    un|eu|euro|schengen
+pt, Portugal,       un|eu|euro|schengen
+sk, Slovakia,       un|eu|euro|schengen
+si, Slovenia,       un|eu|euro|schengen
+
+bg, Bulgaria,       un|eu
+dk, Denmark,        un|eu|schengen
+lv, Latvija,        un|eu|schengen
+lt, Lithuania,      un|eu|schengen
+pl, Poland,         un|eu|schengen
+ro, Romania,        un|eu
+se, Sweden,         un|eu|schengen
+cz, Czech Republic, un|eu|schengen
+hu, Hungary,        un|eu|schengen
+
+
+gb, Great Britain,   un|eu|g8|g20|commonwealth
+
+ad, Andorra,         un|microstate
+al, Albania,         un
+by, Belarus,         un
+ch, Switzerland,     un|schengen
+hr, Croatia,         un
+rs, Serbia,          un
+ru, Russia,          un|g8|g20
+tr, Turkey,          un|g20
+ua, Ukraine,         un
+mk, Macedonia,       un
+no, Norway,          un|schengen
+is, Iceland,         un|schengen
+
+
+va, Vatican City,     microstate
+
+ba, Bosnia and Herzegovina,  un
+li, Liechtenstein,           un|microstate
+mc, Monaco,                  un|microstate
+me, Montenegro,              un
+md, Moldova,                 un
+sm, San Marino,              un|microstate
+
+
+##  south caucasus
+## - add to middle east?
+##  - check azerbaijan is in europe and fifa too?
+
+ge, Georgia,        un
+am, Armenia,        un
+az, Azerbaijan,     un
+
+
+
+##############################
+# territories / dependencies
+
+## note: Greenland listed in north-america/countries.2.txt 
+
+en, England
+sc, Scotland
+wa, Wales
+nd, Northern Ireland
+
+gi, Gibraltar
+im, Isle of Man
+je, Jersey
+gg, Guernsey
+
+fo, Faroe Islands
+
+ax, Åland Islands
+
