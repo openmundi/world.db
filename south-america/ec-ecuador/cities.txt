@@ -1,6 +1,9 @@
 ###########################
 # Ecuador (ec)
 
-Guayaquil, m:2.7m
-Quito,     m:1.8m
+Guayaquil,      m:2.7m
+Quito,          m:1.8m
+Cuenca,         m:0.4m
+Santo Domingo,  m:0.2m
+Machala,        m:0.2m
 
