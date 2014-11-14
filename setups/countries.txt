@@ -1,0 +1,94 @@
+###############################
+# fixtures for all countries
+#  NOTE: will NOT include states and cities
+
+
+
+# Tags
+tags.1
+
+# Definitions (defs)
+continents
+
+# Countries
+africa/countries
+asia/countries
+caribbean/countries
+central-america/countries
+europe/countries
+middle-east/countries
+north-america/countries
+pacific/countries
+south-america/countries
+
+# Countries 2 (dependencies 'n' territories)
+africa/countries.2
+asia/countries.2
+caribbean/countries.2
+europe/countries.2
+north-america/countries.2
+pacific/countries.2
+south-america/countries.2
+
+# Continents
+africa/2-more/continents
+asia/2-more/continents
+caribbean/2-more/continents
+central-america/2-more/continents
+europe/2-more/continents
+middle-east/2-more/continents
+north-america/2-more/continents
+pacific/2-more/continents
+south-america/2-more/continents
+
+
+# Africa
+africa/1-codes/fifa
+africa/1-codes/internet
+africa/1-codes/iso3
+
+
+# Asia
+asia/1-codes/fifa
+asia/1-codes/internet
+asia/1-codes/iso3
+
+# Caribbean
+caribbean/1-codes/fifa
+caribbean/1-codes/internet
+caribbean/1-codes/iso3
+
+# Central America
+central-america/1-codes/fifa
+central-america/1-codes/internet
+central-america/1-codes/iso3
+
+# Europe
+europe/1-codes/fifa
+europe/1-codes/internet
+europe/1-codes/iso3
+europe/1-codes/motor
+
+# Middle East
+middle-east/1-codes/fifa
+middle-east/1-codes/internet
+middle-east/1-codes/iso3
+
+# North America
+north-america/1-codes/fifa
+north-america/1-codes/internet
+north-america/1-codes/iso3
+north-america/1-codes/motor
+
+# Pacific
+pacific/1-codes/fifa
+pacific/1-codes/internet
+pacific/1-codes/iso3
+
+# South America
+south-america/1-codes/fifa
+south-america/1-codes/internet
+south-america/1-codes/iso3
+south-america/1-codes/motor
+
+
