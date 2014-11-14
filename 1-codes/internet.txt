@@ -3,8 +3,10 @@
 #
 # see en.wikipedia.org/wiki/List_of_Internet_top-level_domains
 
-###
-## fix fix fix ---- remove!!!!!
+
+##
+## fix: change ao: ao  to ao, ao   etc.
+
 
 ao: ao           # Angola
 bj: bj           # Benin
@@ -71,3 +73,4 @@ yc: sc           # Seychelles
 
 yt: yt     # Mayotte (FR)
 re: re     # Réunion (FR)
+
