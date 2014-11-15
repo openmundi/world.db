@@ -1,3 +1,250 @@
+##############################
+# Olympics codes
+#
+#  - 204 current National Olympic Committees (NOC) codes
+#
+# see en.wikipedia.org/wiki/List_of_IOC_country_codes
 
-## to be done
+
+AFG, Afghanistan
+ALB, Albania
+ALG, Algeria         # AGR (1964), AGL (1968 S)
+AND, Andorra 
+ANG, Angola
+ANT, Antigua and Barbuda
+ARG, Argentina
+ARM, Armenia
+ARU, Aruba
+ASA, American Samoa
+AUS, Australia
+AUT, Austria
+AZE, Azerbaijan
+
+Bahamas,    BAH
+Bangladesh, BAN
+Barbados,   BAR   # BAD (1964)
+Burundi,    BDI
+Belgium,    BEL
+Benin,      BEN   # DAY (1964), DAH (1968–1976)
+Bermuda,    BER
+Bhutan,     BHU
+Bosnia and Herzegovina, BIH  # BSH (1992 S)
+Belize,     BIZ   # HBR (1968–1972)
+Belarus,    BLR
+Bolivia,    BOL
+Botswana,   BOT
+Brazil,     BRA
+Bahrain,    BRN
+Brunei,     BRU
+Bulgaria,   BUL
+Burkina Faso, BUR  # VOL (1972–1984)
+
+CAF,  [32],   Central African Republic,  AFC (1968)
+CAM,  [33],   Cambodia,  CAB (1964), KHM (1972–1976)
+CAN,  [34],   Canada,  
+CAY,  [35],   Cayman Islands,  
+CGO,  [36],   Congo,  
+CHA,  [37],   Chad,  CHD (1964)
+CHI,  [38],   Chile,  CIL (1956 W, 1960 S)
+CHN,  [39],   China,  
+CIV,  [40],   Ivory Coast,  IVC (1964), CML (1968)
+CMR,  [41],   Cameroon,  
+COD,  [42],   DR Congo,  COK (1968), ZAI (1972–1996)
+COK,  [43],   Cook Islands,  
+COL,  [44],   Colombia,  
+COM,  [45],   Comoros,  
+CPV,  [46],   Cape Verde,  
+CRC,  [47],   Costa Rica,  COS (1964)
+CRO,  [48],   Croatia,  
+CUB,  [49],   Cuba,  
+CYP,  [50],   Cyprus,  
+CZE,  [51],   Czech Republic,  TCH (1984)
+
+DEN,  [52],   Denmark,  DAN (1960 S, 1968 W), DIN (1968 S)
+DJI,  [53],   Djibouti,  
+DMA,  [54],   Dominica,  
+DOM,  [55],   Dominican Republic
+
+ECU,  [56],   Ecuador,  
+EGY,  [57],   Egypt,  RAU (1960, 1968), UAR (1964)
+ERI,  [58],   Eritrea,  
+ESA,  [59],   El Salvador,  SAL (1964–1976)
+ESP,  [60],   Spain,  SPA (1956–1964, 1968 W)
+EST,  [61],   Estonia,  
+ETH,  [62],   Ethiopia,  ETI (1960, 1968)
+
+FIJ,  [63],   Fiji,  FIG (1960)
+FIN,  [64],   Finland,  
+FRA,  [65],   France,  
+FSM,  [66],   Federated States of Micronesia
+
+GAB,  [67],   Gabon,  
+GAM,  [68],   The Gambia,  
+GBR,  [69],   Great Britain,  GRB (1956 W–1960), GBI (1964)
+GBS,  [70],   Guinea-Bissau,  
+GEO,  [71],   Georgia,  
+GEQ,  [72],   Equatorial Guinea,  
+GER,  [73],   Germany,  ALL (1968 W), ALE (1968 S)
+GHA,  [74],   Ghana,  
+GRE,  [75],   Greece,  
+GRN,  [76],   Grenada,  
+GUA,  [77],   Guatemala,  GUT (1964)
+GUI,  [78],   Guinea,  
+GUM,  [79],   Guam,  
+GUY,  [80],   Guyana,  GUA (1960), GUI (1964)
+
+HAI,  [81],   Haiti,  
+HKG,  [82],   Hong Kong,  HOK (1960–1968)
+HON,  [83],   Honduras,  
+HUN,  [84],   Hungary,  UNG (1956 W, 1960 S)
+
+INA,  [85],   Indonesia,  INS (1960)
+IND,  [86],   India,  
+IRI,  [87],   Iran,  IRN (1956–1988), IRA (1968 W)
+IRL,  [88],   Ireland,  
+IRQ,  [89],   Iraq,  IRK (1960, 1968)
+ISL,  [90],   Iceland,  ICE (1960 W, 1964 S)
+ISR,  [91],   Israel,  
+ISV,  [92],   Virgin Islands,  
+ITA,  [93],   Italy,  
+IVB,  [94],   British Virgin Islands
+
+JAM,  [95],   Jamaica,  
+JOR,  [96],   Jordan,  
+JPN,  [97],   Japan,  GIA (1956 W, 1960 S), JAP (1960 W)
+
+KAZ,  [98],   Kazakhstan,  
+KEN,  [99],   Kenya,  
+KGZ,  [100],   Kyrgyzstan,  
+KIR,  [101],   Kiribati,  
+KOR,  [102],   South Korea,  COR (1956 W, 1960 S, 1968 S, 1972 S)
+KSA,  [103],   Saudi Arabia,  ARS (1968–1976), SAU (1980–1984)
+KUW,  [104],   Kuwait
+
+LAO,  [105],   Laos,  
+LAT,  [106],   Latvia,  
+LBA,  [107],   Libya,  LYA (1964), LBY (1968 W)
+LBR,  [108],   Liberia,  
+LCA,  [109],   Saint Lucia,  
+LES,  [110],   Lesotho,  
+LIB,  [111],   Lebanon,  LEB (1960 W, 1964 S)
+LIE,  [112],   Liechtenstein,  LIC (1956 W, 1964 S, 1968 W)
+LTU,  [113],   Lithuania,  LIT (1992 W)
+LUX,  [114],   Luxembourg
+
+MAD,  [115],   Madagascar,  MAG (1964)
+MAR,  [116],   Morocco,  MRC (1964)
+MAS,  [117],   Malaysia,  MAL (1964–1988)
+MAW,  [118],   Malawi,  
+MDA,  [119],   Moldova,  MLD (1994)
+MDV,  [120],   Maldives,  
+MEX,  [121],   Mexico,  
+MGL,  [122],   Mongolia,  MON (1968 W)
+MHL,  [123],   Marshall Islands,  
+MKD,  [124],   Macedonia,  
+MLI,  [125],   Mali,  
+MLT,  [126],   Malta,  MAT (1960–1964)
+MNE,  [127],   Montenegro,  
+MON,  [128],   Monaco,  
+MOZ,  [129],   Mozambique,  
+MRI,  [130],   Mauritius,  
+MTN,  [131],   Mauritania,  
+MYA,  [132],   Myanmar,  BIR (1960, 1968–1988), BUR (1964)
+
+
+NAM,  [133],   Namibia,  
+NCA,  [134],   Nicaragua,  NCG (1964), NIC (1968)
+NED,  [135],   Netherlands,  OLA (1956 W), NET (1960 W), PBA (1960 S), NLD (1964 S), HOL (1968–1988)
+NEP,  [136],   Nepal,  
+NGR,  [137],   Nigeria,  NGA (1964)
+NIG,  [138],   Niger,  NGR (1964)
+NOR,  [139],   Norway,  
+NRU,  [140],   Nauru,  
+NZL,  [141],   New Zealand,  NZE (1960, 1968 W)
+
+OMA,  [142],   Oman
+
+PAK,  [143],   Pakistan,  
+PAN,  [144],   Panama,  
+PAR,  [145],   Paraguay,  
+PER,  [146],   Peru,  
+PHI,  [147],   Philippines,  FIL (1960, 1968)
+PLE,  [148],   Palestine,  
+PLW,  [149],   Palau,  
+PNG,  [150],   Papua New Guinea,  NGY (1976–1980), NGU (1984–1988)
+POL,  [151],   Poland,  
+POR,  [152],   Portugal,  
+PRK,  [153],   North Korea,  NKO (1964 S, 1968 W), CDN (1968)
+PUR,  [154],   Puerto Rico,  PRI (1960), PRO (1968)
+
+QAT,  [155],   Qatar
+
+ROU,  [156],   Romania,  ROM (1956–1960, 1972–2006), RUM (1964–1968)
+RSA,  [157],   South Africa,  SAF (1960–1972)
+RUS,  [158],   Russia,  
+RWA,  [159],   Rwanda
+
+SAM,  [160],   Samoa,  
+SEN,  [161],   Senegal,  SGL (1964)
+SEY,  [162],   Seychelles,  
+SIN,  [163],   Singapore,  
+SKN,  [164],   Saint Kitts and Nevis,  
+SLE,  [165],   Sierra Leone,  SLA (1968)
+SLO,  [166],   Slovenia,  
+SMR,  [167],   San Marino,  SMA (1960–1964)
+SOL,  [168],   Solomon Islands,  
+SOM,  [169],   Somalia,  
+SRB,  [170],   Serbia,  
+SRI,  [171],   Sri Lanka,  CEY (1960-1964, 1972), CEI (1968 S)
+STP,  [172],   São Tomé and Príncipe,  
+SUD,  [173],   Sudan,  
+SUI,  [174],   Switzerland,  SVI (1956 W, 1960 S), SWI (1960 W, 1964 S)
+SUR,  [175],   Suriname,  
+SVK,  [176],   Slovakia,  
+SWE,  [177],   Sweden,  SVE (1956 W, 1960 S), SUE (1968 S)
+SWZ,  [178],   Swaziland,  
+SYR,  [179],   Syria,  RAU (1960), SIR (1968)
+
+TAN,  [180],   Tanzania,  
+TGA,  [181],   Tonga,  TON (1984)
+THA,  [182],   Thailand,  
+TJK,  [183],   Tajikistan,  
+TKM,  [184],   Turkmenistan,  
+TLS,  [185],   Timor-Leste,  IOA (Individual Olympic Athletes, 2000)
+TOG,  [186],   Togo,  
+TPE,  [187],   Chinese Taipei[5],  RCF (1960), TWN (1964–1968), ROC (1972–1976)
+TTO,  [188],   Trinidad and Tobago,  TRT (1964–1968) TRI (1972-2010)
+TUN,  [189],   Tunisia,  
+TUR,  [190],   Turkey,  
+TUV,  [191],   Tuvalu
+
+UAE,  [192],   United Arab Emirates,  
+UGA,  [193],   Uganda,  
+UKR,  [194],   Ukraine,  
+URU,  [195],   Uruguay,  URG (1968)
+USA,  [196],   United States,  SUA (1960 S), EUA (1968 S)
+UZB,  [197],   Uzbekistan
+
+VAN,  [198],   Vanuatu,  
+VEN,  [199],   Venezuela,  
+VIE,  [200],   Vietnam,  VET (1964), VNM (1968–1976)
+VIN,  [201],   Saint Vincent and the Grenadines
+
+YEM,  [202],   Yemen
+
+ZAM,  [203],   Zambia,  NRH (1964)
+ZIM,  [204],   Zimbabwe,  RHO (1960–1972)
+
+
+
+
+
+
+
+
+
+
+
+
+
 

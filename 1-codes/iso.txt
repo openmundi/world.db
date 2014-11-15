@@ -12,6 +12,9 @@
 # NOTE: sorted by country name (e.g. Afghanistan, Åland Islands, Albania, etc.)
 
 
+###
+##  fix:  use country as column - remove first column (our "onw" key); use country name for lookup/key/ref!!!
+
 af, AF,  AFG,  004   # Afghanistan
 ax, AX,  ALA,  248   # Åland Islands
 al, AL,  ALB,  008   # Albania

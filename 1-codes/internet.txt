@@ -6,24 +6,24 @@
 # NOTE: sorted by domain (e.g. .ac,.ad,.ae, etc.)
 
 
-ac, .ac   # Ascension Island
-ad, .ad   # Andorra
-ae, .ae   # United Arab Emirates
-af, .af   # Afghanistan
-ag, .ag   # Antigua and Barbuda
-ai, .ai   # Anguilla
-al, .al   # Albania
-am, .am   # Armenia
-an, .an   # Netherlands Antilles
-ao, .ao   # Angola
-aq, .aq   # Antarctica
-ar, .ar   # Argentina
-as, .as   # American Samoa
-at, .at   # Austria
-au, .au   # Australia
-aw, .aw   # Aruba
-ax, .ax   # Åland
-az, .az   # Azerbaijan
+.ac, Ascension Island
+.ad, Andorra
+.ae, United Arab Emirates
+.af, Afghanistan,          
+.ag, Antigua and Barbuda
+.ai, Anguilla
+.al, Albania
+.am, Armenia
+.an, Netherlands Antilles
+.ao, Angola
+.aq, Antarctica
+.ar, Argentina
+.as, American Samoa
+.at, Austria
+.au, Australia
+.aw, Aruba
+.ax, Åland
+.az, Azerbaijan
 
 ba, .ba   # Bosnia and Herzegovina
 bb, .bb   # Barbados
