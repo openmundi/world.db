@@ -8,8 +8,8 @@
 #
 #  see en.wikipedia.org/wiki/ISO_3166-1
 
-###
-# todo: remove iso files per continet e.g. africa/1-codes etc.
+
+# NOTE: sorted by country name (e.g. Afghanistan, Åland Islands, Albania, etc.)
 
 
 af, AF,  AFG,  004   # Afghanistan
@@ -65,7 +65,7 @@ cc, CC,  CCK,  166   # Cocos (Keeling) Islands
 co, CO,  COL,  170   # Colombia
 km, KM,  COM,  174   # Comoros
 cg, CG,  COG,  178   # Congo
-cd, CD,  COD,  180   # Congo Democratic Republic
+cd, CD,  COD,  180   # Congo DR
 ck, CK,  COK,  184   # Cook Islands
 cr, CR,  CRI,  188   # Costa Rica
 ci, CI,  CIV,  384   # Côte d'Ivoire
