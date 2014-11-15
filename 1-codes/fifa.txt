@@ -3,6 +3,7 @@
 #
 # see en.wikipedia.org/wiki/List_of_FIFA_country_codes
 
+
 ## todo: sort by code first
 
 
@@ -24,228 +25,253 @@ AUS, Australia
 AUT, Austria
 AZE, Azerbaijan
 
-Bahamas,  BAH
-Bahrain,  BHR
-Bangladesh,  BAN
-Barbados,  BRB
-Belarus,  BLR
-Belgium,  BEL
-Belize,  BLZ
-Benin,  BEN
-Bermuda,  BER
-Bhutan,  BHU
-Bolivia,  BOL
-Bosnia-Herzegovina,  BIH
-Botswana,  BOT
-Brazil,  BRA
-British Virgin Islands,  VGB
-Brunei,  BRU
-Bulgaria,  BUL
-Burkina Faso,  BFA
-Burundi,  BDI
+BAH, Bahamas
+BHR, Bahrain
+BAN, Bangladesh
+BRB, Barbados
+BLR, Belarus
+BEL, Belgium
+BLZ, Belize
+BEN, Benin
+BER, Bermuda
+BHU, Bhutan
+BOL, Bolivia
+BIH, Bosnia-Herzegovina
+BOT, Botswana
+BRA, Brazil
+BRU, Brunei
+BUL, Bulgaria
+BFA, Burkina Faso
+BDI, Burundi
 
-Cambodia,  CAM
- Cameroon,  CMR
- Canada,  CAN
- Cape Verde,  CPV
- Cayman Islands,  CAY
- Central African Republic,  CTA
- Chad,  CHA
- Chile,  CHI
- China PR,  CHN
- Chinese Taipei,  TPE
- Colombia,  COL
- Comoros,  COM
- Congo,  CGO
- Congo DR,  COD
- Cook Islands,  COK
- Costa Rica,  CRC
- Croatia,  CRO
- Cuba,  CUB
- Curaçao,  CUW
+CAM, Cambodia
+CMR, Cameroon
+CAN, Canada
+CPV, Cape Verde
+CAY, Cayman Islands
+CTA, Central African Republic
+CHA, Chad
+CHI, Chile
+CHN, China PR
+COL, Colombia
+COM, Comoros
+CGO, Congo
+COD, Congo DR
+COK, Cook Islands
+CRC, Costa Rica
+CRO, Croatia
+CUB, Cuba
+CUW, Curaçao
+CYP, Cyprus
+CZE, Czech Republic
+CIV, Côte d'Ivoire (Ivory Coast)
 
- Cyprus,  CYP
- Czech Republic,  CZE
- Denmark,  DEN
- Djibouti,  DJI
- Dominica,  DMA
- Dominican Republic,  DOM
- Ecuador,  ECU
- Egypt,  EGY
- El Salvador,  SLV
- England,  ENG
- Equatorial Guinea,  EQG
- Eritrea,  ERI
- Estonia,  EST
- Ethiopia,  ETH
- Faroe Islands,  FRO
- Fiji,  FIJ
- Finland,  FIN
- France,  FRA
- Gabon,  GAB
- Gambia,  GAM
- Georgia,  GEO
- Germany,  GER
- Ghana,  GHA
- Greece,  GRE
- Grenada,  GRN
- Guam,  GUM
- Guatemala,  GUA
- Guinea,  GUI
- Guinea-Bissau,  GNB
- Guyana,  GUY
- Haiti,  HAI
- Honduras,  HON
- Hong Kong,  HKG
- Hungary,  HUN
- Iceland,  ISL
- India,  IND
- Indonesia,  IDN
- Iran,  IRN
- Iraq,  IRQ
- Israel,  ISR
- Italy,  ITA
- Ivory Coast,  CIV
- Jamaica,  JAM
- Japan,  JPN
- Jordan,  JOR
- Kazakhstan,  KAZ
- Kenya,  KEN
- Kuwait,  KUW
- Kyrgyzstan,  KGZ
- Laos,  LAO
- Latvia,  LVA
- Lebanon,  LIB
- 
-  Lesotho,  LES
- Liberia,  LBR
- Libya,  LBY
- Liechtenstein,  LIE
- Lithuania,  LTU
- Luxembourg,  LUX
- Macau,  MAC
- Macedonia,  MKD
- Madagascar,  MAD
- Malawi,  MWI
- Malaysia,  MAS
- Maldives,  MDV
- Mali,  MLI
- Malta,  MLT
- Mauritania,  MTN
- Mauritius,  MRI
- Mexico,  MEX
- Moldova,  MDA
- Mongolia,  MNG
- Montenegro,  MNE
- Montserrat,  MSR
- Morocco,  MAR
- Mozambique,  MOZ
- Myanmar,  MYA
- Namibia,  NAM
-   Nepal,  NEP
- Netherlands,  NED
- New Caledonia,  NCL
- New Zealand,  NZL
- Nicaragua,  NCA
- Niger,  NIG
- Nigeria,  NGA
- North Korea,  PRK
- Northern Ireland,  NIR
- Norway,  NOR
- Oman,  OMA
- Pakistan,  PAK
- Palestine,  PLE
- Panama,  PAN
- Papua New Guinea,  PNG
- Paraguay,  PAR
- Peru,  PER
- Philippines,  PHI
- Poland,  POL
- Portugal,  POR
- Puerto Rico,  PUR
- Qatar,  QAT
- Republic of Ireland,  IRL
- Romania,  ROU
- Russia,  RUS
- Rwanda,  RWA
- Saint Kitts and Nevis,  SKN
+DEN, Denmark
+DJI, Djibouti
+DMA, Dominica
+DOM, Dominican Republic
 
- Saint Lucia,  LCA
- Saint Vincent and the Grenadines,  VIN
- Samoa,  SAM
- San Marino,  SMR
- São Tomé and Príncipe,  STP
- Saudi Arabia,  KSA
- Scotland,  SCO
- Senegal,  SEN
- Serbia,  SRB
- Seychelles,  SEY
- Sierra Leone,  SLE
- Singapore,  SIN
- Slovakia,  SVK
- Slovenia,  SVN
- Solomon Islands,  SOL
- Somalia,  SOM
- South Africa,  RSA
- South Korea,  KOR
- South Sudan,  SSD
- Spain,  ESP
- Sri Lanka,  SRI
- Sudan,  SDN
- Suriname,  SUR
- Swaziland,  SWZ
- Sweden,  SWE
- Switzerland,  SUI
- Syria,  SYR
- Tahiti,  TAH
- Tajikistan,  TJK
- Tanzania,  TAN
- Thailand,  THA
- Timor-Leste,  TLS
- Togo,  TOG
- Tonga,  TGA
- Trinidad and Tobago,  TRI
- Tunisia,  TUN
- Turkey,  TUR
- Turkmenistan,  TKM
- Turks and Caicos Islands,  TCA
- Uganda,  UGA
- Ukraine,  UKR
- United Arab Emirates,  UAE
- United States,  USA
- Uruguay,  URU
- U.S. Virgin Islands,  VIR
- Uzbekistan,  UZB
- Vanuatu,  VAN
- Venezuela,  VEN
- Vietnam,  VIE
- Wales,  WAL
- Yemen,  YEM
- Zambia,  ZAM
- Zimbabwe,  ZIM
+ECU, Ecuador
+EGY, Egypt
+ENG, England
+EQG, Equatorial Guinea
+ERI, Eritrea
+EST, Estonia
+ETH, Ethiopia
+ESP, Spain
+
+FRO, Faroe Islands
+FIJ, Fiji
+FIN, Finland
+FRA, France
+
+GAB, Gabon
+GAM, Gambia
+GEO, Georgia
+GER, Germany
+GHA, Ghana
+GRE, Greece
+GRN, Grenada
+GUM, Guam
+GUA, Guatemala
+GUI, Guinea
+GNB, Guinea-Bissau
+GUY, Guyana
+
+HAI, Haiti
+HON, Honduras
+HKG, Hong Kong
+HUN, Hungary
+
+ISL, Iceland
+IND, India
+IDN, Indonesia
+IRN, Iran
+IRQ, Iraq
+ISR, Israel
+ITA, Italy
+IRL, Ireland
+
+JAM, Jamaica
+JPN, Japan
+JOR, Jordan
+
+KAZ, Kazakhstan
+KEN, Kenya
+KUW, Kuwait
+KGZ, Kyrgyzstan
+KSA, Saudi Arabia
+KOR, South Korea
+
+LAO, Laos
+LVA, Latvia
+LIB, Lebanon
+LES, Lesotho
+LBR, Liberia
+LBY, Libya
+LIE, Liechtenstein
+LTU, Lithuania
+LUX, Luxembourg
+LCA, Saint Lucia
+
+MAC, Macau
+MKD, Macedonia
+MAD, Madagascar
+MWI, Malawi
+MAS, Malaysia
+MDV, Maldives
+MLI, Mali
+MLT, Malta
+MTN, Mauritania
+MRI, Mauritius
+MEX, Mexico
+MDA, Moldova
+MNG, Mongolia
+MNE, Montenegro
+MSR, Montserrat
+MAR, Morocco
+MOZ, Mozambique
+MYA, Myanmar
+
+NAM, Namibia
+NEP, Nepal
+NED, Netherlands
+NCL, New Caledonia
+NZL, New Zealand
+NCA, Nicaragua
+NIG, Niger
+NGA, Nigeria
+NIR, Northern Ireland
+NOR, Norway
+
+OMA, Oman
+
+PAK, Pakistan
+PLE, Palestine
+PAN, Panama
+PNG, Papua New Guinea
+PAR, Paraguay
+PER, Peru
+PHI, Philippines
+POL, Poland
+POR, Portugal
+PUR, Puerto Rico
+PRK, North Korea
+
+QAT, Qatar
+
+ROU, Romania
+RUS, Russia
+RWA, Rwanda
+RSA, South Africa
+
+SKN, Saint Kitts and Nevis
+SAM, Samoa
+SMR, San Marino
+STP, São Tomé and Príncipe
+SCO, Scotland
+SEN, Senegal
+SRB, Serbia
+SEY, Seychelles
+SLE, Sierra Leone
+SIN, Singapore
+SVK, Slovakia
+SVN, Slovenia
+SOL, Solomon Islands
+SOM, Somalia
+SSD, South Sudan
+SRI, Sri Lanka
+SDN, Sudan
+SUR, Suriname
+SWZ, Swaziland
+SWE, Sweden
+SUI, Switzerland
+SYR, Syria
+SLV, El Salvador
+
+TAH, Tahiti
+TJK, Tajikistan
+TAN, Tanzania
+THA, Thailand
+TLS, Timor-Leste
+TOG, Togo
+TGA, Tonga
+TRI, Trinidad and Tobago
+TUN, Tunisia
+TUR, Turkey
+TKM, Turkmenistan
+TCA, Turks and Caicos Islands
+TPE, Taiwan (Chinese Tapei)
+
+UGA, Uganda
+UKR, Ukraine
+UAE, United Arab Emirates
+USA, United States
+URU, Uruguay
+UZB, Uzbekistan
+
+VAN, Vanuatu
+VEN, Venezuela
+VIE, Vietnam
+VIR, U.S. Virgin Islands
+VIN, Saint Vincent and the Grenadines
+VGB, British Virgin Islands
+
+WAL, Wales
+
+YEM, Yemen
+
+ZAM, Zambia
+ZIM, Zimbabwe
 
 
 ###################
 ## Non-FIFA member codes
  
-Bonaire,  BOE,  CONCACAF
-French Guiana,  GYF,  CONCACAF
-Gibraltar,  GIB,  UEFA
-Guadeloupe,  GPE,  CONCACAF
-Kosovo,  KOS,  UEFA
-Martinique,  MTQ,  CONCACAF
-Réunion,  REU,  CAF
-Sint Maarten,  SXM,  CONCACAF
-Tuvalu,  TUV,  OFC
-Zanzibar,  ZAN,  CAF
+BOE, Bonaire        # CONCACAF
+GYF, French Guiana  # CONCACAF
+GPE, Guadeloupe     # CONCACAF
+MTQ, Martinique     # CONCACAF
+SXM, Sint Maarten   # CONCACAF
+
+GIB, Gibraltar      # UEFA
+KOS, Kosovo         # UEFA
+
+REU, Réunion        # CAF
+ZAN, Zanzibar       # CAF
+
+TUV, Tuvalu         # OFC
+
 
 ####################
-##  Irregular codes
+## Irregular codes
 
-F.S. Micronesia,  FSM,  OFC
-Kiribati,  KIR,  OFC
-Niue,  NIU,  OFC
-Northern Mariana Islands,  NMI,  AFC
-Palau,  PLW,  OFC
-Saint-Martin,  SMT,  CONCACAF
- 
+NMI, Northern Mariana Islands  # AFC
+
+SMT, Saint-Martin    # CONCACAF
+
+FSM, Micronesia      # OFC
+KIR, Kiribati        # OFC
+NIU, Niue            # OFC
+PLW, Palau           # OFC
+
