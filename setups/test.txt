@@ -1,15 +1,16 @@
 
 # Countries
 
-africa/countries
-asia/countries
-caribbean/countries
+## africa/countries
+## asia/countries
+## caribbean/countries
 central-america/countries
 europe/countries
-middle-east/countries
-north-america/countries
-pacific/countries
-south-america/countries
+europe/countries.2
+## middle-east/countries
+## north-america/countries
+## pacific/countries
+## south-america/countries
 
 # Codes
 

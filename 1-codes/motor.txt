@@ -6,13 +6,16 @@
 # Notes:
 #  **  => unofficial (note assigned/listed in United Nations designated signs list )
 
+##
+#  todo: mark all dependencies n territories w/ (UK), (NZ), (AU), (US) etc.
+
 
 A,   Austria                # 1910
 AFG, Afghanistan            # 1971
 AG,  Antigua and Barbuda    # **
 AL,  Albania                # 1934
 AM,  Armenia                # 1992
-AND  Andorra                # 1957
+AND, Andorra                # 1957
 ANG, Angola                 # ** 1975 
 ARK, Antarctica             # **
 ARU, Aruba                  # **  --  NOTE: what to use has *two* codes =>  AUA, ARU ??

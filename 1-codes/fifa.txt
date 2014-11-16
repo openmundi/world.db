@@ -3,6 +3,9 @@
 #
 # see en.wikipedia.org/wiki/List_of_FIFA_country_codes
 
+##
+#  todo: mark all dependencies n territories w/ (UK), (NZ), (AU), (US) etc.
+
 
 ## todo: sort by code first
 
@@ -274,4 +277,21 @@ FSM, Micronesia      # OFC
 KIR, Kiribati        # OFC
 NIU, Niue            # OFC
 PLW, Palau           # OFC
+
+
+#################
+# not members
+#
+# in europe:
+# - Vatican City
+# - Monaco
+# - Great Britain - only all its member e.g. England/Wales/Scotland/Northern Irland
+#
+# in oceania:
+# - Kiribati
+# - Marshall Islands
+# - Micronesia
+# - Nauru
+# - Palau
+# - Tuvalu
 

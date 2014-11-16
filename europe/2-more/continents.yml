@@ -57,10 +57,10 @@ am: eu           # Armenia
 fo: eu           # Faroe Islands (DK)
 ax: eu           # Åland (FI)
 
-en: eu           # England (GB)
-sc: eu           # Scotland (GB)
-wa: eu           # Wales (GB)
-nd: eu           # Northern Ireland (GB)
+eng: eu           # England (GB)
+sco: eu           # Scotland (GB)
+wal: eu           # Wales (GB)
+nir: eu           # Northern Ireland (GB)
 
 gi: eu           # Gibraltar (GB)
 im: eu           # Isle of Man (GB)

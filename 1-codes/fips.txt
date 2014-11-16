@@ -3,6 +3,9 @@
 #
 # see en.wikipedia.org/wiki/List_of_FIPS_country_codes
 
+##
+#  todo: mark all dependencies n territories w/ (UK), (NZ), (AU), (US) etc.
+
 
 AA, Aruba
 AC, Antigua and Barbuda

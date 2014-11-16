@@ -5,6 +5,9 @@
 #
 # see en.wikipedia.org/wiki/List_of_IOC_country_codes
 
+##
+#  todo: mark all dependencies n territories w/ (UK), (NZ), (AU), (US) etc.
+
 
 AFG, Afghanistan
 ALB, Albania
