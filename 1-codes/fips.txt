@@ -4,69 +4,68 @@
 # see en.wikipedia.org/wiki/List_of_FIPS_country_codes
 
 
-AA,  Aruba
-AC,  Antigua and Barbuda
-AE,  United Arab Emirates
-AF,  Afghanistan
-AG,  Algeria
-AJ,  Azerbaijan
-AL,  Albania
-AM,  Armenia
-AN,  Andorra
-AO,  Angola
-AQ,  American Samoa
-AR,  Argentina
-AS,  Australia
-AT,  Ashmore and Cartier Islands
-AU,  Austria
-AV,  Anguilla
-AX,  Akrotiri     ## UK Territory / Military Base
-AY,  Antarctica
+AA, Aruba
+AC, Antigua and Barbuda
+AE, United Arab Emirates
+AF, Afghanistan
+AG, Algeria
+AJ, Azerbaijan
+AL, Albania
+AM, Armenia
+AN, Andorra
+AO, Angola
+AQ, American Samoa
+AR, Argentina
+AS, Australia
+AT, Ashmore and Cartier Islands
+AU, Austria
+AV, Anguilla
+AX, Akrotiri        # UK Territory / Military Base
+AY, Antarctica
 
-BA,  Bahrain
-BB,  Barbados
-BC,  Botswana
-BD,  Bermuda
-BE,  Belgium
-BF,  Bahamas
-BG,  Bangladesh
-BH,  Belize
-BK,  Bosnia and Herzegovina
-BL,  Bolivia
-BM,  Burma
-BN,  Benin
-BO,  Belarus
-BP,  Solomon Islands
-BQ,  Navassa Island    ## US Territory
-BR,  Brazil
-BS,  Bassas da India   ## French Southern and Antarctic Lands 
-BT,  Bhutan
-BU,  Bulgaria
-BV,  Bouvet Island
-BX,  Brunei
-BY,  Burundi
+BA, Bahrain
+BB, Barbados
+BC, Botswana
+BD, Bermuda
+BE, Belgium
+BF, Bahamas
+BG, Bangladesh
+BH, Belize
+BK, Bosnia-Herzegovina
+BL, Bolivia
+BM, Burma
+BN, Benin
+BO, Belarus
+BP, Solomon Islands
+BQ, Navassa Island    # US Territory
+BR, Brazil
+BS, Bassas da India   # French Southern and Antarctic Lands 
+BT, Bhutan
+BU, Bulgaria
+BV, Bouvet Island
+BX, Brunei
+BY, Burundi
 
-CA,  Canada
-CB,  Cambodia
-CD,  Chad
-CE,  Sri Lanka
-CF,  Congo (Brazzaville)
-CG,  Congo (Kinshasa)    ## fix use congo DR  ??
-CH,  China
-CI,  Chile
-CJ,  Cayman Islands
-CK,  Cocos (Keeling) Islands
-CM,  Cameroon
-CN,  Comoros
-CO,  Colombia
-CQ,  Northern Mariana Islands
-CR,  Coral Sea Islands
-CS,  Costa Rica
-CT,  Central African Republic
-CU,  Cuba
-CV,  Cape Verde
-CW,  Cook Islands
-CY,  Cyprus
-
+CA, Canada
+CB, Cambodia
+CD, Chad
+CE, Sri Lanka
+CF, Congo (Brazzaville)
+CG, Congo (Kinshasa)    ## fix use congo DR  ??
+CH, China
+CI, Chile
+CJ, Cayman Islands
+CK, Cocos (Keeling) Islands
+CM, Cameroon
+CN, Comoros
+CO, Colombia
+CQ, Northern Mariana Islands
+CR, Coral Sea Islands
+CS, Costa Rica
+CT, Central African Republic
+CU, Cuba
+CV, Cape Verde
+CW, Cook Islands
+CY, Cyprus
 
 

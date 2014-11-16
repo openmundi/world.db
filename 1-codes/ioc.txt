@@ -47,7 +47,7 @@ CGO, Congo
 CHA, Chad                  # CHD (1964)
 CHI, Chile                 # CIL (1956 W, 1960 S)
 CHN, China
-CIV, Côte d'Ivoire (Ivory Coast)   # IVC (1964), CML (1968)
+CIV, Côte d'Ivoire    # IVC (1964), CML (1968)  -- Ivory Coast
 CMR, Cameroon
 COD, Congo DR         # COK (1968), ZAI (1972–1996)
 COK, Cook Islands
@@ -212,8 +212,8 @@ TJK, Tajikistan
 TKM, Turkmenistan
 TLS, Timor-Leste      # IOA (Individual Olympic Athletes, 2000)
 TOG, Togo
-TPE, Taiwan (Chinese Taipei)   # RCF (1960), TWN (1964–1968), ROC (1972–1976)
-TTO, Trinidad and Tobago       # TRT (1964–1968) TRI (1972-2010)
+TPE, Taiwan                 # RCF (1960), TWN (1964–1968), ROC (1972–1976)  -- Chinese Taipei
+TTO, Trinidad and Tobago    # TRT (1964–1968) TRI (1972-2010)
 TUN, Tunisia
 TUR, Turkey
 TUV, Tuvalu

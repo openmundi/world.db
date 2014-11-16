@@ -1,0 +1,22 @@
+
+# Countries
+
+africa/countries
+asia/countries
+caribbean/countries
+central-america/countries
+europe/countries
+middle-east/countries
+north-america/countries
+pacific/countries
+south-america/countries
+
+# Codes
+
+1-codes/fifa
+1-codes/fips
+1-codes/internet
+1-codes/ioc
+1-codes/iso
+1-codes/motor
+

@@ -52,7 +52,7 @@ CAY, Cayman Islands
 CTA, Central African Republic
 CHA, Chad
 CHI, Chile
-CHN, China PR
+CHN, China
 COL, Colombia
 COM, Comoros
 CGO, Congo
@@ -64,7 +64,7 @@ CUB, Cuba
 CUW, Curaçao
 CYP, Cyprus
 CZE, Czech Republic
-CIV, Côte d'Ivoire (Ivory Coast)
+CIV, Côte d'Ivoire      # Ivory Coast
 
 DEN, Denmark
 DJI, Djibouti
@@ -221,7 +221,7 @@ TUN, Tunisia
 TUR, Turkey
 TKM, Turkmenistan
 TCA, Turks and Caicos Islands
-TPE, Taiwan (Chinese Tapei)
+TPE, Taiwan              # Chinese Tapei
 
 UGA, Uganda
 UKR, Ukraine
@@ -233,7 +233,7 @@ UZB, Uzbekistan
 VAN, Vanuatu
 VEN, Venezuela
 VIE, Vietnam
-VIR, U.S. Virgin Islands
+VIR, US Virgin Islands    # United States Virgin Islands; Virgin Islands (U.S.)
 VIN, Saint Vincent and the Grenadines
 VGB, British Virgin Islands
 
