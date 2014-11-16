@@ -76,10 +76,10 @@ az, Azerbaijan,     un
 
 ## note: Greenland listed in north-america/countries.2.txt 
 
-en, England
-sc, Scotland
-wa, Wales
-nd, Northern Ireland
+eng, England
+sco, Scotland
+wal, Wales
+nir, Northern Ireland
 
 gi, Gibraltar
 im, Isle of Man

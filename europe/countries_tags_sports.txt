@@ -77,10 +77,10 @@ az, Azerbaijan,     fifa|uefa
 
 ## note: Greenland listed in north-america/countries.2.txt 
 
-en, England,     fifa|uefa 
-sc, Scotland,    fifa|uefa
-wa, Wales,       fifa|uefa
-nd, Northern Ireland, fifa|uefa
+eng, England,     fifa|uefa 
+sco, Scotland,    fifa|uefa
+wal, Wales,       fifa|uefa
+nir, Northern Ireland, fifa|uefa
 
 gi, Gibraltar,     uefa
 im, Isle of Man

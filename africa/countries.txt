@@ -15,9 +15,8 @@ mg, Madagascar, MAD, Antananarivo, 587_041 km², 22_005_222, un|fifa|caf|eastern
 mw, Malawi, MWI, Lilongwe,         118_484 km², 14_901_000, un|fifa|caf|eastern_africa|commonwealth
 mu, Mauritius, MRI,                  2_040 km²,  1_291_456, un|fifa|caf|eastern_africa|commonwealth
 mz, Mozambique, MOZ, Maputo,       801_590 km², 22_894_000, un|fifa|caf|eastern_africa|commonwealth
-rw, Rwanda, RWA, Kigali,            26_338 km², 11_689_696, un|fifa|caf|eastern_africa|commonwealth
-## NB: sc renamed to yc (sc used for Scottland)
-yc, Seychelles, SEY, Victoria,         451 km²,     84_000, un|fifa|caf|eastern_africa|indian_ocean|microstate|commonwealth
+rw, Rwanda,     RWA, Kigali,        26_338 km², 11_689_696, un|fifa|caf|eastern_africa|commonwealth
+sc, Seychelles, SEY, Victoria,         451 km²,     84_000, un|fifa|caf|eastern_africa|indian_ocean|microstate|commonwealth
 so, Somalia, SOM, Mogadishu,       637_657 km², 10_085_638, un|fifa|caf|eastern_africa
 tz, Tanzania, TAN, Dodoma,         945_203 km², 43_188_000, un|fifa|caf|eastern_africa|commonwealth
 ug, Uganda, UGA, Kampala,          236_040 km², 35_873_253, un|fifa|caf|eastern_africa|commonwealth
