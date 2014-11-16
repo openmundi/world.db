@@ -2,264 +2,284 @@
 # International Vehicle Registration Codes / License Plates
 #
 # see en.wikipedia.org/wiki/List_of_international_vehicle_registration_codes
-
 #
-# **  => unofficial (note assigned/listed in United Nations designated signs list )
+# Notes:
+#  **  => unofficial (note assigned/listed in United Nations designated signs list )
 
 
-A,    Austria                # 1910
-AFG,  Afghanistan            # 1971
-AG,   Antigua and Barbuda    # **
-AL,   Albania                # 1934
-AM,   Armenia                # 1992
-AND   Andorra                # 1957
-ANG,  Angola                 # ** 1975 
-ARK,  Antarctica             # **
-ARU,  Aruba                  # **  --  NOTE: what to use has *two* codes =>  AUA, ARU ??
-AUS,  Australia              # 1954
-AX,   Åland Islands          # ** 2002; Territory of Finland. FIN is the official code.
-AXA,  Anguilla               # **
-AZ,   Azerbaijan             # 1993
+A,   Austria                # 1910
+AFG, Afghanistan            # 1971
+AG,  Antigua and Barbuda    # **
+AL,  Albania                # 1934
+AM,  Armenia                # 1992
+AND  Andorra                # 1957
+ANG, Angola                 # ** 1975 
+ARK, Antarctica             # **
+ARU, Aruba                  # **  --  NOTE: what to use has *two* codes =>  AUA, ARU ??
+AUS, Australia              # 1954
+AX,  Åland Islands          # ** 2002; Territory of Finland. FIN is the official code.
+AXA, Anguilla               # **
+AZ,  Azerbaijan             # 1993
 
-B,    Belgium         # 1910
-BD,   Bangladesh      # 1978
-BDS,  Barbados        # 1956
-BF,   Burkina Faso    # 1990
-BG,   Bulgaria        # 1910
-BHT,  Bhutan          # ** 
-BIH,  Bosnia-Herzegovina   # 1993   Bosna i Hercegovina
-BOL,  Bolivia         # 1967
-BR,   Brazil          # 1930
-BRN,  Bahrain         # 1954 
-BRU,  Brunei          # 1956 
-BS,   Bahamas         # 1950
-BUR,  Burma           # 1956  Also known as Myanmar.
-BVI,  British Virgin Islands
-BW,   Botswana        # 2003
-BY,   Belarus         # 1992 (2004)  Byelorussia 
-BZ,   Belize          # ** 1980
+B,   Belgium         # 1910
+BD,  Bangladesh      # 1978
+BDS, Barbados        # 1956
+BF,  Burkina Faso    # 1990
+BG,  Bulgaria        # 1910
+BHT, Bhutan          # ** 
+BIH, Bosnia-Herzegovina   # 1993   Bosna i Hercegovina
+BOL, Bolivia         # 1967
+BR,  Brazil          # 1930
+BRN, Bahrain         # 1954 
+BRU, Brunei          # 1956 
+BS,  Bahamas         # 1950
+BUR, Burma           # 1956  Also known as Myanmar.
+BVI, British Virgin Islands
+BW,  Botswana        # 2003
+BY,  Belarus         # 1992 (2004)  Byelorussia 
+BZ,  Belize          # ** 1980
 
-C,    Cuba            # 1930
-CAM,  Cameroon        # 1952
-CDN,  Canada          # 1956  Canadian Dominion
-CH,   Switzerland     # 1911  Confœderatio Helvetica (Latin)
-CI,   Côte d'Ivoire (Ivory Coast) #  1961
-CL,   Sri Lanka    # 1961   Formerly Ceylon
-CN,   China PR     # ** 
-CO,   Colombia     # 1952
-COM,  Comoros      # **
-CR,   Costa Rica   # 1956
-CV,   Cape Verde   # ** 1975
-CY,   Cyprus       # 1932 
-CYM,  Wales        # ** Part of the United Kingdom, CYM from Cymru (Wales), GB is the official code.
-CZ,   Czech Republic # 1993
+C,   Cuba            # 1930
+CAM, Cameroon        # 1952
+CDN, Canada          # 1956  Canadian Dominion
+CH,  Switzerland     # 1911  Confœderatio Helvetica (Latin)
+CI,  Côte d'Ivoire   # 1961  Ivory Coast [en]
+CL,  Sri Lanka       # 1961   Formerly Ceylon
+CN,  China           # **    People's Republic of China; China PR
+CO,  Colombia        # 1952
+COM, Comoros         # **
+CR,  Costa Rica      # 1956
+CV,  Cape Verde      # ** 1975
+CY,  Cyprus          # 1932 
+CZ,  Czech Republic  # 1993
 
-D,    Germany             # 1910  Deutschland (German)
-DJI,  Djibouti            # **
-DK,   Denmark             # 1914
-DOM,  Dominican Republic  # 1952
-DY,   Benin               # 1910  Dahomey (name until 1975)
-DZ,   Algeria             # 1962  Djazayer (Algerian Arabic)
+D,   Germany             # 1910  Deutschland [de]
+DJI, Djibouti            # **
+DK,  Denmark             # 1914
+DOM, Dominican Republic  # 1952
+DY,  Benin               # 1910  formerly Dahomey (-1975)
+DZ,  Algeria             # 1962  Djazayer (Algerian Arabic)
 
-E,    Spain       # 1910  España (Spanish)
-EAK,  Kenya       # 1938  East Africa Kenya
-EAT,  Tanzania    # 1938  East Africa Tanzania
-EAU,  Uganda      # 1938  East Africa Uganda
-EAZ,  Zanzibar    #       East Africa Zanzibar
-EC,   Ecuador     # 1962
-ENG,  England     # ** Part of the United Kingdom, GB is the official code.
-ER,   Eritrea     # 1993
-ES,   El Salvador # 1978
-EST,  Estonia     # 1993  Eesti Vabariik (Estonian)
-ET,   Egypt       # 1927
-ETH,  Ethiopia    # 1964
+E,   Spain       # 1910  España [es]
+EAK, Kenya       # 1938  East Africa Kenya
+EAT, Tanzania    # 1938  East Africa Tanzania
+EAU, Uganda      # 1938  East Africa Uganda
+EAZ, Zanzibar    #       East Africa Zanzibar
+EC,  Ecuador     # 1962
+ER,  Eritrea     # 1993
+ES,  El Salvador # 1978
+EST, Estonia     # 1993  Eesti Vabariik (Estonian)
+ET,  Egypt       # 1927
+ETH, Ethiopia    # 1964
 
-F,    France        # 1910 
-FIN,  Finland       # 1993  Suomi Finland (Finnish/Swedish)
-FJI,  Fiji          # 1971  
-FL,   Liechtenstein # 1923, Fürstentum Liechtenstein (German)
-FO,   Faroe Islands # 1996, Føroyar
-FSM,  Micronesia    # ** Federated States of Micronesia
+F,   France        # 1910 
+FIN, Finland       # 1993  Suomi/Finland [fi/se]
+FJI, Fiji          # 1971  
+FL,  Liechtenstein # 1923, Fürstentum Liechtenstein [de]
+FO,  Faroe Islands # 1996, Føroyar
+FSM, Micronesia    # ** Federated States of Micronesia
 
-G,    Gabon           #  1974
-GB,   United Kingdom (of Great Britain and Northern Ireland)   #  GB is the official code
-GBA,  Alderney        # 1924  Great Britain – Alderney
-GBG,  Guernsey        # 1924  Great Britain – Guernsey
-GBJ,  Jersey          # 1924  Great Britain – Jersey
-GBM,  Isle of Man     # 1932  Great Britain – Isle of Man
-GBZ,  Gibraltar       # 1924  Great Britain – Gibraltar [Z was assigned because G was already used for Guernsey]
-GCA,  Guatemala       # 1956  Guatemala, Central America
-GE,   Georgia         # 1992  Older licence plates use "GEO" instead of "GE".
-GH,   Ghana              # 1959
-GQ,   Equatorial Guinea  # **
-GR,   Greece             # 1913  
-GUY,  Guyana             # 1972
-GW, RGB,   Guinea-Bissau  # ** 1974  República da Guiné-Bissau   --  NOTE: what to use has *two* codes =>  GW, RGB ??
+G,   Gabon           #  1974
+GB,  United Kingdom (of Great Britain and Northern Ireland)   #  GB is the official code
+GBA, Alderney        # 1924  Great Britain - Alderney
+GBG, Guernsey        # 1924  Great Britain - Guernsey
+GBJ, Jersey          # 1924  Great Britain - Jersey
+GBM, Isle of Man     # 1932  Great Britain - Isle of Man
+GBZ, Gibraltar       # 1924  Great Britain - Gibraltar [Z was assigned because G was already used for Guernsey]
+GCA, Guatemala       # 1956  Guatemala, Central America
+GE,  Georgia         # 1992  Older licence plates use "GEO" instead of "GE".
+GH,  Ghana              # 1959
+GQ,  Equatorial Guinea  # **
+GR,  Greece             # 1913
+GUY, Guyana             # 1972
 
-H,    Hungary      # 1910
-HK,   Hong Kong    # ** 1932
-HKJ,  Jordan       # 1966  Hashemite Kingdom of Jordan
-HN,   Honduras     # **  
-HR,   Croatia      # 1992  Hrvatska (Croatian)
 
-I,    Italy         # 1919
-IL,   Israel        # 1952
-IND,  India         # 1947
-IR,   Iran          # 1936
-IRL,  Ireland       # 1962
-IRQ,  Iraq          # 1930
-IS,   Iceland       # 1936  Ísland (Icelandic)
+H,   Hungary      # 1910
+HK,  Hong Kong    # ** 1932
+HKJ, Jordan       # 1966  Hashemite Kingdom of Jordan
+HN,  Honduras     # **  
+HR,  Croatia      # 1992  Hrvatska (Croatian)
 
-J,    Japan         # 1964
-JA,   Jamaica       # 1932
+I,   Italy         # 1919
+IL,  Israel        # 1952
+IND, India         # 1947
+IR,  Iran          # 1936
+IRL, Ireland       # 1962
+IRQ, Iraq          # 1930
+IS,  Iceland       # 1936  Ísland (Icelandic)
 
-K,    Cambodia                # 1956  Known as Kampuchea 1976–89.
-KAN,  Saint Kitts and Nevis   # **  
-KIR,  Kiribati                # **
-KN,   Greenland               # ** Kalaallit Nunaat
-KP,   North Korea             # **
-KS,   Kyrgyzstan              # 1992  Most vehicles use "KGZ" instead of "KS".
-KSA,  Saudi Arabia            # 1973  Kingdom of Saudi Arabia
-KWT,  Kuwait                  # 1954
-KZ,   Kazakhstan              # 1992
+J,   Japan         # 1964
+JA,  Jamaica       # 1932
 
-L,    Luxembourg       # 1911 
-LAO,  Laos             # 1959
-LAR,  Libya            # 1972  Libyan Arab Republic
-LB,   Liberia          # 1967
-LS,   Lesotho          # 1967
-LT,   Lithuania        # 1992
-LV,   Latvia           # 1992  Latvijas Republika (Latvian)
+K,   Cambodia                # 1956  Known as Kampuchea 1976–89.
+KAN, Saint Kitts and Nevis   # **  
+KIR, Kiribati                # **
+KN,  Greenland               # ** Kalaallit Nunaat
+KP,  North Korea             # **  Democratic People's Republic of Korea
+KS,  Kyrgyzstan              # 1992  Most vehicles use "KGZ" instead of "KS".
+KSA, Saudi Arabia            # 1973  Kingdom of Saudi Arabia
+KWT, Kuwait                  # 1954
+KZ,  Kazakhstan              # 1992
 
-M,    Malta           #  1966,  GBY 1924–66,  
-MA,   Morocco        #  1924,  ,  Maroc (French)
-MAL,  Malaysia      #  1967,  PRK – 1957, FM 1954-7, PTM 1957–67,  formerly Perak, then Federated Malay States, then Persekutuan Tanah Melayu (Malay)
-MC,   Monaco         #  1910,  ,  
-MD,   Moldova        #  1992,  SU − 1991,  Formerly part of the Soviet Union
-MEX,  Mexico        #  1952,  ,  
-MGL,  Mongolia      #  1997,  ,  
-MH,   Marshall Islands   #  **  
-MK,   Macedonia      #  1992,  YU − 1992,  Formerly part of Yugoslavia
-MNE,  Montenegro    #  2006,  MN – 1913–1919, SHS 1919–29, Y 1929–53, YU 1953–2003, SCG 2003–2006,  Formerly part of the Kingdom of Serbs, Croats and Slovenes (Srba, Hrvata i Slovenaca – Serbo-Croatian), then part of Yugoslavia and then Serbia and Montenegro (Srbija i Crna Gora – Serbian)
-MO,   Macau         # ** 1930s?,  ,  former Portuguese overseas province
-MOC,  Mozambique    #   1975,  MOC: 1932–56, P: 1957–75,  Formerly part of Portugal. Moçambique (Portuguese)
-MS,   Mauritius      #  1938,  ,  
-MV,   Maldives      # ** ,  ,  
-MW,   Malawi         #  1965,  EA 1932–38, NP – 1938–70, RNY option 1960–65,  Formerly the Nyasaland Protectorate
+L,   Luxembourg       # 1911 
+LAO, Laos             # 1959
+LAR, Libya            # 1972  Libyan Arab Republic
+LB,  Liberia          # 1967
+LS,  Lesotho          # 1967
+LT,  Lithuania        # 1992
+LV,  Latvia           # 1992  Latvijas Republika (Latvian)
 
-N,    Norway                 # 1922,  ,  
-NA,   Netherlands Antilles  # 1957,  ,  
-NAM,  Namibia              # 1990,  SWA,  Formerly South West Africa
-NAU,  Nauru                # 1968,  ,  
-NC,   New Caledonia    # **
-NEP,  Nepal          #  1970,  ,  
-NI,   Northern Ireland  # ** ,  ,  ,  Part of the United Kingdom, GB is the official code.
-NIC,  Nicaragua        # 1952,  ,  
-NL,   Netherlands       # 1910,  ,  
-NZ,   New Zealand       # 1958,  ,  
+M,   Malta             # 1966
+MA,  Morocco           # 1924  Maroc [fr]
+MAL, Malaysia          # 1967
+MC,  Monaco            # 1910
+MD,  Moldova           # 1992
+MEX, Mexico            # 1952
+MGL, Mongolia          # 1997
+MH,  Marshall Islands  #  **
+MK,  Macedonia         # 1992
+MNE, Montenegro        # 2006
+MO,  Macau             # ** 1930s?
+MOC, Mozambique        # 1975  Moçambique [pt]
+MS,  Mauritius         # 1938
+MV,  Maldives          # **
+MW,  Malawi            # 1965
 
-OM,   Oman        # **
+N,   Norway            # 1922
+NAM, Namibia           # 1990
+NAU, Nauru             # 1968
+NC,  New Caledonia     # **
+NEP, Nepal             # 1970
+NIC, Nicaragua         # 1952
+NL,  Netherlands       # 1910
+NZ,  New Zealand       # 1958
 
-P,    Portugal      # 1910,  ,  
-PA,   Panama       # 1952,  ,  
-PAL,  Palau      # **  
-PE,   Peru         # 1937,  ,  
-PK,   Pakistan     # 1947?,  ,  
-PL,   Poland       # 1921,  ,  
-PMR,  Transnistria     # ** 1990,  SU − 1991, MD 1991,  Pridnestrovian Moldavian Republic – officially part of  Moldova. Formerly part of the Soviet Union.
-PNG,  Papua New Guinea  # 1978,  ,  
-PR,   Puerto Rico       # **
-PS,   Palestine         # ** 
-PY,   Paraguay          # 1952
+OM,  Oman              # **
 
-Q,    Qatar     #  1972,  ,  
+P,   Portugal       # 1910
+PA,  Panama         # 1952
+PAL, Palau          # **  
+PE,  Peru           # 1937
+PK,  Pakistan       # 1947?
+PL,  Poland         # 1921
+PMR, Transnistria     # ** 1990  - Pridnestrovian Moldavian Republic – officially part of  Moldova.
+PNG, Papua New Guinea  # 1978
+PR,  Puerto Rico       # **
+PS,  Palestine         # ** 
+PY,  Paraguay          # 1952
 
-RA,   Argentina  # 1927,  ,  República Argentina (Spanish)
-RB,   Botswana   # 1966,  BP,  Republic of Botswana. Unofficially uses BW. Formerly Bechuanaland Protectorate
-RC,   Taiwan   # 1932  Republic of China  
-RCA,  Central African Republic    # 1962,  ,  République Centrafricaine (French)
-RCB,  Congo   # 1962,  ,  République du Congo Brazzaville (French)
-RCH,  Chile   # 1930,  ,  República de Chile (Spanish)
-RG,   Guinea  #  1972,  ,  République de Guinée (French)
-RH,   Haiti   # 1952,  ,  République d'Haïti (French)
-RI,   Indonesia    #  1955,  ,  Republik Indonesia (Indonesian)
-RIM,  Mauritania  #  1964,  ,  République islamique de Mauritanie (French)
-RKS,  Kosovo     # ** 2010,  SRB; KS 1999–2010; RKS 2010,  Serbia claims Kosovo as part of its territory.
-RL,   Lebanon      #  1952,  ,  République Libanaise (French)
-RM,   Madagascar   #  1962,  ,  République de Madagascar (French)
-RMM,  Mali        #  1962,  AOF − 1960,  République du Mali (French). Formerly part of French West Africa (Afrique Occidentale Française)
-RN,   Niger        #  1977,  AOF − 1960,  République du Niger (French). Formerly part of French West Africa (Afrique Occidentale Française)
-RO,   Romania      #  1981,  ,  
-ROK,  South Korea  #  1971,  ,  
-RP,   Philippines   #  1975,  ,  Republic of the Philippines
-RSM,  San Marino   # 1932,  ,  Repubblica di San Marino (Italian)
-RU,   Burundi       #  1962?,  ,  Belgian territory of Ruanda-Urundi
-RUS,  Russia       #  1992,  SU,  Formerly part of the Soviet Union
-RWA,  Rwanda       #  1964,  RU − 1962,  Formerly part of Ruanda-Urundi − 1962
+Q,   Qatar      # 1972
 
-S,    Sweden    #  1911,  ,  
-SCO,  Scotland   # ** ,  ,  Part of the United Kingdom, GB is the official code.
-SD,   Swaziland        # 1935,  ,  
-SGP,  Singapore       # 1952,  ,  
-SK,   Slovakia         # 1993,  CS 1919–39,1945–92, SQ 1939–45,  Formerly Československo (Czechoslovakia)
-SLE,  Sierra Leone   # ** 2002,  ,  officially WAL; SLE is only used on local licence plates, written below the national flag
-SLO,  Slovenia        # 1992,  SHS 1919–29, Y 1929–53, YU 1953–92,  Formerly part of the Kingdom of Serbs, Croats and Slovenes, then part of Yugoslavia
-SME,  Suriname        # 1936,  ,  
-SMOM, Malta       # ** Sovereign Military Order of Malta  
-SN,   Senegal       # 1962,  ,  
-SO,   Somalia       # 1974,  ,  
-SOL,  Solomon Islands  # **
-SRB,  Serbia       # 2006,  SB – 1919, SHS 1919–29, Y 1929–53, YU 1953–2003, SCG 2003–2006,  Formerly part of the Kingdom of Serbs, Croats and Slovenes (Srba, Hrvata i Slovenaca – Serbo-Croatian), then part of Yugoslavia and then Serbia and Montenegro (Srbija i Crna Gora – Serbian)
-STP,  São Tomé and Príncipe  # ** 1975,  P,  Formerly a territory of Portugal
-SUD,  Sudan        # 1963
-SY,   Seychelles    # 1938
-SYR,  Syria        # 1952
+RA,  Argentina                  # 1927   República Argentina [es]
+RB,  Botswana                   # 1966   Republic of Botswana. Unofficially uses BW.
+RC,  Taiwan                     # 1932   Republic of China  
+RCA, Central African Republic   # 1962   République Centrafricaine [fr]
+RCB, Congo                      # 1962   République du Congo Brazzaville [fr]
+RCH, Chile                      # 1930   República de Chile [es]
+RG,  Guinea                     # 1972   République de Guinée [fr]
+RGB, Guinea-Bissau              # ** 1974  República da Guiné-Bissau [pt] --  NOTE: what to use has *two* codes =>  GW, RGB ??
+RH,  Haiti                      # 1952  République d'Haïti [fr]
+RI,  Indonesia                  # 1955  Republik Indonesia (Indonesian)
+RIM, Mauritania                 # 1964  République islamique de Mauritanie [fr]
+RKS, Kosovo                     # ** 2010
+RL,  Lebanon                    # 1952  République Libanaise [fr]
+RM,  Madagascar                 # 1962  République de Madagascar [fr]
+RMM, Mali                       # 1962  République du Mali [fr]
+RN,  Niger                      # 1977  République du Niger [fr]
+RO,  Romania                    # 1981
+ROK, South Korea                # 1971  Republic of Korea
+RP,  Philippines                # 1975  Republic of the Philippines
+RSM, San Marino                 # 1932  Repubblica di San Marino [it]
+RU,  Burundi                    # 1962?
+RUS, Russia                     # 1992
+RWA, Rwanda                     # 1964
 
-T,    Thailand     #  1955,  ,  
-TCH, TD,   Chad   #  1973,  ,  Tchad (French)
-TG,   Togo        #  1973,  ,  
-TJ,   Tajikistan  #  1992,  SU − 1991,  Formerly part of the Soviet Union
-TL,   Timor-Leste  # ** P, RI,  Formerly a territory of Portugal, then part of Indonesia
-TM,   Turkmenistan  # 1992,  SU − 1991,  Formerly part of the Soviet Union
-TN,   Tunisia       # 1957,  F − 1956,  Formerly a territory of France
-TO,   Tonga        # **
-TR,   Turkey        #  1935,  ,  
-TT,   Trinidad and Tobago  #  1964,  ,  
-TUV,  Tuvalu      # **
+S,   Sweden                 # 1911
+SD,  Swaziland              # 1935
+SGP, Singapore              # 1952
+SK,  Slovakia               # 1993
+SLE, Sierra Leone           # ** 2002   officially WAL; SLE is only used on local licence plates, written below the national flag
+SLO, Slovenia               # 1992
+SME, Suriname               # 1936
+SN,  Senegal                # 1962
+SO,  Somalia                # 1974
+SOL, Solomon Islands        # **
+SRB, Serbia                 # 2006
+STP, São Tomé and Príncipe  # ** 1975
+SUD, Sudan                  # 1963
+SY,  Seychelles             # 1938
+SYR, Syria                  # 1952
 
-UA,   Ukraine   # 1992,  SU,  Formerly part of the Soviet Union
-UAE,  United Arab Emirates  
-USA,  United States   # 1952,  ,  
-UY,   Uruguay          # 2012,  ROU,  
-UZ,   Uzbekistan       # 1992,  SU,  Formerly part of the Soviet Union
+T,   Thailand             # 1955
+TCH, Chad                 # 1973   Tchad [fr]
+TG,  Togo                 # 1973
+TJ,  Tajikistan           # 1992
+TL,  Timor-Leste          # **
+TM,  Turkmenistan         # 1992
+TN,  Tunisia              # 1957
+TO,  Tonga                # **
+TR,  Turkey               # 1935
+TT,  Trinidad and Tobago  # 1964
+TUV, Tuvalu               # **
 
-V,    Vatican City     # 1931,  ,  On the Pope's vehicles and on local licence plates SCV (Stato della Città del Vaticano) is used.
-VN,   Vietnam          # 1953,  ,  
-VU,   Vanuatu          # **  
+UA,  Ukraine              # 1992
+UAE, United Arab Emirates
+USA, United States        # 1952
+UY,  Uruguay              # 2012
+UZ,  Uzbekistan           # 1992
 
-WAG,  Gambia          # 1932,  ,  West Africa Gambia
-WAL,  Sierra Leone    # 1937,  ,  West Africa Sierra Leone; on local licence plates SLE is used
-WAN,  Nigeria         # 1937,  ,  West Africa Nigeria
-WD,   Dominica         # 1954,  ,  Windward Islands Dominica
-WG,   Grenada          # 1932,  ,  Windward Islands Grenada
-WL,   Saint Lucia      # 1932,  ,  Windward Islands Saint Lucia
-WS,   Samoa            # 1962,  ,  formerly Western Samoa
-WSA,  Western Sahara Western Sahara     # ** 1932,  SH − 1976,  formerly Sahara Español (Spanish); now mostly occupied by Morocco, with some territory administered by the Sahrawi Arab Democratic Republic
-WV,   Saint Vincent and the Grenadines   # 1932,  ,  Windward Islands Saint Vincent
+V,   Vatican City       # 1931   On the Pope's vehicles and on local licence plates SCV (Stato della Città del Vaticano) is used.
+VN,  Vietnam            # 1953
+VU,  Vanuatu            # **  
 
-YAR,  Yemen        # North Yemen formerly known as the Yemen Arab Republic
-YV,   Venezuela    # 1955  the same code is used for aircraft
+WAG, Gambia             # 1932  West Africa Gambia
+WAN, Nigeria            # 1937  West Africa Nigeria
+WD,  Dominica           # 1954  Windward Islands Dominica
+WG,  Grenada            # 1932  Windward Islands Grenada
+WL,  Saint Lucia        # 1932  Windward Islands Saint Lucia
+WS,  Samoa              # 1962   formerly Western Samoa
+WSA, Western Sahara     # ** 1932  now mostly occupied by Morocco, with some territory administered by the Sahrawi Arab Democratic Republic
+WV,  Saint Vincent and the Grenadines   # 1932   Windward Islands Saint Vincent
 
-Z,    Zambia          # 1964
-ZA,   South Africa    # 1936  Zuid-Afrika (from Dutch; in Afrikaans it is Suid-Afrika)
-ZRE,  Congo DR        # 1971?  Congo (Kinshasa), Zaïre
-ZW,   Zimbabwe        # 1980
+YAR, Yemen              # North Yemen formerly known as the Yemen Arab Republic
+YV,  Venezuela          # 1955   the same code is used for aircraft
+
+Z,   Zambia          # 1964
+ZA,  South Africa    # 1936   Zuid-Afrika (from Dutch; in Afrikaans it is Suid-Afrika)
+ZRE, Congo DR        # 1971?  Democratic Republic of the Congo; formerly Zaïre (1971-97)  -- use CGO ???
+ZW,  Zimbabwe        # 1980
+
+
+#################
+# more
+
+CYM, Wales             # ** Part of the United Kingdom, CYM from Cymru (Wales), GB is the official code.
+ENG, England           # ** Part of the United Kingdom, GB is the official code.
+SCO, Scotland          # ** Part of the United Kingdom, GB is the official code.
+NI,  Northern Ireland  # ** Part of the United Kingdom, GB is the official code.
 
 
 ######################
-# more
+# more codes
+#
+# -- regions (not included in database as country for now)
 #
 # AS,  Asturias      # ** Territory of the Kingdom of Spain, E is the official code.  -- NOTE: not included as country for now
-# SCV, Vatican City  # ** The official code is V.    -- NOTE: use V for now
+#
+# -- alternative/duplicate codes
+#
+# SCV, Vatican City  # ** The official code is V.    -- NOTE: duplicate/alternative; use V for now
+# SMOM, Malta       # ** Sovereign Military Order of Malta   -- NOTE: duplicate/alternative; use M for now
 # BH,   Belize       # 1938   former British Honduras. Uses BZ unofficially since 1980, although still officially registered as BH as of 2007.
+# WAL, Sierra Leone    # 1937   West Africa Sierra Leone; on local licence plates SLE is used
+#
+# AUA,  Aruba          # **  --  NOTE: what to use has *two* codes =>  AUA, ARU ??
+# GW,   Guinea-Bissau  # **  --  NOTE: what to use has *two* codes =>  GW, RGB ??
+# TD,   Chad           # 1973  -- NOTE: what to use has *two* codes => TCH, TD  ??
+
+
+#
+#  -- historic country codes
+#
+# NA,  Netherlands Antilles    # 1957   (now Aruba, Bonair, Curaco etc.)
 
