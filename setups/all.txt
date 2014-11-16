@@ -40,11 +40,16 @@ north-america/2-more/continents
 pacific/2-more/continents
 south-america/2-more/continents
 
+# Country Codes
+1-codes/fifa
+1-codes/fips
+1-codes/internet
+1-codes/ioc
+1-codes/iso
+1-codes/motor
+
 
 # Africa
-africa/1-codes/fifa
-africa/1-codes/internet
-africa/1-codes/iso3
 africa/ao-angola/cities
 africa/bf-burkina-faso/cities
 africa/bj-benin/cities
@@ -83,9 +88,6 @@ africa/zw-zimbabwe/cities
 
 
 # Asia
-asia/1-codes/fifa
-asia/1-codes/internet
-asia/1-codes/iso3
 asia/af-afghanistan/cities
 asia/az-azerbaijan/cities
 asia/bd-bangladesh/cities
@@ -113,9 +115,6 @@ asia/vn-vietnam/cities
 
 
 # Caribbean
-caribbean/1-codes/fifa
-caribbean/1-codes/internet
-caribbean/1-codes/iso3
 caribbean/cu-cuba/cities
 caribbean/do-dominican-republic/cities
 caribbean/ht-haiti/cities
@@ -123,9 +122,6 @@ caribbean/pr-puerto-rico/cities
 
 
 # Central America
-central-america/1-codes/fifa
-central-america/1-codes/internet
-central-america/1-codes/iso3
 central-america/cr-costa-rica/cities
 central-america/gt-guatemala/cities
 central-america/hn-honduras/cities
@@ -134,12 +130,7 @@ central-america/pa-panama/cities
 central-america/sv-el-salvador/cities
 
 
-
 # Europe
-europe/1-codes/fifa
-europe/1-codes/internet
-europe/1-codes/iso3
-europe/1-codes/motor
 europe/am-armenia/cities
 europe/be-belgium/regions
 europe/be-belgium/cities
@@ -194,9 +185,6 @@ europe/wa-wales/cities
 
 
 # Middle east
-middle-east/1-codes/fifa
-middle-east/1-codes/internet
-middle-east/1-codes/iso3
 middle-east/ae-united-arab-emirates/cities
 middle-east/bh-bahrain/cities
 middle-east/il-israel/cities
@@ -214,10 +202,6 @@ middle-east/ye-yemen/cities
 
 
 # North America
-north-america/1-codes/fifa
-north-america/1-codes/internet
-north-america/1-codes/iso3
-north-america/1-codes/motor
 north-america/ca-canada/regions
 north-america/ca-canada/regions.abbr
 north-america/ca-canada/cities
@@ -230,19 +214,12 @@ north-america/mx-mexico/cities
 
 
 # Pacific
-pacific/1-codes/fifa
-pacific/1-codes/internet
-pacific/1-codes/iso3
 pacific/au-australia/regions
 pacific/au-australia/cities
 pacific/nz-new-zealand/cities
 
 
 # South America
-south-america/1-codes/fifa
-south-america/1-codes/internet
-south-america/1-codes/iso3
-south-america/1-codes/motor
 south-america/ar-argentina/regions
 south-america/ar-argentina/regions.iso
 south-america/ar-argentina/cities

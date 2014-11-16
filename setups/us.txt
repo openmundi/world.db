@@ -11,11 +11,15 @@
 # Countries
 north-america/countries
 
+# Codes
+1-codes/fifa
+1-codes/fips
+1-codes/internet
+1-codes/ioc
+1-codes/iso
+1-codes/motor
+
 # North America
-north-america/1-codes/fifa
-north-america/1-codes/internet
-north-america/1-codes/iso3
-north-america/1-codes/motor
 north-america/us-united-states/regions
 north-america/us-united-states/cities
 

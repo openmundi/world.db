@@ -13,7 +13,6 @@ europe/countries.2
 ## south-america/countries
 
 # Codes
-
 1-codes/fifa
 1-codes/fips
 1-codes/internet
