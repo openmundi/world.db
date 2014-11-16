@@ -73,10 +73,10 @@ ET,  Egypt       # 1927
 ETH, Ethiopia    # 1964
 
 F,   France        # 1910 
-FIN, Finland       # 1993  Suomi/Finland [fi/se]
-FJI, Fiji          # 1971  
+FIN, Finland       # 1993   was SF Suomi/Finland [fi/se] before
+FJI, Fiji          # 1971
 FL,  Liechtenstein # 1923, Fürstentum Liechtenstein [de]
-FO,  Faroe Islands # 1996, Føroyar
+FO,  Faroe Islands # 1996, Føroyar (Faroese)
 FSM, Micronesia    # ** Federated States of Micronesia
 
 G,   Gabon           #  1974
@@ -114,7 +114,7 @@ JA,  Jamaica       # 1932
 K,   Cambodia                # 1956  Known as Kampuchea 1976–89.
 KAN, Saint Kitts and Nevis   # **  
 KIR, Kiribati                # **
-KN,  Greenland               # ** Kalaallit Nunaat
+KN,  Greenland               # ** Kalaallit Nunaat (Greenlandic language) - was GRO Grønland (Danish language) before
 KP,  North Korea             # **  Democratic People's Republic of Korea
 KS,  Kyrgyzstan              # 1992  Most vehicles use "KGZ" instead of "KS".
 KSA, Saudi Arabia            # 1973  Kingdom of Saudi Arabia
@@ -186,7 +186,7 @@ RL,  Lebanon                    # 1952  République Libanaise [fr]
 RM,  Madagascar                 # 1962  République de Madagascar [fr]
 RMM, Mali                       # 1962  République du Mali [fr]
 RN,  Niger                      # 1977  République du Niger [fr]
-RO,  Romania                    # 1981
+RO,  Romania                    # 1981  was R before
 ROK, South Korea                # 1971  Republic of Korea
 RP,  Philippines                # 1975  Republic of the Philippines
 RSM, San Marino                 # 1932  Repubblica di San Marino [it]
@@ -225,7 +225,7 @@ TUV, Tuvalu               # **
 UA,  Ukraine              # 1992
 UAE, United Arab Emirates
 USA, United States        # 1952
-UY,  Uruguay              # 2012
+UY,  Uruguay              # 2012   was ROU República Oriental del Uruguay [es] before
 UZ,  Uzbekistan           # 1992
 
 V,   Vatican City       # 1931   On the Pope's vehicles and on local licence plates SCV (Stato della Città del Vaticano) is used.
@@ -281,5 +281,5 @@ NI,  Northern Ireland  # ** Part of the United Kingdom, GB is the official code.
 #
 #  -- historic country codes
 #
-# NA,  Netherlands Antilles    # 1957   (now Aruba, Bonair, Curaco etc.)
+# NA,  Netherlands Antilles    # 1957   (now Aruba, Bonaire, Curaçao etc.) -- use for Bonair ??
 
