@@ -7,7 +7,7 @@
 #  todo: mark all dependencies n territories w/ (UK), (NZ), (AU), (US) etc.
 
 
-AA, Aruba
+AA, Aruba (NL)    # part of (formerly) Netherlands Antilles
 AC, Antigua and Barbuda
 AE, United Arab Emirates
 AF, Afghanistan
@@ -17,35 +17,35 @@ AL, Albania
 AM, Armenia
 AN, Andorra
 AO, Angola
-AQ, American Samoa
+AQ, American Samoa (US)
 AR, Argentina
 AS, Australia
-AT, Ashmore and Cartier Islands
+AT, Ashmore and Cartier Islands (AU)
 AU, Austria
-AV, Anguilla
-AX, Akrotiri        # UK Territory / Military Base
+AV, Anguilla (UK) 
+AX, Akrotiri (UK)        # UK Territory / Military Base
 AY, Antarctica
 
 BA, Bahrain
 BB, Barbados
 BC, Botswana
-BD, Bermuda
+BD, Bermuda (UK)
 BE, Belgium
 BF, Bahamas
 BG, Bangladesh
 BH, Belize
 BK, Bosnia-Herzegovina
 BL, Bolivia
-BM, Burma
+BM, Burma           # NOTE: now called Myanmar
 BN, Benin
 BO, Belarus
 BP, Solomon Islands
-BQ, Navassa Island    # US Territory
+BQ, Navassa Island (US)    # US Territory
 BR, Brazil
-BS, Bassas da India   # French Southern and Antarctic Lands 
+BS, Bassas da India (FR)   # French Southern and Antarctic Lands 
 BT, Bhutan
 BU, Bulgaria
-BV, Bouvet Island
+BV, Bouvet Island (NO)
 BX, Brunei
 BY, Burundi
 
@@ -54,21 +54,252 @@ CB, Cambodia
 CD, Chad
 CE, Sri Lanka
 CF, Congo (Brazzaville)
-CG, Congo (Kinshasa)    ## fix use congo DR  ??
+CG, Congo (Kinshasa)      ## fix use congo DR  ??
 CH, China
 CI, Chile
-CJ, Cayman Islands
-CK, Cocos (Keeling) Islands
+CJ, Cayman Islands (UK)
+CK, Cocos (Keeling) Islands (AU)
 CM, Cameroon
 CN, Comoros
 CO, Colombia
-CQ, Northern Mariana Islands
-CR, Coral Sea Islands
+CQ, Northern Mariana Islands (US)
+CR, Coral Sea Islands (AU)
 CS, Costa Rica
 CT, Central African Republic
 CU, Cuba
 CV, Cape Verde
-CW, Cook Islands
+CW, Cook Islands (NZ)
 CY, Cyprus
 
+DA, Denmark
+DJ, Djibouti
+DO, Dominica
+DQ, Jarvis Island (US)
+DR, Dominican Republic
+DX, Dhekelia (UK)
+
+EC, Ecuador
+EG, Egypt
+EI, Ireland
+EK, Equatorial Guinea
+EN, Estonia
+ER, Eritrea
+ES, El Salvador
+ET, Ethiopia
+EU, Europa Island (FR)   # French Southern and Antarctic Lands
+EZ, Czech Republic
+
+FG, French Guiana (FR)
+FI, Finland
+FJ, Fiji
+FK, Falkland Islands (UK)  # Islas Malvinas
+FM, Micronesia        # Federated States of Micronesia
+FO, Faroe Islands (NO)
+FP, French Polynesia (FR)
+FQ, Baker Island (US)
+FR, France
+FS, French Southern and Antarctic Lands (FR)
+
+GA, Gambia
+GB, Gabon
+GG, Georgia
+GH, Ghana
+GI, Gibraltar (UK)
+GJ, Grenada
+GK, Guernsey (UK)
+GL, Greenland (DK)
+GM, Germany
+GO, Glorioso Islands (FR)  # French Southern and Antarctic Lands
+GP, Guadeloupe (FR)
+GQ, Guam (US)
+GR, Greece
+GT, Guatemala
+GV, Guinea
+GY, Guyana
+GZ, Gaza Strip (PS)
+
+HA, Haiti
+HK, Hong Kong (CN)
+HM, Heard Island and McDonald Islands (AU)
+HO, Honduras
+HQ, Howland Island (US)
+HR, Croatia
+HU, Hungary
+
+IC, Iceland
+ID, Indonesia
+IM, Isle of Man (UK)
+IN, India
+IO, British Indian Ocean Territory (UK)
+IP, Clipperton Island (FR)
+IR, Iran
+IS, Israel
+IT, Italy
+IV, Côte d'Ivoire
+IZ, Iraq
+
+JA, Japan
+JE, Jersey (UK)
+JM, Jamaica
+JN, Jan Mayen (NO)
+JO, Jordan
+JQ, Johnston Atoll (US)
+JU, Juan de Nova Island (FR)  # French Southern and Antarctic Lands 
+
+KE, Kenya
+KG, Kyrgyzstan
+KN, North Korea
+KQ, Kingman Reef (US)
+KR, Kiribati
+KS, South Korea
+KT, Christmas Island (AU)
+KU, Kuwait
+KV, Kosovo
+KZ, Kazakhstan
+
+LA, Laos
+LE, Lebanon
+LG, Latvia
+LH, Lithuania
+LI, Liberia
+LO, Slovakia
+LQ, Palmyra Atoll (US)
+LS, Liechtenstein
+LT, Lesotho
+LU, Luxembourg
+LY, Libya
+
+MA, Madagascar
+MB, Martinique (FR)
+MC, Macau (CN)
+MD, Moldova
+MF, Mayotte (FR)
+MG, Mongolia
+MH, Montserrat (UK)
+MI, Malawi
+MJ, Montenegro
+MK, Macedonia
+ML, Mali
+MN, Monaco
+MO, Morocco
+MP, Mauritius
+MQ, Midway Islands (US)
+MR, Mauritania
+MT, Malta
+MU, Oman
+MV, Maldives
+MX, Mexico
+MY, Malaysia
+MZ, Mozambique
+
+NC, New Caledonia (FR)
+NE, Niue (NZ)
+NF, Norfolk Island (AU)
+NG, Niger
+NH, Vanuatu
+NI, Nigeria
+NL, Netherlands
+NN, Sint Maarten (NL)
+NO, Norway
+NP, Nepal
+NR, Nauru
+NS, Suriname
+NU, Nicaragua
+NZ, New Zealand
+
+OD, South Sudan
+
+PA, Paraguay
+PC, Pitcairn Islands (UK)
+PE, Peru
+PF, Paracel Islands (CN)   # also claimed by Taiwan and Vietnam
+PG, Spratly Islands        # claimed by Brunei, China, Malaysia, Philippines, Taiwan, Vietnam  -- add new "country" type like antartica - dispute/multi-claimed/int'l ???
+PJ, South Kuril Islands (RU)  # South Kuril Islands also claimed by Japan;  Etorofu, Habomai, Kunashiri, and Shikotan Islands
+PK, Pakistan
+PL, Poland
+PM, Panama
+PO, Portugal
+PP, Papua New Guinea
+PS, Palau
+PU, Guinea-Bissau
+
+QA, Qatar
+
+RE, Réunion (FR)
+RI, Serbia
+RM, Marshall Islands
+RN, Saint Martin (FR)
+RO, Romania
+RP, Philippines
+RQ, Puerto Rico (US)
+RS, Russia
+RW, Rwanda
+
+SA, Saudi Arabia
+SB, Saint Pierre and Miquelon (FR)
+SC, Saint Kitts and Nevis
+SE, Seychelles
+SF, South Africa
+SG, Senegal
+SH, Saint Helena (UK) # Saint Helena, Ascension, and Tristan da Cunha
+SI, Slovenia
+SL, Sierra Leone
+SM, San Marino
+SN, Singapore
+SO, Somalia
+SP, Spain
+ST, Saint Lucia
+SU, Sudan
+SV, Svalbard (NO)
+SW, Sweden
+SX, South Georgia and South Sandwich Islands (UK)
+SY, Syria
+SZ, Switzerland
+
+TB, Saint Barthelemy (FR)
+TD, Trinidad and Tobago
+TE, Tromelin Island (FR)  # French Southern and Antarctic Lands
+TH, Thailand
+TI, Tajikistan
+TK, Turks and Caicos Islands (UK)
+TL, Tokelau
+TN, Tonga
+TO, Togo
+TP, Sao Tome and Principe
+TS, Tunisia
+TT, Timor-Leste
+TU, Turkey
+TV, Tuvalu
+TW, Taiwan
+TX, Turkmenistan
+TZ, Tanzania
+
+UC, Curaçao
+UG, Uganda
+UK, United Kingdom
+UP, Ukraine
+US, United States
+UV, Burkina Faso
+UY, Uruguay
+UZ, Uzbekistan
+
+VC, Saint Vincent and the Grenadines
+VE, Venezuela
+VI, British Virgin Islands
+VN, Vietnam
+VQ, United States Virgin Islands
+VT, Vatican City
+
+WA, Namibia
+WE, West Bank
+WF, Wallis and Futuna
+WI, Western Sahara (MA)    # disputed
+WQ, Wake Island (US)
+WS, Samoa
+WZ, Swaziland
+
+YM, Yemen
+
+ZA, Zambia
+ZI, Zimbabwe
 
