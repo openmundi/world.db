@@ -2,5 +2,6 @@
 yt, Mayotte, MYT, Mamoudzou,    374 km²,  194_000,   country:fr
 re, Réunion, REU,             2_512 km²,  839_500,   country:fr
 
-sh, Saint Helena|Saint Helena, Ascension and Tristan da Cunha, SHN, Jamestown,  420 km², 7_728, country:gb
+## NOTE: escape comma in long name!!
+sh, Saint Helena|Saint Helena\, Ascension and Tristan da Cunha, SHN, Jamestown,  420 km², 7_728, country:gb
 
