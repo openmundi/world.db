@@ -11,5 +11,5 @@ af,  Africa
 me,  Middle East       # West Asia
 as,  Asia
 pa,  Pacific           # Oceania & Australia
+aq,  Antarctica
 
-others,  Others  # Unknown/Undefined

@@ -25,12 +25,9 @@ mf: ci   # Saint Martin (FR)
 
 aw: ci   # Aruba (NL)
 cw: ci   # Curaçao (NL)
-
-###  fix: missing flag in worlddb-flags - check it
-## sx: # Sint Maarten (NL)
+sx: ci   # Sint Maarten (NL)
 
 ai: ci   # Anguilla (GB)
-bm: ci   # Bermuda (GB)
 ky: ci   # Cayman Islands (GB)
 ms: ci   # Montserrat (GB)
 tc: ci   # Turks and Caicos Islands (GB)

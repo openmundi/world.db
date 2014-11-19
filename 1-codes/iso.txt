@@ -46,7 +46,7 @@ Bolivia,       BO, BOL, 068
 Bonaire,       BQ, BES, 535     # Bonaire, Sint Eustatius and Saba -- check: what to do with comma?? NOTE: allow comma in comments!!
 Bosnia-Herzegovina, BA, BIH, 070
 Botswana,      BW, BWA, 072
-Bouvet Island, BV, BVT, 074
+Bouvet Island (NO), BV, BVT, 074
 Brazil,        BR, BRA, 076
 British Indian Ocean Territory (UK),  IO, IOT, 086
 Brunei,        BN, BRN, 096    # NOTE: use Brunei or Brunei Darussalam ?? 
@@ -120,7 +120,7 @@ Guinea-Bissau,   GW,  GNB,  624
 Guyana,          GY,  GUY,  328
 
 Haiti,         HT,  HTI,  332
-Heard Island and McDonald Islands, HM,  HMD,  334
+Heard Island and McDonald Islands (AU), HM,  HMD,  334
 Honduras,      HN,  HND,  340
 Hong Kong (CN),     HK,  HKG,  344
 Hungary,       HU,  HUN,  348

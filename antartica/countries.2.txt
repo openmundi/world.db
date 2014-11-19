@@ -1,21 +1,26 @@
 ##################################
 # Antartica
 #
-
-###
-
-fix fix 
-
-
-######
+#
 # Antarctica, including all territorial claims by sovereign states,
 # is regulated by the Antarctic Treaty System,
 # which defines it as all land and ice shelves south of 60°S.
 #
 # Several dependent territories include sub-Antarctic islands north of 60°S.
 
-Bouvet Island  overseas territory of Norway
-French Southern Territories   overseas territory of France
-Heard Island and McDonald Islands   overseas territory of Australia
-South Georgia and the South Sandwich Islands   overseas territory of the United Kingdom
 
+# NOTE: no permanent residents
+#   residents include researchers etc.
+
+
+# overseas territory of Norway
+bv, Bouvet Island,               BVT, 49 km², 0, country:no  
+
+# overseas territory of France
+tf, French Southern Territories|French Southern and Antarctic Lands, ATF, Port-aux-Français,  439_781 km², 0,  country:fr
+
+# overseas territory of Australia
+hm, Heard Island and McDonald Islands, HMD, 368 km², 0, country:au
+
+# overseas territory of the United Kingdom
+gs, South Georgia and South Sandwich|South Georgia and the South Sandwich Islands, SGS, King Edward Point,  3_903 km², 0, country:gb
