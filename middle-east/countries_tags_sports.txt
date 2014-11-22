@@ -1,0 +1,25 @@
+
+### arabian peninsula
+
+bh, Bahrain,              fifa›afc›afc_waff
+kw, Kuwait,               fifa›afc›afc_waff
+om, Oman,                 fifa›afc›afc_waff
+qa, Qatar,                fifa›afc›afc_waff
+sa, Saudi Arabia,         fifa›afc›afc_waff
+ae, United Arab Emirates, fifa›afc›afc_waff
+ye, Yemen,                fifa›afc›afc_waff
+
+
+### fertile crescent
+
+iq, Iraq,                 fifa›afc›afc_waff
+il, Israel,               fifa›uefa
+jo, Jordan,               fifa›afc›afc_waff
+lb, Lebanon,              fifa›afc›afc_waff
+ps, Palestine,            fifa›afc›afc_waff
+sy, Syria,                fifa›afc›afc_waff
+
+### iranian Plateau
+
+ir, Iran,                 fifa›afc›afc_waff
+

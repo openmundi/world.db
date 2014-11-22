@@ -3,7 +3,7 @@
 
 # area (in sq km), pop(ulation)
 
+ca, Canada,          CAN,   9_984_670 km²,  34_278_406
+us, United States,   USA,   9_629_091 km², 314_167_157
+mx, México [Mexico], MEX,   1_972_550 km², 112_322_757
 
-ca, Canada,           CAN, 9_984_670 km²,  34_278_406, un|fifa|concacaf|concacaf_nafu|north_america|g8|g20|commonwealth
-us, United States,    USA, 9_629_091 km², 314_167_157, un|fifa|concacaf|concacaf_nafu|north_america|g8|g20
-mx, México [Mexico],  MEX, 1_972_550 km², 112_322_757, un|fifa|concacaf|concacaf_nafu|north_america|g5|g20

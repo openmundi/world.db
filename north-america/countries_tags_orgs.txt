@@ -1,0 +1,11 @@
+#####################
+# north america
+
+ca, Canada,         un|g8|g20|commonwealth
+us, United States,  un|g8|g20
+mx, México,         un|g5|g20
+
+gl, Greenland (DK)
+pm, Saint Pierre and Miquelon (FR)
+bm, Bermuda (UK)
+

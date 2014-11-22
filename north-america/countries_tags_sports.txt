@@ -1,0 +1,11 @@
+#####################
+# north america
+
+ca, Canada,         fifa›concacaf›concacaf_nafu
+us, United States,  fifa›concacaf›concacaf_nafu
+mx, México,         fifa›concacaf›concacaf_nafu
+
+gl, Greenland (DK)
+pm, Saint Pierre and Miquelon (FR)
+bm, Bermuda (UK)
+

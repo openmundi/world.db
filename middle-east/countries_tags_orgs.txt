@@ -1,0 +1,25 @@
+
+### arabian peninsula
+
+bh, Bahrain,               un|microstate
+kw, Kuwait,                un
+om, Oman,                  un
+qa, Qatar,                 un
+sa, Saudi Arabia,          un|g20
+ae, United Arab Emirates,  un
+ye, Yemen,                 un
+
+
+### fertile crescent
+
+iq, Iraq,                  un
+il, Israel,                un
+jo, Jordan,                un
+lb, Lebanon,               un
+ps, Palestine
+sy, Syria,                 un
+
+### iranian Plateau
+
+ir, Iran,                  un
+

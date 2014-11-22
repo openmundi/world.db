@@ -1,0 +1,11 @@
+#####################
+# north america
+
+ca, Canada,          north_america
+us, United States,   north_america
+mx, México,          north_america
+
+gl, Greenland (DK),  north_america
+pm, Saint Pierre and Miquelon (FR), north_america
+bm, Bermuda (UK),    north_america
+

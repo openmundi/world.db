@@ -1,0 +1,19 @@
+
+
+bh, Bahrain,              middle_east › arabian peninsula|western_asia
+kw, Kuwait,               middle_east › arabian peninsula|western_asia
+om, Oman,                 middle_east › arabian peninsula|western_asia
+qa, Qatar,                middle_east › arabian peninsula|western_asia
+sa, Saudi Arabia,         middle_east › arabian peninsula|western_asia
+ae, United Arab Emirates, middle_east › arabian peninsula|western_asia
+ye, Yemen,                middle_east › arabian peninsula|western_asia
+
+iq, Iraq,                 middle_east › fertile crescent|western_asia
+il, Israel,               middle_east › fertile crescent|western_asia
+jo, Jordan,               middle_east › fertile crescent|western_asia
+lb, Lebanon,              middle_east › fertile crescent|western_asia
+ps, Palestine,            middle_east › fertile crescent|western_asia
+sy, Syria,                middle_east › fertile crescent|western_asia
+
+ir, Iran,                 middle_east|western_asia
+
