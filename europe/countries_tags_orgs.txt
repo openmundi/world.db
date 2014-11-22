@@ -6,23 +6,23 @@
 
 eu, European Union, g20
 
-at, Austria,        un|eu|euro|schengen
-be, Belgium,        un|eu|euro|schengen
-cy, Cyprus,         un|eu|euro|commonwealth
-de, Germany,        un|eu|euro|schengen|g8|g20
-ee, Estonia,        un|eu|euro|schengen
-es, Spain,          un|eu|euro|schengen
-fi, Finland,        un|eu|euro|schengen
-fr, France,         un|eu|euro|schengen|g8|g20
-gr, Greece,         un|eu|euro|schengen
-ie, Irland,         un|eu|euro
-it, Italy,          un|eu|euro|schengen|g8|g20
-lu, Luxembourg,     un|eu|euro|schengen
-mt, Malta,          un|eu|euro|schengen|microstate|commonwealth
-nl, Netherlands,    un|eu|euro|schengen
-pt, Portugal,       un|eu|euro|schengen
-sk, Slovakia,       un|eu|euro|schengen
-si, Slovenia,       un|eu|euro|schengen
+at, Austria,        un|eu›euro|schengen
+be, Belgium,        un|eu›euro|schengen
+cy, Cyprus,         un|eu›euro|commonwealth
+de, Germany,        un|eu›euro|schengen|g8|g20
+ee, Estonia,        un|eu›euro|schengen
+es, Spain,          un|eu›euro|schengen
+fi, Finland,        un|eu›euro|schengen
+fr, France,         un|eu›euro|schengen|g8|g20
+gr, Greece,         un|eu›euro|schengen
+ie, Irland,         un|eu›euro
+it, Italy,          un|eu›euro|schengen|g8|g20
+lu, Luxembourg,     un|eu›euro|schengen
+mt, Malta,          un|eu›euro|schengen|microstate|commonwealth
+nl, Netherlands,    un|eu›euro|schengen
+pt, Portugal,       un|eu›euro|schengen
+sk, Slovakia,       un|eu›euro|schengen
+si, Slovenia,       un|eu›euro|schengen
 
 bg, Bulgaria,       un|eu
 dk, Denmark,        un|eu|schengen
@@ -51,7 +51,7 @@ no, Norway,          un|schengen
 is, Iceland,         un|schengen
 
 
-va, Vatican City,     microstate
+va, Vatican City,     microstate    # NOTE: not a united nations (UN) member
 
 ba, Bosnia and Herzegovina,  un
 li, Liechtenstein,           un|microstate

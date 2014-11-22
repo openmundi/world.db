@@ -1,0 +1,37 @@
+##########################
+# Caribbean Islands
+
+bs, Bahamas,                       caribbean › lucayan_archipelago
+tc, Turks and Caicos Islands (UK), caribbean › lucayan_archipelago
+
+cu, Cuba,                          caribbean › greater_antilles
+ht, Haiti,                         caribbean › greater_antilles › hispaniola
+do, Dominican Republic,            caribbean › greater_antilles › hispaniola
+jm, Jamaica,                       caribbean › greater_antilles
+ky, Cayman Islands (UK),           caribbean › greater_antilles
+pr, Puerto Rico (US),              caribbean › greater_antilles
+
+vi, US Virgin Islands (US),          caribbean › lesser_antilles › leeward_islands
+vg, British Virgin Islands (UK),     caribbean › lesser_antilles › leeward_islands
+ai, Anguilla (UK),                   caribbean › lesser_antilles › leeward_islands
+ag, Antigua and Barbuda,             caribbean › lesser_antilles › leeward_islands
+mf, Saint Martin (French part) (FR), caribbean › lesser_antilles › leeward_islands
+sx, Sint Maarten (Dutch part) (NL),  caribbean › lesser_antilles › leeward_islands
+bl, Saint Barthélemy (FR),           caribbean › lesser_antilles › leeward_islands | french_antilles
+kn, Saint Kitts and Nevis,           caribbean › lesser_antilles › leeward_islands
+ms, Montserrat (UK),                 caribbean › lesser_antilles › leeward_islands
+gp, Guadeloupe (FR),                 caribbean › lesser_antilles › leeward_islands | french_antilles
+
+dm, Dominica,                     caribbean › lesser_antilles › windward_islands
+mq, Martinique (FR),              caribbean › lesser_antilles › windward_islands | french_antilles
+lc, Saint Lucia,                  caribbean › lesser_antilles › windward_islands
+vc, Saint Vincent and the Grenadines,  caribbean › lesser_antilles › windward_islands
+gd, Grenada,                      caribbean › lesser_antilles › windward_islands
+
+
+bb, Barbados,                     caribbean › lesser_antilles
+tt, Trinidad and Tobago,          caribbean › lesser_antilles
+
+aw, Aruba (NL),                   caribbean › lesser_antilles › leeward_antilles
+cw, Curaçao (NL),                 caribbean › lesser_antilles › leeward_antilles
+

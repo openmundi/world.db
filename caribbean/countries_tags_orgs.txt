@@ -1,0 +1,43 @@
+#########################
+# Caribbean Islands
+
+cu, Cuba,                 un
+jm, Jamaica,              un|commonwealth
+do, Dominican Republic,   un
+ht, Haiti,                un
+
+ag, Antigua and Barbuda,   un|microstate|commonwealth
+bs, Bahamas,               un|commonwealth
+bb, Barbados,              un|microstate|commonwealth
+dm, Dominica,              un|microstate|commonwealth
+gd, Grenada,               un|microstate|commonwealth
+kn, Saint Kitts and Nevis, un|microstate|commonwealth
+lc, Saint Lucia,           un|microstate|commonwealth
+vc, Saint Vincent and the Grenadines,   un|microstate|commonwealth
+tt, Trinidad and Tobago,   un|commonwealth
+
+##############################
+# territories / dependencies
+
+# US territories
+pr, Puerto Rico
+vi, US Virgin Islands
+
+# French territories
+gp, Guadeloupe
+mq, Martinique
+bl, Saint Barthélemy
+mf, Saint Martin (French part)
+
+# Dutch territories
+aw, Aruba
+cw, Curaçao
+sx, Sint Maarten (Dutch part)
+
+# British territories
+ai, Anguilla
+ky, Cayman Islands
+ms, Montserrat
+tc, Turks and Caicos Islands
+vg, British Virgin Islands
+

@@ -1,0 +1,44 @@
+#########################
+# Caribbean Islands
+
+cu, Cuba,               fifa›concacaf›concacaf_cfu
+jm, Jamaica,            fifa›concacaf›concacaf_cfu
+do, Dominican Republic, fifa›concacaf›concacaf_cfu
+ht, Haiti,              fifa›concacaf›concacaf_cfu
+
+ag, Antigua and Barbuda,   fifa›concacaf›concacaf_cfu
+bs, Bahamas,               fifa›concacaf›concacaf_cfu
+bb, Barbados,              fifa›concacaf›concacaf_cfu
+dm, Dominica,              fifa›concacaf›concacaf_cfu
+gd, Grenada,               fifa›concacaf›concacaf_cfu
+kn, Saint Kitts and Nevis, fifa›concacaf›concacaf_cfu
+lc, Saint Lucia,           fifa›concacaf›concacaf_cfu
+vc, Saint Vincent and the Grenadines,  fifa›concacaf›concacaf_cfu
+tt, Trinidad and Tobago,   fifa›concacaf›concacaf_cfu
+
+
+##############################
+# territories / dependencies
+
+# US territories
+pr, Puerto Rico,           fifa›concacaf›concacaf_cfu
+vi, US Virgin Islands
+
+# French territories
+gp, Guadeloupe,             concacaf›concacaf_cfu
+mq, Martinique,             concacaf›concacaf_cfu
+bl, Saint Barthélemy
+mf, Saint Martin (French part)
+
+# Dutch territories
+aw, Aruba
+cw, Curaçao
+sx, Sint Maarten (Dutch part)
+
+# British territories
+ai, Anguilla
+ky, Cayman Islands
+ms, Montserrat
+tc, Turks and Caicos Islands
+vg, British Virgin Islands
+

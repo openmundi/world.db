@@ -4,71 +4,71 @@
 
 ## eu 27 (+ euro 17)
 
-eu, European Union, g20
+eu, European Union
 
-at, Austria,        fifa|uefa
-be, Belgium,        fifa|uefa
-cy, Cyprus,         fifa|uefa
-de, Germany,        fifa|uefa
-ee, Estonia,        fifa|uefa
-es, Spain,          fifa|uefa
-fi, Finland,        fifa|uefa
-fr, France,         fifa|uefa
-gr, Greece,         fifa|uefa
-ie, Irland,         fifa|uefa
-it, Italy,          fifa|uefa
-lu, Luxembourg,     fifa|uefa
-mt, Malta,          fifa|uefa
-nl, Netherlands,    fifa|uefa
-pt, Portugal,       fifa|uefa
-sk, Slovakia,       fifa|uefa
-si, Slovenia,       fifa|uefa
+at, Austria,        fifa›uefa
+be, Belgium,        fifa›uefa
+cy, Cyprus,         fifa›uefa
+de, Germany,        fifa›uefa
+ee, Estonia,        fifa›uefa
+es, Spain,          fifa›uefa
+fi, Finland,        fifa›uefa
+fr, France,         fifa›uefa
+gr, Greece,         fifa›uefa
+ie, Irland,         fifa›uefa
+it, Italy,          fifa›uefa
+lu, Luxembourg,     fifa›uefa
+mt, Malta,          fifa›uefa
+nl, Netherlands,    fifa›uefa
+pt, Portugal,       fifa›uefa
+sk, Slovakia,       fifa›uefa
+si, Slovenia,       fifa›uefa
 
-bg, Bulgaria,       fifa|uefa
-dk, Denmark,        fifa|uefa
-lv, Latvija,        fifa|uefa
-lt, Lithuania,      fifa|uefa
-pl, Poland,         fifa|uefa
-ro, Romania,        fifa|uefa
-se, Sweden,         fifa|uefa
-cz, Czech Republic, fifa|uefa
-hu, Hungary,        fifa|uefa
+bg, Bulgaria,       fifa›uefa
+dk, Denmark,        fifa›uefa
+lv, Latvija,        fifa›uefa
+lt, Lithuania,      fifa›uefa
+pl, Poland,         fifa›uefa
+ro, Romania,        fifa›uefa
+se, Sweden,         fifa›uefa
+cz, Czech Republic, fifa›uefa
+hu, Hungary,        fifa›uefa
 
 
 gb, Great Britain      # note: not fifa member (England, Scotland, etc are members)
 
 
-ad, Andorra,         fifa|uefa
-al, Albania,         fifa|uefa
-by, Belarus,         fifa|uefa
-ch, Switzerland,     fifa|uefa
-hr, Croatia,         fifa|uefa
-rs, Serbia,          fifa|uefa
-ru, Russia,          fifa|uefa
-tr, Turkey,          fifa|uefa
-ua, Ukraine,         fifa|uefa
-mk, Macedonia,       fifa|uefa
-no, Norway,          fifa|uefa
-is, Iceland,         fifa|uefa
+ad, Andorra,         fifa›uefa
+al, Albania,         fifa›uefa
+by, Belarus,         fifa›uefa
+ch, Switzerland,     fifa›uefa
+hr, Croatia,         fifa›uefa
+rs, Serbia,          fifa›uefa
+ru, Russia,          fifa›uefa
+tr, Turkey,          fifa›uefa
+ua, Ukraine,         fifa›uefa
+mk, Macedonia,       fifa›uefa
+no, Norway,          fifa›uefa
+is, Iceland,         fifa›uefa
 
 
 va, Vatican City              # note: not fifa member
 
-ba, Bosnia and Herzegovina,  fifa|uefa
-li, Liechtenstein,           fifa|uefa
+ba, Bosnia and Herzegovina,  fifa›uefa
+li, Liechtenstein,           fifa›uefa
 mc, Monaco                    # note: not fifa member
-me, Montenegro,              fifa|uefa
-md, Moldova,                 fifa|uefa
-sm, San Marino,              fifa|uefa
+me, Montenegro,              fifa›uefa
+md, Moldova,                 fifa›uefa
+sm, San Marino,              fifa›uefa
 
 
 ##  south caucasus
 ## - add to middle east?
 ##  - check azerbaijan is in europe and fifa too?
 
-ge, Georgia,        fifa|uefa
-am, Armenia,        fifa|uefa
-az, Azerbaijan,     fifa|uefa
+ge, Georgia,        fifa›uefa
+am, Armenia,        fifa›uefa
+az, Azerbaijan,     fifa›uefa
 
 
 
@@ -77,18 +77,18 @@ az, Azerbaijan,     fifa|uefa
 
 ## note: Greenland listed in north-america/countries.2.txt 
 
-eng, England,     fifa|uefa 
-sco, Scotland,    fifa|uefa
-wal, Wales,       fifa|uefa
-nir, Northern Ireland, fifa|uefa
+eng, England,     fifa›uefa 
+sco, Scotland,    fifa›uefa
+wal, Wales,       fifa›uefa
+nir, Northern Ireland, fifa›uefa
 
-gi, Gibraltar,     uefa
+gi, Gibraltar,     uefa  # note: not a fifa member
 im, Isle of Man
 je, Jersey
 gg, Guernsey
 
 
-fo, Faroe Islands,  fifa|uefa
+fo, Faroe Islands,  fifa›uefa
 
 
 ax, Åland Islands
