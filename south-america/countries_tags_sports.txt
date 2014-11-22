@@ -1,0 +1,27 @@
+##################
+# South America
+
+
+ar, Argentina, fifa›conmebol
+bo, Bolivia,   fifa›conmebol
+br, Brazil,    fifa›conmebol
+cl, Chile,     fifa›conmebol
+co, Colombia,  fifa›conmebol
+ec, Ecuador,   fifa›conmebol
+pe, Peru,      fifa›conmebol
+py, Paraguay,  fifa›conmebol
+uy, Uruguay,   fifa›conmebol
+ve, Venezuela, fifa›conmebol
+
+gy, Guyana,    fifa›concacaf›concacaf_cfu
+sr, Suriname,  fifa›concacaf›concacaf_cfu
+
+gf, French Guiana (FR)
+fk, Falkland Islands (UK)
+
+##################
+# Notes
+#
+#  Guyana, Suriname are NOT members of CONMEBOL
+#    but of CONCACAF (e.g. added w/ caribbean islands)
+#

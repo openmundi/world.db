@@ -2,17 +2,17 @@
 # South America
 
 
-ar, Argentina,     ARG, 2_780_400 km²,  40_518_425, un|fifa|conmebol|south america|g20|southern_cone
-bo, Bolivia,       BOL, 1_098_581 km²,  10_907_778, un|fifa|conmebol|south america|andean_states
-br, Brazil,        BRA, 8_514_215 km², 192_380_000, un|fifa|conmebol|south america|g5|g20|southern_cone
-cl, Chile,         CHI,   755_696 km²,  16_763_470, un|fifa|conmebol|south america|southern_cone
-co, Colombia,      COL, 1_138_748 km²,  46_413_791, un|fifa|conmebol|south america|andean_states
-ec, Ecuador,       ECU,   258_238 km²,  15_007_343, un|fifa|conmebol|south america|andean_states
-pe, Peru,          PER, 1_285_220 km²,  29_546_963, un|fifa|conmebol|south america|andean_states
-py, Paraguay,      PAR,   406_752 km²,   6_375_830, un|fifa|conmebol|south america|southern_cone
-uy, Uruguay,       URU,   176_215 km²,   3_510_386, un|fifa|conmebol|south america|southern_cone
-ve, Venezuela,     VEN,   916_445 km²,  28_833_845, un|fifa|conmebol|south america|andean_states    ## add to andean too - why? why not?
+ar, Argentina,     ARG, 2_780_400 km²,  40_518_425
+bo, Bolivia,       BOL, 1_098_581 km²,  10_907_778
+br, Brazil,        BRA, 8_514_215 km², 192_380_000
+cl, Chile,         CHI,   755_696 km²,  16_763_470
+co, Colombia,      COL, 1_138_748 km²,  46_413_791
+ec, Ecuador,       ECU,   258_238 km²,  15_007_343
+pe, Peru,          PER, 1_285_220 km²,  29_546_963
+py, Paraguay,      PAR,   406_752 km²,   6_375_830
+uy, Uruguay,       URU,   176_215 km²,   3_510_386
+ve, Venezuela,     VEN,   916_445 km²,  28_833_845
 
-gy, Guyana,        GUY,   214_970 km²,     752_940, un|fifa|concacaf|concacaf_cfu|south america|commonwealth
-sr, Suriname,      SUR,   163_820 km²,     492_829, un|fifa|concacaf|concacaf_cfu|south america
+gy, Guyana,        GUY,   214_970 km²,     752_940
+sr, Suriname,      SUR,   163_820 km²,     492_829
 

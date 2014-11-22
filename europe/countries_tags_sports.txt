@@ -77,19 +77,39 @@ az, Azerbaijan,     fifa›uefa
 
 ## note: Greenland listed in north-america/countries.2.txt 
 
-eng, England,     fifa›uefa 
-sco, Scotland,    fifa›uefa
-wal, Wales,       fifa›uefa
-nir, Northern Ireland, fifa›uefa
+eng, England (UK),     fifa›uefa 
+sco, Scotland (UK),    fifa›uefa
+wal, Wales (UK),       fifa›uefa
+nir, Northern Ireland (UK), fifa›uefa
 
-gi, Gibraltar,     uefa  # note: not a fifa member
-im, Isle of Man
-je, Jersey
-gg, Guernsey
-
-
-fo, Faroe Islands,  fifa›uefa
+gi, Gibraltar (UK),     uefa  # note: not a fifa member
+im, Isle of Man (UK)
+je, Jersey (UK)
+gg, Guernsey (UK)
 
 
-ax, Åland Islands
+fo, Faroe Islands (DK),  fifa›uefa
 
+
+ax, Åland Islands (FI)
+
+
+##############
+# Notes
+#
+#  == Non-European / Asian / Middle East country members
+#
+# Note: The UEFA member country Kazachstan from Asia is listed in Asia.
+# Note: The UEFA member country Israel from Asia is listed in Middle East.
+#
+# == Non-sovereign country members
+#
+#  Note: Great Britain is NOT a FIFA/UEFA member, instead, its member countries are:
+#
+# - Scotland
+# - England
+# - Wales
+# - Northern Irland
+#
+#  Note: Faroe Islands (dependency of Denmark) is a FIFA/UEFA member.
+#

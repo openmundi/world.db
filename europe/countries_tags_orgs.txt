@@ -76,17 +76,23 @@ az, Azerbaijan,     un
 
 ## note: Greenland listed in north-america/countries.2.txt 
 
-eng, England
-sco, Scotland
-wal, Wales
-nir, Northern Ireland
+eng, England (UK)
+sco, Scotland (UK)
+wal, Wales (UK)
+nir, Northern Ireland (UK)
 
-gi, Gibraltar
-im, Isle of Man
-je, Jersey
-gg, Guernsey
+gi, Gibraltar (UK)
+im, Isle of Man (UK)
+je, Jersey (UK)
+gg, Guernsey (UK)
 
-fo, Faroe Islands
+fo, Faroe Islands (DK)
 
-ax, Åland Islands
+ax, Åland Islands (FI)
 
+
+############################
+# Notes:
+#  
+#  microstate - area < 1000 km2
+#

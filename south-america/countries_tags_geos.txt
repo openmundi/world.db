@@ -1,0 +1,21 @@
+##################
+# South America
+
+
+bo, Bolivia,   south america › andean_states
+co, Colombia,  south america › andean_states
+ec, Ecuador,   south america › andean_states
+pe, Peru,      south america › andean_states
+ve, Venezuela, south america › andean_states    ## add to andean too - why? why not?
+
+ar, Argentina, south america › southern_cone
+br, Brazil,    south america › southern_cone
+cl, Chile,     south america › southern_cone
+py, Paraguay,  south america › southern_cone
+uy, Uruguay,   south america › southern_cone
+
+gy, Guyana,    south america
+sr, Suriname,  south america
+
+gf, French Guiana (FR),    south america
+fk, Falkland Islands (UK), south america

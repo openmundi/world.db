@@ -1,0 +1,21 @@
+##################
+# South America
+
+
+ar, Argentina, un|g20
+bo, Bolivia,   un
+br, Brazil,    un|g5|g20
+cl, Chile,     un
+co, Colombia,  un
+ec, Ecuador,   un
+pe, Peru,      un
+py, Paraguay,  un
+uy, Uruguay,   un
+ve, Venezuela, un
+
+gy, Guyana,    un|commonwealth
+sr, Suriname,  un
+
+gf, French Guiana (FR)
+fk, Falkland Islands (UK)
+

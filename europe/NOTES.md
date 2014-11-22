@@ -28,10 +28,10 @@ Country Codes
 
 Note: Some non-sovereign countries do NOT have two letter internet top level domains.
 
-- England => en
-- Wales   => wa
-- Scotland  =>  sc (!!) NB: Seychellen renamed from sc to ey
-- Northern Ireland => nd  | ni (nicaragua), no, nr (naru) taken - anything better - anything common? e.g. use ul for ulster? better?
+- England => eng
+- Wales   => wal
+- Scotland  =>  sco
+- Northern Ireland => nir
 
 
 ### key - Country Two Letter Code
@@ -94,24 +94,4 @@ More Tags / Taggings
 
 mark as microstate (if area < 1000); see <http://en.wikipedia.org/wiki/Microstate>
 
-
-
-Football Association Membership ( FIFA / UEFA )
-===============================================
-
-### Non-European / Asian / Middle East country members
-
-Note: The UEFA member country Kazachstan from Asia is listed in Asia.
-Note: The UEFA member country Israel from Asia is listed in Middle East.
-
-### Non-sovereign country members
-
-Note: Great Britain is NOT a FIFA/UEFA member, instead, its member countries are:
-
-- Scotland
-- England
-- Wales
-- Northern Irland
-
-Note: Faroe Islands (dependency of Denmark) is a FIFA/UEFA member.
 

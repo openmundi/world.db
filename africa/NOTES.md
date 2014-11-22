@@ -1,11 +1,7 @@
 # Notes on Africa
 
-## Codes / Keys
-
-NB: sc (for Seychelles) renamed to yc (sc used for Scottland)
-
-
-## Regions
+Regions
+=======
 
 see <http://en.wikipedia.org/wiki/Africa#Territories_and_regions>
 

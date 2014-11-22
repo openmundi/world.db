@@ -8,17 +8,17 @@
 
 # note: uses three-letter country codes (eng,sco,wal,nir etc.) for key
 
-eng, England,          ENG,   130_395 km²,  53_013_000,  country:gb, northern europe|western_europe   # NB: FIFA (ENG); not a valid iso country n internet domain / its uk - what to use - anything better?
-sco, Scotland,         SCO,   78_387 km²,   5_254_800,  country:gb, northern europe|western_europe   # NB: FIFA (SCO); not a valid iso country/internet domain - its uk - what to use - anything better?
-wal, Wales,            WAL,   20_779 km²,   3_064_000,  country:gb, northern europe|western_europe
-nir, Northern Ireland, NIR,   13_843 km²,   1_810_900,  Belfast, country:gb, northern europe|western_europe
+eng, England,          ENG,          130_395 km²,  53_013_000,  country:gb    # NB: FIFA (ENG); not a valid iso country n internet domain / its uk - what to use - anything better?
+sco, Scotland,         SCO,           78_387 km²,   5_254_800,  country:gb     # NB: FIFA (SCO); not a valid iso country/internet domain - its uk - what to use - anything better?
+wal, Wales,            WAL,           20_779 km²,   3_064_000,  country:gb
+nir, Northern Ireland, NIR, Belfast,  13_843 km²,   1_810_900,  country:gb
 
-gi, Gibraltar,      GIB,   7 km², 29_200, country:gb, southern_europe
-im, Isle of Man,    IMN, 572 km², 82_900, country:gb, northern_europe|western_europe
-je, Jersey,         JEY, 116 km², 97_900, country:gb, western_europe
-gg, Guernsey,       GGY,  63 km², 62_300, country:gb, western_europe
+gi, Gibraltar,      GIB,   7 km², 29_200, country:gb
+im, Isle of Man,    IMN, 572 km², 82_900, country:gb
+je, Jersey,         JEY, 116 km², 97_900, country:gb
+gg, Guernsey,       GGY,  63 km², 62_300, country:gb
 
-fo, Faroe Islands,  FRO,    1_399 km²,      49_267,  country:dk,  northern europe|nordic
+fo, Faroe Islands,  FRO,    1_399 km²,      49_267,  country:dk
 
-ax, Åland Islands|Åland, ALA, 1_580km²,  28_355, country:fi, nordic|northern_europe
+ax, Åland Islands|Åland, ALA, 1_580km²,  28_355, country:fi
 

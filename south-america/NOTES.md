@@ -13,9 +13,3 @@ sub regions:
 
 - Add Venezuela to Andean States too - why? why not?
 
-
-Football Association Membership ( FIFA / CONMEBOL )
-===================================================
-
-NB: Guyana, Suriname  are NOT members of CONMEBOL but of CONCACAF (e.g. added w/ caribbean islands)
-

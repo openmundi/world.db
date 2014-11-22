@@ -27,7 +27,3 @@ subregions used:
 - fertile crescent
 
 
-Football Association Membership ( FIFA / UEFA / AFC )
-=====================================================
-
-Israel -  UEFA member ??
