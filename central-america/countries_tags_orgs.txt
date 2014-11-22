@@ -1,0 +1,11 @@
+#####################
+# central america
+
+bz, Belize,          un|commonwealth
+gt, Guatemala,       un
+cr, Costa Rica,      un
+hn, Honduras,        un
+sv, El Salvador,     un
+ni, Nicaragua,       un
+pa, Panamá,          un
+

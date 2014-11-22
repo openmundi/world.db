@@ -1,0 +1,11 @@
+#####################
+# central america
+
+bz, Belize,          central_america
+gt, Guatemala,       central_america
+cr, Costa Rica,      central_america
+hn, Honduras,        central_america
+sv, El Salvador,     central_america
+ni, Nicaragua,       central_america
+pa, Panamá,          central_america
+
