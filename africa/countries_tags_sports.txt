@@ -1,0 +1,83 @@
+##################################
+# Africa
+
+
+# -- Eastern Africa
+
+bi, Burundi,    fifa›caf
+km, Comoros,    fifa›caf
+dj, Djibouti,   fifa›caf
+er, Eritrea,    fifa›caf
+et, Ethiopia,   fifa›caf
+ke, Kenya,      fifa›caf
+mg, Madagascar, fifa›caf
+mw, Malawi,     fifa›caf
+mu, Mauritius,  fifa›caf
+mz, Mozambique, fifa›caf
+rw, Rwanda,     fifa›caf
+sc, Seychelles, fifa›caf
+so, Somalia,    fifa›caf
+tz, Tanzania,   fifa›caf
+ug, Uganda,     fifa›caf
+zm, Zambia,     fifa›caf
+zw, Zimbabwe,   fifa›caf
+
+# -- Central Africa
+
+ao, Angola,                fifa›caf
+cm, Cameroon,              fifa›caf
+cf, Central African Republic, fifa›caf
+td, Chad,                  fifa›caf
+cg, Congo,                 fifa›caf
+cd, Congo DR,              fifa›caf
+gq, Equatorial Guinea,     fifa›caf
+ga, Gabon,                 fifa›caf
+st, São Tomé and Príncipe, fifa›caf
+
+
+# -- Northern Africa
+
+dz, Algeria,     fifa›caf
+eg, Egypt,       fifa›caf
+ma, Morocco,     fifa›caf
+ly, Libya,       fifa›caf
+tn, Tunisia,     fifa›caf
+ss, South Sudan, fifa›caf
+sd, Sudan,       fifa›caf
+
+
+# -- Southern Africa
+
+za, South Africa,  fifa›caf
+bw, Botswana,      fifa›caf
+ls, Lesotho,       fifa›caf
+na, Namibia,       fifa›caf
+sz, Swaziland,     fifa›caf
+
+
+# -- Western Africa
+
+bj, Benin,         fifa›caf
+bf, Burkina Faso,  fifa›caf
+cv, Cape Verde,    fifa›caf
+ci, Côte d'Ivoire, fifa›caf
+gm, Gambia,        fifa›caf
+gh, Ghana,         fifa›caf
+gn, Guinea,        fifa›caf
+gw, Guinea-Bissau, fifa›caf
+lr, Liberia,       fifa›caf
+ml, Mali,          fifa›caf
+mr, Mauritania,    fifa›caf
+ne, Niger,         fifa›caf
+ng, Nigeria,       fifa›caf
+sn, Senegal,       fifa›caf
+sl, Sierra Leone,  fifa›caf
+tg, Togo,          fifa›caf
+
+
+# -- territories / dependencies
+
+yt, Mayotte (FR)
+re, Réunion (FR)
+sh, Saint Helena (UK)
+

@@ -1,0 +1,74 @@
+##################################
+# Africa
+
+
+bi, Burundi,     eastern_africa
+km, Comoros,     eastern_africa
+dj, Djibouti,    eastern_africa
+er, Eritrea,     eastern_africa
+et, Ethiopia,    eastern_africa
+ke, Kenya,       eastern_africa
+mg, Madagascar,  eastern_africa
+mw, Malawi,      eastern_africa
+mu, Mauritius,   eastern_africa
+mz, Mozambique,  eastern_africa
+rw, Rwanda,      eastern_africa
+sc, Seychelles,  eastern_africa|indian_ocean
+so, Somalia,     eastern_africa
+tz, Tanzania,    eastern_africa
+ug, Uganda,      eastern_africa
+zm, Zambia,      eastern_africa
+zw, Zimbabwe,    eastern_africa
+
+
+ao, Angola,            central_africa
+cm, Cameroon,          central_africa
+cf, Central African Republic, central_africa
+td, Chad,              central_africa
+cg, Congo,             central_africa
+cd, Congo DR,          central_africa
+gq, Equatorial Guinea, central_africa
+ga, Gabon,             central_africa
+st, São Tomé and Príncipe, central_africa|atlantic_ocean
+
+
+dz, Algeria,     northern_africa
+eg, Egypt,       northern_africa|middle_east
+ma, Morocco,     northern_africa
+ly, Libya,       northern_africa
+tn, Tunisia,     northern_africa
+ss, South Sudan, northern_africa
+sd, Sudan,       northern_africa
+
+
+za, South Africa,  southern_africa
+bw, Botswana,      southern_africa
+ls, Lesotho,       southern_africa
+na, Namibia,       southern_africa
+sz, Swaziland,     southern_africa
+
+
+bj, Benin,         western_africa
+bf, Burkina Faso,  western_africa
+cv, Cape Verde,    western_africa
+ci, Côte d'Ivoire, western_africa
+gm, Gambia,        western_africa
+gh, Ghana,         western_africa
+gn, Guinea,        western_africa
+gw, Guinea-Bissau, western_africa
+lr, Liberia,       western_africa
+ml, Mali,          western_africa
+mr, Mauritania,    western_africa
+ne, Niger,         western_africa
+ng, Nigeria,       western_africa
+sn, Senegal,       western_africa
+sl, Sierra Leone,  western_africa
+tg, Togo,          western_africa
+
+
+# -- territories / dependencies
+
+yt, Mayotte (FR)    # ???
+re, Réunion (FR)    # ???
+sh, Saint Helena (UK),  atlantic_ocean    # ???
+

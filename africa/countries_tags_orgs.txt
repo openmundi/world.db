@@ -1,0 +1,85 @@
+##################################
+# Africa
+
+
+# -- Eastern Africa
+
+bi, Burundi,     un
+km, Comoros,     un
+dj, Djibouti,    un
+er, Eritrea,     un
+et, Ethiopia,    un
+ke, Kenya,       un|commonwealth
+mg, Madagascar,  un
+mw, Malawi,      un|commonwealth
+mu, Mauritius,   un|commonwealth
+mz, Mozambique,  un|commonwealth
+rw, Rwanda,      un|commonwealth
+sc, Seychelles,  un|commonwealth|microstate
+so, Somalia,     un
+tz, Tanzania,    un|commonwealth
+ug, Uganda,      un|commonwealth
+zm, Zambia,      un|commonwealth
+zw, Zimbabwe,    un
+
+# -- Central Africa
+
+ao, Angola,            un
+cm, Cameroon,          un|commonwealth
+cf, Central African Republic, un
+td, Chad,              un
+cg, Congo,             un
+cd, Congo DR,          un
+gq, Equatorial Guinea, un
+ga, Gabon,             un
+st, São Tomé and Príncipe, un|microstate
+
+
+# -- Northern Africa
+
+dz, Algeria,     un
+eg, Egypt,       un
+ma, Morocco,     un
+ly, Libya,       un
+tn, Tunisia,     un
+ss, South Sudan, un
+sd, Sudan,       un
+
+
+# -- Southern Africa
+
+za, South Africa,  un|commonwealth|g5|g20
+bw, Botswana,      un|commonwealth
+ls, Lesotho,       un|commonwealth
+na, Namibia,       un|commonwealth
+sz, Swaziland,     un|commonwealth
+
+
+# -- Western Africa
+
+bj, Benin,         un
+bf, Burkina Faso,  un
+cv, Cape Verde,    un
+ci, Côte d'Ivoire, un
+gm, Gambia,        un|commonwealth
+gh, Ghana,         un|commonwealth
+gn, Guinea,        un
+gw, Guinea-Bissau, un
+lr, Liberia,       un
+ml, Mali,          un
+mr, Mauritania,    un
+ne, Niger,         un
+ng, Nigeria,       un|commonwealth
+sn, Senegal,       un
+sl, Sierra Leone,  un|commonwealth
+tg, Togo,          un
+
+
+
+# -- territories / dependencies
+
+yt, Mayotte (FR)
+re, Réunion (FR)
+sh, Saint Helena (UK)
+
+

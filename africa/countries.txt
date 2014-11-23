@@ -2,80 +2,76 @@
 # Africa
 
 
-###################
-# Eastern Africa
+# -- Eastern Africa
 
-bi, Burundi, BDI, Bujumbura,        27_834 km²,  8_749_000, un|fifa|caf|eastern_africa
-km, Comoros, COM, Moroni,            2_235 km²,    798_000, un|fifa|caf|eastern_africa
-dj, Djibouti, DJI, Djibouti,        23_200 km²,    923_000, un|fifa|caf|eastern_africa
-er, Eritrea, ERI, Asmara,          117_600 km²,  6_086_495, un|fifa|caf|eastern_africa
-et, Ethiopia, ETH,               1_104_300 km², 84_320_987, un|fifa|caf|eastern_africa
-ke, Kenya, KEN, Nairobi,           580_367 km², 43_013_341, un|fifa|caf|eastern_africa|commonwealth
-mg, Madagascar, MAD, Antananarivo, 587_041 km², 22_005_222, un|fifa|caf|eastern_africa
-mw, Malawi, MWI, Lilongwe,         118_484 km², 14_901_000, un|fifa|caf|eastern_africa|commonwealth
-mu, Mauritius, MRI,                  2_040 km²,  1_291_456, un|fifa|caf|eastern_africa|commonwealth
-mz, Mozambique, MOZ, Maputo,       801_590 km², 22_894_000, un|fifa|caf|eastern_africa|commonwealth
-rw, Rwanda,     RWA, Kigali,        26_338 km², 11_689_696, un|fifa|caf|eastern_africa|commonwealth
-sc, Seychelles, SEY, Victoria,         451 km²,     84_000, un|fifa|caf|eastern_africa|indian_ocean|microstate|commonwealth
-so, Somalia, SOM, Mogadishu,       637_657 km², 10_085_638, un|fifa|caf|eastern_africa
-tz, Tanzania, TAN, Dodoma,         945_203 km², 43_188_000, un|fifa|caf|eastern_africa|commonwealth
-ug, Uganda, UGA, Kampala,          236_040 km², 35_873_253, un|fifa|caf|eastern_africa|commonwealth
-zm, Zambia, ZAM, Lusaka,           752_618 km², 14_309_466, un|fifa|caf|eastern_africa|commonwealth
-zw, Zimbabwe, ZIM, Harare,         390_757 km², 12_619_600, un|fifa|caf|eastern_africa
-
-######################
-# Central Africa
-
-ao, Angola,  ANG, Luanda,                1_246_700 km², 18_498_000, un|fifa|caf|central_africa
-cm, Cameroon, CMR,                         475_440 km², 18_879_301, un|fifa|caf|central_africa|commonwealth
-cf, Central African Republic, CTA, Bangui, 622_984 km²,  4_422_000, un|fifa|caf|central_africa
-td, Chad, CHA, N'Djamena,                1_284_000 km², 10_329_208, un|fifa|caf|central_africa
-cg, Congo, CGO, Brazzaville,               342_000 km²,  4_366_266, un|fifa|caf|central_africa
-cd, Congo DR, COD, Kinshasa,             2_345_409 km², 71_712_867, un|fifa|caf|central_africa
-gq, Equatorial Guinea, EQG, Malabo,         28_050 km²,    676_000, un|fifa|caf|central_africa
-ga, Gabon, GAB,                            267_667 km²,  1_475_000, un|fifa|caf|central_africa
-st, São Tomé and Príncipe, STP, São Tomé,    1_001 km²,    183_176, un|fifa|caf|central_africa|atlantic_ocean|microstate
+bi, Burundi, BDI, Bujumbura,        27_834 km²,  8_749_000
+km, Comoros, COM, Moroni,            2_235 km²,    798_000
+dj, Djibouti, DJI, Djibouti,        23_200 km²,    923_000
+er, Eritrea, ERI, Asmara,          117_600 km²,  6_086_495
+et, Ethiopia, ETH,               1_104_300 km², 84_320_987
+ke, Kenya, KEN, Nairobi,           580_367 km², 43_013_341
+mg, Madagascar, MAD, Antananarivo, 587_041 km², 22_005_222
+mw, Malawi, MWI, Lilongwe,         118_484 km², 14_901_000
+mu, Mauritius, MRI,                  2_040 km²,  1_291_456
+mz, Mozambique, MOZ, Maputo,       801_590 km², 22_894_000
+rw, Rwanda,     RWA, Kigali,        26_338 km², 11_689_696
+sc, Seychelles, SEY, Victoria,         451 km²,     84_000
+so, Somalia, SOM, Mogadishu,       637_657 km², 10_085_638
+tz, Tanzania, TAN, Dodoma,         945_203 km², 43_188_000
+ug, Uganda, UGA, Kampala,          236_040 km², 35_873_253
+zm, Zambia, ZAM, Lusaka,           752_618 km², 14_309_466
+zw, Zimbabwe, ZIM, Harare,         390_757 km², 12_619_600
 
 
-###############
-# Northern Africa
+# -- Central Africa
 
-dz, Algeria,   ALG,           2_381_740 km²,  34_178_188, un|fifa|caf|northern africa
-eg, Egypt,     EGY,           1_001_450 km²,  82_868_000, un|fifa|caf|northern africa|middle_east
-ma, Morocco,   MAR,             446_550 km²,  34_859_364, un|fifa|caf|northern africa
-ly, Libya,     LBY,           1_759_540 km²,   6_310_434, un|fifa|caf|northern africa
-tn, Tunisia,   TUN,             163_610 km²,  10_486_339, un|fifa|caf|northern africa
-ss, South Sudan, SSD,  Juba,    619_745 km²,   8_260_490, un|fifa|caf|northern africa
-sd, Sudan, SDN, Khartoum,     1_886_068 km²,  30_894_000, un|fifa|caf|northern africa
-
-
-################
-# Southern Africa
-
-za, South Africa, RSA,          1_219_912 km²,  51_770_560, un|fifa|caf|southern_africa|g5|g20|commonwealth
-bw, Botswana, BOT, Gaborone,      581_730 km²,   2_029_307, un|fifa|caf|southern_africa|commonwealth
-ls, Lesotho, LES, Maseru,          30_355 km²,   2_067_000, un|fifa|caf|southern_africa|commonwealth
-na, Namibia, NAM,  Windhoek,      825_418 km²,   2_100_000, un|fifa|caf|southern_africa|commonwealth
-sz, Swaziland, SWZ,  Lobamba,      17_364 km²,   1_185_000, un|fifa|caf|southern_africa|commonwealth
+ao, Angola,  ANG, Luanda,                1_246_700 km², 18_498_000
+cm, Cameroon, CMR,                         475_440 km², 18_879_301
+cf, Central African Republic, CTA, Bangui, 622_984 km²,  4_422_000
+td, Chad, CHA, N'Djamena,                1_284_000 km², 10_329_208
+cg, Congo, CGO, Brazzaville,               342_000 km²,  4_366_266
+cd, Congo DR, COD, Kinshasa,             2_345_409 km², 71_712_867
+gq, Equatorial Guinea, EQG, Malabo,         28_050 km²,    676_000
+ga, Gabon, GAB,                            267_667 km²,  1_475_000
+st, São Tomé and Príncipe, STP, São Tomé,    1_001 km²,    183_176
 
 
-###################
-# Western Africa
+# -- Northern Africa
 
-bj, Benin,   BEN, Porto-Novo,          112_622 km²,   9_598_787, un|fifa|caf|western_africa
-bf, Burkina Faso, BFA, Ouagadougou,    274_200 km²,  15_730_977, un|fifa|caf|western_africa
-cv, Cape Verde, CPV, Praia,              4_033 km²,     567_000, un|fifa|caf|western_africa
-ci, Côte d'Ivoire,  CIV,               322_460 km²,  20_617_068, un|fifa|caf|western_africa
-gm, Gambia, GAM,                        11_295 km²,   1_782_893, un|fifa|caf|western_africa|commonwealth
-gh, Ghana,  GHA,                       239_460 km²,  23_832_495, un|fifa|caf|western_africa|commonwealth
-gn, Guinea, GUI, Conakry,              245_857 km²,  10_057_975, un|fifa|caf|western_africa
-gw, Guinea-Bissau, GNB, Bissau,         36_125 km²,   1_647_000, un|fifa|caf|western_africa
-lr, Liberia, LBR,  Monrovia,           111_369 km²,   3_786_764, un|fifa|caf|western_africa
-ml, Mali, MLI, Bamako,               1_240_192 km²,  14_517_176, un|fifa|caf|western_africa
-mr, Mauritania, MTN,                 1_030_700 km²,   3_359_185, un|fifa|caf|western_africa
-ne, Niger, NIG, Niamey,              1_267_000 km²,  16_274_738, un|fifa|caf|western_africa
-ng, Nigeria, NGA,                      923_768 km², 166_629_000, un|fifa|caf|western_africa|commonwealth
-sn, Senegal, SEN, Dakar,               196_723 km²,  12_855_153, un|fifa|caf|western_africa
-sl, Sierra Leone, SLE, Freetown,        71_740 km²,   5_485_998, un|fifa|caf|western_africa|commonwealth
-tg, Togo, TOG, Lomé,                    56_785 km²,   6_619_000, un|fifa|caf|western_africa
+dz, Algeria,   ALG,           2_381_740 km²,  34_178_188
+eg, Egypt,     EGY,           1_001_450 km²,  82_868_000
+ma, Morocco,   MAR,             446_550 km²,  34_859_364
+ly, Libya,     LBY,           1_759_540 km²,   6_310_434
+tn, Tunisia,   TUN,             163_610 km²,  10_486_339
+ss, South Sudan, SSD,  Juba,    619_745 km²,   8_260_490
+sd, Sudan, SDN, Khartoum,     1_886_068 km²,  30_894_000
+
+
+# -- Southern Africa
+
+za, South Africa, RSA,          1_219_912 km²,  51_770_560
+bw, Botswana, BOT, Gaborone,      581_730 km²,   2_029_307
+ls, Lesotho, LES, Maseru,          30_355 km²,   2_067_000
+na, Namibia, NAM,  Windhoek,      825_418 km²,   2_100_000
+sz, Swaziland, SWZ,  Lobamba,      17_364 km²,   1_185_000
+
+
+# -- Western Africa
+
+bj, Benin,   BEN, Porto-Novo,          112_622 km²,   9_598_787
+bf, Burkina Faso, BFA, Ouagadougou,    274_200 km²,  15_730_977
+cv, Cape Verde, CPV, Praia,              4_033 km²,     567_000
+ci, Côte d'Ivoire,  CIV,               322_460 km²,  20_617_068
+gm, Gambia, GAM,                        11_295 km²,   1_782_893
+gh, Ghana,  GHA,                       239_460 km²,  23_832_495
+gn, Guinea, GUI, Conakry,              245_857 km²,  10_057_975
+gw, Guinea-Bissau, GNB, Bissau,         36_125 km²,   1_647_000
+lr, Liberia, LBR,  Monrovia,           111_369 km²,   3_786_764
+ml, Mali, MLI, Bamako,               1_240_192 km²,  14_517_176
+mr, Mauritania, MTN,                 1_030_700 km²,   3_359_185
+ne, Niger, NIG, Niamey,              1_267_000 km²,  16_274_738
+ng, Nigeria, NGA,                      923_768 km², 166_629_000
+sn, Senegal, SEN, Dakar,               196_723 km²,  12_855_153
+sl, Sierra Leone, SLE, Freetown,        71_740 km²,   5_485_998
+tg, Togo, TOG, Lomé,                    56_785 km²,   6_619_000
 
