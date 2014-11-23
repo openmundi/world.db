@@ -1,11 +1,9 @@
 
-### check if hong kong is fifa/afc member ??
+hk, Hong Kong,    HKG,                       1_104 km², 7_061_200, country:cn
+mo, Macau|Macao,  MAC,                          30 km²,   568_700, country:cn
 
-hk, Hong Kong,    HKG,      1_104 km², 7_061_200, country:cn,   fifa|afc|east_asia
-mo, Macau|Macao,  MAC,         30 km²,   568_700, country:cn, east_asia
-
-cc, Cocos (Keeling) Islands, CCK, West Island,  14 km²,    596, country:au
-cx, Christmas Island, CXR,  Flying Fish Cove,  135 km²,  2_072, country:au
+cc, Cocos (Keeling) Islands, CCK, West Island,  14 km²,       596, country:au
+cx, Christmas Island, CXR,  Flying Fish Cove,  135 km²,     2_072, country:au
 
 io, British Indian Ocean Territory|Chagos Islands, IOT, Diego Garcia,  54_400 km², 4_000,  country:gb
 

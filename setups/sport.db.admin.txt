@@ -90,8 +90,8 @@ europe/de-germany/cities
 europe/dk-denmark/regions
 europe/dk-denmark/cities
 europe/ee-estonia/cities
-europe/en-england/regions
-europe/en-england/cities
+europe/eng-england/regions
+europe/eng-england/cities
 europe/es-spain/regions
 europe/es-spain/cities
 europe/fi-finland/cities
@@ -116,13 +116,13 @@ europe/ro-romania/regions
 europe/ro-romania/cities
 europe/rs-serbia/cities
 europe/ru-russia/cities
-europe/sc-scotland/cities
+europe/sco-scotland/cities
 europe/se-sweden/cities
 europe/sk-slovakia/regions
 europe/sk-slovakia/cities
 europe/tr-turkey/cities
 europe/ua-ukraine/cities
-europe/wa-wales/cities
+europe/wal-wales/cities
 
 # Pacific
 pacific/au-australia/regions

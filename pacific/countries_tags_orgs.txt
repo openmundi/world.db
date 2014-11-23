@@ -1,0 +1,48 @@
+###############################
+# australia & oceania
+
+
+au, Australia,   un|commonwealth|g20
+
+# -- Melanesia
+
+pg, Papua New Guinea,  un|commonwealth
+fj, Fiji,              un|commonwealth
+sb, Solomon Islands,   un|commonwealth 
+vu, Vanuatu,           un|commonwealth
+
+
+# -- Micronesia
+
+pw, Palau,             un|microstate
+fm, Micronesia,        un|microstate
+mh, Marshall Islands,  un|microstate
+nr, Nauru,             un|commonwealth|microstate
+ki, Kiribati,          un|commonwealth|microstate
+
+
+# -- Polynesia
+
+nz, New Zealand,     un|commonwealth
+ws, Samoa,           un|commonwealth
+to, Tonga,           un|commonwealth|microstate
+tv, Tuvalu,          un|commonwealth|microstate
+
+
+##############################
+# Territories & dependencies
+
+pf, Tahiti (FR)            # French Polynesia / Polynésie française
+nc, New Caledonia (FR)
+wf, Wallis and Futuna (FR)
+
+as, American Samoa (US) 
+gu, Guam (US)
+mp, Northern Mariana Islands (US)
+
+ck, Cook Islands (NZ)
+nu, Niue (NZ)
+tk, Tokelau (NZ)
+
+nf, Norfolk Island (UK)
+pn, Pitcairn Islands (UK)

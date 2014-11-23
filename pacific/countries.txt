@@ -2,32 +2,29 @@
 # australia & oceania
 
 
-au, Australia, AUS,    7_686_850 km²,  22_028_000,   un|fifa|afc|g20|commonwealth
+au, Australia,        AUS, Canberra,   7_686_850 km², 22_028_000
 
-##############
-# Melanesia
+# -- Melanesia
 
-pg, Papua New Guinea, PNG,          462_840 km²,  5_172_033, un|fifa|ofc|melanesia|commonwealth
-fj, Fiji, FIJ, Suva,                 18_274 km²,    849_000, un|fifa|ofc|melanesia|commonwealth
-sb, Solomon Islands, SOL, Honiara,   28_400 km²,    523_000, un|fifa|ofc|melanesia|commonwealth 
-vu, Vanuatu, VAN, Port Vila,         12_190 km²,    224_564, un|fifa|ofc|melanesia|commonwealth
-
-
-#############
-# Micronesia
-
-pw, Palau, PLW, Ngerulmud,          459 km²,  20_956, un|micronesia|microstate          # nb: use ISO code; NOT fifa member
-fm, Micronesia, FSM, Palikir,       702 km², 111_000, un|micronesia|microstate        # nb: use ISO code; NOT fifa member
-mh, Marshall Islands, MHL, Majuro,  181 km²,  68_000, un|micronesia|microstate   # nb: use ISO code; NOT fifa member
-nr, Nauru, NRU, Yaren,               21 km²,   9_378, un|micronesia|microstate|commonwealth       # nb: use ISO code; NOT fifa member
-ki, Kiribati, KIR, Tarawa,          811 km², 103_500, un|micronesia|microstate|commonwealth           # nb: use ISO code; NOT fifa member
+pg, Papua New Guinea, PNG, Port Moresby, 462_840 km²,  5_172_033
+fj, Fiji,             FIJ, Suva,          18_274 km²,    849_000
+sb, Solomon Islands,  SOL, Honiara,       28_400 km²,    523_000
+vu, Vanuatu,          VAN, Port Vila,     12_190 km²,    224_564
 
 
-##############
-# Polynesia
+# -- Micronesia
 
-nz, New Zealand, NZL,         268_680 km², 4_108_037, un|fifa|ofc|polynesia|commonwealth
-ws, Samoa, SAM, Apia,           2_831 km²,   194_320, un|fifa|ofc|polynesia|commonwealth
-to, Tonga, TGA, Nuku'alofa,       748 km²,   103_036, un|fifa|ofc|polynesia|microstate|commonwealth
-tv, Tuvalu, TUV, Funafuti,         26 km²,    10_544, un|polynesia|ofc|microstate|commonwealth      # nb: use ISO code; NOT fifa member
+pw, Palau,            PLW, Ngerulmud,        459 km²,     20_956    # note: use ISO code; NOT fifa member
+fm, Micronesia,       FSM, Palikir,          702 km²,    111_000    # note: use ISO code; NOT fifa member
+mh, Marshall Islands, MHL, Majuro,           181 km²,     68_000    # note: use ISO code; NOT fifa member
+nr, Nauru,            NRU, Yaren,             21 km²,      9_378    # note: use ISO code; NOT fifa member
+ki, Kiribati,         KIR, Tarawa,           811 km²,    103_500    # note: use ISO code; NOT fifa member
+
+
+# -- Polynesia
+
+nz, New Zealand,     NZL, Wellington,    268_680 km²,  4_108_037
+ws, Samoa,           SAM, Apia,            2_831 km²,    194_320
+to, Tonga,           TGA, Nuku'alofa,        748 km²,    103_036
+tv, Tuvalu,          TUV, Funafuti,           26 km²,     10_544    # note: use ISO code; NOT fifa member
 

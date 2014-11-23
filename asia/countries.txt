@@ -2,54 +2,49 @@
 # asia
 #
 
-#######################
-#  central asia
+# -- central asia
 
-kz, Kazakhstan,  KAZ,  2_724_900 km²,  16_600_000,    un|fifa|uefa|europe|central_asia
-kg, Kyrgyzstan, KGZ, Bishkek, 199_900 km²,  5_550_239,  un|fifa|afc|central_asia
-tj, Tajikistan, TJK, Dushanbe, 143_100 km², 7_616_000,      un|fifa|afc|central_asia
-tm, Turkmenistan, TKM, Ashgabat, 491_210 km², 5_125_693,     un|fifa|afc|central_asia
-uz, Uzbekistan, UZB, Tashkent, 447_400 km²,  29_559_100,     un|fifa|afc|central_asia
+kz, Kazakhstan,  KAZ, Astana,    2_724_900 km²,  16_600_000
+kg, Kyrgyzstan,  KGZ, Bishkek,    199_900 km²,   5_550_239
+tj, Tajikistan,  TJK, Dushanbe,   143_100 km²,   7_616_000
+tm, Turkmenistan, TKM, Ashgabat, 491_210 km²,   5_125_693
+uz, Uzbekistan, UZB, Tashkent,   447_400 km²,  29_559_100
 
-################
-# east asia
+# -- east asia
 
-jp, Japan,        JPN,    377_930 km²,    127_950_000,  un|fifa|afc|east_asia|g8|g20
-kp, North Korea,  PRK,    120_538 km²,     24_346_000,  un|fifa|afc|east_asia
-kr, South Korea,  KOR,     99_828 km²,     48_988_833,  un|fifa|afc|east_asia|g20
-cn, China,        CHN,  9_596_961 km²,  1_339_724_852,  un|fifa|afc|east_asia|g5|g20
-tw, Taiwan,       TPE,     36_188 km²,     23_174_528,  fifa|afc|east_asia
-mn, Mongolia, MGL, Ulan Bator, 1_564_116 km², 2_754_685,  un|fifa|afc|east_asia
+jp, Japan,        JPN, Tokyo,      377_930 km²,    127_950_000
+kp, North Korea,  PRK, Pyongyang,  120_538 km²,     24_346_000
+kr, South Korea,  KOR, Seoul,       99_828 km²,     48_988_833
+cn, China,        CHN, Beijing,  9_596_961 km²,  1_339_724_852
+tw, Taiwan,       TPE, Taipei,      36_188 km²,     23_174_528
+mn, Mongolia, MGL, Ulan Bator,   1_564_116 km²,      2_754_685
 
 
-###################
-# south asia
+# -- south asia
 
-pk, Pakistan,   PAK,    796_095 km²,   180_440_000,  un|fifa|afc|south_asia|commonwealth
-in, India,      IND,  3_287_240 km², 1_210_193_422,  un|fifa|afc|south_asia|g5|g20|commonwealth
-bd, Bangladesh, BAN,    147_570 km²,   152_518_015,  un|fifa|afc|south_asia|commonwealth
-np, Nepal,      NEP,    147_181 km²,    26_620_080,  un|fifa|afc|south_asia
-lk, Sri Lanka,  SRI,     65_610 km²,    20_277_597,  un|fifa|afc|south_asia|commonwealth
-bt, Bhutan,     BHU, Thimphu,    38_394 km²,       742_737,  un|fifa|afc|south_asia
-mv, Maldives,   MDV, Malé,          298 km²,       328_536,  un|fifa|afc|south_asia|microstate|commonwealth
+pk, Pakistan,   PAK, Islamabad,    796_095 km²,   180_440_000
+in, India,      IND, New Delhi,  3_287_240 km², 1_210_193_422
+bd, Bangladesh, BAN, Dhaka,        147_570 km²,   152_518_015
+np, Nepal,      NEP, Kathmandu,    147_181 km²,    26_620_080
+lk, Sri Lanka,  SRI, Colombo,       65_610 km²,    20_277_597  # note: Sri Jayawardenepura Kotte ->  administrative capital
+bt, Bhutan,     BHU, Thimphu,       38_394 km²,       742_737
+mv, Maldives,   MDV, Malé,             298 km²,       328_536
 
-# also add afghanistan here - why? why not?
-
-af, Afghanistan, AFG, Kabul, 647_500 km²,  30_419_928,    un|fifa|afc|south_asia|central_asia
+af, Afghanistan, AFG, Kabul,    647_500 km²,    30_419_928    # also add afghanistan here (south asia) - why? why not?
 
 
-########################
-# southeast asia
+# -- southeast asia
 
-id, Indonesia,   IDN,   1_904_569 km²,   241_030_522,  un|fifa|afc|southeast_asia|g20
-my, Malaysia,    MAS,     329_847 km²,    28_731_000,  un|fifa|afc|southeast_asia|commonwealth
-sg, Singapore,   SIN,         724 km²,     5_274_700,  un|fifa|afc|southeast_asia|microstate|commonwealth
-th, Thailand,    THA,     513_120 km²,    64_076_000,  un|fifa|afc|southeast_asia
-ph, Philippines, PHI,     300_000 km²,    95_856_000,  un|fifa|afc|southeast_asia
-vn, Vietnam,     VIE,     331_210 km²,    89_316_000,  un|fifa|afc|southeast_asia
-bn, Brunei, BRU, Bandar Seri Begawan,      5_765 km²,     408_786, un|fifa|afc|southeast_asia|commonwealth
-mm, Myanmar, MYA, Naypyidaw,             676_578 km²,  60_280_000, un|fifa|afc|southeast_asia
-kh, Cambodia, CAM, Phnom Penh,           181_035 km²,  14_952_665, un|fifa|afc|southeast_asia
-tl, Timor-Leste [East Timor], TLS, Dili,  14_874 km²,   1_066_582, un|fifa|afc|southeast_asia
-la, Laos, LAO, Vientiane,                236_800 km²,   6_500_000, un|fifa|afc|southeast_asia
+id, Indonesia,   IDN, Jakarta,       1_904_569 km², 241_030_522
+my, Malaysia,    MAS, Kuala Lumpur,    329_847 km²,  28_731_000  # note: Putrajaya -> administrative capital
+sg, Singapore,   SIN, Singapore,           724 km²,   5_274_700
+th, Thailand,    THA, Bangkok,         513_120 km²,  64_076_000
+ph, Philippines, PHI, Manila,          300_000 km²,  95_856_000
+vn, Vietnam,     VIE, Hanoi,           331_210 km²,  89_316_000
+bn, Brunei, BRU, Bandar Seri Begawan,      5_765 km²,     408_786
+mm, Myanmar, MYA, Naypyidaw,             676_578 km²,  60_280_000
+kh, Cambodia, CAM, Phnom Penh,           181_035 km²,  14_952_665
+tl, Timor-Leste [East Timor], TLS, Dili,  14_874 km²,   1_066_582
+la, Laos, LAO, Vientiane,                236_800 km²,   6_500_000
+
 

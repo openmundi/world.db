@@ -8,11 +8,11 @@ bi, Burundi, BDI, Bujumbura,        27_834 km²,  8_749_000
 km, Comoros, COM, Moroni,            2_235 km²,    798_000
 dj, Djibouti, DJI, Djibouti,        23_200 km²,    923_000
 er, Eritrea, ERI, Asmara,          117_600 km²,  6_086_495
-et, Ethiopia, ETH,               1_104_300 km², 84_320_987
+et, Ethiopia, ETH, Addis Ababa,  1_104_300 km², 84_320_987
 ke, Kenya, KEN, Nairobi,           580_367 km², 43_013_341
 mg, Madagascar, MAD, Antananarivo, 587_041 km², 22_005_222
 mw, Malawi, MWI, Lilongwe,         118_484 km², 14_901_000
-mu, Mauritius, MRI,                  2_040 km²,  1_291_456
+mu, Mauritius, MRI, Port Louis,      2_040 km²,  1_291_456
 mz, Mozambique, MOZ, Maputo,       801_590 km², 22_894_000
 rw, Rwanda,     RWA, Kigali,        26_338 km², 11_689_696
 sc, Seychelles, SEY, Victoria,         451 km²,     84_000
@@ -26,13 +26,13 @@ zw, Zimbabwe, ZIM, Harare,         390_757 km², 12_619_600
 # -- Central Africa
 
 ao, Angola,  ANG, Luanda,                1_246_700 km², 18_498_000
-cm, Cameroon, CMR,                         475_440 km², 18_879_301
+cm, Cameroon, CMR, Yaoundé,                475_440 km², 18_879_301
 cf, Central African Republic, CTA, Bangui, 622_984 km²,  4_422_000
 td, Chad, CHA, N'Djamena,                1_284_000 km², 10_329_208
 cg, Congo, CGO, Brazzaville,               342_000 km²,  4_366_266
 cd, Congo DR, COD, Kinshasa,             2_345_409 km², 71_712_867
 gq, Equatorial Guinea, EQG, Malabo,         28_050 km²,    676_000
-ga, Gabon, GAB,                            267_667 km²,  1_475_000
+ga, Gabon, GAB, Libreville,                267_667 km²,  1_475_000
 st, São Tomé and Príncipe, STP, São Tomé,    1_001 km²,    183_176
 
 

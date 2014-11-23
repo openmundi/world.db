@@ -1,0 +1,60 @@
+#######################
+# asia
+#
+
+# -- central asia
+
+kz, Kazakhstan,    un
+kg, Kyrgyzstan,    un
+tj, Tajikistan,    un
+tm, Turkmenistan,  un
+uz, Uzbekistan,    un
+
+
+# -- east asia
+
+jp, Japan,         un|g8|g20
+kp, North Korea,   un
+kr, South Korea,   un|g20
+cn, China,         un|g5|g20
+tw, Taiwan        
+mn, Mongolia,      un
+
+
+# -- south asia
+
+pk, Pakistan,       un|commonwealth
+in, India,          un|commonwealth|g5|g20
+bd, Bangladesh,     un|commonwealth
+np, Nepal,          un
+lk, Sri Lanka,      un|commonwealth
+bt, Bhutan,         un
+mv, Maldives,       un|commonwealth|microstate
+
+af, Afghanistan,    un
+
+
+# -- southeast asia
+
+id, Indonesia,    un|g20
+my, Malaysia,     un|commonwealth
+sg, Singapore,    un|commonwealth|microstate
+th, Thailand,     un
+ph, Philippines,  un
+vn, Vietnam,      un
+bn, Brunei,       un|commonwealth
+mm, Myanmar,      un
+kh, Cambodia,     un
+tl, Timor-Leste,  un
+la, Laos,         un
+
+# -- dependencies n territories
+
+hk, Hong Kong (CN)
+mo, Macau (CN)
+
+cc, Cocos (Keeling) Islands (AU)
+cx, Christmas Island (AU)
+
+io, British Indian Ocean Territory (UK)
+

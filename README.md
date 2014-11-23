@@ -6,63 +6,137 @@ for use in any (programming) language
 (e.g. uses plain text datasets). Example:
 
 ~~~
-### Continents
+### Continents (& Regions)
 
 eu, Europe
 sa, South America
 na, North America
 ca, Central America
-ci, Caribbean         
+ci, Caribbean
 af, Africa
 me, Middle East        
 as, Asia
-pa, Pacific
+pa, Pacific          # includes Australia & New Zealand
+aq, Antarctica
 ~~~
 
 ~~~
 ### Countries
 
-ca, Canada,          CAN,   9_984_670 km²,  34_278_406, un|north america
-mx, México [Mexico], MEX,   1_972_550 km², 112_322_757, un|north america
-us, United States,   USA,   9_629_091 km², 314_167_157, un|north america
+ca, Canada,          CAN, Ottawa,          9 984 670 km²,   34 278 406
+mx, México [Mexico], MEX, México D.F.,     1 972 550 km²,  112 322 757
+us, United States,   USA, Washington D.C., 9 629 091 km²,  314 167 157
+~~~
+
+~~~
+### Tags - Political Organizations
+
+Canada,         un|g8|g20|commonwealth
+United States,  un|g8|g20
+México,         un|g5|g20
+~~~
+
+~~~
+### Tags - Sports Organizations
+
+Canada,         ioc|fifa › concacaf › nafu
+United States,  ioc|fifa › concacaf › nafu
+México,         ioc|fifa › concacaf › nafu
 ~~~
 
 ~~~
 ### Provinces
 
-bc, British Columbia,       Victoria,     922_509 km², en|western canada
+bc, British Columbia,       Victoria,         922 509 km²
 
-ab, Alberta,                Edmonton,       640_082 km², en|western canada|prairies
-mb, Manitoba,               Winnipeg,       552_330 km², en|western canada|prairies
-sk, Saskatchewan,           Regina,         588_239 km², en|western canada|prairies
+ab, Alberta,                Edmonton,         640 082 km²
+mb, Manitoba,               Winnipeg,         552 330 km²
+sk, Saskatchewan,           Regina,           588 239 km²
 
-nb, New Brunswick,            Fredericton,    71_377 km², en|fr|eastern canada|atlantic canada|maritimes
-ns, Nova Scotia,              Halifax,        52_939 km², en|eastern canada|atlantic canada|maritimes
-pe, Prince Edward Island,     Charlottetown,   5_686 km², en|eastern canada|atlantic canada|maritimes
-nl, Newfoundland and Labrador,  St. John's,   370_511 km², en|eastern canada|atlantic canada
+nb, New Brunswick,            Fredericton,     71 377 km²
+ns, Nova Scotia,              Halifax,         52 939 km²
+pe, Prince Edward Island,     Charlottetown,    5 686 km²
+nl, Newfoundland and Labrador,  St. John's,   370 511 km²
 
-on, Ontario,                Toronto,        908_608 km², en|eastern canada|central canada
-qc, Québec,                 Quebec City,  1_356_547 km², fr|en|eastern canada|central canada
+on, Ontario,                Toronto,          908 608 km²
+qc, Québec,                 Quebec City,    1 356 547 km²
 
-nt, Northwest Territories,  Yellowknife,    1_143_793 km², en|fr|northern canada|territories
-yt, Yukon,                  Whitehorse,   474_713 km², en|northern canada|territories
-nu, Nunavut,                Iqaluit,     1_877_788 km², iu|en|fr|northern canada|territories
+nt, Northwest Territories,  Yellowknife,    1 143 793 km²
+yt, Yukon,                  Whitehorse,       474 713 km²
+nu, Nunavut,                Iqaluit,        1 877 788 km²
+~~~
+
+~~~
+### Tags - Geo Regions
+
+British Columbia,  western_canada
+
+Alberta,           western_canada|prairies
+Manitoba,          western_canada|prairies
+Saskatchewan,      western_canada|prairies
+
+New Brunswick,        eastern_canada|atlantic_canada|maritimes
+Nova Scotia,          eastern_canada|atlantic_canada|maritimes
+Prince Edward Island, eastern_canada|atlantic canada|maritimes
+Newfoundland and Labrador, eastern_canada|atlantic_canada
+
+Ontario,              eastern_canada|central_canada
+Québec,               eastern_canada|central_canada
+
+Northwest Territories,  northern_canada|territories
+Yukon,                  northern_canada|territories
+Nunavut,                northern_canada|territories
+~~~
+
+~~~
+### Tags - (Official) Languages
+
+British Columbia,          en
+
+Alberta,                   en
+Manitoba,                  en
+Saskatchewan,              en
+
+New Brunswick,             en|fr
+Nova Scotia,               en
+Prince Edward Island,      en
+Newfoundland and Labrador,  en
+
+Ontario,                    en
+Québec,                     fr|en
+
+Northwest Territories,      en|fr
+Yukon,                      en
+Nunavut,                    iu|en|fr
 ~~~
 
 ~~~
 ### Cities
 
-Toronto,            ON,   5_583_064
-Montréal|Montreal,  QC,   3_824_221
-Vancouver,          BC,   2_313_328
-Ottawa,             ON,   1_236_324
-Calgary,            AB,   1_214_839
-Edmonton,           AB,   1_159_869
-Québec,             QC,     765_706
-Winnipeg,           MB,     730_018
-Hamilton,           ON,     721_053
-Kitchener,          ON,     477_160
-London,             ON,     474_786
+Toronto,            ON,   5 583 064
+Montréal|Montreal,  QC,   3 824 221
+Vancouver,          BC,   2 313 328
+Ottawa,             ON,   1 236 324
+Calgary,            AB,   1 214 839
+Edmonton,           AB,   1 159 869
+Québec,             QC,     765 706
+Winnipeg,           MB,     730 018
+Hamilton,           ON,     721 053
+Kitchener,          ON,     477 160
+London,             ON,     474 786
+...
+~~~
+
+~~~
+### Country Codes - Alpha 2, Alpha 3, Numeric
+
+Afghanistan,         AF, AFG, 004
+Åland Islands (FI),  AX, ALA, 248
+Albania,             AL, ALB, 008
+Algeria,             DZ, DZA, 012
+American Samoa (US), AS, ASM, 016
+Andorra,             AD, AND, 020
+Angola,              AO, AGO, 024
 ...
 ~~~
 

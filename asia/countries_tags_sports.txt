@@ -1,0 +1,74 @@
+#######################
+# asia
+#
+
+# -- central asia
+
+kz, Kazakhstan,    fifa›uefa
+kg, Kyrgyzstan,    fifa›afc
+tj, Tajikistan,    fifa›afc
+tm, Turkmenistan,  fifa›afc
+uz, Uzbekistan,    fifa›afc
+
+
+# -- east asia
+
+jp, Japan,         fifa›afc
+kp, North Korea,   fifa›afc
+kr, South Korea,   fifa›afc
+cn, China,         fifa›afc
+tw, Taiwan,        fifa›afc
+mn, Mongolia,      fifa›afc
+
+
+# -- south asia
+
+pk, Pakistan,       fifa›afc
+in, India,          fifa›afc
+bd, Bangladesh,     fifa›afc
+np, Nepal,          fifa›afc
+lk, Sri Lanka,      fifa›afc
+bt, Bhutan,         fifa›afc
+mv, Maldives,       fifa›afc
+
+af, Afghanistan,    fifa›afc
+
+
+# -- southeast asia
+
+id, Indonesia,    fifa›afc
+my, Malaysia,     fifa›afc
+sg, Singapore,    fifa›afc
+th, Thailand,     fifa›afc
+ph, Philippines,  fifa›afc
+vn, Vietnam,      fifa›afc
+bn, Brunei,       fifa›afc
+mm, Myanmar,      fifa›afc
+kh, Cambodia,     fifa›afc
+tl, Timor-Leste,  fifa›afc
+la, Laos,         fifa›afc
+
+#######################################
+# -- dependencies n territories
+
+### check if hong kong is fifa/afc member ??
+
+hk, Hong Kong (CN),     fifa›afc
+mo, Macau (CN)
+
+cc, Cocos (Keeling) Islands (AU)
+cx, Christmas Island (AU)
+
+io, British Indian Ocean Territory (UK)
+
+
+#########################################
+# Notes
+#
+# 
+# == Kazakhstan
+# Note: UEFA country kazakhstan is listed here in Asia
+#
+# == Australia
+# Note: Australia is listed in pacific (oceania w/ australia)
+#

@@ -2,17 +2,17 @@
 # South America
 
 
-ar, Argentina,     ARG, 2_780_400 km²,  40_518_425
-bo, Bolivia,       BOL, 1_098_581 km²,  10_907_778
-br, Brazil,        BRA, 8_514_215 km², 192_380_000
-cl, Chile,         CHI,   755_696 km²,  16_763_470
-co, Colombia,      COL, 1_138_748 km²,  46_413_791
-ec, Ecuador,       ECU,   258_238 km²,  15_007_343
-pe, Peru,          PER, 1_285_220 km²,  29_546_963
-py, Paraguay,      PAR,   406_752 km²,   6_375_830
-uy, Uruguay,       URU,   176_215 km²,   3_510_386
-ve, Venezuela,     VEN,   916_445 km²,  28_833_845
+ar, Argentina,     ARG, Buenos Aires,    2_780_400 km²,  40_518_425
+bo, Bolivia,       BOL, La Paz,          1_098_581 km²,  10_907_778     # note: Sucre -> constitutional capital
+br, Brazil,        BRA, Brasília,        8_514_215 km², 192_380_000
+cl, Chile,         CHI, Santiago,          755_696 km²,  16_763_470
+co, Colombia,      COL, Bogotá,          1_138_748 km²,  46_413_791
+ec, Ecuador,       ECU, Quito,             258_238 km²,  15_007_343
+pe, Peru,          PER, Lima,            1_285_220 km²,  29_546_963
+py, Paraguay,      PAR, Asunción,          406_752 km²,   6_375_830
+uy, Uruguay,       URU, Montevideo,        176_215 km²,   3_510_386
+ve, Venezuela,     VEN, Caracas,           916_445 km²,  28_833_845
 
-gy, Guyana,        GUY,   214_970 km²,     752_940
-sr, Suriname,      SUR,   163_820 km²,     492_829
+gy, Guyana,        GUY, Georgetown,        214_970 km²,     752_940
+sr, Suriname,      SUR, Paramaribo,        163_820 km²,     492_829
 

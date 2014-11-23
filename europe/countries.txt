@@ -11,16 +11,16 @@ eu, European Union, EUR,  4_324_782 km², 503_492_041,  supra    # NB: no FIFA c
 
 ## todo: auto-add tag eu?? for supra:eu?
 
-at, Austria,      AUT,    83_871 km²,  8_414_638,  supra:eu
-be, Belgium,      BEL,    30_528 km², 11_007_020,  supra:eu
-cy, Cyprus,       CYP,     9_251 km²,  1_099_341,  supra:eu
-de, Germany,      GER,   357_050 km², 81_799_600,  supra:eu
-ee, Estonia,      EST,    45_226 km²,  1_340_194,  supra:eu
-es, Spain,        ESP,   506_030 km², 46_030_109,  supra:eu
-fi, Finland,      FIN,   338_145 km²,  5_391_700,  supra:eu
-fr, France,       FRA,   674_843 km², 65_821_885,  supra:eu
-gr, Greece,       GRE,   131_990 km², 10_787_690,  supra:eu
-ie, Ireland,       IRL,    70_273 km²,  4_722_028,  supra:eu
+at, Austria,      AUT, Wien,       83_871 km²,  8_414_638,  supra:eu
+be, Belgium,      BEL, Brussels,   30_528 km², 11_007_020,  supra:eu
+cy, Cyprus,       CYP, Nicosia,     9_251 km²,  1_099_341,  supra:eu
+de, Germany,      GER, Berlin,    357_050 km², 81_799_600,  supra:eu
+ee, Estonia,      EST, Tallinn,    45_226 km²,  1_340_194,  supra:eu
+es, Spain,        ESP, Madrid,    506_030 km², 46_030_109,  supra:eu
+fi, Finland,      FIN, Helsinki,  338_145 km²,  5_391_700,  supra:eu
+fr, France,       FRA, Paris,     674_843 km², 65_821_885,  supra:eu
+gr, Greece,       GRE, Athens,    131_990 km², 10_787_690,  supra:eu
+ie, Ireland,      IRL, Dublin,     70_273 km²,  4_722_028,  supra:eu
 it, Italy,        ITA,   301_318 km², 60_681_514,  supra:eu
 lu, Luxembourg,   LUX,     2_586 km²,    511_840,  supra:eu
 mt, Malta,        MLT,       316 km²,    417_608,  supra:eu

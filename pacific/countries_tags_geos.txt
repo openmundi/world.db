@@ -1,0 +1,41 @@
+###############################
+# australia & oceania
+
+
+au, Australia
+
+pg, Papua New Guinea,  melanesia
+fj, Fiji,              melanesia
+sb, Solomon Islands,   melanesia
+vu, Vanuatu,           melanesia
+
+pw, Palau,             micronesia
+fm, Micronesia,        micronesia
+mh, Marshall Islands,  micronesia
+nr, Nauru,             micronesia
+ki, Kiribati,          micronesia
+
+nz, New Zealand,       polynesia
+ws, Samoa,             polynesia
+to, Tonga,             polynesia
+tv, Tuvalu,            polynesia
+pf, Tahiti (FR),       polynesia     # French Polynesia / Polynésie française
+
+
+##############################
+# Territories & dependencies
+
+nc, New Caledonia (FR)            # ??
+wf, Wallis and Futuna (FR)        # ??
+
+as, American Samoa (US)           # ??
+gu, Guam (US)                     # ??
+mp, Northern Mariana Islands (US) # ??
+
+ck, Cook Islands (NZ)             # ??
+nu, Niue (NZ)                     # ??
+tk, Tokelau (NZ)                  # ??
+
+nf, Norfolk Island (UK)           # ?? 
+pn, Pitcairn Islands (UK)         # ?? 
+

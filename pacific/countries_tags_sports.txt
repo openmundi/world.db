@@ -1,0 +1,69 @@
+###############################
+# australia & oceania
+
+
+au, Australia,   fifa›afc
+
+
+# -- Melanesia
+
+pg, Papua New Guinea,  fifa›ofc
+fj, Fiji,              fifa›ofc
+sb, Solomon Islands,   fifa›ofc
+vu, Vanuatu,           fifa›ofc
+
+
+# -- Micronesia
+
+pw, Palau              # NOTE: NOT fifa member
+fm, Micronesia         # NOTE: NOT fifa member
+mh, Marshall Islands   # NOTE: NOT fifa member
+nr, Nauru              # NOTE: NOT fifa member
+ki, Kiribati           # NOTE: NOT fifa member
+
+
+# -- Polynesia
+
+nz, New Zealand,     fifa›ofc
+ws, Samoa,           fifa›ofc
+to, Tonga,           fifa›ofc
+tv, Tuvalu                    # NOTE: NOT fifa member
+
+
+##############################
+# Territories & dependencies
+
+pf, Tahiti (FR),   ofc     # check if fifa member too?  -- French Polynesia / Polynésie française
+nc, New Caledonia (FR)
+wf, Wallis and Futuna (FR)
+
+as, American Samoa (US) 
+gu, Guam (US)
+mp, Northern Mariana Islands (US)
+
+ck, Cook Islands (NZ)
+nu, Niue (NZ)
+tk, Tokelau (NZ)
+
+nf, Norfolk Island (UK)
+pn, Pitcairn Islands (UK)
+
+
+###################################
+# Notes
+#
+# - OFC = Oceania Football Confederation
+# - AFC = Asian Football Confederation
+#
+# - NOTE: Australia - member of AFC not OFC
+#
+# == Not FIFA members
+#
+# - Palau            - NOT fifa member ??
+# - Micronesia       - NOT fifa member ??
+# - Marshall Islands - NOT fifa member ??
+# - Nauru            - NOT fifa member ??
+# - Kiribati         - NOT fifa member ??
+#
+# - Tuvalu           - NOT fifa member ??
+

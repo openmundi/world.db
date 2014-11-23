@@ -1,25 +1,25 @@
 
 ### arabian peninsula
 
-bh, Bahrain, BHR, Manama,                    765 km²,   1_234_571
-kw, Kuwait, KUW, Kuwait City,             17_820 km²,   3_566_437
-om, Oman, OMA, Muscat,                   309_501 km²,   2_773_479
-qa, Qatar, QAT, Doha,                     11_571 km²,   1_853_563
-sa, Saudi Arabia, KSA,                 1_960_582 km²,  27_136_977
-ae, United Arab Emirates, UAE, Abu Dhabi, 83_600 km²,   8_264_070
-ye, Yemen, YEM, Sana'a,                  527_829 km²,  25_130_000
+bh, Bahrain,      BHR, Manama,                      765 km²,   1_234_571
+kw, Kuwait,       KUW, Kuwait City,              17_820 km²,   3_566_437
+om, Oman,         OMA, Muscat,                  309_501 km²,   2_773_479
+qa, Qatar,        QAT, Doha,                     11_571 km²,   1_853_563
+sa, Saudi Arabia, KSA, Riyadh,                1_960_582 km²,  27_136_977
+ae, United Arab Emirates, UAE, Abu Dhabi,        83_600 km²,   8_264_070
+ye, Yemen,        YEM, Sana'a,                  527_829 km²,  25_130_000
 
 
 ### fertile crescent
 
-iq, Iraq,   IRQ, Baghdad,   438_317 km²,  31_129_225
-il, Israel, ISR,             20_770 km²,   7_653_600
-jo, Jordan, JOR, Amman,      89_342 km²,   6_508_271
-lb, Lebanon, LIB, Beirut,    10_452 km²,   4_224_000
-ps, Palestine, PLE,           6_220 km²,   4_260_636
-sy, Syria, SYR, Damascus,   185_180 km²,  22_530_746
+iq, Iraq,      IRQ, Baghdad,    438_317 km²,  31_129_225
+il, Israel,    ISR, Jerusalem,   20_770 km²,   7_653_600
+jo, Jordan,    JOR, Amman,       89_342 km²,   6_508_271
+lb, Lebanon,   LIB, Beirut,      10_452 km²,   4_224_000
+ps, Palestine, PLE,               6_220 km²,   4_260_636
+sy, Syria,     SYR, Damascus,   185_180 km²,  22_530_746
 
 ### iranian Plateau
 
-ir, Iran, IRN, Tehran,  1_648_195 km²,  75_149_669
+ir, Iran,      IRN, Tehran,   1_648_195 km²,  75_149_669
 

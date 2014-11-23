@@ -1,0 +1,50 @@
+#######################
+# asia
+#
+
+
+kz, Kazakhstan,    central_asia|europe
+kg, Kyrgyzstan,    central_asia
+tj, Tajikistan,    central_asia
+tm, Turkmenistan,  central_asia
+uz, Uzbekistan,    central_asia
+
+jp, Japan,           east_asia
+kp, North Korea,     east_asia
+kr, South Korea,     east_asia
+cn, China,           east_asia
+hk, Hong Kong (CN),  east_asia
+mo, Macau (CN),      east_asia
+tw, Taiwan,          east_asia
+mn, Mongolia,        east_asia
+
+pk, Pakistan,       south_asia
+in, India,          south_asia
+bd, Bangladesh,     south_asia
+np, Nepal,          south_asia
+lk, Sri Lanka,      south_asia
+bt, Bhutan,         south_asia
+mv, Maldives,       south_asia
+
+af, Afghanistan,    south_asia|central_asia   # also add afghanistan here - why? why not?
+
+id, Indonesia,    southeast_asia
+my, Malaysia,     southeast_asia
+sg, Singapore,    southeast_asia
+th, Thailand,     southeast_asia
+ph, Philippines,  southeast_asia
+vn, Vietnam,      southeast_asia
+bn, Brunei,       southeast_asia
+mm, Myanmar,      southeast_asia
+kh, Cambodia,     southeast_asia
+tl, Timor-Leste,  southeast_asia
+la, Laos,         southeast_asia
+
+
+# -- dependencies n territories
+
+cc, Cocos (Keeling) Islands (AU)   # ???
+cx, Christmas Island (AU)          # ???
+
+io, British Indian Ocean Territory (UK)   # ???
+

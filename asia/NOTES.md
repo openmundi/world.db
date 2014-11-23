@@ -50,15 +50,3 @@ see <http://en.wikipedia.org/wiki/South_Asia>
 
 see <http://en.wikipedia.org/wiki/Southeast_Asia>
 
-
-
-Football Association Membership ( FIFA / AFC )
-==============================================
-
-### Kazakhstan
-
-NB: UEFA country kazakhstan is listed in Asia
-
-### Australia
-
-NB: Australia is listed in pacific (oceania w/ australia)
