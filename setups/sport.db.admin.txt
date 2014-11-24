@@ -73,52 +73,56 @@ north-america/mx-mexico/cities
 # Asia
 asia/jp-japan/cities
 
+
 # Europe
-europe/be-belgium/regions
+europe/be-belgium/states
+europe/bg-bulgaria/states
+europe/ch-switzerland/states
+europe/cz-czech-republic/states
+europe/de-germany/states
+europe/dk-denmark/states
+europe/es-spain/states
+europe/fr-france/states
+europe/ie-ireland/states
+europe/it-italy/states
+europe/nl-netherlands/states
+europe/ro-romania/states
+europe/sk-slovakia/states
+
+## europe/bg-bulgaria/states_codes_iso
+## europe/it-italy/states_codes_iso
+
+## europe/eng-england/regions
+## europe/eng-england/cities
+
 europe/be-belgium/cities
-europe/bg-bulgaria/regions
-europe/bg-bulgaria/regions.iso
 europe/bg-bulgaria/cities
 europe/by-belarus/cities
-europe/ch-switzerland/regions
 europe/ch-switzerland/cities
 europe/cy-cyprus/cities
-europe/cz-czech-republic/regions
 europe/cz-czech-republic/cities
-europe/de-germany/regions
 europe/de-germany/cities
-europe/dk-denmark/regions
 europe/dk-denmark/cities
 europe/ee-estonia/cities
-europe/eng-england/regions
-europe/eng-england/cities
-europe/es-spain/regions
 europe/es-spain/cities
 europe/fi-finland/cities
-europe/fr-france/regions
 europe/fr-france/cities
 europe/gr-greece/cities
 europe/hr-croatia/cities
 europe/hu-hungary/cities
-europe/ie-ireland/regions
 europe/ie-ireland/cities
-europe/it-italy/regions
-europe/it-italy/regions.iso
 europe/it-italy/cities
 europe/lt-lithuania/cities
 europe/lv-latvia/cities
-europe/nl-netherlands/regions
 europe/nl-netherlands/cities
 europe/no-norway/cities
 europe/pl-poland/cities
 europe/pt-portugal/cities
-europe/ro-romania/regions
 europe/ro-romania/cities
 europe/rs-serbia/cities
 europe/ru-russia/cities
 europe/sco-scotland/cities
 europe/se-sweden/cities
-europe/sk-slovakia/regions
 europe/sk-slovakia/cities
 europe/tr-turkey/cities
 europe/ua-ukraine/cities

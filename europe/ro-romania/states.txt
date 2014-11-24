@@ -1,0 +1,93 @@
+##################################
+# Romania
+#   see en.wikipedia.org/wiki/Counties_of_Romania
+#
+# -- 41 counties
+
+
+#######################
+# NUTS regions used for tags
+#   see en.wikipedia.org/wiki/NUTS_of_Romania
+
+
+###########################
+#  Nord-Vest, North-West (6)
+
+bh, Bihor,           Oradea,      7_544 km²
+bn, Bistrița-Năsăud, Bistrița,    5_355 km²
+cj, Cluj,            Cluj-Napoca, 6_674 km²
+mm, Maramureș,       Baia Mare,   6_304 km²
+sm, Satu Mare,       Satu Mare,   4_418 km²
+sj, Sălaj,           Zalău,       3_864 km²
+
+
+##############################
+# Centru, Center (6)
+
+ab, Alba,     Alba Iulia,      6_242 km²
+bv, Brașov,   Brașov,          5_363 km²
+cv, Covasna,  Sfântu Gheorghe, 3_710 km²
+hr, Harghita, Miercurea-Ciuc,  6_639 km²
+ms, Mureș,    Târgu Mureș,     6_714 km²
+sb, Sibiu,    Sibiu,           5_432 km²
+
+
+####################################
+# Nord-Est, North-East (6)
+
+bc, Bacău,    Bacău,        6_621 km²
+bt, Botoșani, Botoșani,     4_986 km²
+is, Iași,     Iași,         5_476 km²
+nt, Neamț,    Piatra-Neamț, 5_896 km²
+sv, Suceava,  Suceava,      8_553 km²
+vs, Vaslui,   Vaslui,       5_318 km²
+
+
+######################################
+# Sud-Est, South-East (6)
+
+br, Brăila,    Brăila,    4_766 km²
+bz, Buzău,     Buzău,     6_103 km²
+ct, Constanța, Constanța, 7_071 km²
+gl, Galați,    Galați,    4_466 km²
+tl, Tulcea,    Tulcea,    8_499 km²
+vn, Vrancea,   Focșani,   4_857 km²
+
+
+#######################################
+# Sud-Muntenia, South (7)
+
+ag, Argeș,     Pitești,    6_826 km²
+cl, Călărași,  Călărași,   5_088 km²
+db, Dâmbovița, Târgoviște, 4_054 km²
+gr, Giurgiu,   Giurgiu,    3_526 km²
+il, Ialomița,  Slobozia,   4_453 km²
+ph, Prahova,   Ploiești,   4_716 km²
+tr, Teleorman, Alexandria, 5_790 km²
+
+
+########################################
+#  Bucureşti-Ilfov, Bucharest-Ilfov (2)
+
+b,  București, București,   238 km²
+if, Ilfov,     București, 1_583 km²
+
+
+###########################################
+# Sud-Vest Oltenia, South-West (5)
+
+dj, Dolj,      Craiova,               7_414 km²
+gj, Gorj,      Târgu Jiu,             5_602 km²
+mh, Mehedinți, Drobeta-Turnu Severin, 4_933 km²
+ot, Olt,       Slatina,               5_498 km²
+vl, Vâlcea,    Râmnicu Vâlcea,        5_765 km²
+
+
+#######################################
+# Vest, West (4)
+
+ar, Arad,          Arad,      7_754 km²
+cs, Caraș-Severin, Reșița,    8_520 km²
+hd, Hunedoara,     Deva,      7_063 km²
+tm, Timiș,         Timișoara, 8_697 km²
+

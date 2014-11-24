@@ -1,0 +1,16 @@
+#########################
+# Belgium (be)
+
+Bruxelles
+
+Antwerpen,        flanders
+Limburg,          flanders
+Oost-Vlaanderen,  flanders
+Vlaams-Brabant,   flanders
+West-Vlaanderen,  flanders
+
+Brabant Wallon,   wallonia
+Hainaut,          wallonia
+Liège,            wallonia
+Luxembourg,       wallonia
+Namur,            wallonia

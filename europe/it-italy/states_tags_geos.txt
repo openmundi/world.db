@@ -1,0 +1,57 @@
+###################
+# Italy
+# 20 Regions
+#  see en.wikipedia.org/wiki/Regions_of_Italy
+
+
+################
+# regions for tags
+# ITC - North West: Aosta Valley, Liguria, Lombardy, Piedmont
+# ITD - North East: Emilia-Romagna, Friuli-Venezia Giulia, Trentino-Alto Adige/Südtirol, Veneto
+# ITE - Centre: Lazio, Marche, Tuscany, Umbria
+# ITF - South: Abruzzo, Apulia, Basilicata, Calabria, Campania, Molise
+# ITG - Islands: Sardinia, Sicily
+#
+#  see en.wikipedia.org/wiki/Italian_NUTS_level_1_regions#Italy
+
+
+##########
+# North West
+
+Valle d'Aosta,  north_west
+Liguria,        north_west
+Lombardia,      north_west
+Piemonte,       north_west
+
+##########
+# North East
+
+Emilia-Romagna,        north_east
+Friuli-Venezia Giulia, north_east
+Trentino-Alto Adige,   north_east
+Veneto,                north_east
+
+################
+# Centre
+
+Lazio,     centre
+Marche,    centre
+Toscana,   centre
+Umbria,    centre
+
+################
+# South
+
+Abruzzo,    south
+Puglia,     south
+Basilicata, south
+Calabria,   south
+Campania,   south
+Molise,     south
+
+#################
+# Islands
+
+Sardegna,    islands
+Sicilia,     islands
+

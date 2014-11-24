@@ -1,0 +1,36 @@
+####################################
+# France (fr)
+
+
+# NB: use 9 NUTS1 regions for tags
+
+
+if, Ile-de-France,      Paris,  12_012 km²
+
+ca, Champagne-Ardenne,  Châlons-en-Champagne,  25_606 km²
+pd, Picardie [Picardy],  Amiens,               19_399 km²
+hn, Haute-Normandie [Upper Normandy],  Rouen,  12_317 km²
+ct, Centre,              Orléans, 39_151 km²
+bn, Basse-Normandie [Lower Normandy], Caen,      17_589 km²
+bg, Bourgogne [Burgundy],             Dijon,     31_582 km²
+
+nc, Nord-Pas-de-Calais,  Lille,  12_414 km²
+
+lr, Lorraine,         Metz,             23_547 km²
+al, Alsace,           Strasbourg,        8_280 km²
+fc, Franche-Comté,    Besançon,         16_202 km²
+
+pl, Pays de la Loire,     Nantes,   32_082 km²
+br, Bretagne [Brittany],  Rennes,   27_208 km²
+pc, Poitou-Charentes,     Poitiers, 25_810 km²
+aq, Aquitaine,            Bordeaux,  41_308 km²
+mp, Midi-Pyrénées,        Toulouse,  45_348 km²
+lm, Limousin,             Limoges,   16_942 km²
+
+ra, Rhône-Alpes,       Lyon,              43_698 km²
+av, Auvergne,          Clermont-Ferrand,  26_013 km²
+
+lr, Languedoc-Roussillon,         Montpellier,   27_376 km²
+ac, Provence-Alpes-Côte d'Azur,   Marseille,     31_400 km²
+cr, Corse [Corsica],              Ajaccio,        8_680 km²
+

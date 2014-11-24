@@ -1,0 +1,36 @@
+####################################
+# France (fr)
+
+
+# NB: use 9 NUTS1 regions for tags
+
+
+Ile-de-France,   ile_de_france
+
+Champagne-Ardenne, bassin_parisien
+Picardie,          bassin_parisien
+Haute-Normandie,   bassin_parisien
+Centre,            bassin_parisien
+Basse-Normandie,   bassin_parisien
+Bourgogne,         bassin_parisien
+
+Nord-Pas-de-Calais,  nord_pas_de_calais
+
+Lorraine,        est
+Alsace,          est
+Franche-Comté,   est
+
+Pays de la Loire,    ouest
+Bretagne,            ouest
+Poitou-Charentes,    ouest
+Aquitaine,           ouest
+Midi-Pyrénées,       ouest
+Limousin,            ouest
+
+Rhône-Alpes,        centre_est
+Auvergne,           centre_est
+
+Languedoc-Roussillon,       mediterranee
+Provence-Alpes-Côte d'Azur, mediterranee
+Corse,                      mediterranee
+

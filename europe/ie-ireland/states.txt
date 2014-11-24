@@ -1,0 +1,109 @@
+#######################
+# Ireland (ie)
+
+
+##################
+#  for regions, counties, etc.
+#
+#  see en.wikipedia.org/wiki/ISO_3166-2:IE
+#  and en.wikipedia.org/wiki/NUTS_of_Ireland
+
+
+#####
+# -- divided into 26 (traditional) counties
+#
+# - for now use only traditional counties from nuts (skip "non-tradition")
+#
+#  only exception is Tipperary!! (why? use two different NUTS 2 regions)
+#   split into Northern Tipperary and
+#              Southern Tipperary
+#
+#  thus, 25+2 = 27 regions
+#
+# e.g.
+#  Galaway City n Galway is just Galway
+#  4 Dublin Nuts is just Dublin etc.
+
+
+
+#########################
+# NUTS II Region: Border, Midland and Western
+
+lh, Louth / Leinster,   Dundalk,    832 km²
+
+## NB: check if auto-city generate works for names with dash e.g. Carrick-on-Shannon
+lm, Leitrim / Connaught,  Carrick-on-Shannon, 1_589 km²
+so, Sligo / Connaught,    Sligo,              1_837 km²
+cn, Cavan / Ulster,       Cavan,              1_932 km²
+dl, Donegal / Ulster,     Lifford,     4_860 km²
+mn, Monaghan / Ulster,    Monaghan,    1_296 km²
+ls, Laois / Leinster,     Portlaoise,  1_719 km²
+ld, Longford / Leinster,  Longford,    1_091 km²
+oy, Offaly / Leinster,    Tullamore,   1_990 km²
+wh, Westmeath / Leinster, Mullingar,   1_825 km²
+
+## NB: check conflic? Galway captial for two regions?
+# gc, Galway City,    51 km², Galway,    west   # NB: orignal code is single-letter G only
+# ga, Galway,      6_100 km², Galway,    west   # NB: orginal code is single-letter G only
+
+## NB: rolled into one
+ga, Galway / Connaught,    Galway,  5_940 km²    # NB: orginal code is single-letter G only
+
+mo, Mayo / Connaught,      Castlebar,   5_588 km²
+rn, Roscommon / Connaught, Roscommon,   2_548 km²
+
+
+######################################
+# NUTS II Region: Southern and Eastern
+
+# Dublin City, 118 km²,  Dublin,  dublin_region
+# Dún Laoghaire-Rathdown, 127 km²,  Dún Laoghaire, dublin
+# Fingal, 453 km², Swords,  dublin_region
+# South Dublin, 223 km²,  Tallaght, dublin_region
+
+## NB: all *four* dublin regions rolled into one
+db, Dublin / Leinster,  Dublin,  921 km²   # NB: orginal code is single-letter D only
+
+
+## NB: check conflic? Limerick captial for two regions?
+# lc, Limerick City,  Limerick,      20 km²  # NB: original code is single-letter L only
+# lk, Limerick,       Limerick,   2_740 km²
+
+## NB: rolled into one
+lk, Limerick / Munster,  Limerick,    2_760 km²
+
+
+### merge into one ? Tipperary (ta)  ??  province M
+
+tn, North Tipperary / Munster,  Nenagh,  2_046 km²
+ts, South Tipperary / Munster,  Clonmel, 2_258 km²
+
+
+ce, Clare / Munster,      Ennis,       3_442 km²
+ke, Kildare / Leinster,   Naas,        1_694 km²
+mh, Meath / Leinster,     Navan,       2_335 km²
+ww, Wicklow / Leinster,   Wicklow,     2_033 km²
+wx, Wexford / Leinster,   Wexford,     2_365 km²
+kk, Kilkenny / Leinster,  Kilkenny,    2_072 km²
+cw, Carlow / Leinster,    Carlow,        898 km
+
+
+
+####
+# wc, Waterford City,      42 km², Waterford  # NB: original code is single-letter W 
+# wd, Waterford,        1_817 km², Dungarvan
+
+## NB: rolled into one
+wd, Waterford / Munster,  Waterford,    1_859 km²
+
+
+## NB: check conflic? Cork captial for two regions?
+# cc, Cork City,           40 km², Cork  # NB: original code is single-letter C
+# co, Cork,             7_468 km², Cork  # NB: original code is single-letter C
+
+## NB: rolled into one
+co, Cork / Munster,        Cork,    7_508 km²  # NB: original code is single-letter C
+
+
+ky, Kerry / Munster,       Tralee,   4_735 km²
+

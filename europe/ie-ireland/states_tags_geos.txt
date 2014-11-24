@@ -1,0 +1,56 @@
+#######################
+# Ireland (ie)
+
+#########################
+# NUTS II Region: Border, Midland and Western
+
+Louth,  border|leinster
+
+Leitrim,  border|connaught
+Sligo,    border|connaught
+Cavan,    border|ulster
+Donegal,  border|ulster
+Monaghan,  border|ulster
+Laois,     midlands|leinster
+Longford,  midlands|leinster
+Offaly,    midlands|leinster
+Westmeath, midlands|leinster
+
+Galway, west|connaught   ## NOTE: Galway n Galway City rolled into one
+
+Mayo,       west|connaught
+Roscommon,  west|connaught
+
+
+######################################
+# NUTS II Region: Southern and Eastern
+
+## NB: all *four* dublin regions rolled into one
+Dublin,   dublin|leinster
+
+## NB: rolled into one
+Limerick,  mid_west|munster
+
+
+### merge into one ? Tipperary (ta)  ??  province M
+
+North Tipperary,  mid_west|munster
+South Tipperary,  south_east|munster
+
+Clare,      mid_west|munster
+Kildare,    mid_east|leinster
+Meath,      mid_east|leinster
+Wicklow,    mid_east|leinster
+Wexford,    south_east|leinster
+Kilkenny,   south_east|leinster
+Carlow,     south_east|leinster
+
+
+## NB: rolled into one
+Waterford,   south_east|munster
+
+## NB: rolled into one
+Cork,    south_west|munster
+
+Kerry,   south_west|munster
+

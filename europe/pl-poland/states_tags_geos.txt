@@ -1,0 +1,39 @@
+###################
+#  Poland / pl
+#
+# - 16 Provinces
+
+
+### NUTS PL1 Centralny
+
+Łódzkie,     centralny
+Mazowieckie, centralny
+
+### NUTS PL2 Południowy
+
+Małopolskie,  poludniowy
+Śląskie,      poludniowy
+
+### NUTS PL3 Wschodni
+
+Lubelskie,      wschodni
+Podkarpackie,   wschodni
+Świętokrzyskie, wschodni
+Podlaskie,      wschodni
+
+### NUTS PL4 Północno-zachodni
+
+Wielkopolskie,       polnocno_zachodni
+Zachodnio-Pomorskie, polnocno_zachodni
+Lubuskie,            polnocno_zachodni    ## and Zielona Góra
+
+### NUTS PL5 Południowo-zachodni
+
+Dolnośląskie,    poludniowo_zachodni
+Opolskie,        poludniowo_zachodni
+
+### NUTS PL6 Północny
+
+Kujawsko-Pomorskie,     polnocny    ## and Toruń
+Warmińsko-Mazurskie,    polnocny
+Pomorskie,              polnocny

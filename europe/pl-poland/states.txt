@@ -1,0 +1,39 @@
+###################
+#  Poland / pl
+#
+# - 16 Provinces
+
+
+### NUTS PL1 Centralny
+
+ld, Łódzkie [Łódź]|Lodsch[de],             Łódź, 18_219 km²
+mz, Mazowieckie [Mazovia]|Masowien[de],  Warsaw, 35_566 km²
+
+### NUTS PL2 Południowy
+
+ma, Małopolskie [Lesser Poland]|Kleinpolen[de],  Kraków,   15_108 km²
+sl, Śląskie [Silesia]|Schlesien[de],             Katowice, 12_294 km²
+
+### NUTS PL3 Wschodni
+
+lu, Lubelskie [Lublin]|Lublin[de], Lublin, 25_114 km²
+pk, Podkarpackie [Subcarpathia]|Karpatenvorland[de], Rzeszów, 17_844 km²
+sk, Świętokrzyskie [Holy Cross]|Heiligkreuz[de], Kielce, 11_691 km²
+pd, Podlaskie [Podlachia]|Podlachien[de], Białystok, 20_180 km²
+
+### NUTS PL4 Północno-zachodni
+
+wp, Wielkopolskie [Greater Poland]|Großpolen[de],  Poznań, 29_826 km²
+zp, Zachodnio-Pomorskie [West Pomerania]|Westpommern[de], Szczecin, 22_896 km²
+lb, Lubuskie [Lubusz]|Lebus[de], Gorzów Wielkopolski, 13_988 km²    ## and Zielona Góra
+
+### NUTS PL5 Południowo-zachodni
+
+ds, Dolnośląskie [Lower Silesia]|Niederschlesien[de], Wrocław, 19_948 km²
+op, Opolskie [Opole]|Oppeln[de], Opole, 9_412 km²
+
+### NUTS PL6 Północny
+
+kp, Kujawsko-Pomorskie [Kujawy-Pomerania]|Kujawien-Pommern[de], Bydgoszcz, 17_969 km²    ## and Toruń
+wn, Warmińsko-Mazurskie [Warmia-Masuria]|Ermland-Masuren[de], Olsztyn, 24_191 km²
+pm, Pomorskie [Pomerania]|Pommern[de], Gdańsk, 18_310 km²

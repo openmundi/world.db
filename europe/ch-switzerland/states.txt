@@ -1,0 +1,82 @@
+#########################################
+# Switzerland / Schweiz (ch)
+
+# -- 26 Kantone
+#  see de.wikipedia.org/wiki/Kanton_(Schweiz)
+
+###
+# Eastern Switzerland / Ostschweiz
+
+gl, Glarus,        Glarus,                 685 km², de
+sh, Schaffhausen,  Schaffhausen,           298 km², de
+ar, Appenzell Ausserrhoden|Ap. Ausserrhoden, Herisau, 243 km², de
+ai, Appenzell Innerrhoden|Ap. Innerrhoden, Appenzell, 173 km², de
+sg, St. Gallen,    St. Gallen,           2_026 km², de
+gr, Graubünden,    Chur,                 7_105 km², de|rm|it
+tg, Thurgau,       Frauenfeld,             991 km², de
+
+##############
+# Zurich
+
+zh, Zürich, Zürich, 1_729 km²,  de
+
+################
+# Central Switzerland  / Zentralschweiz
+
+lu, Luzern,    Luzern,     1_493 km², de
+ur, Uri,       Altdorf,    1_077 km², de
+sz, Schwyz,    Schwyz,       908 km², de
+ow, Obwalden,  Sarnen,       491 km², de
+nw, Nidwalden, Stans,        276 km², de
+zg, Zug,       Zug,          239 km², de
+
+#####################################
+# Northwestern Switzerland / Nordwestschweiz
+
+bs, Basel-Stadt, Basel,           37 km², de
+bl, Basel-Landschaft, Liestal,   518 km², de
+ag, Aargau, Aarau,             1_404 km², de
+
+########################
+# Espace Mittelland
+
+be, Bern, Bern,                   5_959 km², de|fr
+fr, Fribourg|Freiburg, Fribourg,  1_671 km², fr|de
+so, Solothurn, Solothurn,           791 km², de
+
+ne, Neuchâtel|Neuenburg, Neuchâtel,  803 km², fr
+ju, Jura, Delsberg,                  838 km², fr
+
+####################################
+# Lake Geneva region / Région lémanique / Genferseeregion
+
+vd, Vaud|Waadt, Lausanne,   3_212 km², fr
+vs, Valais|Wallis, Sitten,  5_224 km², fr|de
+
+ge, Genève|Genf, Genève,      282 km², fr
+
+#################################
+# Ticino / Tessin
+
+ti, Ticino|Tessin, Bellinzona, 2_812 km², it
+
+
+
+# NB: second entry is de/german (fix: mark as german with de:???)
+# fix: cities in kanton fr - use french name
+
+###################
+#
+# NUTS 2 Regions (used for tags)
+#  see de.wikipedia.org/wiki/NUTS:CH
+
+## fix: allow umlauts in tags!!! e.g zürich instead of zurich - why? why not??
+## todo: change tags spaces from _ to - (e.g. eastern-switzerland)
+
+# Eastern Switzerland / Ostschweiz
+# Zurich / Zürich
+# Central Switzerland  / Zentralschweiz
+# Northwestern Switzerland / Nordwestschweiz
+# Espace Mittelland
+# Lake Geneva region / Région lémanique / Genferseeregion
+# Ticino / Tessin

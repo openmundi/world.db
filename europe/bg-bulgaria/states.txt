@@ -1,0 +1,68 @@
+###################################################
+# Bulgaria Regions
+# See
+#   en.wikipedia.org/wiki/Regions_of_Bulgaria
+# 
+#  28 provinces
+
+# For regions used for tags see NUTS
+#  see en.wikipedia.org/wiki/NUTS_of_Bulgaria
+
+
+#####
+# NB: ISO codes are numeric e.g. BG-01 .. BG-28
+#  NUTS codes are numeric too e.g. BG311 .. BG425
+
+
+##########################
+# South-Western and South-Central Bulgaria
+
+# -- Yugozapaden (5)
+
+so, Sofija City,    Sofija,      1_349 km²
+sf, Sofija Province, 7_277 km²
+bl, Blagoevgrad,   Blagoevgrad,  6_478 km²
+pe, Pernik,        Pernik,       2_377 km²
+ky, Kyustendil,    Kyustendil,   3_027 km²
+
+#  -- Yuzhen tsentralen (5)
+
+pv, Plovdiv,    Plovdiv,    5_973 km²
+ha, Haskovo,    Haskovo,    4_033 km²
+pa, Pazardzhik, Pazardzhik, 4_393 km²
+sm, Smolyan,    3_532 km²
+ka, Kardzhali,  Kardzhali,  4_032 km²
+
+
+###############################
+# Northern and Eastern Bulgaria
+
+# -- Severozapaden (5)
+
+vi, Vidin,      Vidin,   3_071 km²
+mo, Montana,    Montana, 3_595 km²
+vr, Vratsa,     Vratsa,  4_098 km²
+pl, Pleven,     Pleven,  4_216 km²
+lo, Lovech,     4_134 km²
+
+# -- Severen tsentralen (5)
+
+ve, Veliko Tarnovo,  Veliko Tarnovo,  4_684 km²
+ga, Gabrovo,      Gabrovo,  2_053 km²
+ru, Ruse,         Ruse,     2_616 km²
+ra, Razgrad,        2_648 km²
+si, Silistra,       2_862 km²
+
+# -- Severoiztochen (4)
+
+va, Varna,        Varna,   3_819 km²
+do, Dobrich,      Dobrich, 4_700 km²
+sh, Shumen,       Shumen,  3_365 km²
+ta, Targovishte,  2_735 km²
+
+# -- Yugoiztochen (4)
+
+bu, Burgas,       Burgas, 7_618 km²
+sl, Sliven,       Sliven, 3_646 km²
+ya, Yambol,       Yambol, 4_209 km²
+sz, Stara Zagora, Stara Zagora, 4_959 km²

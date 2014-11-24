@@ -1,0 +1,64 @@
+###################################################
+# Bulgaria Regions
+# See
+#   en.wikipedia.org/wiki/Regions_of_Bulgaria
+# 
+#  28 provinces
+
+# For regions used for tags see NUTS
+#  see en.wikipedia.org/wiki/NUTS_of_Bulgaria
+
+
+##########################
+# South-Western and South-Central Bulgaria
+
+# -- Yugozapaden (5)
+
+Sofija City,     yugozapaden|south_western
+Sofija Province, yugozapaden|south_western
+Blagoevgrad,     yugozapaden|south_western
+Pernik,          yugozapaden|south_western
+Kyustendil,      yugozapaden|south_western
+
+#  -- Yuzhen tsentralen (5)
+
+Plovdiv,     yuzhen_tsentralen|south_central
+Haskovo,     yuzhen_tsentralen|south_central
+Pazardzhik,  yuzhen_tsentralen|south_central
+Smolyan,     yuzhen_tsentralen|south_central
+Kardzhali,   yuzhen_tsentralen|south_central
+
+
+###############################
+# Northern and Eastern Bulgaria
+
+# -- Severozapaden (5)
+
+Vidin,   severozapaden|northern|north_western
+Montana, severozapaden|northern|north_western
+Vratsa,  severozapaden|northern|north_western
+Pleven,  severozapaden|northern|north_western
+Lovech,  severozapaden|northern|north_western
+
+# -- Severen tsentralen (5)
+
+Veliko Tarnovo,  severen_tsentralen|northern|north_central
+Gabrovo,         severen_tsentralen|northern|north_central
+Ruse,            severen_tsentralen|northern|north_central
+Razgrad,         severen_tsentralen|northern|north_central
+Silistra,        severen_tsentralen|northern|north_central
+
+# -- Severoiztochen (4)
+
+Varna,       severoiztochen|northern|eastern|north_eastern
+Dobrich,     severoiztochen|northern|eastern|north_eastern
+Shumen,      severoiztochen|northern|eastern|north_eastern
+Targovishte, severoiztochen|northern|eastern|north_eastern
+
+# -- Yugoiztochen (4)
+
+Burgas,       yugoiztochen|eastern|south_eastern
+Sliven,       yugoiztochen|eastern|south_eastern
+Yambol,       yugoiztochen|eastern|south_eastern
+Stara Zagora, yugoiztochen|eastern|south_eastern
+

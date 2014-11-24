@@ -1,0 +1,55 @@
+#########################################
+# Switzerland / Schweiz (ch)
+
+# -- 26 Kantone
+#  see de.wikipedia.org/wiki/Kanton_(Schweiz)
+
+
+# -- Eastern Switzerland / Ostschweiz
+
+Glarus,                   eastern
+Schaffhausen,             eastern
+Appenzell Ausserrhoden,   eastern
+Appenzell Innerrhoden,    eastern
+St. Gallen,               eastern
+Graubünden,               eastern
+Thurgau,                  eastern
+
+# -- Zurich
+
+Zürich,    zurich
+
+# -- Central Switzerland  / Zentralschweiz
+
+Luzern,    central
+Uri,       central
+Schwyz,    central
+Obwalden,  central
+Nidwalden, central
+Zug,       central
+
+# -- Northwestern Switzerland / Nordwestschweiz
+
+Basel-Stadt,       northwestern
+Basel-Landschaft,  northwestern
+Aargau,            northwestern
+
+# -- Espace Mittelland
+
+Bern,      espace_mittelland
+Fribourg,  espace_mittelland
+Solothurn, espace_mittelland
+
+Neuchâtel, espace_mittelland
+Jura,      espace_mittelland
+
+# -- Lake Geneva region / Région lémanique / Genferseeregion
+
+Vaud,      lake_geneva
+Valais,    lake_geneva
+Genève,    lake_geneva
+
+# -- Ticino / Tessin
+
+Ticino,    ticino
+

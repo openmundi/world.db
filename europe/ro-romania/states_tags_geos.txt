@@ -1,0 +1,93 @@
+##################################
+# Romania
+#   see en.wikipedia.org/wiki/Counties_of_Romania
+#
+# -- 41 counties
+
+
+#######################
+# NUTS regions used for tags
+#   see en.wikipedia.org/wiki/NUTS_of_Romania
+
+
+###########################
+#  Nord-Vest, North-West (6)
+
+Bihor,            nord_vest|north_west
+Bistrița-Năsăud,  nord_vest|north_west
+Cluj,             nord_vest|north_west
+Maramureș,        nord_vest|north_west
+Satu Mare,        nord_vest|north_west
+Sălaj,            nord_vest|north_west
+
+
+##############################
+# Centru, Center (6)
+
+Alba,      centru|center
+Brașov,    centru|center
+Covasna,   centru|center
+Harghita,  centru|center
+Mureș,     centru|center
+Sibiu,     centru|center
+
+
+####################################
+# Nord-Est, North-East (6)
+
+Bacău,     nord_est|north_east
+Botoșani,  nord_est|north_east
+Iași,      nord_est|north_east
+Neamț,     nord_est|north_east
+Suceava,   nord_est|north_east
+Vaslui,    nord_est|north_east
+
+
+######################################
+# Sud-Est, South-East (6)
+
+Brăila,    sud_est|south_east
+Buzău,     sud_est|south_east
+Constanța, sud_est|south_east
+Galați,    sud_est|south_east
+Tulcea,    sud_est|south_east
+Vrancea,   sud_est|south_east
+
+
+#######################################
+# Sud-Muntenia, South (7)
+
+Argeș,     sud_muntenia|south
+Călărași,  sud_muntenia|south
+Dâmbovița, sud_muntenia|south
+Giurgiu,   sud_muntenia|south
+Ialomița,  sud_muntenia|south
+Prahova,   sud_muntenia|south
+Teleorman, sud_muntenia|south
+
+
+########################################
+#  Bucureşti-Ilfov, Bucharest-Ilfov (2)
+
+București, bucuresti_ilfov
+Ilfov,     bucuresti_ilfov
+
+
+###########################################
+# Sud-Vest Oltenia, South-West (5)
+
+Dolj,      sud_vest_oltenia|south_west
+Gorj,      sud_vest_oltenia|south_west
+Mehedinți, sud_vest_oltenia|south_west
+Olt,       sud_vest_oltenia|south_west
+Vâlcea,    sud_vest_oltenia|south_west
+
+
+#######################################
+# Vest, West (4)
+
+Arad,           vest|west
+Caraș-Severin,  vest|west
+Hunedoara,      vest|west
+Timiș,          vest|west
+

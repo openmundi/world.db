@@ -4,7 +4,7 @@
 ##
 ## see  en.wikipedia.org/wiki/Regions_of_England
 ##
-## fix: make regions into tags? and use smaller admin units? - yes, yes
+## fix-fix-fix: make regions into tags - and use smaller admin units - yes, yes
 ##
 
 

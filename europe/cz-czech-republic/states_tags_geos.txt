@@ -1,0 +1,55 @@
+###########################
+# Czech Republic (cz)
+
+# -- 14 regions
+# see en.wikipedia.org/wiki/Regions_of_the_Czech_Republic
+
+
+
+### NUTS CZ01 Praha
+
+Praha
+
+### NUTS CZ02 Central Bohemia
+
+Střední Čechy,   central_bohemia
+
+
+### NUTS CZ03 Southwest
+
+Jižní Čechy,  southwest
+Plzeň,        southwest
+
+
+### NUTS CZ04 Northwest
+
+Karlovy Vary,    northwest
+Ústí nad Labem,  northwest
+
+
+### NUTS CZ05 Northeast
+
+Liberec,         northeast
+Hradec Králové,  northeast
+Pardubice,       northeast
+
+
+### NUTS CZ06 Southeast
+
+Jižní Morava,    southeast
+Vysočina,        southeast
+
+
+### NUTS CZ07 Central Moravia
+
+Olomouc,  central_moravia
+Zlín,     central_moravia
+
+
+### NUTS CZ08 Moravia-Silesia
+
+Moravskoslezsko
+
+
+### NB: using official two letter iso 3166-2 cz region codes
+## see http://en.wikipedia.org/wiki/ISO_3166-2:CZ 
