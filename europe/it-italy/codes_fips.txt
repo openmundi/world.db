@@ -1,0 +1,21 @@
+
+IT01, Abruzzo Region
+IT02, Basilicata Region
+IT03, Calabria Region
+IT04, Campania Region
+IT05, Emilia-Romagna Region
+IT06, Friuli-Venezia Giulia Autonomous Region
+IT07, Lazio Region
+IT08, Liguria Region
+IT09, Lombardia Region
+IT10, Marche Region
+IT11, Molise Region
+IT12, Piemonte Region
+IT13, Puglia Region
+IT14, Sardegna Autonomous Region
+IT15, Sicilia Autonomous Region
+IT16, Toscana Region
+IT17, Trentino-Alto Adige/Südtirol Autonomous Region
+IT18, Umbria Region
+IT19, Valle d'Aosta Autonomous Region
+IT20, Veneto Region

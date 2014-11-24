@@ -1,0 +1,30 @@
+##############
+# 26 Counties   -- English (en), Irish (ga) -- In Province (see codes_iso.txt)
+
+IE-CW,  Carlow,  Ceatharlach [ga]   ## L
+IE-CN,  Cavan,  An Cabhán [ga]      ## U
+IE-CE,  Clare,  An Clár             ## M
+IE-CO,  Cork,  Corcaigh             ## M
+IE-DL,  Donegal,  Dún na nGall      ## U
+IE-D,   Dublin,  Baile Átha Cliath  ## L
+IE-G,   Galway,  Gaillimh           ## C
+IE-KY,  Kerry,  Ciarraí             ## M
+IE-KE,  Kildare,  Cill Dara         ## L
+IE-KK,  Kilkenny,  Cill Chainnigh   ## L
+IE-LS,  Laois,  Laois               ## L
+IE-LM,  Leitrim,  Liatroim          ## C
+IE-LK,  Limerick,  Luimneach        ## M
+IE-LD,  Longford,  An Longfort      ## L
+IE-LH,  Louth,  Lú                  ## L
+IE-MO,  Mayo,  Maigh Eo             ## C
+IE-MH,  Meath,  An Mhí              ## L
+IE-MN,  Monaghan,  Muineachán       ## U
+IE-OY,  Offaly,  Uíbh Fhailí        ## L
+IE-RN,  Roscommon,  Ros Comáin      ## C
+IE-SO,  Sligo,  Sligeach            ## C
+IE-TA,  Tipperary,  Tiobraid Árann  ## M
+IE-WD,  Waterford,  Port Láirge     ## M
+IE-WH,  Westmeath,  An Iarmhí       ## L
+IE-WX,  Wexford,  Loch Garman       ## L
+IE-WW,  Wicklow,  Cill Mhantáin     ## L
+

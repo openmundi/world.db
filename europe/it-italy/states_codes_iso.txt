@@ -1,43 +1,32 @@
 #################################
 # see en.wikipedia.org/wiki/ISO_3166-2:IT
+#
+# NOTE: For Italy, ISO 3166-2 codes are defined for two levels of subdivisions:
+#  - 20 regions
+#  - 110 provinces
 
 
-##########
-# North West
+##################
+# 20 Regions
 
-IT-23, Valle d'Aosta
-IT-42, Liguria 
-IT-25, Lombardia 
 IT-21, Piemonte
-
-##########
-# North East
-
-IT-45, Emilia-Romagna
+IT-23, Valle d'Aosta, Vallée d'Aoste [fr]
+IT-25, Lombardia
+IT-32, Trentino-Alto Adige, Trentino-Südtirol [de]
+IT-34, Veneto
 IT-36, Friuli-Venezia Giulia
-IT-32, Trentino-Alto Adige 
-IT-34, Veneto 
-
-################
-# Centre
-
-IT-62, Lazio
-IT-57, Marche
+IT-42, Liguria
+IT-45, Emilia-Romagna
 IT-52, Toscana
 IT-55, Umbria
-
-################
-# South
-
+IT-57, Marche
+IT-62, Lazio
 IT-65, Abruzzo
-IT-75, Puglia
-IT-77, Basilicata 
-IT-78, Calabria 
+IT-67, Molise
 IT-72, Campania
-IT-67, Molise 
-
-#################
-# Islands
-
-IT-88, Sardegna
+IT-75, Puglia
+IT-77, Basilicata
+IT-78, Calabria
 IT-82, Sicilia
+IT-88, Sardegna
+

@@ -1,0 +1,27 @@
+
+EI01, County Carlow
+EI02, County Cavan
+EI03, County Clare
+EI04, County Cork
+EI06, County Donegal
+EI07, County Dublin
+EI10, County Galway
+EI11, County Kerry
+EI12, County Kildare
+EI13, County Kilkenny
+EI14, County Leitrim
+EI15, County Laois
+EI16, County Limerick
+EI18, County Longford
+EI19, County Louth
+EI20, County Mayo
+EI21, County Meath
+EI22, County Monaghan
+EI23, County Offaly
+EI24, County Roscommon
+EI25, County Sligo
+EI26, County Tipperary
+EI27, County Waterford
+EI29, County Westmeath
+EI30, County Wexford
+EI31, County Wicklow

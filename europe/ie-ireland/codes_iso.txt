@@ -1,0 +1,22 @@
+########################
+#  Ireland
+#
+# see en.wikipedia.org/wiki/ISO_3166-2:IE
+#
+# NOTE: For Ireland, ISO 3166-2 codes are defined for two levels of subdivisions:
+#  - 4 provinces
+# - 26 counties
+#
+# The 26 counties are traditional counties, which are slightly different
+#  from the first-level administrative subdivisions of Ireland,
+#  which currently has 27 counties, 3 cities, and 2 combined "counties and cities".
+
+
+#############
+# 4 Provinces   -- English (en), Irish (ga)
+
+IE-C, Connaught,  Connacht [ga]
+IE-L, Leinster,   Laighin [ga]
+IE-M, Munster,    An Mhumhain
+IE-U, Ulster,     Ulaidh
+
