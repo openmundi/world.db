@@ -4,26 +4,18 @@
 # see en.wikipedia.org/wiki/NUTS_of_the_Republic_of_Ireland
 #
 # NUTS 1 |  1 (the entire state)
-# NUTS 2 |  2
-# NUTS 3 |  8
+# NUTS 2 |  2 (statistical regions)
+# NUTS 3 |  8 (statistical regions)
 
 
+IE0,   Republic of Ireland
 
-## NUTS 1
-
-IE0, Republic of Ireland
-
-## NUTS 2
-
-IE01, Border\, Midland and Western      # NOTE: escape comma
-IE02, Southern and Eastern
-
-## NUTS 3
-
+IE01,  Border\, Midland and Western      # NOTE: escape comma
 IE011, Border Region
 IE012, Midlands Region
 IE013, West Region
 
+IE02,  Southern and Eastern
 IE021, Dublin Region
 IE022, Mid-East Region
 IE023, Mid-West Region

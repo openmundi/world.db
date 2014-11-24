@@ -29,7 +29,10 @@
 #########################
 # NUTS II Region: Border, Midland and Western
 
-lh, Louth / Leinster,   Dundalk,    832 km²
+###
+## fix - fix - fix: use › in name (replace / e.g. )  -- add to name parser !!!!
+
+lh, Louth / Leinster,   Dundalk,    832 km²   ## use  Louth › Leinster
 
 ## NB: check if auto-city generate works for names with dash e.g. Carrick-on-Shannon
 lm, Leitrim / Connaught,  Carrick-on-Shannon, 1_589 km²
