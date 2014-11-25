@@ -8,7 +8,7 @@ tags.3
 
 # Countries
 europe/countries
-europe/countries.2
+europe/countries_(terr)
 
 # Codes
 1-codes/fifa
@@ -18,12 +18,12 @@ europe/countries.2
 1-codes/iso
 1-codes/motor
 
+
 # Europe
 europe/be-belgium/states
 europe/bg-bulgaria/states
 europe/ch-switzerland/states
 europe/cz-czech-republic/states
-europe/de-germany/states
 europe/dk-denmark/states
 europe/es-spain/states
 europe/fr-france/states
@@ -46,7 +46,6 @@ europe/by-belarus/cities
 europe/ch-switzerland/cities
 europe/cy-cyprus/cities
 europe/cz-czech-republic/cities
-europe/de-germany/cities
 europe/dk-denmark/cities
 europe/ee-estonia/cities
 europe/es-spain/cities

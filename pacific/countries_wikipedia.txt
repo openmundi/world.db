@@ -1,0 +1,11 @@
+
+ki: Kiribati
+mh: Marshall_Islands
+fm: Federated_States_of_Micronesia
+nr: Nauru
+pw: Palau
+ws: Samoa
+sb: Solomon_Islands
+to: Tonga
+tv: Tuvalu
+vu: Vanuatu

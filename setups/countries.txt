@@ -23,14 +23,14 @@ pacific/countries
 south-america/countries
 
 # Countries 2 (dependencies 'n' territories)
-africa/countries.2
-antartica/countries.2
-asia/countries.2
-caribbean/countries.2
-europe/countries.2
-north-america/countries.2
-pacific/countries.2
-south-america/countries.2
+africa/countries_(terr)
+antartica/countries_(terr)
+asia/countries_(terr)
+caribbean/countries_(terr)
+europe/countries_(terr)
+north-america/countries_(terr)
+pacific/countries_(terr)
+south-america/countries_(terr)
 
 # Continents
 africa/2-more/continents
