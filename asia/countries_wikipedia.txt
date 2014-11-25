@@ -1,0 +1,15 @@
+## map to wikipedia country page
+##  e.g.
+##  en.wikipedia.org/wiki/Mongolia
+
+## fix-fix-fix: use name instead of key
+
+Kyrgyzstan: Kyrgyzstan
+la: Laos
+mv: Maldives
+mn: Mongolia
+mm: Burma
+tj: Tajikistan
+tl: East_Timor
+tm: Turkmenistan
+uz: Uzbekistan

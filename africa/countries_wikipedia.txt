@@ -1,0 +1,34 @@
+#####
+#  e.g. en.wikipedia.org/wiki/Guinea  etc.
+
+## fix-fix-fix: use name instead of key
+
+Guinea,           Guinea
+Guinea-Bissau,    Guinea-Bissau
+Kenya,            Kenya
+Lesotho,          Lesotho
+Liberia,          Liberia
+mg: Madagascar
+mw: Malawi
+ml: Mali
+mr: Mauritania
+mu: Mauritius
+mz: Mozambique
+na: Namibia
+ne: Niger
+rw: Rwanda
+São Tomé and Príncipe,  São_Tomé_and_Príncipe
+sn: Senegal
+yc: Seychelles
+sl: Sierra_Leone
+so: Somalia
+ss: South_Sudan
+sd: Sudan
+sz: Swaziland
+tg: Togo
+ug: Uganda
+tz: Tanzania
+zm: Zambia
+zw: Zimbabwe
+
+### add territories too (in one file - do NOT separate for wikipedia)
