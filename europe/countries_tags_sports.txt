@@ -4,71 +4,71 @@
 
 ## eu 27 (+ euro 17)
 
-eu, European Union
+European Union
 
-at, Austria,        fifa›uefa
-be, Belgium,        fifa›uefa
-cy, Cyprus,         fifa›uefa
-de, Germany,        fifa›uefa
-ee, Estonia,        fifa›uefa
-es, Spain,          fifa›uefa
-fi, Finland,        fifa›uefa
-fr, France,         fifa›uefa
-gr, Greece,         fifa›uefa
-ie, Irland,         fifa›uefa
-it, Italy,          fifa›uefa
-lu, Luxembourg,     fifa›uefa
-mt, Malta,          fifa›uefa
-nl, Netherlands,    fifa›uefa
-pt, Portugal,       fifa›uefa
-sk, Slovakia,       fifa›uefa
-si, Slovenia,       fifa›uefa
+Austria,        fifa›uefa
+Belgium,        fifa›uefa
+Cyprus,         fifa›uefa
+Germany,        fifa›uefa
+Estonia,        fifa›uefa
+Spain,          fifa›uefa
+Finland,        fifa›uefa
+France,         fifa›uefa
+Greece,         fifa›uefa
+Ireland,        fifa›uefa
+Italy,          fifa›uefa
+Luxembourg,     fifa›uefa
+Malta,          fifa›uefa
+Netherlands,    fifa›uefa
+Portugal,       fifa›uefa
+Slovakia,       fifa›uefa
+Slovenia,       fifa›uefa
 
-bg, Bulgaria,       fifa›uefa
-dk, Denmark,        fifa›uefa
-lv, Latvija,        fifa›uefa
-lt, Lithuania,      fifa›uefa
-pl, Poland,         fifa›uefa
-ro, Romania,        fifa›uefa
-se, Sweden,         fifa›uefa
-cz, Czech Republic, fifa›uefa
-hu, Hungary,        fifa›uefa
-
-
-gb, Great Britain      # note: not fifa member (England, Scotland, etc are members)
+Bulgaria,       fifa›uefa
+Denmark,        fifa›uefa
+Latvija,        fifa›uefa
+Lithuania,      fifa›uefa
+Poland,         fifa›uefa
+Romania,        fifa›uefa
+Sweden,         fifa›uefa
+Czech Republic, fifa›uefa
+Hungary,        fifa›uefa
 
 
-ad, Andorra,         fifa›uefa
-al, Albania,         fifa›uefa
-by, Belarus,         fifa›uefa
-ch, Switzerland,     fifa›uefa
-hr, Croatia,         fifa›uefa
-rs, Serbia,          fifa›uefa
-ru, Russia,          fifa›uefa
-tr, Turkey,          fifa›uefa
-ua, Ukraine,         fifa›uefa
-mk, Macedonia,       fifa›uefa
-no, Norway,          fifa›uefa
-is, Iceland,         fifa›uefa
+Great Britain      # note: not fifa member (England, Scotland, etc are members)
 
 
-va, Vatican City              # note: not fifa member
+Andorra,         fifa›uefa
+Albania,         fifa›uefa
+Belarus,         fifa›uefa
+Switzerland,     fifa›uefa
+Croatia,         fifa›uefa
+Serbia,          fifa›uefa
+Russia,          fifa›uefa
+Turkey,          fifa›uefa
+Ukraine,         fifa›uefa
+Macedonia,       fifa›uefa
+Norway,          fifa›uefa
+Iceland,         fifa›uefa
 
-ba, Bosnia and Herzegovina,  fifa›uefa
-li, Liechtenstein,           fifa›uefa
-mc, Monaco                    # note: not fifa member
-me, Montenegro,              fifa›uefa
-md, Moldova,                 fifa›uefa
-sm, San Marino,              fifa›uefa
+
+Vatican City              # note: not fifa member
+
+Bosnia and Herzegovina,  fifa›uefa
+Liechtenstein,           fifa›uefa
+Monaco                    # note: not fifa member
+Montenegro,              fifa›uefa
+Moldova,                 fifa›uefa
+San Marino,              fifa›uefa
 
 
 ##  south caucasus
 ## - add to middle east?
 ##  - check azerbaijan is in europe and fifa too?
 
-ge, Georgia,        fifa›uefa
-am, Armenia,        fifa›uefa
-az, Azerbaijan,     fifa›uefa
+Georgia,        fifa›uefa
+Armenia,        fifa›uefa
+Azerbaijan,     fifa›uefa
 
 
 
@@ -77,21 +77,21 @@ az, Azerbaijan,     fifa›uefa
 
 ## note: Greenland listed in north-america/countries.2.txt 
 
-eng, England (UK),     fifa›uefa 
-sco, Scotland (UK),    fifa›uefa
-wal, Wales (UK),       fifa›uefa
-nir, Northern Ireland (UK), fifa›uefa
+England (UK),     fifa›uefa 
+Scotland (UK),    fifa›uefa
+Wales (UK),       fifa›uefa
+Northern Ireland (UK), fifa›uefa
 
-gi, Gibraltar (UK),     uefa  # note: not a fifa member
-im, Isle of Man (UK)
-je, Jersey (UK)
-gg, Guernsey (UK)
-
-
-fo, Faroe Islands (DK),  fifa›uefa
+Gibraltar (UK),     uefa  # note: not a fifa member
+Isle of Man (UK)
+Jersey (UK)
+Guernsey (UK)
 
 
-ax, Åland Islands (FI)
+Faroe Islands (DK),  fifa›uefa
+
+
+Åland Islands (FI)
 
 
 ##############

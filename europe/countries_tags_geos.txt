@@ -1,78 +1,78 @@
 
 
-## note: Greenland listed in north-america/countries.2.txt 
+## note: Greenland listed in north-america/countries_(terr).txt 
 
-eu, European Union
-
-
-at, Austria,         central_europe|western_europe
-de, Germany,         central_europe|western europe
-ch, Switzerland,     central_europe|western_europe
-li, Liechtenstein,   central_europe|western_europe
-sk, Slovakia,        central_europe
-pl, Poland,          central_europe
-cz, Czech Republic,  central_europe
-hu, Hungary,         central_europe
-si, Slovenia,        central_europe|southern_europe
-
-be, Belgium,     benelux
-nl, Netherlands, benelux|western_europe
-lu, Luxembourg,  benelux|western_europe
-
-fr, France,        western_europe
-ad, Andorra,       western_europe
-mc, Monaco,        western_europe
-je, Jersey (UK),   western_europe
-gg, Guernsey (UK), western_europe
-
-is,  Iceland,            northern_europe|nordic
-fi,  Finland,            northern_europe|nordic
-fo,  Faroe Islands (DK), northern_europe|nordic
-ax,  Åland Islands (FI), northern_europe|nordic|
-dk,  Denmark,        northern_europe|scandinavia|nordic
-se,  Sweden,         northern_europe|scandinavia|nordic
-no,  Norway,         northern_europe|scandinavia|nordic
-ee,  Estonia,        northern_europe|baltic|eastern_europe
-lv,  Latvija,        northern_europe|baltic
-lt,  Lithuania,      northern_europe|baltic
-ie,  Ireland,        northern_europe|western_europe
-gb,  Great Britain,  northern_europe|western_europe
-eng, England (UK),   northern_europe|western_europe
-sco, Scotland (UK),  northern_europe|western_europe
-wal, Wales (UK),     northern_europe|western_europe
-nir, Northern Ireland (UK),  northern_europe|western_europe
-im,  Isle of Man (UK), northern_europe|western_europe
+European Union
 
 
-es, Spain,          southern_europe
-pt, Portugal,       southern_europe
-gi, Gibraltar (UK), southern_europe
-it, Italy,          southern_europe
-va, Vatican City,   southern_europe
-sm, San Marino,     southern_europe
-mt, Malta,          southern_europe|mediterranean
-gr, Greece,         southern_europe
-cy, Cyprus,         southern_europe|mediterranean|asia|western_asia|middle_east
+Austria,         central_europe|western_europe
+Germany,         central_europe|western europe
+Switzerland,     central_europe|western_europe
+Liechtenstein,   central_europe|western_europe
+Slovakia,        central_europe
+Poland,          central_europe
+Czech Republic,  central_europe
+Hungary,         central_europe
+Slovenia,        central_europe|southern_europe
+
+Belgium,     benelux
+Netherlands, benelux|western_europe
+Luxembourg,  benelux|western_europe
+
+France,        western_europe
+Andorra,       western_europe
+Monaco,        western_europe
+Jersey (UK),   western_europe
+Guernsey (UK), western_europe
+
+Iceland,            northern_europe|nordic
+Finland,            northern_europe|nordic
+Faroe Islands (DK), northern_europe|nordic
+Åland Islands (FI), northern_europe|nordic|
+Denmark,        northern_europe|scandinavia|nordic
+Sweden,         northern_europe|scandinavia|nordic
+Norway,         northern_europe|scandinavia|nordic
+Estonia,        northern_europe|baltic|eastern_europe
+Latvija,        northern_europe|baltic
+Lithuania,      northern_europe|baltic
+Ireland,        northern_europe|western_europe
+Great Britain,  northern_europe|western_europe
+England (UK),   northern_europe|western_europe
+Scotland (UK),  northern_europe|western_europe
+Wales (UK),     northern_europe|western_europe
+Northern Ireland (UK),  northern_europe|western_europe
+Isle of Man (UK), northern_europe|western_europe
 
 
-bg, Bulgaria,     eastern_europe|southeastern_europe
-ro, Romania,      eastern_europe|southeastern_europe
-by, Belarus,      eastern_europe
-ru, Russia,       eastern_europe|asia|north_asia
-ua, Ukraine,      eastern_europe
-md, Moldova,      eastern_europe
+Spain,          southern_europe
+Portugal,       southern_europe
+Gibraltar (UK), southern_europe
+Italy,          southern_europe
+Vatican City,   southern_europe
+San Marino,     southern_europe
+Malta,          southern_europe|mediterranean
+Greece,         southern_europe
+Cyprus,         southern_europe|mediterranean|asia|western_asia|middle_east
 
 
-al, Albania,             southern_europe|balkans|southeastern_europe
-hr, Croatia,             southern_europe|balkans|southeastern_europe
-rs, Serbia,              southern_europe|balkans|southeastern_europe
-mk, Macedonia,           southern_europe|balkans|southeastern_europe
-ba, Bosnia-Herzegovina,  southern_europe|balkans|southeastern_europe
-me, Montenegro,          southern_europe|balkans|southeastern_europe
-tr, Turkey,              southern_europe|southeastern_europe|asia|western_asia
+Bulgaria,     eastern_europe|southeastern_europe
+Romania,      eastern_europe|southeastern_europe
+Belarus,      eastern_europe
+Russia,       eastern_europe|asia|north_asia
+Ukraine,      eastern_europe
+Moldova,      eastern_europe
 
 
-ge, Georgia,       western_asia|south_caucasus
-am, Armenia,       western_asia|south_caucasus
-az, Azerbaijan,    western_asia|south_caucasus
+Albania,             southern_europe|balkans|southeastern_europe
+Croatia,             southern_europe|balkans|southeastern_europe
+Serbia,              southern_europe|balkans|southeastern_europe
+Macedonia,           southern_europe|balkans|southeastern_europe
+Bosnia-Herzegovina,  southern_europe|balkans|southeastern_europe
+Montenegro,          southern_europe|balkans|southeastern_europe
+Turkey,              southern_europe|southeastern_europe|asia|western_asia
+
+
+Georgia,       western_asia|south_caucasus
+Armenia,       western_asia|south_caucasus
+Azerbaijan,    western_asia|south_caucasus
 

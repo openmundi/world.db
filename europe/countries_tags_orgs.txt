@@ -4,91 +4,91 @@
 
 ## eu 27 (+ euro 17)
 
-eu, European Union, g20
+European Union, g20
 
-at, Austria,        un|eu›euro|schengen
-be, Belgium,        un|eu›euro|schengen
-cy, Cyprus,         un|eu›euro|commonwealth
-de, Germany,        un|eu›euro|schengen|g8|g20
-ee, Estonia,        un|eu›euro|schengen
-es, Spain,          un|eu›euro|schengen
-fi, Finland,        un|eu›euro|schengen
-fr, France,         un|eu›euro|schengen|g8|g20
-gr, Greece,         un|eu›euro|schengen
-ie, Irland,         un|eu›euro
-it, Italy,          un|eu›euro|schengen|g8|g20
-lu, Luxembourg,     un|eu›euro|schengen
-mt, Malta,          un|eu›euro|schengen|microstate|commonwealth
-nl, Netherlands,    un|eu›euro|schengen
-pt, Portugal,       un|eu›euro|schengen
-sk, Slovakia,       un|eu›euro|schengen
-si, Slovenia,       un|eu›euro|schengen
+Austria,        un|eu›euro|schengen
+Belgium,        un|eu›euro|schengen
+Cyprus,         un|eu›euro|commonwealth
+Germany,        un|eu›euro|schengen|g8|g20
+Estonia,        un|eu›euro|schengen
+Spain,          un|eu›euro|schengen
+Finland,        un|eu›euro|schengen
+France,         un|eu›euro|schengen|g8|g20
+Greece,         un|eu›euro|schengen
+Ireland,        un|eu›euro
+Italy,          un|eu›euro|schengen|g8|g20
+Luxembourg,     un|eu›euro|schengen
+Malta,          un|eu›euro|schengen|microstate|commonwealth
+Netherlands,    un|eu›euro|schengen
+Portugal,       un|eu›euro|schengen
+Slovakia,       un|eu›euro|schengen
+Slovenia,       un|eu›euro|schengen
 
-bg, Bulgaria,       un|eu
-dk, Denmark,        un|eu|schengen
-lv, Latvija,        un|eu|schengen
-lt, Lithuania,      un|eu|schengen
-pl, Poland,         un|eu|schengen
-ro, Romania,        un|eu
-se, Sweden,         un|eu|schengen
-cz, Czech Republic, un|eu|schengen
-hu, Hungary,        un|eu|schengen
-
-
-gb, Great Britain,   un|eu|g8|g20|commonwealth
-
-ad, Andorra,         un|microstate
-al, Albania,         un
-by, Belarus,         un
-ch, Switzerland,     un|schengen
-hr, Croatia,         un
-rs, Serbia,          un
-ru, Russia,          un|g8|g20
-tr, Turkey,          un|g20
-ua, Ukraine,         un
-mk, Macedonia,       un
-no, Norway,          un|schengen
-is, Iceland,         un|schengen
+Bulgaria,       un|eu
+Denmark,        un|eu|schengen
+Latvija,        un|eu|schengen
+Lithuania,      un|eu|schengen
+Poland,         un|eu|schengen
+Romania,        un|eu
+Sweden,         un|eu|schengen
+Czech Republic, un|eu|schengen
+Hungary,        un|eu|schengen
 
 
-va, Vatican City,     microstate    # NOTE: not a united nations (UN) member
+Great Britain,   un|eu|g8|g20|commonwealth
 
-ba, Bosnia and Herzegovina,  un
-li, Liechtenstein,           un|microstate
-mc, Monaco,                  un|microstate
-me, Montenegro,              un
-md, Moldova,                 un
-sm, San Marino,              un|microstate
+Andorra,         un|microstate
+Albania,         un
+Belarus,         un
+Switzerland,     un|schengen
+Croatia,         un
+Serbia,          un
+Russia,          un|g8|g20
+Turkey,          un|g20
+Ukraine,         un
+Macedonia,       un
+Norway,          un|schengen
+Iceland,         un|schengen
+
+
+Vatican City,     microstate    # NOTE: not a united nations (UN) member
+
+Bosnia and Herzegovina,  un
+Liechtenstein,           un|microstate
+Monaco,                  un|microstate
+Montenegro,              un
+Moldova,                 un
+San Marino,              un|microstate
 
 
 ##  south caucasus
 ## - add to middle east?
 ##  - check azerbaijan is in europe and fifa too?
 
-ge, Georgia,        un
-am, Armenia,        un
-az, Azerbaijan,     un
+Georgia,        un
+Armenia,        un
+Azerbaijan,     un
 
 
 
 ##############################
 # territories / dependencies
 
-## note: Greenland listed in north-america/countries.2.txt 
+## note: Greenland listed in north-america/countries_(terr).txt 
 
-eng, England (UK)
-sco, Scotland (UK)
-wal, Wales (UK)
-nir, Northern Ireland (UK)
+England (UK)
+Scotland (UK)
+Wales (UK)
+Northern Ireland (UK)
 
-gi, Gibraltar (UK)
-im, Isle of Man (UK)
-je, Jersey (UK)
-gg, Guernsey (UK)
+Gibraltar (UK)
+Isle of Man (UK)
+Jersey (UK)
+Guernsey (UK)
 
-fo, Faroe Islands (DK)
+Faroe Islands (DK)
 
-ax, Åland Islands (FI)
+Åland Islands (FI)
 
 
 ############################

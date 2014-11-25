@@ -1,11 +1,14 @@
-## map to wikipedia country page
-##  e.g.
-##  en.wikipedia.org/wiki/Liechtenstein
+####################################
+#
+# map to wikipedia country page
+#  e.g.
+# en.wikipedia.org/wiki/Liechtenstein
 
 
-li: Liechtenstein
-mc: Monaco
-me: Montenegro
-md: Moldova
-sm: San_Marino
+Liechtenstein, Liechtenstein
+Monaco,        Monaco
+Montenegro,    Montenegro
+Moldova,       Moldova
+San Marino,    San_Marino
+
 

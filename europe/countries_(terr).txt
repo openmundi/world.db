@@ -3,7 +3,7 @@
 
 # fix: rename to countries_2
 
-## note: Greenland listed in north-america/countries.2.txt 
+## note: Greenland listed in north-america/countries_(terr).txt 
 
 
 # note: uses three-letter country codes (eng,sco,wal,nir etc.) for key
