@@ -6,9 +6,15 @@
 tags.1
 tags.3
 
+# Definitions (defs)
+continents
+
 # Countries
 europe/countries
 europe/countries_(terr)
+
+# Continents
+europe/2-more/continents
 
 # Codes
 1-codes/fifa
@@ -17,7 +23,6 @@ europe/countries_(terr)
 1-codes/ioc
 1-codes/iso
 1-codes/motor
-
 
 # Europe
 europe/be-belgium/states
@@ -71,3 +76,4 @@ europe/sk-slovakia/cities
 europe/tr-turkey/cities
 europe/ua-ukraine/cities
 europe/wal-wales/cities
+
