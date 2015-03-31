@@ -5,7 +5,7 @@
 # - en.wikipedia.org/wiki/States_of_Venezuela
 
 
-#-------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 # Table: regions_ve
 # Note : In Venezuela, the political-territorial division of each region is
 #        called "Federal Entity" or "State". Each of these states is at the same
@@ -16,7 +16,7 @@
 #        Wikipedia is outdated. Currently being revised 2011 Census data on the
 #        website of the National Statistics Institute
 #        see www.ine.gov.ve/CENSO2011/index.htm
-#-------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 
 ###################
