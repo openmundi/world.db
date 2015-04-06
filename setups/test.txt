@@ -2,7 +2,7 @@
 # Countries
 
 ## africa/countries
-## antartica/countries
+## antarctica/countries
 ## asia/countries
 ## caribbean/countries
 central-america/countries

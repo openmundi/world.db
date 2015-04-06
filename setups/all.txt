@@ -11,7 +11,7 @@ continents
 
 # Countries
 africa/countries
-antartica/countries
+antarctica/countries
 asia/countries
 caribbean/countries
 central-america/countries
@@ -23,7 +23,7 @@ south-america/countries
 
 # Countries 2
 africa/countries_(terr)
-antartica/countries_(terr)
+antarctica/countries_(terr)
 asia/countries_(terr)
 caribbean/countries_(terr)
 europe/countries_(terr)
@@ -33,7 +33,7 @@ south-america/countries_(terr)
 
 # Continents
 africa/2-more/continents
-antartica/2-more/continents
+antarctica/2-more/continents
 asia/2-more/continents
 caribbean/2-more/continents
 central-america/2-more/continents
